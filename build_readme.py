@@ -10,35 +10,8 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("RMDES_TOKEN", "")
 
-RMDES_NPM_PACKAGES = [
-    "@rmdes/indiekit-endpoint-activitypub",
-    "@rmdes/indiekit-endpoint-comments",
-    "@rmdes/indiekit-endpoint-conversations",
-    "@rmdes/indiekit-endpoint-cv",
-    "@rmdes/indiekit-endpoint-files",
-    "@rmdes/indiekit-endpoint-funkwhale",
-    "@rmdes/indiekit-endpoint-github",
-    "@rmdes/indiekit-endpoint-homepage",
-    "@rmdes/indiekit-endpoint-lastfm",
-    "@rmdes/indiekit-endpoint-linkedin",
-    "@rmdes/indiekit-endpoint-micropub",
-    "@rmdes/indiekit-endpoint-microsub",
-    "@rmdes/indiekit-endpoint-podroll",
-    "@rmdes/indiekit-endpoint-posts",
-    "@rmdes/indiekit-endpoint-rss",
-    "@rmdes/indiekit-endpoint-share",
-    "@rmdes/indiekit-endpoint-syndicate",
-    "@rmdes/indiekit-endpoint-webmention-io",
-    "@rmdes/indiekit-endpoint-webmention-sender",
-    "@rmdes/indiekit-endpoint-youtube",
-    "@rmdes/indiekit-frontend",
-    "@rmdes/indiekit-post-type-page",
-    "@rmdes/indiekit-preset-eleventy",
-    "@rmdes/indiekit-syndicator-bluesky",
-    "@rmdes/indiekit-syndicator-indienews",
-    "@rmdes/indiekit-syndicator-linkedin",
-    "@rmdes/indiekit-syndicator-mastodon",
-]
+NPM_MAINTAINER = "rmdes"
+NPM_SCOPE = "@rmdes/"
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -139,8 +112,24 @@ def fetch_blog_posts():
 # --- npm Download Stats ---
 
 
-async def fetch_npm_downloads():
-    """Fetch monthly download counts for all @rmdes packages."""
+def discover_npm_packages():
+    """Discover all @rmdes/* packages from the npm registry."""
+    resp = httpx.get(
+        "https://registry.npmjs.org/-/v1/search",
+        params={"text": f"maintainer:{NPM_MAINTAINER}", "size": 250},
+        timeout=30,
+    )
+    if resp.status_code != 200:
+        return []
+    return [
+        p["package"]["name"]
+        for p in resp.json().get("objects", [])
+        if p["package"]["name"].startswith(NPM_SCOPE)
+    ]
+
+
+async def fetch_npm_downloads(package_names):
+    """Fetch monthly download counts for all discovered packages."""
     sem = asyncio.Semaphore(5)
 
     async def fetch_one(http, pkg):
@@ -150,7 +139,7 @@ async def fetch_npm_downloads():
             )
 
     async with httpx.AsyncClient(timeout=30) as http:
-        tasks = [fetch_one(http, pkg) for pkg in RMDES_NPM_PACKAGES]
+        tasks = [fetch_one(http, pkg) for pkg in package_names]
         responses = await asyncio.gather(*tasks, return_exceptions=True)
 
     packages = []
@@ -247,8 +236,12 @@ if __name__ == "__main__":
     pipelines = fetch_pipeline_status(TOKEN)
     print(f"  Found {len(pipelines)} pipelines")
 
+    print("Discovering npm packages...")
+    package_names = discover_npm_packages()
+    print(f"  Found {len(package_names)} @rmdes/* packages on npm")
+
     print("Fetching npm downloads...")
-    npm_packages, npm_total = asyncio.run(fetch_npm_downloads())
+    npm_packages, npm_total = asyncio.run(fetch_npm_downloads(package_names))
     print(f"  {len(npm_packages)} packages, {npm_total:,} total monthly downloads")
 
     # Build markdown sections
@@ -296,19 +289,35 @@ if __name__ == "__main__":
     pipeline_md = "\n\n".join(pipe_lines)
     readme = replace_chunk(readme, "pipelines", pipeline_md)
 
-    # npm section: total + top packages table
-    top_pkgs = npm_packages[:10]
+    # npm section: total + top 5 visible + collapsible rest
+    def pkg_row(pkg):
+        short_name = pkg["name"].replace("@rmdes/", "")
+        return (
+            f"| [{short_name}](https://www.npmjs.com/package/{pkg['name']}) "
+            f"| {pkg['downloads']:,} |"
+        )
+
+    top_visible = 5
     npm_lines = [
         f"**{npm_total:,}** downloads last month across **{len(npm_packages)}** packages\n",
         "| Package | Downloads |",
         "|---------|-----------|",
     ]
-    for pkg in top_pkgs:
-        short_name = pkg["name"].replace("@rmdes/", "")
-        npm_lines.append(
-            f"| [{short_name}](https://www.npmjs.com/package/{pkg['name']}) "
-            f"| {pkg['downloads']:,} |"
-        )
+    for pkg in npm_packages[:top_visible]:
+        npm_lines.append(pkg_row(pkg))
+
+    if len(npm_packages) > top_visible:
+        rest = npm_packages[top_visible:]
+        npm_lines.append("")
+        npm_lines.append(f"<details><summary>See all {len(npm_packages)} packages</summary>")
+        npm_lines.append("")
+        npm_lines.append("| Package | Downloads |")
+        npm_lines.append("|---------|-----------|")
+        for pkg in rest:
+            npm_lines.append(pkg_row(pkg))
+        npm_lines.append("")
+        npm_lines.append("</details>")
+
     npm_md = "\n".join(npm_lines)
     readme = replace_chunk(readme, "npm_stats", npm_md)
 
