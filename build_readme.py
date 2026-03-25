@@ -163,6 +163,59 @@ async def fetch_npm_downloads():
     return packages, total
 
 
+# --- CI/CD Pipeline Status ---
+
+PIPELINES = [
+    {"repo": "rmdes/indiekit-cloudron", "label": "Cloudron", "description": "Production deployment at rmendes.net"},
+    {"repo": "rmdes/indiekit-deploy", "label": "Docker Compose", "description": "Standalone server deployment"},
+]
+
+
+def fetch_pipeline_status(oauth_token):
+    """Fetch latest workflow run for each pipeline."""
+    pipelines = []
+    for pipe in PIPELINES:
+        resp = httpx.get(
+            f"https://api.github.com/repos/{pipe['repo']}/actions/runs",
+            params={"per_page": 1},
+            headers={"Authorization": f"Bearer {oauth_token}"},
+            timeout=30,
+        )
+        if resp.status_code != 200:
+            continue
+        runs = resp.json().get("workflow_runs", [])
+        if not runs:
+            continue
+        run = runs[0]
+        # Compute build duration
+        created = run.get("run_started_at") or run.get("created_at", "")
+        updated = run.get("updated_at", "")
+        duration = ""
+        if created and updated and run["status"] == "completed":
+            from datetime import datetime
+            t0 = datetime.fromisoformat(created.replace("Z", "+00:00"))
+            t1 = datetime.fromisoformat(updated.replace("Z", "+00:00"))
+            secs = int((t1 - t0).total_seconds())
+            if secs >= 60:
+                duration = f"{secs // 60}m {secs % 60}s"
+            else:
+                duration = f"{secs}s"
+
+        conclusion = run.get("conclusion") or run.get("status", "unknown")
+        pipelines.append({
+            "label": pipe["label"],
+            "description": pipe["description"],
+            "repo": pipe["repo"],
+            "conclusion": conclusion,
+            "badge_url": f"https://github.com/{pipe['repo']}/actions/workflows/{run['path'].split('/')[-1]}/badge.svg",
+            "run_url": run["html_url"],
+            "commit_msg": (run.get("head_commit") or {}).get("message", "").split("\n")[0][:60],
+            "date": run.get("created_at", "")[:10],
+            "duration": duration,
+        })
+    return pipelines
+
+
 # --- Main ---
 
 if __name__ == "__main__":
@@ -181,6 +234,10 @@ if __name__ == "__main__":
     print("Fetching blog posts...")
     posts = fetch_blog_posts()
     print(f"  Found {len(posts)} posts")
+
+    print("Fetching pipeline status...")
+    pipelines = fetch_pipeline_status(TOKEN)
+    print(f"  Found {len(pipelines)} pipelines")
 
     print("Fetching npm downloads...")
     npm_packages, npm_total = asyncio.run(fetch_npm_downloads())
@@ -212,6 +269,20 @@ if __name__ == "__main__":
         for p in posts
     )
     readme = replace_chunk(readme, "blog", posts_md)
+
+    # Pipeline status section
+    pipe_lines = []
+    for p in pipelines:
+        status_icon = "passing" if p["conclusion"] == "success" else "failing"
+        pipe_lines.append(
+            f"[![{p['label']}]({p['badge_url']})]({p['run_url']})\n"
+            f"**{p['label']}** — {p['description']}\n"
+            f"Last build: `{p['commit_msg']}` ({p['date']}"
+            + (f", {p['duration']}" if p['duration'] else "")
+            + ")"
+        )
+    pipeline_md = "\n\n".join(pipe_lines)
+    readme = replace_chunk(readme, "pipelines", pipeline_md)
 
     # npm section: total + top packages table
     top_pkgs = npm_packages[:10]

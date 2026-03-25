@@ -58,6 +58,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
+### Deployments
+<!-- pipelines starts -->
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23542051500)
+**Cloudron** — Production deployment at rmendes.net
+Last build: `chore: bump indiekit-endpoint-microsub to 1.0.58` (2026-03-25, 2m 58s)
+
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23376984559)
+**Docker Compose** — Standalone server deployment
+Last build: `chore: bump plugin versions to match Cloudron` (2026-03-21, 57s)
+<!-- pipelines ends -->
+
 ### npm Downloads
 <!-- npm_stats starts -->
 **43,298** downloads last month across **27** packages
