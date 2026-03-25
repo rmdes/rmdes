@@ -8,11 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update deps for reply syndication fix` (2026-03-25)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: frontend reply syndication mapping and empty array clea` (2026-03-25)
+
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`fix: harden reply threading with array unwrapping and error ` (2026-03-25)
+
+[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
+<br>`fix: use service.name for syndicator mapping instead of keyw` (2026-03-25)
+
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
 <br>`fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026-03-25)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump indiekit-endpoint-microsub to 1.0.58` (2026-03-25)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`chore: bump to 1.0.58` (2026-03-25)
@@ -20,17 +29,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`docs: update CLAUDE.md and README.md for v3.9 audit refactor` (2026-03-25)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: deduplicate interactions by author+type+target, not jus` (2026-03-24)
-
 [indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
 <br>`fix: normalize trailing slashes in canonical_url to prevent ` (2026-03-24)
-
-[indiekit-endpoint-share](https://github.com/rmdes/indiekit-endpoint-share) — 
-<br>`chore: bump version to 1.0.4` (2026-03-21)
-
-[indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
-<br>`chore: bump version to 1.0.3` (2026-03-21)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23542051500)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23565751911)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump indiekit-endpoint-microsub to 1.0.58` (2026-03-25, 2m 58s)
+Last build: `chore: update deps for reply syndication fix` (2026-03-25)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
