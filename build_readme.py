@@ -63,6 +63,14 @@ query {
         url
         description
         pushedAt
+        defaultBranchRef {
+          target {
+            ... on Commit {
+              messageHeadline
+              committedDate
+            }
+          }
+        }
       }
     }
   }
@@ -244,14 +252,18 @@ if __name__ == "__main__":
     print(f"  {len(npm_packages)} packages, {npm_total:,} total monthly downloads")
 
     # Build markdown sections
-    active_md = "\n\n".join(
-        "[{}]({}) — {}".format(
-            r["name"],
-            r["url"],
-            (r.get("description") or "")[:80],
-        )
-        for r in active_repos[:8]
-    )
+    active_lines = []
+    for r in active_repos[:8]:
+        branch = r.get("defaultBranchRef") or {}
+        commit = branch.get("target") or {}
+        msg = commit.get("messageHeadline", "")[:60]
+        date = commit.get("committedDate", "")[:10]
+        desc = (r.get("description") or "")[:80]
+        line = "[{}]({}) — {}".format(r["name"], r["url"], desc)
+        if msg:
+            line += "\n<br>`{}` ({})".format(msg, date)
+        active_lines.append(line)
+    active_md = "\n\n".join(active_lines)
     readme = replace_chunk(readme, "active_repos", active_md)
 
     starred_md = "\n\n".join(
