@@ -8,6 +8,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
@@ -21,12 +23,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-share](https://github.com/rmdes/indiekit-endpoint-share) — 
 
 [indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
-
-[indiekit-endpoint-podroll](https://github.com/rmdes/indiekit-endpoint-podroll) — Podcast roll endpoint for Indiekit - aggregates episodes from FreshRSS with OPML
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
+
+[basecamp/once](https://github.com/basecamp/once) — Easy self-hosting for Docker-based web apps
+
 [christinloehner/FediSuite](https://github.com/christinloehner/FediSuite) — Fediverse Management Hub - All-in-One platform for Mastodon, Pixelfed, Friendica
 
 [christinloehner/FediSuite-Docker-Image](https://github.com/christinloehner/FediSuite-Docker-Image) — Docker Image Development for FediSuite
@@ -38,10 +42,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [haydonryan/vaultwarden-cli](https://github.com/haydonryan/vaultwarden-cli) — 
 
 [homelabinator/homelabinator_unified](https://github.com/homelabinator/homelabinator_unified) — 
-
-[Automattic/wordpress-atmosphere](https://github.com/Automattic/wordpress-atmosphere) — ATmosphere connects your WordPress site to the AT Protocol network. When you pub
-
-[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 **Cloudron** — Production deployment at rmendes.net
 Last build: `chore: bump indiekit-endpoint-microsub to 1.0.58` (2026-03-25, 2m 58s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23376984559)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
-Last build: `chore: bump plugin versions to match Cloudron` (2026-03-21, 57s)
+Last build: `fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026-03-25, 3m 32s)
 <!-- pipelines ends -->
 
 ### npm Downloads
