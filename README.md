@@ -98,14 +98,15 @@ Last build: `fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026
 </td></tr></table>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=rmdes&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=rmdes&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rmdes&show_icons=true&hide_border=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=rmdes&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=rmdes&amp;show_icons=true&amp;hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rmdes&amp;show_icons=true&amp;hide_border=true" />
 </picture>
+
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdes&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdes&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdes&layout=compact&hide_border=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdes&amp;layout=compact&amp;theme=dark&amp;hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdes&amp;layout=compact&amp;hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdes&amp;layout=compact&amp;hide_border=true" />
 </picture>
 
 <a href="https://github.com/rmdes/rmdes/actions"><img src="https://github.com/rmdes/rmdes/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
