@@ -6,11 +6,24 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 <table><tr><td valign="top" width="50%">
 
-### Recent Releases
-<!-- recent_releases starts -->
-[caesar-cipher 0.1.1](https://github.com/rmdes/caesar-cipher/releases/tag/0.1.1) - 2022-01-21
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/rmdes?tab=repositories&sort=updated)
+### Recently Active
+<!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+
+[indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
+
+[indiekit-endpoint-share](https://github.com/rmdes/indiekit-endpoint-share) — 
+
+[indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
+
+[indiekit-endpoint-podroll](https://github.com/rmdes/indiekit-endpoint-podroll) — Podcast roll endpoint for Indiekit - aggregates episodes from FreshRSS with OPML
+<!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->

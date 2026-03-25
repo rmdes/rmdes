@@ -1,10 +1,8 @@
 import asyncio
 import httpx
-import json
 import pathlib
 import re
 import os
-import sys
 from python_graphql_client import GraphqlClient
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -54,28 +52,17 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-# --- GitHub Releases (GraphQL, paginated) ---
+# --- Recently Active Repos (sorted by last push) ---
 
-GRAPHQL_RELEASES_QUERY = """
-query($after: String) {
+GRAPHQL_ACTIVE_REPOS_QUERY = """
+query {
   user(login: "rmdes") {
-    repositories(first: 100, privacy: PUBLIC, after: $after, orderBy: {field: UPDATED_AT, direction: DESC}) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
+    repositories(first: 10, privacy: PUBLIC, orderBy: {field: PUSHED_AT, direction: DESC}) {
       nodes {
         name
         url
-        releases(last: 1) {
-          totalCount
-          nodes {
-            name
-            tagName
-            publishedAt
-            url
-          }
-        }
+        description
+        pushedAt
       }
     }
   }
@@ -83,41 +70,14 @@ query($after: String) {
 """
 
 
-def fetch_releases(oauth_token):
-    releases = []
-    has_next_page = True
-    after = None
-
-    while has_next_page:
-        data = client.execute(
-            query=GRAPHQL_RELEASES_QUERY,
-            variables={"after": after},
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
-        repos = data["data"]["user"]["repositories"]
-        for repo in repos["nodes"]:
-            if not repo["releases"]["totalCount"]:
-                continue
-            release = repo["releases"]["nodes"][0]
-            if not release["publishedAt"]:
-                continue
-            tag = release["name"] or release["tagName"] or ""
-            # Strip repo name prefix from release name
-            tag = tag.replace(repo["name"], "").strip()
-            releases.append({
-                "repo": repo["name"],
-                "repo_url": repo["url"],
-                "release": tag,
-                "url": release["url"],
-                "published_at": release["publishedAt"],
-                "published_day": release["publishedAt"].split("T")[0],
-            })
-        page_info = repos["pageInfo"]
-        has_next_page = page_info["hasNextPage"]
-        after = page_info["endCursor"]
-
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
-    return releases
+def fetch_active_repos(oauth_token):
+    data = client.execute(
+        query=GRAPHQL_ACTIVE_REPOS_QUERY,
+        headers={"Authorization": "Bearer {}".format(oauth_token)},
+    )
+    repos = data["data"]["user"]["repositories"]["nodes"]
+    # Skip this profile repo itself
+    return [r for r in repos if r["name"] != "rmdes"]
 
 
 # --- Recently Starred Repos ---
@@ -210,9 +170,9 @@ if __name__ == "__main__":
     readme = readme_path.read_text()
 
     # Fetch all data sources
-    print("Fetching GitHub releases...")
-    releases = fetch_releases(TOKEN)
-    print(f"  Found {len(releases)} releases")
+    print("Fetching active repos...")
+    active_repos = fetch_active_repos(TOKEN)
+    print(f"  Found {len(active_repos)} recently active repos")
 
     print("Fetching starred repos...")
     starred = fetch_starred(TOKEN)
@@ -227,11 +187,15 @@ if __name__ == "__main__":
     print(f"  {len(npm_packages)} packages, {npm_total:,} total monthly downloads")
 
     # Build markdown sections
-    releases_md = "\n\n".join(
-        "[{repo} {release}]({url}) - {published_day}".format(**r)
-        for r in releases[:8]
+    active_md = "\n\n".join(
+        "[{}]({}) — {}".format(
+            r["name"],
+            r["url"],
+            (r.get("description") or "")[:80],
+        )
+        for r in active_repos[:8]
     )
-    readme = replace_chunk(readme, "recent_releases", releases_md)
+    readme = replace_chunk(readme, "active_repos", active_md)
 
     starred_md = "\n\n".join(
         "[{}]({}) — {}".format(
