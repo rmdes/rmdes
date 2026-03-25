@@ -59,10 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Because you know, there is really nothing else to talk about : Government Registers Aliens.Gov Domain](https://rmendes.net/reposts/2026/03/24/because-you-know-there-is/) - 2026-03-24
 
 [👀 Introducing Hubble: A Public Mirror for the Whole Atmosphere - AT Protocol](https://rmendes.net/bookmarks/2026/03/23/introducing-hubble-a-public-mirror/) - 2026-03-23
-
-[Yes, We should reclaim LLMs, not reject them.](https://rmendes.net/bookmarks/2026/03/22/yes-we-should-reclaim-llms-not-reject-them/) - 2026-03-22
-
-[Inspirational thinking about the whole AI divide](https://rmendes.net/bookmarks/2026/03/22/inspirational-thinking-about-the-whole/) - 2026-03-22
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
