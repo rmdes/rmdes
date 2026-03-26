@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) — A Patch for GIMP 3+ for Photoshop Users
+
+[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agent
+
 [berbicanes/apiark](https://github.com/berbicanes/apiark) — Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. 
 
 [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) — A Claude Code plugin that shows what's happening - context usage, active tools, 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [christinloehner/FediSuite](https://github.com/christinloehner/FediSuite) — Fediverse Management Hub - All-in-One platform for Mastodon, Pixelfed, Friendica
 
 [christinloehner/FediSuite-Docker-Image](https://github.com/christinloehner/FediSuite-Docker-Image) — Docker Image Development for FediSuite
-
-[swicg/activitypub-api](https://github.com/swicg/activitypub-api) — ActivityPub API Task Force repository.
-
-[calesthio/Crucix](https://github.com/calesthio/Crucix) — Your personal intelligence agent. Watches the world from multiple data sources a
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
