@@ -8,26 +8,26 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`docs: document reply threading gotcha in CLAUDE.md (v1.0.21)` (2026-03-26)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`docs: document replyTargets architecture in CLAUDE.md` (2026-03-26)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`docs: update CLAUDE.md for Mastodon API status creation chan` (2026-03-26)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: add replyTargets to template config` (2026-03-26)
+<br>`chore: activitypub 3.9.3 -> 3.9.4 (Mastodon API status creat` (2026-03-26)
 
 [indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
 <br>`fix: read syndicationTargets from publication, not applicati` (2026-03-26)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: use replyTargets config for platform-to-syndicator map` (2026-03-26)
-
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`fix: harden reply threading with array unwrapping and error ` (2026-03-25)
 
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
 <br>`fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026-03-25)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`chore: bump to 1.0.58` (2026-03-25)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`docs: update CLAUDE.md and README.md for v3.9 audit refactor` (2026-03-25)
 
 [indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
 <br>`fix: normalize trailing slashes in canonical_url to prevent ` (2026-03-24)
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23587603097)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23600277238)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: add replyTargets to template config` (2026-03-26, 1m 37s)
+Last build: `chore: activitypub 3.9.3 -> 3.9.4 (Mastodon API status creat` (2026-03-26, 3m 11s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
