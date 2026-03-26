@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[hajekad/signal-bot-crawly](https://github.com/hajekad/signal-bot-crawly) — 
+
 [hectorvent/floci](https://github.com/hectorvent/floci) — Light, fluffy, and always free - AWS Local Emulator 
 
 [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) — Bonfire - tend to your digital life in community. Customise and host your own on
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) — A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
-
-[basecamp/once](https://github.com/basecamp/once) — Easy self-hosting for Docker-based web apps
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
