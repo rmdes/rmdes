@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`feat: upgrade Fedify to 2.1.0 + implement 5 FEPs` (2026-03-26)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule + homepage plugin 1.0.` (2026-03-26)
+<br>`chore: bump activitypub plugin to 3.10.0 (Fedify 2.1.0 + FEP` (2026-03-26)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`docs: add comprehensive FEP/standards compliance tables` (2026-03-26)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: pagination scrambling and scroll + feat: excludePostTyp` (2026-03-26)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[hectorvent/floci](https://github.com/hectorvent/floci) — Light, fluffy, and always free - AWS Local Emulator 
+
 [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) — Bonfire - tend to your digital life in community. Customise and host your own on
 
 [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) — A Patch for GIMP 3+ for Photoshop Users
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
 
 [basecamp/once](https://github.com/basecamp/once) — Easy self-hosting for Docker-based web apps
-
-[christinloehner/FediSuite](https://github.com/christinloehner/FediSuite) — Fediverse Management Hub - All-in-One platform for Mastodon, Pixelfed, Friendica
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -57,16 +57,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Blog
 <!-- blog starts -->
 [Big Tech just lost a ‘social media addiction’ case. It may not be the last.](https://rmendes.net/bookmarks/2026/03/26/big-tech-just-lost-a/) - 2026-03-26
-
-[Because you know, there is really nothing else to talk about : Government Registers Aliens.Gov Domain](https://rmendes.net/reposts/2026/03/24/because-you-know-there-is/) - 2026-03-24
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23602727654)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23607808822)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule + homepage plugin 1.0.` (2026-03-26, 3m 52s)
+Last build: `chore: bump activitypub plugin to 3.10.0 (Fedify 2.1.0 + FEP` (2026-03-26, 2m 18s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
