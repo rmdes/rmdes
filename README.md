@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[berbicanes/apiark](https://github.com/berbicanes/apiark) — Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. 
+
 [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) — A Claude Code plugin that shows what's happening - context usage, active tools, 
 
 [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — OpenShell is the safe, private runtime for autonomous AI agents.
@@ -48,14 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [swicg/activitypub-api](https://github.com/swicg/activitypub-api) — ActivityPub API Task Force repository.
 
 [calesthio/Crucix](https://github.com/calesthio/Crucix) — Your personal intelligence agent. Watches the world from multiple data sources a
-
-[haydonryan/vaultwarden-cli](https://github.com/haydonryan/vaultwarden-cli) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Big Tech just lost a ‘social media addiction’ case. It may not be the last.](https://rmendes.net/bookmarks/2026/03/26/big-tech-just-lost-a/) - 2026-03-26
+
 [Because you know, there is really nothing else to talk about : Government Registers Aliens.Gov Domain](https://rmendes.net/reposts/2026/03/24/because-you-know-there-is/) - 2026-03-24
 
 [👀 Introducing Hubble: A Public Mirror for the Whole Atmosphere - AT Protocol](https://rmendes.net/bookmarks/2026/03/23/introducing-hubble-a-public-mirror/) - 2026-03-23
