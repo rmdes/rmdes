@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`feat: upgrade Fedify to 2.1.0 + implement 5 FEPs` (2026-03-26)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site submodule + homepage plugin 1.0.` (2026-03-26)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
 <br>`docs: document reply threading gotcha in CLAUDE.md (v1.0.21)` (2026-03-26)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`docs: update CLAUDE.md for Mastodon API status creation chan` (2026-03-26)
 
 [indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
 <br>`fix: read syndicationTargets from publication, not applicati` (2026-03-26)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) — Bonfire - tend to your digital life in community. Customise and host your own on
+
 [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) — A Patch for GIMP 3+ for Photoshop Users
 
 [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agent
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [basecamp/once](https://github.com/basecamp/once) — Easy self-hosting for Docker-based web apps
 
 [christinloehner/FediSuite](https://github.com/christinloehner/FediSuite) — Fediverse Management Hub - All-in-One platform for Mastodon, Pixelfed, Friendica
-
-[christinloehner/FediSuite-Docker-Image](https://github.com/christinloehner/FediSuite-Docker-Image) — Docker Image Development for FediSuite
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -59,8 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Big Tech just lost a ‘social media addiction’ case. It may not be the last.](https://rmendes.net/bookmarks/2026/03/26/big-tech-just-lost-a/) - 2026-03-26
 
 [Because you know, there is really nothing else to talk about : Government Registers Aliens.Gov Domain](https://rmendes.net/reposts/2026/03/24/because-you-know-there-is/) - 2026-03-24
-
-[👀 Introducing Hubble: A Public Mirror for the Whole Atmosphere - AT Protocol](https://rmendes.net/bookmarks/2026/03/23/introducing-hubble-a-public-mirror/) - 2026-03-23
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
