@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
+<br>`feat: initial docker-compose deployment for NewsDiff` (2026-03-27)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`chore: update newsdiff — rate-limit syndication to 1 post/5m` (2026-03-27)
+<br>`chore: update newsdiff — diff page URL in AP and Bluesky pos` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`feat: rate-limit syndication to 1 post per 5 minutes via Bul` (2026-03-27)
+<br>`feat: include diff page URL in both ActivityPub and Bluesky ` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump activitypub plugin to 3.10.0 (Fedify 2.1.0 + FEP` (2026-03-26)
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
 <br>`docs: document reply threading gotcha in CLAUDE.md (v1.0.21)` (2026-03-26)
-
-[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
-<br>`fix: read syndicationTargets from publication, not applicati` (2026-03-26)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[seldo/zeitgeist](https://github.com/seldo/zeitgeist) — A tiny webapp to summarize your social media feed so you don't have to read it a
+
+[rmdes/newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+
 [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) — Tools for publishing transcripts for Claude Code sessions
 
 [hajekad/signal-bot-crawly](https://github.com/hajekad/signal-bot-crawly) — 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) — A Patch for GIMP 3+ for Photoshop Users
 
 [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agent
-
-[berbicanes/apiark](https://github.com/berbicanes/apiark) — Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. 
-
-[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) — A Claude Code plugin that shows what's happening - context usage, active tools, 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
