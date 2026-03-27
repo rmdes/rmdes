@@ -8,23 +8,23 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update eleventy-site (Fediverse button fallback from ` (2026-03-27)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: show Fediverse button from mpSyndicateTo before syndica` (2026-03-27)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`fix: nav padding and font sizes` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 <br>`fix: separate nav from container to preserve padding, increa` (2026-03-27)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.10.2 -> 3.10.3 (interaction target URLs` (2026-03-27)
-
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: include interaction target URL in timeline content` (2026-03-27)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`chore: use :main tag for GHCR image` (2026-03-27)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: pagination scrambling and scroll + feat: excludePostTyp` (2026-03-26)
 
 [indiekit-endpoint-homepage](https://github.com/rmdes/indiekit-endpoint-homepage) — Homepage builder endpoint for Indiekit. Configure layout, sections, and sidebar 
 <br>`feat: add excludeTypes config UI for recent-posts sections` (2026-03-26)
@@ -56,15 +56,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
-
+[Building NewsDiff: Tracking How News Changes After Publication](https://rmendes.net/articles/2026/03/27/building-newsdiff-tracking-how-news-changes-after-publication/) - 2026-03-27
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23653996100)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23660365326)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.10.2 -> 3.10.3 (interaction target URLs` (2026-03-27, 2m 23s)
+Last build: `chore: update eleventy-site (Fediverse button fallback from ` (2026-03-27, 2m 34s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
