@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
+<br>`feat: archive.org env vars in .env.example and docker-compos` (2026-03-27)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: health check DB-only` (2026-03-27)
+<br>`feat: archive.org env vars in env.sh.template, update newsdi` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: simplify health check to DB-only — Redis connection not` (2026-03-27)
+<br>`feat: Internet Archive SPN2 API with auth, disabled until cr` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site (Fediverse button fallback from ` (2026-03-27)
@@ -22,9 +25,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: include interaction target URL in timeline content` (2026-03-27)
-
-[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`chore: use :main tag for GHCR image` (2026-03-27)
 
 [indiekit-endpoint-homepage](https://github.com/rmdes/indiekit-endpoint-homepage) — Homepage builder endpoint for Indiekit. Configure layout, sections, and sidebar 
 <br>`feat: add excludeTypes config UI for recent-posts sections` (2026-03-26)
