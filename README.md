@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: synthesize timeline content for likes/bookmarks/reposts` (2026-03-27)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`debug: actor type logging` (2026-03-27)
-
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`debug: log actor type to diagnose Update broadcast failure` (2026-03-27)
+<br>`fix: improve boring detection — catch "Updated HH:MM", appen` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.10.0 -> 3.10.1 (own posts in ap_timelin` (2026-03-27)
+<br>`chore: activitypub 3.10.2 -> 3.10.3 (interaction target URLs` (2026-03-27)
+
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`chore: disable broken Update broadcast, wait for Botkit+Fedi` (2026-03-27)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: include interaction target URL in timeline content` (2026-03-27)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`chore: use :main tag for GHCR image` (2026-03-27)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[fedify-dev/botkit](https://github.com/fedify-dev/botkit) — A framework for creating ActivityPub bots
+
 [dynamicskillset/stream](https://github.com/dynamicskillset/stream) — A velocity-based RSS reader. Articles arrive, linger, and fade. You are not behi
 
 [seldo/zeitgeist](https://github.com/seldo/zeitgeist) — A tiny webapp to summarize your social media feed so you don't have to read it a
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [hectorvent/floci](https://github.com/hectorvent/floci) — Light, fluffy, and always free - AWS Local Emulator 
 
 [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) — Bonfire - tend to your digital life in community. Customise and host your own on
-
-[Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) — A Patch for GIMP 3+ for Photoshop Users
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23649196662)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23653996100)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.10.0 -> 3.10.1 (own posts in ap_timelin` (2026-03-27, 2m 42s)
+Last build: `chore: activitypub 3.10.2 -> 3.10.3 (interaction target URLs` (2026-03-27, 2m 23s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
