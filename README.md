@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: synthesize timeline content for likes/bookmarks/reposts` (2026-03-27)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`feat: add app logo for Cloudron dashboard, update newsdiff s` (2026-03-27)
+<br>`debug: actor type logging` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`feat: add generated branding — favicon, avatar, and header i` (2026-03-27)
+<br>`debug: log actor type to diagnose Update broadcast failure` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: activitypub 3.10.0 -> 3.10.1 (own posts in ap_timelin` (2026-03-27)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`feat: add own posts to ap_timeline after syndication` (2026-03-27)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`chore: use :main tag for GHCR image` (2026-03-27)
@@ -56,7 +56,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
-[Big Tech just lost a ‘social media addiction’ case. It may not be the last.](https://rmendes.net/bookmarks/2026/03/26/big-tech-just-lost-a/) - 2026-03-26
+
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
