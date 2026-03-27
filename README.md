@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`chore: update newsdiff — full-height diff image download` (2026-03-27)
+<br>`chore: update newsdiff — RSS icon on homepage` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`feat: full-height diff image for download, keep fixed card f` (2026-03-27)
+<br>`feat: add RSS icon on homepage linking to Atom feed, context` (2026-03-27)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`chore: use :main tag for GHCR image` (2026-03-27)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[dynamicskillset/stream](https://github.com/dynamicskillset/stream) — A velocity-based RSS reader. Articles arrive, linger, and fade. You are not behi
+
 [seldo/zeitgeist](https://github.com/seldo/zeitgeist) — A tiny webapp to summarize your social media feed so you don't have to read it a
 
 [rmdes/newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) — Bonfire - tend to your digital life in community. Customise and host your own on
 
 [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) — A Patch for GIMP 3+ for Photoshop Users
-
-[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agent
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
