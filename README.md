@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`feat: initial docker-compose deployment for NewsDiff` (2026-03-27)
-
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`chore: update newsdiff — diff page URL in AP and Bluesky pos` (2026-03-27)
+<br>`chore: update newsdiff — full-height diff image download` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`feat: include diff page URL in both ActivityPub and Bluesky ` (2026-03-27)
+<br>`feat: full-height diff image for download, keep fixed card f` (2026-03-27)
+
+[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
+<br>`chore: use :main tag for GHCR image` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump activitypub plugin to 3.10.0 (Fedify 2.1.0 + FEP` (2026-03-26)
