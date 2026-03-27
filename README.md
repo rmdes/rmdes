@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`feat: initial Cloudron packaging for NewsDiff` (2026-03-27)
+<br>`chore: update newsdiff — rate-limit syndication to 1 post/5m` (2026-03-27)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`chore: prepare for public release, separate Cloudron packagi` (2026-03-27)
+<br>`feat: rate-limit syndication to 1 post per 5 minutes via Bul` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump activitypub plugin to 3.10.0 (Fedify 2.1.0 + FEP` (2026-03-26)
