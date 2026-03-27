@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: move 'Recent Changes' below source pills, add 'Sources'` (2026-03-27)
-
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: small logo icon in nav instead of full banner` (2026-03-27)
+<br>`fix: nav padding and font sizes` (2026-03-27)
+
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`fix: separate nav from container to preserve padding, increa` (2026-03-27)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: activitypub 3.10.2 -> 3.10.3 (interaction target URLs` (2026-03-27)
