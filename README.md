@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike](https://rmendes.net/bookmarks/2026/03/28/two-waves-of-bombing-new/) - 2026-03-28
+
 [Building NewsDiff: Tracking How News Changes After Publication](https://rmendes.net/articles/2026/03/27/building-newsdiff-tracking-how-news-changes-after-publication/) - 2026-03-27
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
