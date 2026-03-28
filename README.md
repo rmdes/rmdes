@@ -9,28 +9,28 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: write heap snapshots to writable /tmp/indiekit-diag/ (n` (2026-03-28)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`chore: bump to 1.0.60 (revert of defer)` (2026-03-28)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`docs: add note about getFilteredByGlob cache behavior` (2026-03-28)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: CSP for SvelteKit inline scripts` (2026-03-28)
-
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: CSP allows unsafe-inline for scripts (required by Svelt` (2026-03-28)
-
-[indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
-<br>`fix: remove duplicate page heading from dashboard` (2026-03-28)
-
-[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`feat: archive.org env vars in .env.example and docker-compos` (2026-03-27)
+<br>`fix: create readiness signal even when initial build fails` (2026-03-28)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: include interaction target URL in timeline content` (2026-03-27)
+<br>`chore: bump version to 3.10.5 for destroy fix` (2026-03-28)
+
+[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
+<br>`feat: defer background tasks until host readiness signal` (2026-03-28)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`feat: defer background tasks until host readiness signal` (2026-03-28)
+
+[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
+<br>`feat: defer background tasks until host readiness signal` (2026-03-28)
+
+[indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
+<br>`feat: defer background tasks until host readiness signal` (2026-03-28)
+
+[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
+<br>`feat: defer background sync until host readiness signal` (2026-03-28)
+
+[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
+<br>`feat: defer background sync until host readiness signal` (2026-03-28)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23693765356)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23694879801)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: write heap snapshots to writable /tmp/indiekit-diag/ (n` (2026-03-28, 1m 12s)
+Last build: `fix: create readiness signal even when initial build fails` (2026-03-28, 1m 24s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
