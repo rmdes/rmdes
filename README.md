@@ -9,22 +9,22 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump conversations plugin to 2.4.1` (2026-03-28)
+<br>`fix: add Indiekit watchdog restart loop in start.sh` (2026-03-28)
+
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`fix: CSP for SvelteKit inline scripts` (2026-03-28)
+
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`fix: CSP allows unsafe-inline for scripts (required by Svelt` (2026-03-28)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat: add /updated.xml feed for recently edited posts` (2026-03-28)
 
 [indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
 <br>`fix: remove duplicate page heading from dashboard` (2026-03-28)
 
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: delete action also clears diffs, flushes syndicate queu` (2026-03-28)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: background delete for AP posts` (2026-03-28)
-
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: archive.org env vars in .env.example and docker-compos` (2026-03-27)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: show Fediverse button from mpSyndicateTo before syndica` (2026-03-27)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: include interaction target URL in timeline content` (2026-03-27)
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23689120633)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23691801755)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump conversations plugin to 2.4.1` (2026-03-28, 2m 10s)
+Last build: `fix: add Indiekit watchdog restart loop in start.sh` (2026-03-28, 1m 34s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
