@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump conversations plugin to 2.4.1` (2026-03-28)
+
+[indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
+<br>`fix: remove duplicate page heading from dashboard` (2026-03-28)
+
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 <br>`fix: delete action also clears diffs, flushes syndicate queu` (2026-03-28)
 
@@ -17,9 +23,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: archive.org env vars in .env.example and docker-compos` (2026-03-27)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site (Fediverse button fallback from ` (2026-03-27)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: show Fediverse button from mpSyndicateTo before syndica` (2026-03-27)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-homepage](https://github.com/rmdes/indiekit-endpoint-homepage) — Homepage builder endpoint for Indiekit. Configure layout, sections, and sidebar 
 <br>`feat: add excludeTypes config UI for recent-posts sections` (2026-03-26)
-
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`docs: document reply threading gotcha in CLAUDE.md (v1.0.21)` (2026-03-26)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[nekromoff/mastodon-bots](https://github.com/nekromoff/mastodon-bots) — ActivityPub / Mastodon compatible instance to quickly create and deploy multiple
+
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 [fedify-dev/botkit](https://github.com/fedify-dev/botkit) — A framework for creating ActivityPub bots
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) — Tools for publishing transcripts for Claude Code sessions
 
 [hajekad/signal-bot-crawly](https://github.com/hajekad/signal-bot-crawly) — 
-
-[hectorvent/floci](https://github.com/hectorvent/floci) — Light, fluffy, and always free - AWS Local Emulator 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23660365326)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23689120633)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site (Fediverse button fallback from ` (2026-03-27, 2m 34s)
+Last build: `chore: bump conversations plugin to 2.4.1` (2026-03-28, 2m 10s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
