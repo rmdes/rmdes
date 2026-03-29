@@ -8,14 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`docs: add test coverage section to README and CLAUDE.md (64 ` (2026-03-29)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: nested form hydration` (2026-03-29)
+[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
+<br>`ci: add validation workflow — compose config, nginx syntax, ` (2026-03-29)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (sitemap exclusion)` (2026-03-29)
+<br>`fix: bump activitypub endpoint to 3.11.2 (multipart body par` (2026-03-29)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: skip body parsers for multipart/form-data requests` (2026-03-29)
+
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`feat: subscribe dropdown, lock file fix` (2026-03-29)
+
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`feat: subscribe dropdown with RSS + Atom options on homepage` (2026-03-29)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: exclude .interface-design from sitemap` (2026-03-29)
@@ -23,13 +29,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
-
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
-
-[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
 <br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
 <!-- active_repos ends -->
 
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23705902068)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23711375703)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (sitemap exclusion)` (2026-03-29, 2m 4s)
+Last build: `fix: bump activitypub endpoint to 3.11.2 (multipart body par` (2026-03-29, 3m 5s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
