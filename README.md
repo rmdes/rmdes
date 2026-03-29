@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`docs: document sitemap import and WebSub features` (2026-03-29)
+
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`fix: feedId upsert for correct source attribution on diffs` (2026-03-29)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update eleventy-site submodule (sitemap exclusion)` (2026-03-29)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: exclude .interface-design from sitemap` (2026-03-29)
+
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
 
@@ -18,18 +30,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
 
 [indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
-
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
-
-[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
-
-[indiekit-endpoint-lastfm](https://github.com/rmdes/indiekit-endpoint-lastfm) — Last.fm scrobble and listening activity endpoint for Indiekit
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
-
-[indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
 <br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
 <!-- active_repos ends -->
 
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23695674950)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23705902068)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `docs: add startup-gate documentation to CLAUDE.md` (2026-03-28, 28s)
+Last build: `chore: update eleventy-site submodule (sitemap exclusion)` (2026-03-29, 2m 4s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
