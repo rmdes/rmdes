@@ -68,7 +68,7 @@ More on [rmendes.net](https://rmendes.net/)
 <!-- pipelines starts -->
 [![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23712694107)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.11.4 -> 3.11.6 (reply threading + perma` (2026-03-29)
+Last build: `chore: activitypub 3.11.4 -> 3.11.6 (reply threading + perma` (2026-03-29, 2m 0s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
