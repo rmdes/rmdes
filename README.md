@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`ci: add validation workflow — compose config, nginx syntax, ` (2026-03-29)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: bump activitypub endpoint to 3.11.2 (multipart body par` (2026-03-29)
+<br>`chore: activitypub 3.11.4 -> 3.11.6 (reply threading + perma` (2026-03-29)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: skip body parsers for multipart/form-data requests` (2026-03-29)
+<br>`fix: resolve in_reply_to_id for threading + append permalink` (2026-03-29)
+
+[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
+<br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`feat: subscribe dropdown, lock file fix` (2026-03-29)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[social-web-foundation/acct-handler](https://github.com/social-web-foundation/acct-handler) — Experiment with the acct: URL format
+
 [nekromoff/mastodon-bots](https://github.com/nekromoff/mastodon-bots) — ActivityPub / Mastodon compatible instance to quickly create and deploy multiple
 
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rmdes/newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 
 [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) — Tools for publishing transcripts for Claude Code sessions
-
-[hajekad/signal-bot-crawly](https://github.com/hajekad/signal-bot-crawly) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23711375703)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23712694107)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: bump activitypub endpoint to 3.11.2 (multipart body par` (2026-03-29, 3m 5s)
+Last build: `chore: activitypub 3.11.4 -> 3.11.6 (reply threading + perma` (2026-03-29)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
