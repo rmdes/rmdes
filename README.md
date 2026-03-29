@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.11.4 -> 3.11.6 (reply threading + perma` (2026-03-29)
+<br>`chore: activitypub 3.11.6 -> 3.11.7 (in_reply_to_account_id)` (2026-03-29)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: resolve in_reply_to_id for threading + append permalink` (2026-03-29)
+<br>`fix: resolve in_reply_to_account_id for Phanpy reply threadi` (2026-03-29)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23712694107)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23715847325)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.11.4 -> 3.11.6 (reply threading + perma` (2026-03-29, 2m 0s)
+Last build: `chore: activitypub 3.11.6 -> 3.11.7 (in_reply_to_account_id)` (2026-03-29, 2m 2s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
