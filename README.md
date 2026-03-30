@@ -141,7 +141,9 @@ Last build: `fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026
 <a href="https://github.com/rmdes/rmdes/actions"><img src="https://github.com/rmdes/rmdes/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <!-- STATS-START -->
-<!-- Stats will be populated on next update -->
+## Work with AI
+
+_Stats will appear here automatically once [aidevops](https://aidevops.sh) has been running locally. Includes AI session hours, model usage, token costs, and screen time._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -150,4 +152,5 @@ Last build: `fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026
 ---
 
 <!-- UPDATED-START -->
+_Stats auto-updated 2026-03-30 16:00 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
