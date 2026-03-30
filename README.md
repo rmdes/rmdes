@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) — A powerful meta-prompting, context engineering and spec-driven development syste
+
 [social-web-foundation/acct-handler](https://github.com/social-web-foundation/acct-handler) — Experiment with the acct: URL format
 
 [nekromoff/mastodon-bots](https://github.com/nekromoff/mastodon-bots) — ActivityPub / Mastodon compatible instance to quickly create and deploy multiple
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [seldo/zeitgeist](https://github.com/seldo/zeitgeist) — A tiny webapp to summarize your social media feed so you don't have to read it a
 
 [rmdes/newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-
-[simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) — Tools for publishing transcripts for Claude Code sessions
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
