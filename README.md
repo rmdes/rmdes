@@ -70,7 +70,7 @@ More on [rmendes.net](https://rmendes.net/)
 <!-- pipelines starts -->
 [![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23754020291)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (file-based mem profil` (2026-03-30)
+Last build: `chore: update eleventy-site submodule (file-based mem profil` (2026-03-30, 2m 53s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
