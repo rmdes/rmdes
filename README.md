@@ -8,23 +8,23 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update eleventy-site submodule (file-based mem profil` (2026-03-30)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`diag: persist memory profiling to file (log buffer gets flus` (2026-03-30)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: lock file for Botkit 0.4.0` (2026-03-30)
+<br>`fix: dynamic bot fetch for profile updates` (2026-03-30)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: regenerate lock file with Node 22 for Botkit 0.4.0` (2026-03-30)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.11.7 -> 3.11.8 (fix public timeline cra` (2026-03-29)
+<br>`fix: bot HTTP server uses current bot instance, not stale re` (2026-03-30)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: destructure resolveReplyIds return in public/hashtag ti` (2026-03-29)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: exclude .interface-design from sitemap` (2026-03-29)
 
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) — Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, de
+
 [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) — Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent aut
 
 [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) — A powerful meta-prompting, context engineering and spec-driven development syste
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [fedify-dev/botkit](https://github.com/fedify-dev/botkit) — A framework for creating ActivityPub bots
 
 [dynamicskillset/stream](https://github.com/dynamicskillset/stream) — A velocity-based RSS reader. Articles arrive, linger, and fade. You are not behi
-
-[seldo/zeitgeist](https://github.com/seldo/zeitgeist) — A tiny webapp to summarize your social media feed so you don't have to read it a
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23717156564)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23754020291)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.11.7 -> 3.11.8 (fix public timeline cra` (2026-03-29, 2m 11s)
+Last build: `chore: update eleventy-site submodule (file-based mem profil` (2026-03-30)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
