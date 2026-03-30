@@ -139,3 +139,15 @@ Last build: `fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026
 </picture>
 
 <a href="https://github.com/rmdes/rmdes/actions"><img src="https://github.com/rmdes/rmdes/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+
+<!-- STATS-START -->
+<!-- Stats will be populated on next update -->
+<!-- STATS-END -->
+
+<!-- CONTRIBUTIONS-START -->
+<!-- CONTRIBUTIONS-END -->
+
+---
+
+<!-- UPDATED-START -->
+<!-- UPDATED-END -->
