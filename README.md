@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`fix: lock file for Botkit 0.4.0` (2026-03-30)
+
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`fix: regenerate lock file with Node 22 for Botkit 0.4.0` (2026-03-30)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: activitypub 3.11.7 -> 3.11.8 (fix public timeline cra` (2026-03-29)
 
@@ -16,12 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`feat: subscribe dropdown, lock file fix` (2026-03-29)
-
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`feat: subscribe dropdown with RSS + Atom options on homepage` (2026-03-29)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: exclude .interface-design from sitemap` (2026-03-29)
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Flamands de droite et Wallons de gauche, vraiment ? Cette étude déconstruit les clichés](https://rmendes.net/bookmarks/2026/03/30/flamands-de-droite-et-wallons/) - 2026-03-30
+
 [Trumps Foreign Policy (if that can be called a policy) is all fury no strategy](https://rmendes.net/bookmarks/2026/03/28/54419/) - 2026-03-28
 
 [Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike](https://rmendes.net/bookmarks/2026/03/28/two-waves-of-bombing-new/) - 2026-03-28
