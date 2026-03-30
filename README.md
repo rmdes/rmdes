@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) — Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent aut
+
 [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) — A powerful meta-prompting, context engineering and spec-driven development syste
 
 [social-web-foundation/acct-handler](https://github.com/social-web-foundation/acct-handler) — Experiment with the acct: URL format
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [dynamicskillset/stream](https://github.com/dynamicskillset/stream) — A velocity-based RSS reader. Articles arrive, linger, and fade. You are not behi
 
 [seldo/zeitgeist](https://github.com/seldo/zeitgeist) — A tiny webapp to summarize your social media feed so you don't have to read it a
-
-[rmdes/newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
