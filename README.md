@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`docs: document deferred home timeline reply visibility refin` (2026-03-31)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: activitypub 3.12.4 -> 3.12.5 (reply filtering, keywor` (2026-03-31)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`chore: bump to 3.12.5` (2026-03-31)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`fix: diff card images show actual changes` (2026-03-31)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Finsys/dockhand](https://github.com/Finsys/dockhand) — Dockhand - Docker management you will like.
+
 [blacklight/madblog](https://github.com/blacklight/madblog) — A minimal platform for Markdown-based blogs
 
 [nolenroyalty/yt-browse](https://github.com/nolenroyalty/yt-browse) — it's like search, but for youtube
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [social-web-foundation/acct-handler](https://github.com/social-web-foundation/acct-handler) — Experiment with the acct: URL format
 
 [nekromoff/mastodon-bots](https://github.com/nekromoff/mastodon-bots) — ActivityPub / Mastodon compatible instance to quickly create and deploy multiple
-
-[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
