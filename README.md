@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`docs: document deferred home timeline reply visibility refin` (2026-03-31)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.12.4 -> 3.12.5 (reply filtering, keywor` (2026-03-31)
+<br>`chore: activitypub 3.12.5 -> 3.13.1 (settings admin page)` (2026-03-31)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`chore: bump to 3.13.1` (2026-03-31)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`fix: diff card images show actual changes` (2026-03-31)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sethcottle/hangar](https://github.com/sethcottle/hangar) — Hangar is your Bluesky home base—built natively for Linux. ✈️
+
 [Finsys/dockhand](https://github.com/Finsys/dockhand) — Dockhand - Docker management you will like.
 
 [blacklight/madblog](https://github.com/blacklight/madblog) — A minimal platform for Markdown-based blogs
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) — A powerful meta-prompting, context engineering and spec-driven development syste
 
 [social-web-foundation/acct-handler](https://github.com/social-web-foundation/acct-handler) — Experiment with the acct: URL format
-
-[nekromoff/mastodon-bots](https://github.com/nekromoff/mastodon-bots) — ActivityPub / Mastodon compatible instance to quickly create and deploy multiple
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23813457904)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23817024278)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.12.4 -> 3.12.5 (reply filtering, keywor` (2026-03-31, 1m 24s)
+Last build: `chore: activitypub 3.12.5 -> 3.13.1 (settings admin page)` (2026-03-31, 2m 44s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
