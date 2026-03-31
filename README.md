@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`chore: bump to 3.13.2` (2026-03-31)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: activitypub 3.12.5 -> 3.13.1 (settings admin page)` (2026-03-31)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`chore: bump to 3.13.1` (2026-03-31)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`fix: diff card images show actual changes` (2026-03-31)
