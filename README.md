@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: activitypub 3.12.2 -> 3.12.3 (mention resolution)` (2026-03-31)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: resolve and linkify @mentions in ap_timeline content` (2026-03-31)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.12.1 -> 3.12.2 (read-time permalink)` (2026-03-31)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`fix: diff card images show actual changes` (2026-03-31)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23791569213)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23794192441)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.12.1 -> 3.12.2 (read-time permalink)` (2026-03-31, 3m 33s)
+Last build: `chore: activitypub 3.12.2 -> 3.12.3 (mention resolution)` (2026-03-31, 2m 15s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
