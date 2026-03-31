@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nolenroyalty/yt-browse](https://github.com/nolenroyalty/yt-browse) — it's like search, but for youtube
+
 [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) — Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, de
 
 [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) — Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent aut
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 [fedify-dev/botkit](https://github.com/fedify-dev/botkit) — A framework for creating ActivityPub bots
-
-[dynamicskillset/stream](https://github.com/dynamicskillset/stream) — A velocity-based RSS reader. Articles arrive, linger, and fade. You are not behi
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
