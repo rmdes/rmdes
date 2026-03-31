@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[blacklight/madblog](https://github.com/blacklight/madblog) — A minimal platform for Markdown-based blogs
+
 [nolenroyalty/yt-browse](https://github.com/nolenroyalty/yt-browse) — it's like search, but for youtube
 
 [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) — Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, de
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nekromoff/mastodon-bots](https://github.com/nekromoff/mastodon-bots) — ActivityPub / Mastodon compatible instance to quickly create and deploy multiple
 
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
-
-[fedify-dev/botkit](https://github.com/fedify-dev/botkit) — A framework for creating ActivityPub bots
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -59,10 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Guides: LLM hosting, perf, RAG & observability](https://rmendes.net/bookmarks/2026/03/31/guides-llm-hosting-perf-rag/) - 2026-03-31
 
 [Flamands de droite et Wallons de gauche, vraiment ? Cette étude déconstruit les clichés](https://rmendes.net/bookmarks/2026/03/30/flamands-de-droite-et-wallons/) - 2026-03-30
-
-[Trumps Foreign Policy (if that can be called a policy) is all fury no strategy](https://rmendes.net/bookmarks/2026/03/28/54419/) - 2026-03-28
-
-[Two Waves of Bombing: New Videos Reveal Further Details About Iran School Strike](https://rmendes.net/bookmarks/2026/03/28/two-waves-of-bombing-new/) - 2026-03-28
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
