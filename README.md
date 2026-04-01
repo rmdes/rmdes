@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) — A DAW built for automation, transformation, and fast musical iteration
+
+[hackers-pub/hackerspub](https://github.com/hackers-pub/hackerspub) — ActivityPub-enabled social network for hackers
+
 [SeifBenayed/claude-code-sdk](https://github.com/SeifBenayed/claude-code-sdk) — Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that
 
 [instructkr/claw-code](https://github.com/instructkr/claw-code) — The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that m
@@ -46,16 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [blacklight/madblog](https://github.com/blacklight/madblog) — A minimal platform for Markdown-based blogs
 
 [nolenroyalty/yt-browse](https://github.com/nolenroyalty/yt-browse) — it's like search, but for youtube
-
-[Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) — Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, de
-
-[marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) — Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent aut
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[MAGDA — AI Assisted Music Production](https://rmendes.net/bookmarks/2026/04/01/magda-ai-assisted-music-production/) - 2026-04-01
+
 [Guides: LLM hosting, perf, RAG & observability](https://rmendes.net/bookmarks/2026/03/31/guides-llm-hosting-perf-rag/) - 2026-03-31
 
 [Flamands de droite et Wallons de gauche, vraiment ? Cette étude déconstruit les clichés](https://rmendes.net/bookmarks/2026/03/30/flamands-de-droite-et-wallons/) - 2026-03-30
