@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[emdash-cms/emdash](https://github.com/emdash-cms/emdash) — 
+
 [Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) — A DAW built for automation, transformation, and fast musical iteration
 
 [hackers-pub/hackerspub](https://github.com/hackers-pub/hackerspub) — ActivityPub-enabled social network for hackers
@@ -48,14 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Finsys/dockhand](https://github.com/Finsys/dockhand) — Dockhand - Docker management you will like.
 
 [blacklight/madblog](https://github.com/blacklight/madblog) — A minimal platform for Markdown-based blogs
-
-[nolenroyalty/yt-browse](https://github.com/nolenroyalty/yt-browse) — it's like search, but for youtube
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[x402 - Payment Required | Internet-Native Payments Standard](https://rmendes.net/bookmarks/2026/04/01/x402-payment-required-internet-native/) - 2026-04-01
+
 [MAGDA — AI Assisted Music Production](https://rmendes.net/bookmarks/2026/04/01/magda-ai-assisted-music-production/) - 2026-04-01
 
 [Guides: LLM hosting, perf, RAG & observability](https://rmendes.net/bookmarks/2026/03/31/guides-llm-hosting-perf-rag/) - 2026-03-31
