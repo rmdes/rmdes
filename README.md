@@ -37,7 +37,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- starred starts -->
 [SeifBenayed/claude-code-sdk](https://github.com/SeifBenayed/claude-code-sdk) — Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that
 
-[instructkr/claw-code](https://github.com/instructkr/claw-code) — The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in ju
+[instructkr/claw-code](https://github.com/instructkr/claw-code) — The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that m
 
 [sethcottle/hangar](https://github.com/sethcottle/hangar) — Hangar is your Bluesky home base—built natively for Linux. ✈️
 
