@@ -175,6 +175,7 @@ _Stats will appear here automatically once [aidevops](https://aidevops.sh) has b
 - **[claude-launcher](https://github.com/imprakharshukla/claude-launcher)** -- TUI for managing Claude Code sessions - search, resume, bookmark
 - **[claude-status-update](https://github.com/AlexanderBZ/claude-status-update)** -- A Claude Code plugin that automatically generates a standup ready update of what you built in the last 24 hours
 - **[claudecodeui](https://github.com/siteboon/claudecodeui)** -- Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI aka Claude Code UI. CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- **[claw-code](https://github.com/instructkr/claw-code)** -- The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.
 - **[ClawRag](https://github.com/2dogsandanerd/ClawRag)** -- RAG system combining Docling document processing with ChromaDB vector storage to power openclaw
 - **[CleverCustomize](https://github.com/andrewgribben/CleverCustomize)** -- Plugin for Known that does some customizations for https://cleverdevil.io
 - **[cli-torrent-dl](https://github.com/X0R0X/cli-torrent-dl)** -- CLI utility to search and download torrents from major torrent sites
@@ -318,5 +319,5 @@ _Stats will appear here automatically once [aidevops](https://aidevops.sh) has b
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-03-30 16:00 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-04-01 15:00 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
