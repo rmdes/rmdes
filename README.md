@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[AlexZeitler/claude-ssh-image-skill](https://github.com/AlexZeitler/claude-ssh-image-skill) — A Claude Code skill + local daemon that enables pasting clipboard images into a 
+
 [emdash-cms/emdash](https://github.com/emdash-cms/emdash) — 
 
 [Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) — A DAW built for automation, transformation, and fast musical iteration
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [sethcottle/hangar](https://github.com/sethcottle/hangar) — Hangar is your Bluesky home base—built natively for Linux. ✈️
 
 [Finsys/dockhand](https://github.com/Finsys/dockhand) — Dockhand - Docker management you will like.
-
-[blacklight/madblog](https://github.com/blacklight/madblog) — A minimal platform for Markdown-based blogs
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
