@@ -41,7 +41,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [AlexZeitler/claude-ssh-image-skill](https://github.com/AlexZeitler/claude-ssh-image-skill) — A Claude Code skill + local daemon that enables pasting clipboard images into a 
 
-[emdash-cms/emdash](https://github.com/emdash-cms/emdash) — 
+[emdash-cms/emdash](https://github.com/emdash-cms/emdash) — EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to
 
 [Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) — A DAW built for automation, transformation, and fast musical iteration
 
