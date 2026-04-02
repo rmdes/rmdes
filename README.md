@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Peace Without Accountability Is Not Peace](https://rmendes.net/articles/2026/04/02/peace-without-accountability-is-not/) - 2026-04-02
+
 [Discover more of the Fediverse with tags.pub](https://rmendes.net/bookmarks/2026/04/02/discover-more-of-the-fediverse/) - 2026-04-02
 
 [x402 - Payment Required | Internet-Native Payments Standard](https://rmendes.net/bookmarks/2026/04/01/x402-payment-required-internet-native/) - 2026-04-01
