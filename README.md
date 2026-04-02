@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[victordsgamorim/logcat_mcp](https://github.com/victordsgamorim/logcat_mcp) — 
+
 [dfaria-eu/Starling](https://github.com/dfaria-eu/Starling) — Lightweight ActivityPub for small and independent servers.
 
 [jasnell/activitystrea.ms](https://github.com/jasnell/activitystrea.ms) — Activity Streams 2.0 for Node.js (this package is not actively maintained, if yo
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [hackers-pub/hackerspub](https://github.com/hackers-pub/hackerspub) — ActivityPub-enabled social network for hackers
 
 [SeifBenayed/claude-code-sdk](https://github.com/SeifBenayed/claude-code-sdk) — Open-source Claude Code SDK — single-file CLIs in Node.js, Python, Go, Rust that
-
-[ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — [Notice] The repo temporarily locked while ownership transfer. in the meantime w
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
