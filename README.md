@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[LocalKinAI/kin-code](https://github.com/LocalKinAI/kin-code) — AI coding assistant in Go. 9MB single binary, zero dependencies. MCP support, So
+
 [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) — A real-time monitoring dashboard for Claude Code
 
 [victordsgamorim/logcat_mcp](https://github.com/victordsgamorim/logcat_mcp) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [emdash-cms/emdash](https://github.com/emdash-cms/emdash) — EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to
 
 [Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) — A DAW built for automation, transformation, and fast musical iteration
-
-[hackers-pub/hackerspub](https://github.com/hackers-pub/hackerspub) — ActivityPub-enabled social network for hackers
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -63,10 +63,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [x402 - Payment Required | Internet-Native Payments Standard](https://rmendes.net/bookmarks/2026/04/01/x402-payment-required-internet-native/) - 2026-04-01
 
 [MAGDA — AI Assisted Music Production](https://rmendes.net/bookmarks/2026/04/01/magda-ai-assisted-music-production/) - 2026-04-01
-
-[Guides: LLM hosting, perf, RAG & observability](https://rmendes.net/bookmarks/2026/03/31/guides-llm-hosting-perf-rag/) - 2026-03-31
-
-[Flamands de droite et Wallons de gauche, vraiment ? Cette étude déconstruit les clichés](https://rmendes.net/bookmarks/2026/03/30/flamands-de-droite-et-wallons/) - 2026-03-30
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
