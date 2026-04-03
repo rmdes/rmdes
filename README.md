@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: activitypub 3.13.3 -> 3.13.4 (exempt own posts from c` (2026-04-02)
+<br>`fix: use 403 instead of 444 for scanner blocking (Cloudron p` (2026-04-03)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: exempt own posts from timeline retention cleanup` (2026-04-02)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[juxt/allium](https://github.com/juxt/allium) — Velocity through clarity
+
 [LocalKinAI/kin-code](https://github.com/LocalKinAI/kin-code) — AI coding assistant in Go. 9MB single binary, zero dependencies. MCP support, So
 
 [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) — A real-time monitoring dashboard for Claude Code
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [AlexZeitler/claude-ssh-image-skill](https://github.com/AlexZeitler/claude-ssh-image-skill) — A Claude Code skill + local daemon that enables pasting clipboard images into a 
 
 [emdash-cms/emdash](https://github.com/emdash-cms/emdash) — EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to
-
-[Conceptual-Machines/magda-core](https://github.com/Conceptual-Machines/magda-core) — A DAW built for automation, transformation, and fast musical iteration
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23923851551)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23957827223)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: activitypub 3.13.3 -> 3.13.4 (exempt own posts from c` (2026-04-02, 2m 3s)
+Last build: `fix: use 403 instead of 444 for scanner blocking (Cloudron p` (2026-04-03, 1m 31s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
