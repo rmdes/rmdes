@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: use 403 instead of 444 for scanner blocking (Cloudron p` (2026-04-03)
+<br>`fix: use ${NEW_RELEASE:-} to survive set -eu when initial bu` (2026-04-04)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: clear eleventy-img in-memory cache between builds to pr` (2026-04-04)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: exempt own posts from timeline retention cleanup` (2026-04-02)
@@ -22,9 +25,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 <br>`fix: diff card images now show actual changes prominently` (2026-03-31)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`diag: persist memory profiling to file (log buffer gets flus` (2026-03-30)
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23957827223)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23975270207)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: use 403 instead of 444 for scanner blocking (Cloudron p` (2026-04-03, 1m 31s)
+Last build: `fix: use ${NEW_RELEASE:-} to survive set -eu when initial bu` (2026-04-04, 1m 10s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
 **Docker Compose** — Standalone server deployment
