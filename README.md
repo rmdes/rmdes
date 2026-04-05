@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) — Real-time Kubernetes dashboard for SREs — live cluster state, drain wizard, YAML
+
 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced 
 
 [simonw/research-llm-apis](https://github.com/simonw/research-llm-apis) — Research into the HTTP APIs from various LLM providers.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) — A real-time monitoring dashboard for Claude Code
 
 [victordsgamorim/logcat_mcp](https://github.com/victordsgamorim/logcat_mcp) — 
-
-[dfaria-eu/Starling](https://github.com/dfaria-eu/Starling) — Lightweight ActivityPub for small and independent servers.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
