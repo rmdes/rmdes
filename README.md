@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`sync: align with indiekit-cloudron — plugin versions, build ` (2026-04-05)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: use ${NEW_RELEASE:-} to survive set -eu when initial bu` (2026-04-04)
+<br>`chore: update eleventy-site submodule (post ID matching fix)` (2026-04-05)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: clear eleventy-img in-memory cache between builds to pr` (2026-04-04)
+<br>`fix: match syndication echoes by platform post ID, not exact` (2026-04-05)
+
+[indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
+<br>`fix: add syndication URLs to owner replies and owner_urls to` (2026-04-05)
+
+[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
+<br>`sync: align with indiekit-cloudron — plugin versions, build ` (2026-04-05)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: exempt own posts from timeline retention cleanup` (2026-04-02)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`fix: diff card images show actual changes` (2026-03-31)
-
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: diff card images now show actual changes prominently` (2026-03-31)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/23975270207)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/24007377164)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: use ${NEW_RELEASE:-} to survive set -eu when initial bu` (2026-04-04, 1m 10s)
+Last build: `chore: update eleventy-site submodule (post ID matching fix)` (2026-04-05, 1m 30s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/24001131271)
 **Docker Compose** — Standalone server deployment
