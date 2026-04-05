@@ -17,6 +17,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: exempt own posts from timeline retention cleanup` (2026-04-02)
 
+[claude-howto](https://github.com/rmdes/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced 
+<br>`refactor(ci): shift quality checks to pre-commit, CI as 2nd ` (2026-04-02)
+
 [claw-code](https://github.com/rmdes/claw-code) — The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in ju
 <br>`docs: rebalance OmX and OmO README credit` (2026-04-01)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
-
-[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
-<br>`docs: document startup-gate usage in CLAUDE.md` (2026-03-28)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced 
+
 [simonw/research-llm-apis](https://github.com/simonw/research-llm-apis) — Research into the HTTP APIs from various LLM providers.
 
 [ihsibo/claude-peptides](https://github.com/ihsibo/claude-peptides) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [victordsgamorim/logcat_mcp](https://github.com/victordsgamorim/logcat_mcp) — 
 
 [dfaria-eu/Starling](https://github.com/dfaria-eu/Starling) — Lightweight ActivityPub for small and independent servers.
-
-[jasnell/activitystrea.ms](https://github.com/jasnell/activitystrea.ms) — Activity Streams 2.0 for Node.js (this package is not actively maintained, if yo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -61,10 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Peace Without Accountability Is Not Peace](https://rmendes.net/articles/2026/04/02/peace-without-accountability-is-not/) - 2026-04-02
 
 [Discover more of the Fediverse with tags.pub](https://rmendes.net/bookmarks/2026/04/02/discover-more-of-the-fediverse/) - 2026-04-02
-
-[x402 - Payment Required | Internet-Native Payments Standard](https://rmendes.net/bookmarks/2026/04/01/x402-payment-required-internet-native/) - 2026-04-01
-
-[MAGDA — AI Assisted Music Production](https://rmendes.net/bookmarks/2026/04/01/magda-ai-assisted-music-production/) - 2026-04-01
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
