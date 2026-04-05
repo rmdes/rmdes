@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
+<br>`sync: align with indiekit-cloudron — plugin versions, build ` (2026-04-05)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`fix: use ${NEW_RELEASE:-} to survive set -eu when initial bu` (2026-04-04)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 <br>`fix: diff card images now show actual changes prominently` (2026-03-31)
-
-[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`feat: add newsdiff as submodule, build from submodule in CI` (2026-03-29)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 **Cloudron** — Production deployment at rmendes.net
 Last build: `fix: use ${NEW_RELEASE:-} to survive set -eu when initial bu` (2026-04-04, 1m 10s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/23545203094)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/24001131271)
 **Docker Compose** — Standalone server deployment
-Last build: `fix: pin endpoint-json-feed to beta.25 (beta.27 never publis` (2026-03-25, 3m 32s)
+Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (2026-04-05, 3m 24s)
 <!-- pipelines ends -->
 
 ### npm Downloads
