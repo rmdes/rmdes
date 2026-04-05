@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[simonw/research-llm-apis](https://github.com/simonw/research-llm-apis) — Research into the HTTP APIs from various LLM providers.
+
+[ihsibo/claude-peptides](https://github.com/ihsibo/claude-peptides) — 
+
 [juxt/allium](https://github.com/juxt/allium) — Velocity through clarity
 
 [LocalKinAI/kin-code](https://github.com/LocalKinAI/kin-code) — AI coding assistant in Go. 9MB single binary, zero dependencies. MCP support, So
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [dfaria-eu/Starling](https://github.com/dfaria-eu/Starling) — Lightweight ActivityPub for small and independent servers.
 
 [jasnell/activitystrea.ms](https://github.com/jasnell/activitystrea.ms) — Activity Streams 2.0 for Node.js (this package is not actively maintained, if yo
-
-[AlexZeitler/claude-ssh-image-skill](https://github.com/AlexZeitler/claude-ssh-image-skill) — A Claude Code skill + local daemon that enables pasting clipboard images into a 
-
-[emdash-cms/emdash](https://github.com/emdash-cms/emdash) — EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
