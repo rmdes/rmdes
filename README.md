@@ -59,8 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Restaurant - Rio do Texas](https://rmendes.net/bookmarks/2026/04/03/restaurant-rio-do-texas/) - 2026-04-03
 
 [Peace Without Accountability Is Not Peace](https://rmendes.net/articles/2026/04/02/peace-without-accountability-is-not/) - 2026-04-02
-
-[Discover more of the Fediverse with tags.pub](https://rmendes.net/bookmarks/2026/04/02/discover-more-of-the-fediverse/) - 2026-04-02
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
