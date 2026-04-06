@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) — Curated Claude Code plugin marketplace
+
 [manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) — Real-time Kubernetes dashboard for SREs — live cluster state, drain wizard, YAML
 
 [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [LocalKinAI/kin-code](https://github.com/LocalKinAI/kin-code) — AI coding assistant in Go. 9MB single binary, zero dependencies. MCP support, So
 
 [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) — A real-time monitoring dashboard for Claude Code
-
-[victordsgamorim/logcat_mcp](https://github.com/victordsgamorim/logcat_mcp) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
