@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
+<br>`fix: use correct GitHub username (rmdes) in URLs` (2026-04-06)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site submodule (owner reply syndicati` (2026-04-05)
 
@@ -28,28 +31,25 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claw-code](https://github.com/rmdes/claw-code) — The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in ju
 <br>`docs: rebalance OmX and OmO README credit` (2026-04-01)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`fix: diff card images show actual changes` (2026-03-31)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
-[obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) — Curated Claude Code plugin marketplace
+[davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — Autonomous experiment loop extension for pi
 
-[manishchaudhary101/kube-argus](https://github.com/manishchaudhary101/kube-argus) — Real-time Kubernetes dashboard for SREs — live cluster state, drain wizard, YAML
+[uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. 
 
-[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced 
+[skalesapp/skales](https://github.com/skalesapp/skales) — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md),
 
-[simonw/research-llm-apis](https://github.com/simonw/research-llm-apis) — Research into the HTTP APIs from various LLM providers.
+[jackwener/opencli](https://github.com/jackwener/opencli) — Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
-[ihsibo/claude-peptides](https://github.com/ihsibo/claude-peptides) — 
+[pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design language that makes your AI harness better at design.
 
-[juxt/allium](https://github.com/juxt/allium) — Velocity through clarity
+[ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) — A minimum viable terminal emulator built on top of the libghostty C API. Ex mini
 
-[LocalKinAI/kin-code](https://github.com/LocalKinAI/kin-code) — AI coding assistant in Go. 9MB single binary, zero dependencies. MCP support, So
+[danveloper/flash-moe](https://github.com/danveloper/flash-moe) — Running a big model on a small laptop
 
-[Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) — A real-time monitoring dashboard for Claude Code
+[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) — Allow all your Claude Codes to message each other ad-hoc!
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
