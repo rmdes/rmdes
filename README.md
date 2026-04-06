@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[jeffvli/feishin](https://github.com/jeffvli/feishin) — A modern self-hosted music player.
+
 [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — Autonomous experiment loop extension for pi
 
 [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) — A minimum viable terminal emulator built on top of the libghostty C API. Ex mini
 
 [danveloper/flash-moe](https://github.com/danveloper/flash-moe) — Running a big model on a small laptop
-
-[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) — Allow all your Claude Codes to message each other ad-hoc!
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
