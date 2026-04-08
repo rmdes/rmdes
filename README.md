@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
+<br>`docs: update README and CLAUDE.md for full plugins backup an` (2026-04-08)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site (absolute u-url for IndieNews)` (2026-04-08)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: make h-entry u-url absolute for IndieNews compatibility` (2026-04-08)
-
-[claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
-<br>`fix: use correct GitHub username (rmdes) in URLs` (2026-04-06)
 
 [indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
 <br>`fix: add syndication URLs to owner replies and owner_urls to` (2026-04-05)
