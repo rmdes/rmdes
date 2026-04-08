@@ -168,6 +168,7 @@ _Stats will appear here automatically once [aidevops](https://aidevops.sh) has b
 - **[claude-brain](https://github.com/toroleapinc/claude-brain)** -- Sync your Claude Code brain across machines — memory, skills, agents, rules, and settings with intelligent semantic merge. Git-based, auto-sync hooks.
 - **[claude-code-langfuse-template](https://github.com/doneyli/claude-code-langfuse-template)** -- Self-hosted Langfuse for Claude Code session observability
 - **[claude-code-subagents-collection](https://github.com/davepoon/buildwithclaude)** -- Claude Code Subagents & Commands Collection + CLI Tool
+- **[claude-howto](https://github.com/luongnv89/claude-howto)** -- A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - **[claude-launcher](https://github.com/imprakharshukla/claude-launcher)** -- TUI for managing Claude Code sessions - search, resume, bookmark
 - **[claude-status-update](https://github.com/AlexanderBZ/claude-status-update)** -- A Claude Code plugin that automatically generates a standup ready update of what you built in the last 24 hours
 - **[claudecodeui](https://github.com/siteboon/claudecodeui)** -- Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI aka Claude Code UI. CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
@@ -315,5 +316,5 @@ _Stats will appear here automatically once [aidevops](https://aidevops.sh) has b
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-04-02 02:00 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-04-08 07:50 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
