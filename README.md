@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
-<br>`v0.2.0: rewrite to exclude-based model — backup everything b` (2026-04-08)
+<br>`clean: only preserve session history, remove junk dirs` (2026-04-08)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site (absolute u-url for IndieNews)` (2026-04-08)
