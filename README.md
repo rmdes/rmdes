@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[thorsheim/Mailcheck](https://github.com/thorsheim/Mailcheck) — Standalone html that runs in your browser to check any domain: DNSSEC, MX, PTR, 
+
 [LorenteFacundo/python-mcp-as400](https://github.com/LorenteFacundo/python-mcp-as400) — 
 
 [abstracta/IBM-AS-400-ISeries-MCP-Server](https://github.com/abstracta/IBM-AS-400-ISeries-MCP-Server) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. 
 
 [skalesapp/skales](https://github.com/skalesapp/skales) — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md),
-
-[jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) — Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
