@@ -49,7 +49,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [skalesapp/skales](https://github.com/skalesapp/skales) — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md),
 
-[jackwener/opencli](https://github.com/jackwener/opencli) — Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
+[jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) — Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
