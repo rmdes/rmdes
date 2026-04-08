@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
-<br>`fix: use correct GitHub username (rmdes) in URLs` (2026-04-06)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (owner reply syndicati` (2026-04-05)
+<br>`chore: update eleventy-site (absolute u-url for IndieNews)` (2026-04-08)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: show syndication badge and linked timestamp on owner r` (2026-04-05)
+<br>`fix: make h-entry u-url absolute for IndieNews compatibility` (2026-04-08)
+
+[claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
+<br>`fix: use correct GitHub username (rmdes) in URLs` (2026-04-06)
 
 [indiekit-endpoint-conversations](https://github.com/rmdes/indiekit-endpoint-conversations) — Conversation aggregation endpoint for Indiekit - unified cross-protocol conversa
 <br>`fix: add syndication URLs to owner replies and owner_urls to` (2026-04-05)
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/24010718228)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/24120598543)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (owner reply syndicati` (2026-04-05, 1m 57s)
+Last build: `chore: update eleventy-site (absolute u-url for IndieNews)` (2026-04-08, 1m 44s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/24001131271)
 **Docker Compose** — Standalone server deployment
