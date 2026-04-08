@@ -144,8 +144,8 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 | Screen time (Linux) | h | h | h | ~h* |
 | User AI session hours | 0.0h | 0.0h | 0.0h | 0.0h |
 | AI worker hours | 0.0h | 0.0h | 0.0h | 0.0h |
-| AI concurrency hours | 0.3h | 0.3h | 0.3h | 0.3h |
-| Interactive sessions | 9 | 9 | 9 | 9 |
+| AI concurrency hours | 0.4h | 0.4h | 0.4h | 0.4h |
+| Interactive sessions | 10 | 10 | 10 | 10 |
 | Worker sessions | 0 | 0 | 0 | 0 |
 
 _Screen time from systemd-logind session events, snapshotted daily. *365-day extrapolated (accumulating real data)._
@@ -340,5 +340,5 @@ _Model savings are modest because ~43.1% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-04-08 17:52 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-04-08 18:52 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
