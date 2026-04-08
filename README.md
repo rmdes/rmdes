@@ -115,8 +115,6 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 351 |
 | [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 336 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 335 |
-| [indiekit-endpoint-webmentions-proxy](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmentions-proxy) | 310 |
-
 </details>
 <!-- npm_stats ends -->
 
