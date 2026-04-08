@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[LorenteFacundo/python-mcp-as400](https://github.com/LorenteFacundo/python-mcp-as400) — 
+
+[abstracta/IBM-AS-400-ISeries-MCP-Server](https://github.com/abstracta/IBM-AS-400-ISeries-MCP-Server) — 
+
+[IBM/ibmi-mcp-server](https://github.com/IBM/ibmi-mcp-server) — MCP server for  IBM i systems
+
 [jeffvli/feishin](https://github.com/jeffvli/feishin) — A modern self-hosted music player.
 
 [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — Autonomous experiment loop extension for pi
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [skalesapp/skales](https://github.com/skalesapp/skales) — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md),
 
 [jackwener/opencli](https://github.com/jackwener/opencli) — Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
-
-[pbakaus/impeccable](https://github.com/pbakaus/impeccable) — The design language that makes your AI harness better at design.
-
-[ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) — A minimum viable terminal emulator built on top of the libghostty C API. Ex mini
-
-[danveloper/flash-moe](https://github.com/danveloper/flash-moe) — Running a big model on a small laptop
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
