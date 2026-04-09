@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[phuryn/claude-usage](https://github.com/phuryn/claude-usage) — A local dashboard for tracking your Claude Code token usage, costs, and session 
+
+[kylereddoch/eleventy-plugin-mastodon-share](https://github.com/kylereddoch/eleventy-plugin-mastodon-share) — A drop-in Eleventy plugin that adds a Share on Mastodon button and a small insta
+
+[safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
+
 [Strom-Capital/mcp-server-db2i](https://github.com/Strom-Capital/mcp-server-db2i) — MCP server for IBM DB2 for i (DB2i) database queries and metadata inspection
 
 [memodb-io/Acontext](https://github.com/memodb-io/Acontext) — Agent Skills as a Memory Layer
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [thorsheim/Mailcheck](https://github.com/thorsheim/Mailcheck) — Standalone html that runs in your browser to check any domain: DNSSEC, MX, PTR, 
 
 [LorenteFacundo/python-mcp-as400](https://github.com/LorenteFacundo/python-mcp-as400) — 
-
-[abstracta/IBM-AS-400-ISeries-MCP-Server](https://github.com/abstracta/IBM-AS-400-ISeries-MCP-Server) — 
-
-[IBM/ibmi-mcp-server](https://github.com/IBM/ibmi-mcp-server) — MCP server for  IBM i systems
-
-[jeffvli/feishin](https://github.com/jeffvli/feishin) — A modern self-hosted music player.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
