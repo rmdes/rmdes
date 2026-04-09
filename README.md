@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
+<br>`feat: add reset-fork-to-upstream.sh` (2026-04-09)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: update dependencies` (2026-04-04)
+
 [claude-env](https://github.com/rmdes/claude-env) — Safely backup, swap, and restore your Claude Code environment
 <br>`clean: only preserve session history, remove junk dirs` (2026-04-08)
 
@@ -25,12 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: exempt own posts from timeline retention cleanup` (2026-04-02)
-
-[claude-howto](https://github.com/rmdes/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced 
-<br>`refactor(ci): shift quality checks to pre-commit, CI as 2nd ` (2026-04-02)
-
-[claw-code](https://github.com/rmdes/claw-code) — The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in ju
-<br>`docs: rebalance OmX and OmO README credit` (2026-04-01)
 <!-- active_repos ends -->
 
 ### Recently Starred
