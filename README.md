@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Strom-Capital/mcp-server-db2i](https://github.com/Strom-Capital/mcp-server-db2i) — MCP server for IBM DB2 for i (DB2i) database queries and metadata inspection
+
+[memodb-io/Acontext](https://github.com/memodb-io/Acontext) — Agent Skills as a Memory Layer
+
 [vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) — Vulnerability-Lookup facilitates quick correlation of vulnerabilities from vario
 
 [thorsheim/Mailcheck](https://github.com/thorsheim/Mailcheck) — Standalone html that runs in your browser to check any domain: DNSSEC, MX, PTR, 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [IBM/ibmi-mcp-server](https://github.com/IBM/ibmi-mcp-server) — MCP server for  IBM i systems
 
 [jeffvli/feishin](https://github.com/jeffvli/feishin) — A modern self-hosted music player.
-
-[davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — Autonomous experiment loop extension for pi
-
-[uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
