@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) — Vulnerability-Lookup facilitates quick correlation of vulnerabilities from vario
+
 [thorsheim/Mailcheck](https://github.com/thorsheim/Mailcheck) — Standalone html that runs in your browser to check any domain: DNSSEC, MX, PTR, 
 
 [LorenteFacundo/python-mcp-as400](https://github.com/LorenteFacundo/python-mcp-as400) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — Autonomous experiment loop extension for pi
 
 [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. 
-
-[skalesapp/skales](https://github.com/skalesapp/skales) — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md),
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
