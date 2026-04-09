@@ -75,7 +75,7 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**38,807** downloads last month across **31** packages
+**39,143** downloads last month across **32** packages
 
 | Package | Downloads |
 |---------|-----------|
@@ -85,7 +85,7 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 1,649 |
 | [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 1,328 |
 
-<details><summary>See all 31 packages</summary>
+<details><summary>See all 32 packages</summary>
 
 | Package | Downloads |
 |---------|-----------|
@@ -113,6 +113,7 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 | [indiekit-endpoint-blogroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-blogroll) | 493 |
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 356 |
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 351 |
+| [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 336 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 335 |
 | [indiekit-endpoint-webmentions-proxy](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmentions-proxy) | 310 |
 
