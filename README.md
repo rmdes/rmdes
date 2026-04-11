@@ -75,7 +75,7 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**36,998** downloads last month across **32** packages
+**36,971** downloads last month across **32** packages
 
 | Package | Downloads |
 |---------|-----------|
@@ -92,7 +92,7 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 | [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 1,159 |
 | [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 1,084 |
 | [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 1,071 |
-| [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 1,053 |
+| [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 1,026 |
 | [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 956 |
 | [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 915 |
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 907 |
