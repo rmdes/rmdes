@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) — RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Ba
+
 [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on he
 
 [tw93/Waza](https://github.com/tw93/Waza) — 🥷 Engineering habits you already know, turned into skills Claude can run.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Strom-Capital/mcp-server-db2i](https://github.com/Strom-Capital/mcp-server-db2i) — MCP server for IBM DB2 for i (DB2i) database queries and metadata inspection
 
 [memodb-io/Acontext](https://github.com/memodb-io/Acontext) — Agent Skills as a Memory Layer
-
-[vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) — Vulnerability-Lookup facilitates quick correlation of vulnerabilities from vario
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
