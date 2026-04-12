@@ -35,7 +35,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Control Claude Code programmatically
+[halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Claude Code for the Power User
 
 [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) — RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Ba
 
