@@ -45,7 +45,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [kylereddoch/eleventy-plugin-mastodon-share](https://github.com/kylereddoch/eleventy-plugin-mastodon-share) — A drop-in Eleventy plugin that adds a Share on Mastodon button and a small insta
 
-[safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
+[safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 [Strom-Capital/mcp-server-db2i](https://github.com/Strom-Capital/mcp-server-db2i) — MCP server for IBM DB2 for i (DB2i) database queries and metadata inspection
 
