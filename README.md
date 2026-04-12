@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[claudraband](https://github.com/rmdes/claudraband) — Control Claude Code programmatically
+<br>`remove build files` (2026-04-12)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site submodule (dependency security p` (2026-04-11)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
 <br>`chore: gitignore package-lock.json` (2026-04-11)
-
-[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
-<br>`feat: add reset-fork-to-upstream.sh` (2026-04-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Control Claude Code programmatically
+
 [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) — RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Ba
 
 [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on he
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 [Strom-Capital/mcp-server-db2i](https://github.com/Strom-Capital/mcp-server-db2i) — MCP server for IBM DB2 for i (DB2i) database queries and metadata inspection
-
-[memodb-io/Acontext](https://github.com/memodb-io/Acontext) — Agent Skills as a Memory Layer
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
