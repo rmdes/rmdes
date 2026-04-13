@@ -11,6 +11,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [claudraband](https://github.com/rmdes/claudraband) — Control Claude Code programmatically
 <br>`remove build files` (2026-04-12)
 
+[brightbean-studio](https://github.com/rmdes/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
+<br>`ruff check fixes` (2026-04-12)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site submodule (dependency security p` (2026-04-11)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-readlater](https://github.com/rmdes/indiekit-endpoint-readlater) — Read It Later endpoint for Indiekit. Save URLs from any context for later consum
 <br>`chore: gitignore package-lock.json and common dev artifacts` (2026-04-11)
-
-[indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
-<br>`chore: gitignore package-lock.json` (2026-04-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
+
 [halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Claude Code for the Power User
 
 [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) — RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Ba
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kylereddoch/eleventy-plugin-mastodon-share](https://github.com/kylereddoch/eleventy-plugin-mastodon-share) — A drop-in Eleventy plugin that adds a Share on Mastodon button and a small insta
 
 [safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
-
-[Strom-Capital/mcp-server-db2i](https://github.com/Strom-Capital/mcp-server-db2i) — MCP server for IBM DB2 for i (DB2i) database queries and metadata inspection
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
