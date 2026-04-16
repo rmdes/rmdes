@@ -99,8 +99,8 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 644 |
 | [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 615 |
 | [indiekit-syndicator-bluesky](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-bluesky) | 583 |
-| [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 563 |
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 563 |
+| [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 563 |
 | [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 552 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 548 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 522 |
