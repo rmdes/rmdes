@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[tg12/phantomtide](https://github.com/tg12/phantomtide) — Global maritime intelligence platform for real-time vessel tracking, AIS data an
+
 [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
 
 [halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Claude Code for the Power User
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [phuryn/claude-usage](https://github.com/phuryn/claude-usage) — A local dashboard for tracking your Claude Code token usage, costs, and session 
 
 [kylereddoch/eleventy-plugin-mastodon-share](https://github.com/kylereddoch/eleventy-plugin-mastodon-share) — A drop-in Eleventy plugin that adds a Share on Mastodon button and a small insta
-
-[safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
