@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[devmegablaster/Notch-Pilot](https://github.com/devmegablaster/Notch-Pilot) — A live companion for Claude Code that lives in your MacBook notch. Reacts to wha
+
 [tg12/phantomtide](https://github.com/tg12/phantomtide) — Global maritime intelligence platform for real-time vessel tracking, AIS data an
 
 [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [tw93/Waza](https://github.com/tw93/Waza) — 🥷 Engineering habits you already know, turned into skills Claude can run.
 
 [phuryn/claude-usage](https://github.com/phuryn/claude-usage) — A local dashboard for tracking your Claude Code token usage, costs, and session 
-
-[kylereddoch/eleventy-plugin-mastodon-share](https://github.com/kylereddoch/eleventy-plugin-mastodon-share) — A drop-in Eleventy plugin that adds a Share on Mastodon button and a small insta
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
