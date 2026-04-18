@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) — Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to 
+
 [devmegablaster/Notch-Pilot](https://github.com/devmegablaster/Notch-Pilot) — A live companion for Claude Code that lives in your MacBook notch. Reacts to wha
 
 [tg12/phantomtide](https://github.com/tg12/phantomtide) — Global maritime intelligence platform for real-time vessel tracking, AIS data an
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on he
 
 [tw93/Waza](https://github.com/tw93/Waza) — 🥷 Engineering habits you already know, turned into skills Claude can run.
-
-[phuryn/claude-usage](https://github.com/phuryn/claude-usage) — A local dashboard for tracking your Claude Code token usage, costs, and session 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
