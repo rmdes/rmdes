@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) — Get PC BIOS back on UEFI only systems.
+
 [midudev/autoskills](https://github.com/midudev/autoskills) — One command. Your entire AI skill stack. Installed.
 
 [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) — Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Claude Code for the Power User
 
 [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow) — RooFlow - Enhanced Memory Bank System with ☢️Footgun Power☢️  Next-gen Memory Ba
-
-[drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on he
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
