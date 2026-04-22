@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler) — Crawl sites for RSS, Atom, and JSON feeds.
+
 [wailsapp/wails](https://github.com/wailsapp/wails) — Create beautiful applications using Go
 
 [CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) — Get PC BIOS back on UEFI only systems.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [tg12/phantomtide](https://github.com/tg12/phantomtide) — Global maritime intelligence platform for real-time vessel tracking, AIS data an
 
 [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
-
-[halfwhey/claudraband](https://github.com/halfwhey/claudraband) — Claude Code for the Power User
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
