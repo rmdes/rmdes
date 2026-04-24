@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[MemPalace/mempalace](https://github.com/MemPalace/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
+
 [desimpkins/daniel-lightrag-mcp](https://github.com/desimpkins/daniel-lightrag-mcp) — A comprehensive MCP server for LightRAG integration with 22 tools for document m
 
 [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) — EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Tr
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) — Get PC BIOS back on UEFI only systems.
 
 [midudev/autoskills](https://github.com/midudev/autoskills) — One command. Your entire AI skill stack. Installed.
-
-[Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) — Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
