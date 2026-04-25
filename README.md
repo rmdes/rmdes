@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
+<br>`Merge pull request #976 from felipetruman/fix/hnsw-race-and-` (2026-04-25)
+
 [claudraband](https://github.com/rmdes/claudraband) — Control Claude Code programmatically
 <br>`remove build files` (2026-04-12)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
 <br>`chore: bump version to 1.0.9` (2026-04-11)
-
-[indiekit-endpoint-readlater](https://github.com/rmdes/indiekit-endpoint-readlater) — Read It Later endpoint for Indiekit. Save URLs from any context for later consum
-<br>`chore: gitignore package-lock.json and common dev artifacts` (2026-04-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[brooks-code/WSL-VHDX-Compact](https://github.com/brooks-code/WSL-VHDX-Compact) — Free up space (effortlessly) on WSL2 with VHDX Compaction.
+
 [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
 
 [desimpkins/daniel-lightrag-mcp](https://github.com/desimpkins/daniel-lightrag-mcp) — A comprehensive MCP server for LightRAG integration with 22 tools for document m
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [wailsapp/wails](https://github.com/wailsapp/wails) — Create beautiful applications using Go
 
 [CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) — Get PC BIOS back on UEFI only systems.
-
-[midudev/autoskills](https://github.com/midudev/autoskills) — One command. Your entire AI skill stack. Installed.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
