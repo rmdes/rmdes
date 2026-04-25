@@ -138,3 +138,15 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 
 
 
+
+<!-- STATS-START -->
+<!-- Stats will be populated on next update -->
+<!-- STATS-END -->
+
+<!-- CONTRIBUTIONS-START -->
+<!-- CONTRIBUTIONS-END -->
+
+---
+
+<!-- UPDATED-START -->
+<!-- UPDATED-END -->
