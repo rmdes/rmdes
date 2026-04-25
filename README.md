@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[antononcube/Raku-Chatnik](https://github.com/antononcube/Raku-Chatnik) — Raku package that provides CLI scripts for conversing with persistent LLM person
+
 [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) — The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
 
 [brooks-code/WSL-VHDX-Compact](https://github.com/brooks-code/WSL-VHDX-Compact) — Free up space (effortlessly) on WSL2 with VHDX Compaction.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 
 [DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler) — Crawl sites for RSS, Atom, and JSON feeds.
-
-[wailsapp/wails](https://github.com/wailsapp/wails) — Create beautiful applications using Go
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
