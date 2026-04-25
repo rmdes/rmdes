@@ -140,7 +140,9 @@ Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (20
 
 
 <!-- STATS-START -->
-<!-- Stats will be populated on next update -->
+## Work with AI
+
+_Stats will appear here automatically once [aidevops](https://aidevops.sh) has been running locally. Includes AI session hours, model usage, token costs, and screen time._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
