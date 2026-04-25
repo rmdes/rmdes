@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) — The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
+
 [brooks-code/WSL-VHDX-Compact](https://github.com/brooks-code/WSL-VHDX-Compact) — Free up space (effortlessly) on WSL2 with VHDX Compaction.
 
 [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler) — Crawl sites for RSS, Atom, and JSON feeds.
 
 [wailsapp/wails](https://github.com/wailsapp/wails) — Create beautiful applications using Go
-
-[CSMWrap/CSMWrap](https://github.com/CSMWrap/CSMWrap) — Get PC BIOS back on UEFI only systems.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
