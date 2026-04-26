@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
-<br>`Merge pull request #976 from felipetruman/fix/hnsw-race-and-` (2026-04-25)
+<br>`Merge pull request #935 from shaun0927/fix/repair-crash-safe` (2026-04-25)
 
 [claudraband](https://github.com/rmdes/claudraband) — Control Claude Code programmatically
 <br>`remove build files` (2026-04-12)
