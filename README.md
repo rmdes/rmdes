@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
+
+[russellromney/honker](https://github.com/russellromney/honker) — SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable qu
+
+[dustinlacewell/claude-config-manager](https://github.com/dustinlacewell/claude-config-manager) — A native app for managing all Claude Code configuration
+
+[lu-zhengda/claude-mem-viz](https://github.com/lu-zhengda/claude-mem-viz) — Browse and edit what Claude Code remembers
+
 [antononcube/Raku-Chatnik](https://github.com/antononcube/Raku-Chatnik) — Raku package that provides CLI scripts for conversing with persistent LLM person
 
 [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) — The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [brooks-code/WSL-VHDX-Compact](https://github.com/brooks-code/WSL-VHDX-Compact) — Free up space (effortlessly) on WSL2 with VHDX Compaction.
 
 [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
-
-[desimpkins/daniel-lightrag-mcp](https://github.com/desimpkins/daniel-lightrag-mcp) — A comprehensive MCP server for LightRAG integration with 22 tools for document m
-
-[raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) — EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Tr
-
-[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-
-[DBeath/feedsearch-crawler](https://github.com/DBeath/feedsearch-crawler) — Crawl sites for RSS, Atom, and JSON feeds.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
