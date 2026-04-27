@@ -37,8 +37,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- starred starts -->
 [ilang-ai/Mem-Forever](https://github.com/ilang-ai/Mem-Forever) — Every AI tool forgets you after every session. This repo doesn't. Ever. Zero ins
 
-[enkryptai/glyph](https://github.com/enkryptai/glyph) — 
-
 [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
 
 [russellromney/honker](https://github.com/russellromney/honker) — SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable qu
@@ -50,6 +48,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [antononcube/Raku-Chatnik](https://github.com/antononcube/Raku-Chatnik) — Raku package that provides CLI scripts for conversing with persistent LLM person
 
 [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) — The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
+
+[brooks-code/WSL-VHDX-Compact](https://github.com/brooks-code/WSL-VHDX-Compact) — Free up space (effortlessly) on WSL2 with VHDX Compaction.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
