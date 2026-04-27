@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
+<br>`Handle COM-only ghosts: filter via COM properties when CIM t` (2026-04-27)
+
 [mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
 <br>`Merge pull request #1191 from funguf/fix/hnsw-index-bloat-re` (2026-04-27)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`chore: bump version to 1.0.0-beta.40` (2026-04-11)
-
-[indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
-<br>`chore: bump version to 1.0.9` (2026-04-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
+
 [ilang-ai/Mem-Forever](https://github.com/ilang-ai/Mem-Forever) — Every AI tool forgets you after every session. This repo doesn't. Ever. Zero ins
 
 [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [antononcube/Raku-Chatnik](https://github.com/antononcube/Raku-Chatnik) — Raku package that provides CLI scripts for conversing with persistent LLM person
 
 [nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) — The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
-
-[brooks-code/WSL-VHDX-Compact](https://github.com/brooks-code/WSL-VHDX-Compact) — Free up space (effortlessly) on WSL2 with VHDX Compaction.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
