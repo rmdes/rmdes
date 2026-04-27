@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ZM-BAD/DAG-chat](https://github.com/ZM-BAD/DAG-chat) — Chat applications that use DAG to build question-answer relationships.
+
+[redimp/otterwiki](https://github.com/redimp/otterwiki) — A minimalistic wiki powered by python, markdown and git.
+
 [rmdes/Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
 
 [ilang-ai/Mem-Forever](https://github.com/ilang-ai/Mem-Forever) — Every AI tool forgets you after every session. This repo doesn't. Ever. Zero ins
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [dustinlacewell/claude-config-manager](https://github.com/dustinlacewell/claude-config-manager) — A native app for managing all Claude Code configuration
 
 [lu-zhengda/claude-mem-viz](https://github.com/lu-zhengda/claude-mem-viz) — Browse and edit what Claude Code remembers
-
-[antononcube/Raku-Chatnik](https://github.com/antononcube/Raku-Chatnik) — Raku package that provides CLI scripts for conversing with persistent LLM person
-
-[nicobailon/surf-cli](https://github.com/nicobailon/surf-cli) — The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
