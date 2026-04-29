@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[clamp-sh/analytics-skills](https://github.com/clamp-sh/analytics-skills) — Skills for AI agents to read web analytics like a senior analyst: diagnose traff
+
 [mongodb/kingfisher](https://github.com/mongodb/kingfisher) — Find, validate, and map the impact of leaked secrets across your stack. Revoke f
 
 [ZM-BAD/DAG-chat](https://github.com/ZM-BAD/DAG-chat) — Chat applications that use DAG to build question-answer relationships.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
 
 [russellromney/honker](https://github.com/russellromney/honker) — SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable qu
-
-[dustinlacewell/claude-config-manager](https://github.com/dustinlacewell/claude-config-manager) — A native app for managing all Claude Code configuration
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
