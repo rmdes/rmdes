@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts) — Helm Charts for Dependency-Track
+
 [clamp-sh/analytics-skills](https://github.com/clamp-sh/analytics-skills) — Skills for AI agents to read web analytics like a senior analyst: diagnose traff
 
 [mongodb/kingfisher](https://github.com/mongodb/kingfisher) — Find, validate, and map the impact of leaked secrets across your stack. Revoke f
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ilang-ai/Mem-Forever](https://github.com/ilang-ai/Mem-Forever) — Every AI tool forgets you after every session. This repo doesn't. Ever. Zero ins
 
 [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
-
-[russellromney/honker](https://github.com/russellromney/honker) — SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable qu
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
