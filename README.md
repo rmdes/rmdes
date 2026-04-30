@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ryaker/outlook-mcp](https://github.com/ryaker/outlook-mcp) — MCP server for Claude to access Outlook data via Microsoft Graph API
+
 [DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts) — Helm Charts for Dependency-Track
 
 [clamp-sh/analytics-skills](https://github.com/clamp-sh/analytics-skills) — Skills for AI agents to read web analytics like a senior analyst: diagnose traff
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rmdes/Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
 
 [ilang-ai/Mem-Forever](https://github.com/ilang-ai/Mem-Forever) — Every AI tool forgets you after every session. This repo doesn't. Ever. Zero ins
-
-[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
