@@ -57,8 +57,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Blog
 <!-- blog starts -->
 [Reading: Risky Bulletin: NIST gives up enriching most CVEs](https://rmendes.net/bookmarks/2026/04/18/reading-risky-bulletin-nist-gives/) - 2026-04-18
-
-[La bonne nouvelle du jour : Joseph Figueira Martin a été libéré après plus de 600 jours de prison et de maltraitances !](https://rmendes.net/bookmarks/2026/04/07/la-bonne-nouvelle-du-jour/) - 2026-04-07
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
