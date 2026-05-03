@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
-<br>`Merge pull request #1303 from MemPalace/fix/mcp-server-missi` (2026-05-01)
+<br>`Merge pull request #1321 from MemPalace/fix/1313-init-palace` (2026-05-03)
 
 [Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
 <br>`Add CHANGELOG.md for v2.0.0` (2026-04-27)
