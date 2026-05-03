@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump activitypub to 3.13.6` (2026-05-03)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`chore: security patches and release 3.13.6` (2026-05-03)
+
 [mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
 <br>`Merge pull request #1321 from MemPalace/fix/1313-init-palace` (2026-05-03)
 
@@ -20,17 +26,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [brightbean-studio](https://github.com/rmdes/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
 <br>`ruff check fixes` (2026-04-12)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (dependency security p` (2026-04-11)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: patch 7 dependency vulnerabilities via npm audit fix` (2026-04-11)
 
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
 <br>`chore: bump version to 1.0.0-beta.31` (2026-04-11)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`chore: bump version to 1.0.0-beta.40` (2026-04-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/24280684247)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/25281451426)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (dependency security p` (2026-04-11, 2m 20s)
+Last build: `chore: bump activitypub to 3.13.6` (2026-05-03, 3m 57s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/24001131271)
 **Docker Compose** — Standalone server deployment
