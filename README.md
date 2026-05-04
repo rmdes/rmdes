@@ -37,7 +37,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- starred starts -->
 [yamafaktory/hypergraphz](https://github.com/yamafaktory/hypergraphz) — HypergraphZ - A Hypergraph Implementation in Zig
 
-[iBz-04/quaynor](https://github.com/iBz-04/quaynor) — Embed local LLMs in your app
+[iBz-04/quaynor](https://github.com/iBz-04/quaynor) — Lightweight AI inference engine for mobile apps 
 
 [rmdes/claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 
