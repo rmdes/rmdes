@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[yamafaktory/hypergraphz](https://github.com/yamafaktory/hypergraphz) — HypergraphZ - A Hypergraph Implementation in Zig
+
+[iBz-04/quaynor](https://github.com/iBz-04/quaynor) — Embed local LLMs in your app
+
 [rmdes/claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 
 [ryaker/outlook-mcp](https://github.com/ryaker/outlook-mcp) — MCP server for Claude to access Outlook data via Microsoft Graph API
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mongodb/kingfisher](https://github.com/mongodb/kingfisher) — Find, validate, and map the impact of leaked secrets across your stack. Revoke f
 
 [ZM-BAD/DAG-chat](https://github.com/ZM-BAD/DAG-chat) — Chat applications that use DAG to build question-answer relationships.
-
-[redimp/otterwiki](https://github.com/redimp/otterwiki) — A minimalistic wiki powered by python, markdown and git.
-
-[rmdes/Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
