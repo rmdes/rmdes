@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
+<br>`Add .env-based config layer` (2026-05-04)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump activitypub to 3.13.6` (2026-05-03)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: patch 7 dependency vulnerabilities via npm audit fix` (2026-04-11)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`chore: bump version to 1.0.0-beta.31` (2026-04-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
+
 [ryaker/outlook-mcp](https://github.com/ryaker/outlook-mcp) — MCP server for Claude to access Outlook data via Microsoft Graph API
 
 [DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts) — Helm Charts for Dependency-Track
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [redimp/otterwiki](https://github.com/redimp/otterwiki) — A minimalistic wiki powered by python, markdown and git.
 
 [rmdes/Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
-
-[ilang-ai/Mem-Forever](https://github.com/ilang-ai/Mem-Forever) — Every AI tool forgets you after every session. This repo doesn't. Ever. Zero ins
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
