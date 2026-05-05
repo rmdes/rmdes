@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) — Better context. Better code.
+
+[zroubalik/keda-openshift-examples](https://github.com/zroubalik/keda-openshift-examples) — Examples on application autoscaling by KEDA on OpenShift
+
+[kedacore/keda](https://github.com/kedacore/keda) —  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides even
+
+[redhat-community-ai-tools/claude-plugins](https://github.com/redhat-community-ai-tools/claude-plugins) — 
+
 [warpdotdev/warp](https://github.com/warpdotdev/warp) — Warp is an agentic development environment, born out of the terminal.
 
 [yamafaktory/hypergraphz](https://github.com/yamafaktory/hypergraphz) — HypergraphZ - A Hypergraph Implementation in Zig
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [iBz-04/quaynor](https://github.com/iBz-04/quaynor) — Lightweight AI inference engine for mobile apps 
 
 [rmdes/claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
-
-[ryaker/outlook-mcp](https://github.com/ryaker/outlook-mcp) — MCP server for Claude to access Outlook data via Microsoft Graph API
-
-[DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts) — Helm Charts for Dependency-Track
-
-[clamp-sh/analytics-skills](https://github.com/clamp-sh/analytics-skills) — Skills for AI agents to read web analytics like a senior analyst: diagnose traff
-
-[mongodb/kingfisher](https://github.com/mongodb/kingfisher) — Find, validate, and map the impact of leaked secrets across your stack. Revoke f
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
