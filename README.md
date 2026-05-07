@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Distributed Real-Time Search Analytics Database
+
 [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) — Better context. Better code.
 
 [zroubalik/keda-openshift-examples](https://github.com/zroubalik/keda-openshift-examples) — Examples on application autoscaling by KEDA on OpenShift
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [yamafaktory/hypergraphz](https://github.com/yamafaktory/hypergraphz) — HypergraphZ - A Hypergraph Implementation in Zig
 
 [iBz-04/quaynor](https://github.com/iBz-04/quaynor) — Lightweight AI inference engine for mobile apps 
-
-[rmdes/claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
