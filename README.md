@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[deepclaude](https://github.com/rmdes/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
+<br>`fix: strip thinking blocks on backend switch — close DeepSee` (2026-05-05)
+
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`Add .env-based config layer` (2026-05-04)
 
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [brightbean-studio](https://github.com/rmdes/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
 <br>`ruff check fixes` (2026-04-12)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: patch 7 dependency vulnerabilities via npm audit fix` (2026-04-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash local inference engine for Metal
+
+[aattaran/deepclaude](https://github.com/aattaran/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
+
 [serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Distributed Real-Time Search Analytics Database
 
 [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) — Better context. Better code.
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [redhat-community-ai-tools/claude-plugins](https://github.com/redhat-community-ai-tools/claude-plugins) — 
 
 [warpdotdev/warp](https://github.com/warpdotdev/warp) — Warp is an agentic development environment, born out of the terminal.
-
-[yamafaktory/hypergraphz](https://github.com/yamafaktory/hypergraphz) — HypergraphZ - A Hypergraph Implementation in Zig
-
-[iBz-04/quaynor](https://github.com/iBz-04/quaynor) — Lightweight AI inference engine for mobile apps 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
