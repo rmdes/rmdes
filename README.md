@@ -39,7 +39,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [aattaran/deepclaude](https://github.com/aattaran/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 
-[serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Distributed Real-Time Search Analytics Database
+[serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Real-Time Search Analytics Database
 
 [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) — Better context. Better code.
 
