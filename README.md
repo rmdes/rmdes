@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`fix(migration): top-level pages + photo URL preservation` (2026-05-08)
+<br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 **Cloudron** — Production deployment at rmendes.net
 Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08, 41s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25564647536)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
-Last build: `fix(migration): top-level pages + photo URL preservation` (2026-05-08, 3m 35s)
+Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08, 3m 38s)
 <!-- pipelines ends -->
 
 ### npm Downloads
@@ -111,8 +111,8 @@ Last build: `fix(migration): top-level pages + photo URL preservation` (2026-05-
 | [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 35 |
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 28 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 26 |
-| [indiekit-syndicator-indienews](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-indienews) | 23 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 23 |
+| [indiekit-syndicator-indienews](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-indienews) | 23 |
 | [indiekit-endpoint-webmentions-proxy](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmentions-proxy) | 15 |
 
 </details>
