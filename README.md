@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`docs: acknowledge that micro.blog → Indiekit migration is pr` (2026-05-08)
+<br>`fix(migration): top-level pages + photo URL preservation` (2026-05-08)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: harden CV templates against malformed cv.json shapes` (2026-05-08)
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`Add .env-based config layer` (2026-05-04)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump activitypub to 3.13.6` (2026-05-03)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`chore: security patches and release 3.13.6` (2026-05-03)
@@ -62,13 +62,13 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/25281451426)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/25563611941)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump activitypub to 3.13.6` (2026-05-03, 3m 57s)
+Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08, 41s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25560554019)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25564647536)
 **Docker Compose** — Standalone server deployment
-Last build: `docs: acknowledge that micro.blog → Indiekit migration is pr` (2026-05-08, 3m 14s)
+Last build: `fix(migration): top-level pages + photo URL preservation` (2026-05-08, 3m 35s)
 <!-- pipelines ends -->
 
 ### npm Downloads
