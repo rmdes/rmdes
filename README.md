@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`docs: add TODO.md tracking migration tool roadmap` (2026-05-08)
+<br>`docs: acknowledge that micro.blog → Indiekit migration is pr` (2026-05-08)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: harden CV templates against malformed cv.json shapes` (2026-05-08)
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 **Cloudron** — Production deployment at rmendes.net
 Last build: `chore: bump activitypub to 3.13.6` (2026-05-03, 3m 57s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25556064170)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25560554019)
 **Docker Compose** — Standalone server deployment
-Last build: `docs: add TODO.md tracking migration tool roadmap` (2026-05-08, 3m 41s)
+Last build: `docs: acknowledge that micro.blog → Indiekit migration is pr` (2026-05-08, 3m 14s)
 <!-- pipelines ends -->
 
 ### npm Downloads
