@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: harden CV templates against malformed cv.json shapes` (2026-05-08)
+
 [deepclaude](https://github.com/rmdes/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 <br>`fix: strip thinking blocks on backend switch — close DeepSee` (2026-05-05)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claudraband](https://github.com/rmdes/claudraband) — Control Claude Code programmatically
 <br>`remove build files` (2026-04-12)
-
-[brightbean-studio](https://github.com/rmdes/brightbean-studio) — Open-source, self-hostable social media management platform. Schedule, publish, 
-<br>`ruff check fixes` (2026-04-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
