@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
+<br>`docs: add TODO.md tracking migration tool roadmap` (2026-05-08)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: harden CV templates against malformed cv.json shapes` (2026-05-08)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
 <br>`Add CHANGELOG.md for v2.0.0` (2026-04-27)
-
-[claudraband](https://github.com/rmdes/claudraband) — Control Claude Code programmatically
-<br>`remove build files` (2026-04-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 **Cloudron** — Production deployment at rmendes.net
 Last build: `chore: bump activitypub to 3.13.6` (2026-05-03, 3m 57s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/24001131271)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25556064170)
 **Docker Compose** — Standalone server deployment
-Last build: `sync: align with indiekit-cloudron — plugin versions, build ` (2026-04-05, 3m 24s)
+Last build: `docs: add TODO.md tracking migration tool roadmap` (2026-05-08, 3m 41s)
 <!-- pipelines ends -->
 
 ### npm Downloads
