@@ -39,7 +39,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) — Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web Ap
 
-[antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash local inference engine for Metal
+[antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash local inference engine for Metal and CUDA
 
 [aattaran/deepclaude](https://github.com/aattaran/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 
