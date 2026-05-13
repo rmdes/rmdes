@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[FAI-Solutions/open-webui-extensions](https://github.com/FAI-Solutions/open-webui-extensions) — A growing collection of practical filter, pipeline & tool extensions for Open We
+
 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) — Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpa
 
 [PentHertz/LUKSbox](https://github.com/PentHertz/LUKSbox) — Store sensitive files in the cloud, or on shared media without trusting the host
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Real-Time Search Analytics Database
 
 [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) — Better context. Better code.
-
-[zroubalik/keda-openshift-examples](https://github.com/zroubalik/keda-openshift-examples) — Examples on application autoscaling by KEDA on OpenShift
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
