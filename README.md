@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Yambr/open-computer-use](https://github.com/Yambr/open-computer-use) — MCP server that gives any LLM its own computer — managed Docker workspaces with 
+
 [rohanmistry231/Claude-OS](https://github.com/rohanmistry231/Claude-OS) — A concise Claude reference bundle for developers, covering commands, MCP servers
 
 [FAI-Solutions/open-webui-extensions](https://github.com/FAI-Solutions/open-webui-extensions) — A growing collection of practical filter, pipeline & tool extensions for Open We
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash local inference engine for Metal and CUDA
 
 [aattaran/deepclaude](https://github.com/aattaran/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
-
-[serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Real-Time Search Analytics Database
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
