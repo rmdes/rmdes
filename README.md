@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rohanmistry231/Claude-OS](https://github.com/rohanmistry231/Claude-OS) — A concise Claude reference bundle for developers, covering commands, MCP servers
+
 [FAI-Solutions/open-webui-extensions](https://github.com/FAI-Solutions/open-webui-extensions) — A growing collection of practical filter, pipeline & tool extensions for Open We
 
 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) — Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpa
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [aattaran/deepclaude](https://github.com/aattaran/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 
 [serenedb/serenedb](https://github.com/serenedb/serenedb) — The First Real-Time Search Analytics Database
-
-[watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) — Better context. Better code.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
