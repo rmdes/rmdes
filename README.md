@@ -35,7 +35,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[Yambr/open-computer-use](https://github.com/Yambr/open-computer-use) — MCP server that gives any LLM its own computer — managed Docker workspaces with 
+[Wide-Moat/open-computer-use](https://github.com/Wide-Moat/open-computer-use) — MCP server that gives any LLM its own computer — managed Docker workspaces with 
 
 [rohanmistry231/Claude-OS](https://github.com/rohanmistry231/Claude-OS) — A concise Claude reference bundle for developers, covering commands, MCP servers
 
