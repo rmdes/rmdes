@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[oGraph-Bluesky-Poster](https://github.com/rmdes/oGraph-Bluesky-Poster) — A chrome extension to  preview and retrieve open graph (og) tag data from a site
+<br>`feat: rework into production-ready Bluesky client` (2026-05-16)
+
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
 <br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
 <br>`Merge pull request #1321 from MemPalace/fix/1313-init-palace` (2026-05-03)
-
-[Clear-CCMCache.ps1](https://github.com/rmdes/Clear-CCMCache.ps1) — Clear old SCCM content from CCMCache folder
-<br>`Add CHANGELOG.md for v2.0.0` (2026-04-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
