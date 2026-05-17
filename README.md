@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [oGraph-Bluesky-Poster](https://github.com/rmdes/oGraph-Bluesky-Poster) — A chrome extension to  preview and retrieve open graph (og) tag data from a site
-<br>`feat: add Firefox support via browser_specific_settings + du` (2026-05-17)
+<br>`fix: bump Firefox strict_min_version to 142.0 for AMO valida` (2026-05-17)
 
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
 <br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
