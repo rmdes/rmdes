@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ispras/dedoc](https://github.com/ispras/dedoc) — Dedoc is a library (service) for automate documents parsing and bringing to a un
+
+[Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) — The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
+
+[RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) — Your personal AI OS
+
 [Wide-Moat/open-computer-use](https://github.com/Wide-Moat/open-computer-use) — MCP server that gives any LLM its own computer — managed Docker workspaces with 
 
 [rohanmistry231/Claude-OS](https://github.com/rohanmistry231/Claude-OS) — A concise Claude reference bundle for developers, covering commands, MCP servers
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) — Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpa
 
 [PentHertz/LUKSbox](https://github.com/PentHertz/LUKSbox) — Store sensitive files in the cloud, or on shared media without trusting the host
-
-[pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) — Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web Ap
-
-[antirez/ds4](https://github.com/antirez/ds4) — DeepSeek 4 Flash local inference engine for Metal and CUDA
-
-[aattaran/deepclaude](https://github.com/aattaran/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
