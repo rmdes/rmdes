@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`feat(manifest): pin Chrome extension key for stable dev ID +` (2026-05-18)
+<br>`fix(background): explicit lastError access + sequential menu` (2026-05-18)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump endpoint-auth override to beta.31 for spec-compl` (2026-05-18)
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`feat: implement spec-compliant redirect_uri validation` (2026-05-18)
@@ -18,9 +21,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <br>`fix: bump Firefox strict_min_version to 142.0 for AMO valida` (2026-05-17)
 
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/25563611941)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26049449665)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08, 41s)
+Last build: `chore: bump endpoint-auth override to beta.31 for spec-compl` (2026-05-18, 2m 54s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
