@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[YUZU-Hub/ios-screenshot-shooter](https://github.com/YUZU-Hub/ios-screenshot-shooter) — Automated App Store screenshot generation for iOS apps
+
+[YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen) — Create screenshots for the iOS App Store
+
 [devangshekhawat/Fedora-44-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-44-Post-Install-Guide) — Things to do after installing Fedora 44
 
 [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) — LLM Wiki is a cross-platform desktop application that turns your documents into 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) — Your personal AI OS
 
 [Wide-Moat/open-computer-use](https://github.com/Wide-Moat/open-computer-use) — MCP server that gives any LLM its own computer — managed Docker workspaces with 
-
-[rohanmistry231/Claude-OS](https://github.com/rohanmistry231/Claude-OS) — A concise Claude reference bundle for developers, covering commands, MCP servers
-
-[FAI-Solutions/open-webui-extensions](https://github.com/FAI-Solutions/open-webui-extensions) — A growing collection of practical filter, pipeline & tool extensions for Open We
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
