@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`feat(manifest): pin Chrome extension key for stable dev ID +` (2026-05-18)
+
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`feat: implement spec-compliant redirect_uri validation` (2026-05-18)
+
 [oGraph-Bluesky-Poster](https://github.com/rmdes/oGraph-Bluesky-Poster) — A chrome extension to  preview and retrieve open graph (og) tag data from a site
 <br>`fix: bump Firefox strict_min_version to 142.0 for AMO valida` (2026-05-17)
 
@@ -25,16 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`Add .env-based config layer` (2026-05-04)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`chore: security patches and release 3.13.6` (2026-05-03)
-
-[mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
-<br>`Merge pull request #1321 from MemPalace/fix/1313-init-palace` (2026-05-03)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+
 [YUZU-Hub/ios-screenshot-shooter](https://github.com/YUZU-Hub/ios-screenshot-shooter) — Automated App Store screenshot generation for iOS apps
 
 [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen) — Create screenshots for the iOS App Store
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) — The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
 
 [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) — Your personal AI OS
-
-[Wide-Moat/open-computer-use](https://github.com/Wide-Moat/open-computer-use) — MCP server that gives any LLM its own computer — managed Docker workspaces with 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
