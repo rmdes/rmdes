@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[devangshekhawat/Fedora-44-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-44-Post-Install-Guide) — Things to do after installing Fedora 44
+
+[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) — LLM Wiki is a cross-platform desktop application that turns your documents into 
+
 [ispras/dedoc](https://github.com/ispras/dedoc) — Dedoc is a library (service) for automate documents parsing and bringing to a un
 
 [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) — The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rohanmistry231/Claude-OS](https://github.com/rohanmistry231/Claude-OS) — A concise Claude reference bundle for developers, covering commands, MCP servers
 
 [FAI-Solutions/open-webui-extensions](https://github.com/FAI-Solutions/open-webui-extensions) — A growing collection of practical filter, pipeline & tool extensions for Open We
-
-[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) — Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpa
-
-[PentHertz/LUKSbox](https://github.com/PentHertz/LUKSbox) — Store sensitive files in the cloud, or on shared media without trusting the host
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
