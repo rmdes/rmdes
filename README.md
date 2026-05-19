@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[wxt-dev/wxt](https://github.com/wxt-dev/wxt) — ⚡ Next-gen Web Extension Framework
+
 [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — High-Quality Voice Cloning TTS for 600+ Languages
 
 [rmdes/plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) — LLM Wiki is a cross-platform desktop application that turns your documents into 
 
 [ispras/dedoc](https://github.com/ispras/dedoc) — Dedoc is a library (service) for automate documents parsing and bringing to a un
-
-[Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) — The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
