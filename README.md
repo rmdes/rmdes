@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`docs(changelog): correct v1.0 entry — ai-code-level UI ships` (2026-05-19)
+<br>`release: v1.0.4 — declare data_collection_permissions for AM` (2026-05-19)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump endpoint-auth override to beta.31 for spec-compl` (2026-05-18)
