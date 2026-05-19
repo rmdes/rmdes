@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[did](https://github.com/rmdes/did) — retrieve the DID of a bluesky handle
+<br>`feat: adopt site-per-repo deploy + superset content` (2026-05-19)
+
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`docs(site): refresh landing page for v1.2 + self-updating ve` (2026-05-19)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [deepclaude](https://github.com/rmdes/deepclaude) — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 <br>`fix: strip thinking blocks on backend switch — close DeepSee` (2026-05-05)
-
-[claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
-<br>`Add .env-based config layer` (2026-05-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
