@@ -8,7 +8,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rmdes.github.io](https://github.com/rmdes/rmdes.github.io) — Bluesky DID resolver
+[rmdes.github.io](https://github.com/rmdes/rmdes.github.io) — Github Portfolio
 <br>`fix: card icons stretched to fill wide flex containers` (2026-05-19)
 
 [did](https://github.com/rmdes/did) — retrieve the DID of a bluesky handle
