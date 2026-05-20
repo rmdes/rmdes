@@ -8,8 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[claude-code-subagents-collection](https://github.com/rmdes/claude-code-subagents-collection) — Claude Code Subagents & Commands Collection + CLI Tool
+<br>`feat: update archcore v0.4.4` (2026-05-18)
+
+[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
+<br>`docs: sync live native payments gate evidence` (2026-05-20)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky
+<br>`Merge branch 'milanmdev:main' into main` (2026-05-20)
+
 [rmdes.github.io](https://github.com/rmdes/rmdes.github.io) — Github Portfolio
-<br>`tweak tagline` (2026-05-20)
+<br>`chore: add mastodon/activitypub link next to bluesky in mast` (2026-05-20)
 
 [did](https://github.com/rmdes/did) — retrieve the DID of a bluesky handle
 <br>`feat: adopt site-per-repo deploy + superset content` (2026-05-19)
@@ -22,15 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`feat: implement spec-compliant redirect_uri validation` (2026-05-18)
-
-[oGraph-Bluesky-Poster](https://github.com/rmdes/oGraph-Bluesky-Poster) — A chrome extension to  preview and retrieve open graph (og) tag data from a site
-<br>`fix: bump Firefox strict_min_version to 142.0 for AMO valida` (2026-05-17)
-
-[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: harden CV templates against malformed cv.json shapes` (2026-05-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Building Plume](https://rmendes.net/articles/2026/05/20/building-plume/) - 2026-05-20
+
 [Plume — Micropub for browsers](https://rmendes.net/bookmarks/2026/05/19/plume-micropub-for-browsers/) - 2026-05-19
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
