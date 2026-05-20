@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[zakirullin/files.md](https://github.com/zakirullin/files.md) — 🌱 Private, quiet space for thinking. A simple app for your .md files.
+
 [sonatype/dependency-management-mcp-server](https://github.com/sonatype/dependency-management-mcp-server) — 
 
 [ci-dashboard/gitlab-ci-dashboard](https://github.com/ci-dashboard/gitlab-ci-dashboard) — 📊 Dashboard for monitoring GitLab CI builds and pipelines for TV
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [redhat-community-ai-tools/UnifAI](https://github.com/redhat-community-ai-tools/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 
 [wxt-dev/wxt](https://github.com/wxt-dev/wxt) — ⚡ Next-gen Web Extension Framework
-
-[k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — High-Quality Voice Cloning TTS for 600+ Languages
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
