@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rgombash/ocl-nexus-local](https://github.com/rgombash/ocl-nexus-local) — Orchestrated Compute Layer for AI agents. Local K3s-based fabric for autonomous 
+
+[btkhaled/SamarisOSMountainLake](https://github.com/btkhaled/SamarisOSMountainLake) — A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual-k
+
 [zakirullin/files.md](https://github.com/zakirullin/files.md) — 🌱 Private, quiet space for thinking. A simple app for your .md files.
 
 [sonatype/dependency-management-mcp-server](https://github.com/sonatype/dependency-management-mcp-server) — 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mdubourg001/glci](https://github.com/mdubourg001/glci) — 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 
 [larscom/gitlab-ci-dashboard](https://github.com/larscom/gitlab-ci-dashboard) — Gitlab CI Dashboard will provide you a global overview of all pipelines, schedul
-
-[redhat-community-ai-tools/UnifAI](https://github.com/redhat-community-ai-tools/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
-
-[wxt-dev/wxt](https://github.com/wxt-dev/wxt) — ⚡ Next-gen Web Extension Framework
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
