@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sonatype/dependency-management-mcp-server](https://github.com/sonatype/dependency-management-mcp-server) — 
+
+[ci-dashboard/gitlab-ci-dashboard](https://github.com/ci-dashboard/gitlab-ci-dashboard) — 📊 Dashboard for monitoring GitLab CI builds and pipelines for TV
+
 [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) — Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 
 [mdubourg001/glci](https://github.com/mdubourg001/glci) — 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [wxt-dev/wxt](https://github.com/wxt-dev/wxt) — ⚡ Next-gen Web Extension Framework
 
 [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) — High-Quality Voice Cloning TTS for 600+ Languages
-
-[rmdes/plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-
-[YUZU-Hub/ios-screenshot-shooter](https://github.com/YUZU-Hub/ios-screenshot-shooter) — Automated App Store screenshot generation for iOS apps
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
