@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) — An MCP adapter that bridges the Abilities API to the Model Context Protocol, ena
+
 [cluster-software/agent-crm](https://github.com/cluster-software/agent-crm) — The headless CRM for Claude
 
 [Sidd27/infrawise](https://github.com/Sidd27/infrawise) — Deterministic infrastructure context for AI coding assistants via MCP
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [btkhaled/SamarisOSMountainLake](https://github.com/btkhaled/SamarisOSMountainLake) — A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual-k
 
 [zakirullin/files.md](https://github.com/zakirullin/files.md) — 🌱 Private, quiet space for thinking. A simple app for your .md files.
-
-[sonatype/dependency-management-mcp-server](https://github.com/sonatype/dependency-management-mcp-server) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
