@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[cluster-software/agent-crm](https://github.com/cluster-software/agent-crm) — The headless CRM for Claude
+
+[Sidd27/infrawise](https://github.com/Sidd27/infrawise) — Deterministic infrastructure context for AI coding assistants via MCP
+
 [palewire/fivethirtyeightindex.com](https://github.com/palewire/fivethirtyeightindex.com) — An index of the pages published at fivethirtyeight.com
 
 [budtmo/docker-android](https://github.com/budtmo/docker-android) — Android in docker solution with noVNC supported and video recording
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [zakirullin/files.md](https://github.com/zakirullin/files.md) — 🌱 Private, quiet space for thinking. A simple app for your .md files.
 
 [sonatype/dependency-management-mcp-server](https://github.com/sonatype/dependency-management-mcp-server) — 
-
-[ci-dashboard/gitlab-ci-dashboard](https://github.com/ci-dashboard/gitlab-ci-dashboard) — 📊 Dashboard for monitoring GitLab CI builds and pipelines for TV
-
-[mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) — Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
