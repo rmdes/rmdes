@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ATProtocol-Community/atmosphere-community](https://github.com/ATProtocol-Community/atmosphere-community) — Community website
+
 [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) — Get 10X more out of Claude Code, Codex or any coding agent
 
 [isgudtek/mycrab-tunnel-skill](https://github.com/isgudtek/mycrab-tunnel-skill) — Autonomous Cloudflare Tunnel setup & folder hosting on mycrab.space
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [palewire/fivethirtyeightindex.com](https://github.com/palewire/fivethirtyeightindex.com) — An index of the pages published at fivethirtyeight.com
 
 [budtmo/docker-android](https://github.com/budtmo/docker-android) — Android in docker solution with noVNC supported and video recording
-
-[rgombash/ocl-nexus-local](https://github.com/rgombash/ocl-nexus-local) — Orchestrated Compute Layer for AI agents. Local K3s-based fabric for autonomous 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
