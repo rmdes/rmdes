@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(_data/site): env vars take precedence over plugin identi` (2026-05-22)
+
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`Genie 1038/story/add stop cacnel btn to multi agent chat v1 ` (2026-05-14)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`docs(site): refresh landing page for v1.2 + self-updating ve` (2026-05-19)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump endpoint-auth override to beta.31 for spec-compl` (2026-05-18)
 <!-- active_repos ends -->
 
 ### Recently Starred
