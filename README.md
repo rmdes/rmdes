@@ -8,11 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
-<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`fix: remove chardonsbleus donation plugin from shared build` (2026-05-24)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`docs(readme): expand with features, architecture, and usage` (2026-05-24)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`refactor(theme): migrate templates to Tier 2 semantic color ` (2026-05-24)
+<br>`fix(toggle): manage both dark and light classes for explicit` (2026-05-24)
+
+[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
+<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
 
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`Genie 1038/story/add stop cacnel btn to multi agent chat v1 ` (2026-05-14)
@@ -25,12 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky
 <br>`Merge branch 'milanmdev:main' into main` (2026-05-20)
-
-[rmdes.github.io](https://github.com/rmdes/rmdes.github.io) — Github Portfolio
-<br>`chore: add mastodon/activitypub link next to bluesky in mast` (2026-05-20)
-
-[did](https://github.com/rmdes/did) — retrieve the DID of a bluesky handle
-<br>`feat: adopt site-per-repo deploy + superset content` (2026-05-19)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26049449665)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26371129935)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump endpoint-auth override to beta.31 for spec-compl` (2026-05-18, 2m 54s)
+Last build: `fix: remove chardonsbleus donation plugin from shared build` (2026-05-24)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
