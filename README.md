@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
-<br>`Publish multi-arch Docker image to GHCR on push to main` (2026-05-24)
+<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`refactor(theme): migrate templates to Tier 2 semantic color ` (2026-05-24)
