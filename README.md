@@ -66,7 +66,7 @@ More on [rmendes.net](https://rmendes.net/)
 <!-- pipelines starts -->
 [![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26371129935)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: remove chardonsbleus donation plugin from shared build` (2026-05-24)
+Last build: `fix: remove chardonsbleus donation plugin from shared build` (2026-05-24, 2m 19s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
