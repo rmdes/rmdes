@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(theme): wire site-config plugin runtime CSS into Eleven` (2026-05-24)
+<br>`feat(theme): replace passthrough theme.css with template at ` (2026-05-24)
 
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`Genie 1038/story/add stop cacnel btn to multi agent chat v1 ` (2026-05-14)
