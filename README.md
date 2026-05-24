@@ -11,6 +11,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat(theme): replace passthrough theme.css with template at ` (2026-05-24)
 
+[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
+<br>`Merge pull request #317 from jamesvandyne/optimize-runs-top` (2026-02-07)
+
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`Genie 1038/story/add stop cacnel btn to multi agent chat v1 ` (2026-05-14)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [did](https://github.com/rmdes/did) — retrieve the DID of a bluesky handle
 <br>`feat: adopt site-per-repo deploy + superset content` (2026-05-19)
-
-[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`docs(site): refresh landing page for v1.2 + self-updating ve` (2026-05-19)
 <!-- active_repos ends -->
 
 ### Recently Starred
