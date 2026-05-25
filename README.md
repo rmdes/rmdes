@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`docs: operator deploy guide for Cloudron stack (Plan A v2.5)` (2026-05-24)
+<br>`chore: bump @rmdes/indiekit-endpoint-microsub 1.0.61 -> 1.0.` (2026-05-25)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`feat: per-channel retention caps with sensible global defaul` (2026-05-25)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`docs(readme): expand with features, architecture, and usage` (2026-05-24)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`docs: sync live native payments gate evidence` (2026-05-20)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky
-<br>`Merge branch 'milanmdev:main' into main` (2026-05-20)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26373314579)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26397467766)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `docs: operator deploy guide for Cloudron stack (Plan A v2.5)` (2026-05-24, 27s)
+Last build: `chore: bump @rmdes/indiekit-endpoint-microsub 1.0.61 -> 1.0.` (2026-05-25, 2m 57s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
