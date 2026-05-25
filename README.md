@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump @rmdes/indiekit-endpoint-microsub 1.0.61 -> 1.0.` (2026-05-25)
+<br>`revert: remove deploy guide (quality insufficient for operat` (2026-05-25)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`feat: per-channel retention caps with sensible global defaul` (2026-05-25)
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26397467766)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26405748913)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump @rmdes/indiekit-endpoint-microsub 1.0.61 -> 1.0.` (2026-05-25, 2m 57s)
+Last build: `revert: remove deploy guide (quality insufficient for operat` (2026-05-25, 43s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
