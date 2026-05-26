@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[kasmtech/ansible](https://github.com/kasmtech/ansible) — Example Ansible project for installing / managing Kasm Workspaces deployments
+
+[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era.
+
 [ATProtocol-Community/atmosphere-community](https://github.com/ATProtocol-Community/atmosphere-community) — Community website
 
 [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) — Get 10X more out of Claude Code, Codex or any coding agent
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [cluster-software/agent-crm](https://github.com/cluster-software/agent-crm) — The headless CRM for Claude
 
 [Sidd27/infrawise](https://github.com/Sidd27/infrawise) — Deterministic infrastructure context for AI coding assistants via MCP
-
-[palewire/fivethirtyeightindex.com](https://github.com/palewire/fivethirtyeightindex.com) — An index of the pages published at fivethirtyeight.com
-
-[budtmo/docker-android](https://github.com/budtmo/docker-android) — Android in docker solution with noVNC supported and video recording
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
