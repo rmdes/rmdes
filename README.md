@@ -49,7 +49,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [cluster-software/agent-crm](https://github.com/cluster-software/agent-crm) — The headless CRM for Claude
 
-[Sidd27/infrawise](https://github.com/Sidd27/infrawise) — Deterministic infrastructure context for AI coding assistants via MCP
+[Sidd27/infrawise](https://github.com/Sidd27/infrawise) — MCP server for AWS infrastructure analysis — Lambda, DynamoDB, SQS, PostgreSQL, 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -105,8 +105,8 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 145 |
 | [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 145 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 134 |
-| [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 129 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 129 |
+| [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 129 |
 | [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 127 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 126 |
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 121 |
