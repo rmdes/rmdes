@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[kylemcdonald/ews](https://github.com/kylemcdonald/ews) — 
+
 [kasmtech/ansible](https://github.com/kasmtech/ansible) — Example Ansible project for installing / managing Kasm Workspaces deployments
 
 [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) — An MCP adapter that bridges the Abilities API to the Model Context Protocol, ena
 
 [cluster-software/agent-crm](https://github.com/cluster-software/agent-crm) — The headless CRM for Claude
-
-[Sidd27/infrawise](https://github.com/Sidd27/infrawise) — MCP server for AWS infrastructure analysis — Lambda, DynamoDB, SQS, PostgreSQL, 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
