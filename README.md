@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
+<br>`feat!: remove CV-specific identity (canonical source is site` (2026-05-30)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(theme): tail-append navItems instead of replacing rich e` (2026-05-30)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump @rmdes/indiekit-endpoint-site-config 1.0.0-beta.` (2026-05-27)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`fix(identity): rename form fields + backfill identity from h` (2026-05-27)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(theme): adopt unified site-config data sources` (2026-05-26)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`feat: per-channel retention caps with sensible global defaul` (2026-05-25)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claude-code-subagents-collection](https://github.com/rmdes/claude-code-subagents-collection) — Claude Code Subagents & Commands Collection + CLI Tool
 <br>`feat: update archcore v0.4.4` (2026-05-18)
-
-[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
-<br>`docs: sync live native payments gate evidence` (2026-05-20)
 <!-- active_repos ends -->
 
 ### Recently Starred
