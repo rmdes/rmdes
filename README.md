@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Quand Putin investit dans les idiots utiles pour servir ses intérêts](https://rmendes.net/bookmarks/2026/05/30/quand-putin-investit-dans-les/) - 2026-05-30
+
 [Building Plume](https://rmendes.net/articles/2026/05/20/building-plume/) - 2026-05-20
 
 [Plume — Micropub for browsers](https://rmendes.net/bookmarks/2026/05/19/plume-micropub-for-browsers/) - 2026-05-19
