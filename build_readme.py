@@ -1,5 +1,6 @@
 import asyncio
 import httpx
+import json
 import pathlib
 import re
 import os
@@ -91,8 +92,17 @@ def fetch_starred(oauth_token):
 
 
 def fetch_blog_posts():
-    response = httpx.get("https://rmendes.net/feed.json", timeout=30)
-    items = response.json().get("items", [])
+    try:
+        response = httpx.get("https://rmendes.net/feed.json", timeout=30)
+        response.raise_for_status()
+        # strict=False tolerates unescaped control characters (e.g. raw \r
+        # inside string values) that the feed occasionally emits, which the
+        # default strict JSON parser rejects.
+        feed = json.loads(response.text, strict=False)
+    except (httpx.HTTPError, json.JSONDecodeError) as exc:
+        print(f"  WARNING: could not fetch/parse blog feed: {exc}")
+        return []
+    items = feed.get("items", [])
     posts = []
     for item in items:
         title = item.get("title")
