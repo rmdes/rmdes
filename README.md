@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`feat(registry): validation script + JSON schema + key disamb` (2026-05-31)
+<br>`fix(registry): pin store-file-system + json-feed to beta ver` (2026-05-31)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`fix(theme): bump submodule for nav data binding (7666376)` (2026-05-31)
