@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
+<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`fix(theme): bump submodule for rel=me union fix (7d6518b)` (2026-05-31)
 
@@ -22,9 +25,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`feat: per-channel retention caps with sensible global defaul` (2026-05-25)
-
-[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
-<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
 
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`Genie 1038/story/add stop cacnel btn to multi agent chat v1 ` (2026-05-14)
