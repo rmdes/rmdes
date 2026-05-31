@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
-<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix(theme): bump submodule for rel=me union fix (7d6518b)` (2026-05-31)
+<br>`fix(theme): bump submodule for nav data binding (7666376)` (2026-05-31)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(theme): union identity.social with env-var social, force` (2026-05-31)
+<br>`fix(theme): expose site.navigation from config so nav consum` (2026-05-31)
+
+[tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
+<br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
 
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`feat!: remove CV-specific identity (canonical source is site` (2026-05-30)
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26716025342)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26719353318)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix(theme): bump submodule for rel=me union fix (7d6518b)` (2026-05-31, 1m 36s)
+Last build: `fix(theme): bump submodule for nav data binding (7666376)` (2026-05-31, 1m 37s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
