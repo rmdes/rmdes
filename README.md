@@ -9,13 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`feat: theme identity migration + CV plugin 1.0.27` (2026-05-30)
+<br>`fix(theme): bump submodule for rel=me union fix (7d6518b)` (2026-05-31)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(theme): union identity.social with env-var social, force` (2026-05-31)
 
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`feat!: remove CV-specific identity (canonical source is site` (2026-05-30)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(theme): tail-append navItems instead of replacing rich e` (2026-05-30)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`fix(identity): rename form fields + backfill identity from h` (2026-05-27)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[a-streetcoder/agent-deck](https://github.com/a-streetcoder/agent-deck) — Agent Deck
+
+[86Box/86Box](https://github.com/86Box/86Box) — Emulator of x86-based machines.
+
+[oxedom/seed](https://github.com/oxedom/seed) — seed · a self modifying webpage
+
 [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) — Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents acr
 
 [kylemcdonald/ews](https://github.com/kylemcdonald/ews) — 
@@ -44,18 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era.
 
 [ATProtocol-Community/atmosphere-community](https://github.com/ATProtocol-Community/atmosphere-community) — Community website
-
-[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) — Get 10X more out of Claude Code, Codex or any coding agent
-
-[isgudtek/mycrab-tunnel-skill](https://github.com/isgudtek/mycrab-tunnel-skill) — Autonomous Cloudflare Tunnel setup & folder hosting on mycrab.space
-
-[WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) — An MCP adapter that bridges the Abilities API to the Model Context Protocol, ena
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Reading : how to destroy a literary reputation in one move?](https://rmendes.net/bookmarks/2026/05/31/reading-how-to-destroy-a/) - 2026-05-31
+
 [Quand Putin investit dans les idiots utiles pour servir ses intérêts](https://rmendes.net/bookmarks/2026/05/30/quand-putin-investit-dans-les/) - 2026-05-30
 
 [Building Plume](https://rmendes.net/articles/2026/05/20/building-plume/) - 2026-05-20
@@ -66,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26694512334)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26716025342)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `feat: theme identity migration + CV plugin 1.0.27` (2026-05-30)
+Last build: `fix(theme): bump submodule for rel=me union fix (7d6518b)` (2026-05-31, 1m 36s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
