@@ -35,7 +35,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[chamuka-inc/vmette](https://github.com/chamuka-inc/vmette) — 
+[chamuka-inc/vmette](https://github.com/chamuka-inc/vmette) — A hardware-isolated microVM sandbox for running untrusted local AI agents on mac
 
 [kouhxp/fftext](https://github.com/kouhxp/fftext) — Summarize, explain, fact-check, or translate any text, URL, or file. No GPU. No 
 
