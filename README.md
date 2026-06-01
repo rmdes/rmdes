@@ -9,13 +9,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix(chardonsbleus): disable donation plugin (backend not val` (2026-06-01)
+<br>`chore: bump theme submodule + cache buster for loadedPlugins` (2026-06-01)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat(theme): plugin-gated widgets + sections (Plan B multi-s` (2026-06-01)
+
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`chore: bump version to 1.0.0-beta.41 (sidebar fix)` (2026-06-01)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`fix(registry): pin donation to ^0.1.0-alpha.1 (alpha prerele` (2026-06-01)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(feed): JSON-encode all interpolated values in feed.json` (2026-06-01)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat!: remove Features tab + featureFlag capability (v1.0.0-` (2026-06-01)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`feat!: remove CV-specific identity (canonical source is site` (2026-05-30)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`feat: per-channel retention caps with sensible global defaul` (2026-05-25)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26771749024)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26779102131)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix(chardonsbleus): disable donation plugin (backend not val` (2026-06-01, 37s)
+Last build: `chore: bump theme submodule + cache buster for loadedPlugins` (2026-06-01, 19s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
