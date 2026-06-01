@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`feat!: remove Features tab + featureFlag capability (v1.0.0-` (2026-06-01)
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`feat(chardonsbleus): indiekit.config.js template + registry ` (2026-06-01)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`fix(registry): pin store-file-system + json-feed to beta ver` (2026-05-31)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix(theme): bump submodule for nav data binding (7666376)` (2026-05-31)
+<br>`fix(registry): pin donation to ^0.1.0-alpha.1 (alpha prerele` (2026-06-01)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(theme): expose site.navigation from config so nav consum` (2026-05-31)
+<br>`fix(feed): JSON-encode all interpolated values in feed.json` (2026-06-01)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`feat!: remove Features tab + featureFlag capability (v1.0.0-` (2026-06-01)
 
 [tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
 <br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26719353318)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26769576011)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix(theme): bump submodule for nav data binding (7666376)` (2026-05-31, 1m 37s)
+Last build: `feat(chardonsbleus): indiekit.config.js template + registry ` (2026-06-01, 19s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
