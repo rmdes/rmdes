@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[milisp/codexia](https://github.com/milisp/codexia) — Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktre
+
 [chamuka-inc/vmette](https://github.com/chamuka-inc/vmette) — A hardware-isolated microVM sandbox for running untrusted local AI agents on mac
 
 [kouhxp/fftext](https://github.com/kouhxp/fftext) — Summarize, explain, fact-check, or translate any text, URL, or file. No GPU. No 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — Self-hosted AI workspace. 
 
 [a-streetcoder/agent-deck](https://github.com/a-streetcoder/agent-deck) — Agent Deck
-
-[86Box/86Box](https://github.com/86Box/86Box) — Emulator of x86-based machines.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
