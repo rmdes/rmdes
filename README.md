@@ -9,16 +9,19 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump theme for Option B navigation (438b6ce)` (2026-06-02)
+<br>`chore: bump registry for donation@^0.1.0-alpha.3 (layout fix` (2026-06-02)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`fix: pin donation to ^0.1.0-alpha.3 (layout render fix)` (2026-06-02)
+
+[indiekit-endpoint-donation](https://github.com/rmdes/indiekit-endpoint-donation) — Stripe-backed donation endpoint for Indiekit — campaigns from Stripe Products, d
+<br>`initial: import @rmdes/indiekit-endpoint-donation source + l` (2026-06-02)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat(theme): Option B navigation — operator items XOR defaul` (2026-06-02)
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`chore: bump version to 1.0.0-beta.41 (sidebar fix)` (2026-06-01)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`fix(registry): pin donation to ^0.1.0-alpha.1 (alpha prerele` (2026-06-01)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat!: remove Features tab + featureFlag capability (v1.0.0-` (2026-06-01)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [vault-operator](https://github.com/rmdes/vault-operator) — Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintai
 <br>`chore: strip internal files for public mirror [skip ci]` (2026-05-31)
-
-[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
-<br>`feat!: remove CV-specific identity (canonical source is site` (2026-05-30)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26801860748)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26833533513)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump theme for Option B navigation (438b6ce)` (2026-06-02, 19s)
+Last build: `chore: bump registry for donation@^0.1.0-alpha.3 (layout fix` (2026-06-02, 31s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
