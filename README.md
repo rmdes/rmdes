@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`chore: standardize console.log -> console.info for operation` (2026-06-03)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump registry for donation@^0.1.0-alpha.3 (layout fix` (2026-06-02)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
 <br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
-
-[vault-operator](https://github.com/rmdes/vault-operator) — Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintai
-<br>`chore: strip internal files for public mirror [skip ci]` (2026-05-31)
 <!-- active_repos ends -->
 
 ### Recently Starred
