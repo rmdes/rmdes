@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[artemnistuley/docrawl](https://github.com/artemnistuley/docrawl) — Lightweight CLI for crawling documentation sites into Markdown with defuddle
+
 [RVSVarma/turbovec-rag](https://github.com/RVSVarma/turbovec-rag) — Local-first RAG pipeline using TurboVec for vector search and LangGraph for orch
 
 [masalinas/poc-turbovec](https://github.com/masalinas/poc-turbovec) — PoC Turbovec TurboQuant implementation for a RAG
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kouhxp/fftext](https://github.com/kouhxp/fftext) — Summarize, explain, fact-check, or translate any text, URL, or file. No GPU. No 
 
 [pssah4/vault-operator](https://github.com/pssah4/vault-operator) — Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintai
-
-[mithraeums/hako-code](https://github.com/mithraeums/hako-code) — A local first agent. Written in C. Works with most providers. Uses local Hako mo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
