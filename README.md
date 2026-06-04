@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) — react + next.js dashboard for R2R: The most advanced AI retrieval system. Contai
+
+[SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) — SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generatio
+
 [zaydmulani09/mnemo](https://github.com/zaydmulani09/mnemo) — Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extr
 
 [tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes) — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [masalinas/poc-turbovec](https://github.com/masalinas/poc-turbovec) — PoC Turbovec TurboQuant implementation for a RAG
 
 [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) — A vector index built on TurboQuant, written in Rust with Python bindings
-
-[milisp/codexia](https://github.com/milisp/codexia) — Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktre
-
-[chamuka-inc/vmette](https://github.com/chamuka-inc/vmette) — A hardware-isolated microVM sandbox for running untrusted local AI agents on mac
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
