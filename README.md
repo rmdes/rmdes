@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[urlaubsverwaltung/urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung) — Schluss mit Papierchaos und langweiliger Software. Wir zeigen dir, dass Urlaubsv
+
 [SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) — react + next.js dashboard for R2R: The most advanced AI retrieval system. Contai
 
 [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) — SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generatio
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [RVSVarma/turbovec-rag](https://github.com/RVSVarma/turbovec-rag) — Local-first RAG pipeline using TurboVec for vector search and LangGraph for orch
 
 [masalinas/poc-turbovec](https://github.com/masalinas/poc-turbovec) — PoC Turbovec TurboQuant implementation for a RAG
-
-[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) — A vector index built on TurboQuant, written in Rust with Python bindings
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
