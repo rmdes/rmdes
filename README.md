@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[zaydmulani09/mnemo](https://github.com/zaydmulani09/mnemo) — Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extr
+
+[tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes) — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect
+
 [artemnistuley/docrawl](https://github.com/artemnistuley/docrawl) — Lightweight CLI for crawling documentation sites into Markdown with defuddle
 
 [RVSVarma/turbovec-rag](https://github.com/RVSVarma/turbovec-rag) — Local-first RAG pipeline using TurboVec for vector search and LangGraph for orch
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [milisp/codexia](https://github.com/milisp/codexia) — Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktre
 
 [chamuka-inc/vmette](https://github.com/chamuka-inc/vmette) — A hardware-isolated microVM sandbox for running untrusted local AI agents on mac
-
-[kouhxp/fftext](https://github.com/kouhxp/fftext) — Summarize, explain, fact-check, or translate any text, URL, or file. No GPU. No 
-
-[pssah4/vault-operator](https://github.com/pssah4/vault-operator) — Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintai
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
