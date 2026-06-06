@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(excerpts): decode HTML entities everywhere; add plainTex` (2026-06-06)
+
 [indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
 <br>`fix: store slash pages under content/pages/ so the page layo` (2026-06-06)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore(rmendes): deploy site-config beta.6 + latest plugins (` (2026-06-06)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump microsub ^1.0.64 + activitypub ^3.13.7 (fedify 2` (2026-06-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
