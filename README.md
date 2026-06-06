@@ -9,13 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`feat(general): site-wide AI transparency toggle + custom lea` (2026-06-06)
+<br>`fix(hero): default ctaUrl to /about/ (match theme original, ` (2026-06-06)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(ai): gate AI transparency disclosure behind site-config` (2026-06-06)
+<br>`fix(hero): default CTA fallback to /about/ (exact original, ` (2026-06-06)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix(build): make `update` redeploy the last-built image (cou` (2026-06-06)
+<br>`chore: update eleventy-site submodule (AI transparency toggl` (2026-06-06)
 
 [indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
 <br>`fix: store slash pages under content/pages/ so the page layo` (2026-06-06)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27074286637)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27076253739)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix(build): make `update` redeploy the last-built image (cou` (2026-06-06, 27s)
+Last build: `chore: update eleventy-site submodule (AI transparency toggl` (2026-06-06, 19s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
