@@ -9,16 +9,19 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): pin @fedify/* to 2.2.4 — @fedify/webfinger@2.2.5 ` (2026-06-06)
+<br>`fix(syndication): skip non-string categories in AS2 tag buil` (2026-06-06)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore(chardonsbleus): deploy siteName fix (build54)` (2026-06-06)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump site-config to ^1.0.0-beta.6 (siteName field)` (2026-06-06)
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`ci: bump GitHub Actions to node24 majors` (2026-06-06)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: mf2-aware extraction stops page chrome leaking into dif` (2026-06-06)
+<br>`ci: bump GitHub Actions to node24 majors` (2026-06-06)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore(rmendes): deploy site-config beta.6 + latest plugins (` (2026-06-06)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump microsub ^1.0.64 + activitypub ^3.13.7 (fedify 2` (2026-06-06)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat(identity): site.name reads identity.siteName (brand ≠ p` (2026-06-06)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`chore: standardize console.log -> console.info for operation` (2026-06-03)
-
-[indiekit-endpoint-donation](https://github.com/rmdes/indiekit-endpoint-donation) — Stripe-backed donation endpoint for Indiekit — campaigns from Stripe Products, d
-<br>`initial: import @rmdes/indiekit-endpoint-donation source + l` (2026-06-02)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27064463215)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27066561424)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore(chardonsbleus): deploy siteName fix (build54)` (2026-06-06, 29s)
+Last build: `chore(rmendes): deploy site-config beta.6 + latest plugins (` (2026-06-06, 23s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
