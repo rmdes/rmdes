@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
+<br>`fix: store slash pages under content/pages/ so the page layo` (2026-06-06)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`chore: bump newsdiff submodule to per-feed noise policy (f12` (2026-06-06)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump microsub ^1.0.64 + activitypub ^3.13.7 (fedify 2` (2026-06-06)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(identity): site.name reads identity.siteName (brand ≠ p` (2026-06-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
