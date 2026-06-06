@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`fix(nginx): serve /media files statically so thumbnails and ` (2026-06-06)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`fix(branding): always-toggleable preview + distinct surface ` (2026-06-06)
+
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`chore: standardize console.log -> console.info for operation` (2026-06-03)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump registry for donation@^0.1.0-alpha.3 (layout fix` (2026-06-02)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`fix: pin donation to ^0.1.0-alpha.3 (layout render fix)` (2026-06-02)
@@ -25,9 +28,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`chore: bump version to 1.0.0-beta.41 (sidebar fix)` (2026-06-01)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`feat!: remove Features tab + featureFlag capability (v1.0.0-` (2026-06-01)
 
 [tanzawa](https://github.com/rmdes/tanzawa) — Tanzawa is a blogging system designed for the IndieWeb that focuses on sustainab
 <br>`Make deploy/ HTTPS-ready and fork-agnostic` (2026-05-24)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/26833533513)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27062533155)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump registry for donation@^0.1.0-alpha.3 (layout fix` (2026-06-02, 31s)
+Last build: `fix(nginx): serve /media files statically so thumbnails and ` (2026-06-06, 20s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
