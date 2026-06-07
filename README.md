@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`chore: bump newsdiff submodule to version-race fix (6acbc11)` (2026-06-07)
+
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`fix: prevent duplicate versions from concurrent-poll race` (2026-06-07)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`feat(deploy): auto full-rebuild on site-config / homepage ch` (2026-06-07)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump microsub ^1.0.64 -> ^1.0.65` (2026-06-07)
+
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`chore: bump to 1.0.65 and sync CLAUDE.md to current code` (2026-06-07)
 
@@ -17,39 +29,27 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(hero): default CTA fallback to /about/ (exact original, ` (2026-06-06)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (AI transparency toggl` (2026-06-06)
-
 [indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
 <br>`fix: store slash pages under content/pages/ so the page layo` (2026-06-06)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`chore: bump newsdiff submodule to per-feed noise policy (f12` (2026-06-06)
-
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`feat: per-feed noise policy (syndicate + ignore-title toggle` (2026-06-06)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`fix: don't crash q=config or post creation when a syndicator` (2026-06-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
-[urlaubsverwaltung/urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung) — Schluss mit Papierchaos und langweiliger Software. Wir zeigen dir, dass Urlaubsv
+[rockdarko/claude-code-metrics-prometheus](https://github.com/rockdarko/claude-code-metrics-prometheus) — Grafana dashboard for monitoring Claude Code CLI usage on Prometheus-compatible 
 
-[SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) — react + next.js dashboard for R2R: The most advanced AI retrieval system. Contai
+[0xteamhq/mcp-grafana](https://github.com/0xteamhq/mcp-grafana) — MCP (Model Context Protocol) server for Grafana - TypeScript/npm implementation 
 
-[SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) — SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generatio
+[katchu11/claude-code-guide](https://github.com/katchu11/claude-code-guide) — A comprehensive guide to measuring ROI on Claude Code with Prometheus, OpenTelem
 
-[zaydmulani09/mnemo](https://github.com/zaydmulani09/mnemo) — Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extr
+[Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) — Real-time cost tracking and budget management for Claude Code. Zero setup. No Do
 
-[tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes) — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect
+[alonw0/cc-metrics](https://github.com/alonw0/cc-metrics) — A Grafana dashboard for Claude Code otel metrics (dockerized)
 
-[artemnistuley/docrawl](https://github.com/artemnistuley/docrawl) — Lightweight CLI for crawling documentation sites into Markdown with defuddle
+[acreeger/claude-code-metrics-stack](https://github.com/acreeger/claude-code-metrics-stack) — Local Grafana dashboard for Claude Code observability - tracks cost, tokens, ses
 
-[RVSVarma/turbovec-rag](https://github.com/RVSVarma/turbovec-rag) — Local-first RAG pipeline using TurboVec for vector search and LangGraph for orch
+[alexander-akhmetov/sigil-hermes](https://github.com/alexander-akhmetov/sigil-hermes) — Grafana AI observability plugin for Hermes Agent
 
-[masalinas/poc-turbovec](https://github.com/masalinas/poc-turbovec) — PoC Turbovec TurboQuant implementation for a RAG
+[guycipher/keybench](https://github.com/guycipher/keybench) — A scriptable, extensible performance tool for sorted key value stores.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27076253739)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27090359925)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (AI transparency toggl` (2026-06-06, 19s)
+Last build: `feat(deploy): auto full-rebuild on site-config / homepage ch` (2026-06-07, 25s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
