@@ -9,10 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`chore: bump newsdiff submodule to version-race fix (6acbc11)` (2026-06-07)
+<br>`chore: bump newsdiff submodule to abbreviated-relative-time ` (2026-06-07)
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`fix: prevent duplicate versions from concurrent-poll race` (2026-06-07)
+<br>`fix(isBoring): strip abbreviated relative times (live-blog n` (2026-06-07)
+
+[Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
+<br>`Initial commit` (2026-06-07)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`feat(deploy): auto full-rebuild on site-config / homepage ch` (2026-06-07)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(hero): default CTA fallback to /about/ (exact original, ` (2026-06-06)
-
-[indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
-<br>`fix: store slash pages under content/pages/ so the page layo` (2026-06-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
