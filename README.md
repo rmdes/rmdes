@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
-<br>`feat: surface mode toggle (Wallpaper/Panel/Explore) in the a` (2026-06-08)
+<br>`feat: brand title + subtitle, sidebar version links, GitHub ` (2026-06-08)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`chore: bump newsdiff submodule to live-blog handling (d10d39` (2026-06-07)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[opencost/opencost](https://github.com/opencost/opencost) — Cost monitoring for Kubernetes workloads and cloud costs
+
 [rockdarko/claude-code-metrics-prometheus](https://github.com/rockdarko/claude-code-metrics-prometheus) — Grafana dashboard for monitoring Claude Code CLI usage on Prometheus-compatible 
 
 [0xteamhq/mcp-grafana](https://github.com/0xteamhq/mcp-grafana) — MCP (Model Context Protocol) server for Grafana - TypeScript/npm implementation 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [acreeger/claude-code-metrics-stack](https://github.com/acreeger/claude-code-metrics-stack) — Local Grafana dashboard for Claude Code observability - tracks cost, tokens, ses
 
 [alexander-akhmetov/sigil-hermes](https://github.com/alexander-akhmetov/sigil-hermes) — Grafana AI observability plugin for Hermes Agent
-
-[guycipher/keybench](https://github.com/guycipher/keybench) — A scriptable, extensible performance tool for sorted key value stores.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
