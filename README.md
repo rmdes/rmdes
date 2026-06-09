@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`chore: update newsdiff submodule to d10d396 (live-blog handl` (2026-06-09)
+<br>`ci: force JS actions to Node 24 (silence Node 20 deprecation` (2026-06-09)
 
 [Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
 <br>`docs: sync CLAUDE.md + README to v1.4.0 (colour overlay, sha` (2026-06-09)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[moorcheh-ai/moorcheh-examples](https://github.com/moorcheh-ai/moorcheh-examples) — This repository contains practical examples and sample projects demonstrating ho
+
+[moorcheh-ai/mteb](https://github.com/moorcheh-ai/mteb) — MTEB: Massive Text Embedding Benchmark
+
+[moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) — Memory that AI Agents Love!
+
 [TjWheeler/deep-memory](https://github.com/TjWheeler/deep-memory) — A GraphRAG implementation with a Vocabulary system to optimise AI integration
 
 [ahmedxuhri/ai-noleak](https://github.com/ahmedxuhri/ai-noleak) — Local secret-leak prevention for agentic AI CLIs
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [opencost/opencost](https://github.com/opencost/opencost) — Cost monitoring for Kubernetes workloads and cloud costs
 
 [rockdarko/claude-code-metrics-prometheus](https://github.com/rockdarko/claude-code-metrics-prometheus) — Grafana dashboard for monitoring Claude Code CLI usage on Prometheus-compatible 
-
-[0xteamhq/mcp-grafana](https://github.com/0xteamhq/mcp-grafana) — MCP (Model Context Protocol) server for Grafana - TypeScript/npm implementation 
-
-[katchu11/claude-code-guide](https://github.com/katchu11/claude-code-guide) — A comprehensive guide to measuring ROI on Claude Code with Prometheus, OpenTelem
-
-[Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) — Real-time cost tracking and budget management for Claude Code. Zero setup. No Do
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
