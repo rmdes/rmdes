@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ahmedxuhri/ai-noleak](https://github.com/ahmedxuhri/ai-noleak) — Local secret-leak prevention for agentic AI CLIs
+
+[yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) — A controlled multi-agent workbench for authorized security assessment, code audi
+
 [opencost/opencost](https://github.com/opencost/opencost) — Cost monitoring for Kubernetes workloads and cloud costs
 
 [rockdarko/claude-code-metrics-prometheus](https://github.com/rockdarko/claude-code-metrics-prometheus) — Grafana dashboard for monitoring Claude Code CLI usage on Prometheus-compatible 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) — Real-time cost tracking and budget management for Claude Code. Zero setup. No Do
 
 [alonw0/cc-metrics](https://github.com/alonw0/cc-metrics) — A Grafana dashboard for Claude Code otel metrics (dockerized)
-
-[acreeger/claude-code-metrics-stack](https://github.com/acreeger/claude-code-metrics-stack) — Local Grafana dashboard for Claude Code observability - tracks cost, tokens, ses
-
-[alexander-akhmetov/sigil-hermes](https://github.com/alexander-akhmetov/sigil-hermes) — Grafana AI observability plugin for Hermes Agent
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
