@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
-<br>`fix: restore top margin on Output group labels (scale/arrang` (2026-06-09)
+<br>`feat: Panel size control + 3 new shapes wired (state, seed-s` (2026-06-09)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`chore: bump newsdiff submodule to live-blog handling (d10d39` (2026-06-07)
