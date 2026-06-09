@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
-<br>`fix: Panel mode honours the cloth-background preset` (2026-06-08)
+<br>`fix: restore top margin on Output group labels (scale/arrang` (2026-06-09)
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`chore: bump newsdiff submodule to live-blog handling (d10d39` (2026-06-07)
@@ -35,9 +35,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[TjWheeler/deep-memory](https://github.com/TjWheeler/deep-memory) — A GraphRAG implementation with a Vocabulary system to optimise AI integration
+
 [ahmedxuhri/ai-noleak](https://github.com/ahmedxuhri/ai-noleak) — Local secret-leak prevention for agentic AI CLIs
 
-[yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) — A controlled multi-agent workbench for authorized security assessment, code audi
+[yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) — AI-native red-team workbench for authorized penetration testing and vulnerabilit
 
 [opencost/opencost](https://github.com/opencost/opencost) — Cost monitoring for Kubernetes workloads and cloud costs
 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [katchu11/claude-code-guide](https://github.com/katchu11/claude-code-guide) — A comprehensive guide to measuring ROI on Claude Code with Prometheus, OpenTelem
 
 [Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) — Real-time cost tracking and budget management for Claude Code. Zero setup. No Do
-
-[alonw0/cc-metrics](https://github.com/alonw0/cc-metrics) — A Grafana dashboard for Claude Code otel metrics (dockerized)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
