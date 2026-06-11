@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump submodules — registry (site-config beta.10 + act` (2026-06-11)
+<br>`chore: untrack .cloudron-build, ignore all build counters (.` (2026-06-11)
+
+[obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
+<br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump activitypub to ^3.13.8 (recording the change str` (2026-06-11)
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
 <br>`docs: sync CLAUDE.md + README to v1.4.0 (colour overlay, sha` (2026-06-09)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`chore: bump newsdiff submodule to live-blog handling (d10d39` (2026-06-07)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
+
 [microsoft/presidio](https://github.com/microsoft/presidio) — An open-source framework for detecting, redacting, masking, and anonymizing sens
 
 [moorcheh-ai/moorcheh-examples](https://github.com/moorcheh-ai/moorcheh-examples) — This repository contains practical examples and sample projects demonstrating ho
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ahmedxuhri/ai-noleak](https://github.com/ahmedxuhri/ai-noleak) — Local secret-leak prevention for agentic AI CLIs
 
 [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) — AI-native red-team workbench for authorized penetration testing and vulnerabilit
-
-[opencost/opencost](https://github.com/opencost/opencost) — Cost monitoring for Kubernetes workloads and cloud costs
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27361705117)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27370791614)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump submodules — registry (site-config beta.10 + act` (2026-06-11, 29s)
+Last build: `chore: untrack .cloudron-build, ignore all build counters (.` (2026-06-11, 28s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
