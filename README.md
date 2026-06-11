@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[microsoft/presidio](https://github.com/microsoft/presidio) — An open-source framework for detecting, redacting, masking, and anonymizing sens
+
 [moorcheh-ai/moorcheh-examples](https://github.com/moorcheh-ai/moorcheh-examples) — This repository contains practical examples and sample projects demonstrating ho
 
 [moorcheh-ai/mteb](https://github.com/moorcheh-ai/mteb) — MTEB: Massive Text Embedding Benchmark
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) — AI-native red-team workbench for authorized penetration testing and vulnerabilit
 
 [opencost/opencost](https://github.com/opencost/opencost) — Cost monitoring for Kubernetes workloads and cloud costs
-
-[rockdarko/claude-code-metrics-prometheus](https://github.com/rockdarko/claude-code-metrics-prometheus) — Grafana dashboard for monitoring Claude Code CLI usage on Prometheus-compatible 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
