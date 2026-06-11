@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump eleventy-site submodule — Phase 1 renderer found` (2026-06-11)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge Phase 1: recursive composition renderer foundation (sa` (2026-06-11)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: untrack .cloudron-build, ignore all build counters (.` (2026-06-11)
 
 [obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
 <br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27370791614)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27381260150)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: untrack .cloudron-build, ignore all build counters (.` (2026-06-11, 28s)
+Last build: `chore: bump eleventy-site submodule — Phase 1 renderer found` (2026-06-11, 25s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
