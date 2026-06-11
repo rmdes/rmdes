@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`Merge Phase 1: recursive composition renderer foundation (sa` (2026-06-11)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: untrack .cloudron-build, ignore all build counters (.` (2026-06-11)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`chore: bump version to 1.0.0-beta.10 (Phase 0 security + bra` (2026-06-11)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`docs: add PRODUCT.md (design context — register, users, prin` (2026-06-11)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`FIX Add geoDataType handling for extrafield updates (#38655)` (2026-06-10)
