@@ -9,19 +9,19 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: frontend override beta.43 (modal-dialog connect-order` (2026-06-12)
+<br>`Merge Phase 5 (cloudron half): watcher crash wrapper + nginx` (2026-06-12)
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`fix: connect-order-independent modal-dialog + toggle-switch ` (2026-06-12)
+<br>`Merge Phase 5 (frontend half): SW /preview/ bypass (beta.44)` (2026-06-12)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`Merge Phase 5: true preview + build-status API + publish-flo` (2026-06-12)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`Merge Phase 5 (theme half): build-status hooks + true-previe` (2026-06-12)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump site-config to ^1.0.0-beta.13 (Phase 4: Design h` (2026-06-12)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`Merge Phase 4: Design hub + composition editor (editor v1)` (2026-06-12)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`Merge Phase 3 R3: delete homepage dispatchers (post-cutover-` (2026-06-12)
 
 [obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
 <br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27437597011)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27443013615)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: frontend override beta.43 (modal-dialog connect-order` (2026-06-12, 18s)
+Last build: `Merge Phase 5 (cloudron half): watcher crash wrapper + nginx` (2026-06-12, 46s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
