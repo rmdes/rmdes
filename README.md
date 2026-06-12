@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`Merge Phase 4: Design hub + composition editor (editor v1)` (2026-06-12)
+
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`Merge Phase 4 (frontend half): modal-dialog + toggle-switch ` (2026-06-12)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump eleventy-site — Phase 3 R3 dispatcher deletion` (2026-06-12)
 
@@ -17,9 +23,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump site-config to ^1.0.0-beta.12 (Phase 3: homepage` (2026-06-12)
 
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`Merge Phase 3 (activation): composition artifact writer + bo` (2026-06-12)
-
 [obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
 <br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`ci: force JS actions to Node 24 (silence Node 20 deprecation` (2026-06-09)
-
-[Vyshyvanka-generator](https://github.com/rmdes/Vyshyvanka-generator) — Vyshyvanka Wallpaper Generator Procedural cross-stitch patterns → desktop & phon
-<br>`docs: sync CLAUDE.md + README to v1.4.0 (colour overlay, sha` (2026-06-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
