@@ -8,20 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry (site-config -> 1.0.0-beta.11,` (2026-06-12)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump site-config to ^1.0.0-beta.11 (Phase 2: blocks c` (2026-06-12)
+
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`Merge Phase 2: blocks contract v2 backend (registry, catalog` (2026-06-12)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump eleventy-site submodule — Phase 1 renderer found` (2026-06-11)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge Phase 1: recursive composition renderer foundation (sa` (2026-06-11)
 
 [obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
 <br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub to ^3.13.8 (recording the change str` (2026-06-11)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`FIX Add geoDataType handling for extrafield updates (#38655)` (2026-06-10)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sudomichael/agentgraphed](https://github.com/sudomichael/agentgraphed) — Local-first analytics dashboard for AI coding sessions. See what you built with 
+
 [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
 
 [microsoft/presidio](https://github.com/microsoft/presidio) — An open-source framework for detecting, redacting, masking, and anonymizing sens
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [TjWheeler/deep-memory](https://github.com/TjWheeler/deep-memory) — A GraphRAG implementation with a Vocabulary system to optimise AI integration
 
 [ahmedxuhri/ai-noleak](https://github.com/ahmedxuhri/ai-noleak) — Local secret-leak prevention for agentic AI CLIs
-
-[yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) — AI-native red-team workbench for authorized penetration testing and vulnerabilit
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27381260150)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27409064880)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump eleventy-site submodule — Phase 1 renderer found` (2026-06-11, 25s)
+Last build: `chore: update plugin-registry (site-config -> 1.0.0-beta.11,` (2026-06-12, 24s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
