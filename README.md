@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curating Top Open Source Apps for Homelab Enthusiasts
+
+[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — Agentic AI Infrastructure for magnifying HUMAN capabilities.
+
+[kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) — Before I go to bed, I tell my agents: good night, have fun
+
+[jjang-ai/mlxstudio](https://github.com/jjang-ai/mlxstudio) — MLX Studio - Home of JANG_Q - Image Gen/Edit + Chat/Code All in one - + OpenClaw
+
+[haddock-development/claude-reflect-system](https://github.com/haddock-development/claude-reflect-system) — Continual Learning & Self-improving skills system for Claude Code - learn from c
+
+[Runnin4ik/dpi-detector](https://github.com/Runnin4ik/dpi-detector) — DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, D
+
+[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — An Open Source implementation of Notebook LM with more flexibility and features
+
 [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) — Desktop App for downloading Videos and Audios from hundreds of sites
-
-[selvarajmurugesan90/klarity](https://github.com/selvarajmurugesan90/klarity) — Enterprise Kubernetes observability dashboard — read-only, GitOps-first, auto-di
-
-[artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) — Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative w
-
-[sudomichael/agentgraphed](https://github.com/sudomichael/agentgraphed) — Local-first analytics dashboard for AI coding sessions. See what you built with 
-
-[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
-
-[microsoft/presidio](https://github.com/microsoft/presidio) — An open-source framework for detecting, redacting, masking, and anonymizing sens
-
-[moorcheh-ai/moorcheh-examples](https://github.com/moorcheh-ai/moorcheh-examples) — This repository contains practical examples and sample projects demonstrating ho
-
-[moorcheh-ai/mteb](https://github.com/moorcheh-ai/mteb) — MTEB: Massive Text Embedding Benchmark
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
