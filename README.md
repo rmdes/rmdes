@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) — Desktop App for downloading Videos and Audios from hundreds of sites
+
 [selvarajmurugesan90/klarity](https://github.com/selvarajmurugesan90/klarity) — Enterprise Kubernetes observability dashboard — read-only, GitOps-first, auto-di
 
 [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) — Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative w
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [moorcheh-ai/moorcheh-examples](https://github.com/moorcheh-ai/moorcheh-examples) — This repository contains practical examples and sample projects demonstrating ho
 
 [moorcheh-ai/mteb](https://github.com/moorcheh-ai/mteb) — MTEB: Massive Text Embedding Benchmark
-
-[moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) — Memory that AI Agents Love!
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
