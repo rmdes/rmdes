@@ -9,13 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: registry pin site-config beta.16 (stateless publish e` (2026-06-13)
+<br>`chore: registry pin site-config beta.17 (preview cap self-ca` (2026-06-13)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: site-config ^1.0.0-beta.16 (stateless publish-epoch w` (2026-06-13)
+<br>`chore: site-config ^1.0.0-beta.17 (preview cap self-calibrat` (2026-06-13)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`fix: stateless publish-epoch build watch — the strip's prima` (2026-06-12)
+<br>`fix: self-calibrate preview cap to stop false slow-build war` (2026-06-13)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: prune stale /preview/<token>/ output after every build` (2026-06-12)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) — Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative w
+
 [sudomichael/agentgraphed](https://github.com/sudomichael/agentgraphed) — Local-first analytics dashboard for AI coding sessions. See what you built with 
 
 [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) — The headless browser for AI agents and web scraping
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) — Memory that AI Agents Love!
 
 [TjWheeler/deep-memory](https://github.com/TjWheeler/deep-memory) — A GraphRAG implementation with a Vocabulary system to optimise AI integration
-
-[ahmedxuhri/ai-noleak](https://github.com/ahmedxuhri/ai-noleak) — Local secret-leak prevention for agentic AI CLIs
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27457907511)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27459689550)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: registry pin site-config beta.16 (stateless publish e` (2026-06-13, 21s)
+Last build: `chore: registry pin site-config beta.17 (preview cap self-ca` (2026-06-13, 32s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
