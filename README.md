@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) — TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observ
+
 [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curating Top Open Source Apps for Homelab Enthusiasts
 
 [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Runnin4ik/dpi-detector](https://github.com/Runnin4ik/dpi-detector) — DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, D
 
 [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — An Open Source implementation of Notebook LM with more flexibility and features
-
-[aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) — Desktop App for downloading Videos and Audios from hundreds of sites
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
