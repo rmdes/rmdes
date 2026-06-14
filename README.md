@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump eleventy-site submodule — avatar crash-loop hotf` (2026-06-14)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
 <br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`FIX Add geoDataType handling for extrafield updates (#38655)` (2026-06-10)
 <!-- active_repos ends -->
 
 ### Recently Starred
