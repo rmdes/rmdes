@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`fix: detect XHTML self-closing <img/>; cover {value}/undefin` (2026-06-14)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule — retire html-transfor` (2026-06-13)
+<br>`chore: bump eleventy-site submodule — avatar crash-loop hotf` (2026-06-14)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`refactor: retire html-transformer override (image opt via bu` (2026-06-13)
+<br>`fix: avatar shortcode falls back to passthrough on optimize ` (2026-06-14)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`fix: detect XHTML self-closing <img/>; cover {value}/undefin` (2026-06-14)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: site-config ^1.0.0-beta.17 (preview cap self-calibrat` (2026-06-13)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) — Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with 
+
 [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) — TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observ
 
 [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curating Top Open Source Apps for Homelab Enthusiasts
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [haddock-development/claude-reflect-system](https://github.com/haddock-development/claude-reflect-system) — Continual Learning & Self-improving skills system for Claude Code - learn from c
 
 [Runnin4ik/dpi-detector](https://github.com/Runnin4ik/dpi-detector) — DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, D
-
-[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — An Open Source implementation of Notebook LM with more flexibility and features
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27479365138)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27496925537)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule — retire html-transfor` (2026-06-13, 26s)
+Last build: `chore: bump eleventy-site submodule — avatar crash-loop hotf` (2026-06-14, 28s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
