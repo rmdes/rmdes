@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
+
 [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) — Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with 
 
 [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) — TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observ
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [jjang-ai/mlxstudio](https://github.com/jjang-ai/mlxstudio) — MLX Studio - Home of JANG_Q - Image Gen/Edit + Chat/Code All in one - + OpenClaw
 
 [haddock-development/claude-reflect-system](https://github.com/haddock-development/claude-reflect-system) — Continual Learning & Self-improving skills system for Claude Code - learn from c
-
-[Runnin4ik/dpi-detector](https://github.com/Runnin4ik/dpi-detector) — DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, D
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
