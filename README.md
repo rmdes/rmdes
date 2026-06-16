@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nicolo-ribaudo/bsky-to-mu](https://github.com/nicolo-ribaudo/bsky-to-mu) — Browser extension that automatically redirects bsky.app to mu.social.
+
 [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
 
 [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) — Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) — Before I go to bed, I tell my agents: good night, have fun
 
 [jjang-ai/mlxstudio](https://github.com/jjang-ai/mlxstudio) — MLX Studio - Home of JANG_Q - Image Gen/Edit + Chat/Code All in one - + OpenClaw
-
-[haddock-development/claude-reflect-system](https://github.com/haddock-development/claude-reflect-system) — Continual Learning & Self-improving skills system for Claude Code - learn from c
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
