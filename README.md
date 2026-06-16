@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
+<br>`chore: bump to 1.1.0 for layout-intent` (2026-06-16)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump eleventy-site — image-transform gate (38d9d64)` (2026-06-16)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`Merge Phase 5 (frontend half): SW /preview/ bypass (beta.44)` (2026-06-12)
-
-[obscura](https://github.com/rmdes/obscura) — The headless browser for AI agents and web scraping
-<br>` fix(stealth): synchronize TLS and JS fingerprints to Chrome` (2026-06-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
