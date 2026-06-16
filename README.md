@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: layout-intent — posts@1.1.0 override + theme submodul` (2026-06-16)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: fullwidth widens container, minimal narrows article (la` (2026-06-16)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`chore: bump to 1.1.0 for layout-intent` (2026-06-16)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump eleventy-site — image-transform gate (38d9d64)` (2026-06-16)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27598186693)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27652614408)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump eleventy-site — image-transform gate (38d9d64)` (2026-06-16, 25s)
+Last build: `chore: layout-intent — posts@1.1.0 override + theme submodul` (2026-06-16, 17s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
