@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: layout-intent — posts@1.1.0 override + theme submodul` (2026-06-16)
+<br>`chore: bump eleventy-site to 8011d2a (incremental stale fron` (2026-06-17)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: fullwidth widens container, minimal narrows article (la` (2026-06-16)
+<br>`fix: disable input cache to stop stale front-matter on incre` (2026-06-17)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`chore: bump to 1.1.0 for layout-intent` (2026-06-16)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27652614408)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27669096675)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: layout-intent — posts@1.1.0 override + theme submodul` (2026-06-16, 17s)
+Last build: `chore: bump eleventy-site to 8011d2a (incremental stale fron` (2026-06-17, 30s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
