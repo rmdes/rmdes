@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`chore: bump to 1.0.0-beta.19 (6.3 listing-editor fixes: bloc` (2026-06-18)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: site-config beta.18 (registry) + eleventy-site 21a641` (2026-06-18)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump site-config to ^1.0.0-beta.18 (6.2 editor founda` (2026-06-18)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`chore: bump to 1.0.0-beta.18 (6.2 editor foundation + 6.3 li` (2026-06-17)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: listing sidebar wrapper to div, avoid duplicate complem` (2026-06-17)
