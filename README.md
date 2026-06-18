@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: site-config beta.18 (registry) + eleventy-site 21a641` (2026-06-18)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump site-config to ^1.0.0-beta.18 (6.2 editor founda` (2026-06-18)
+
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`chore: bump to 1.0.0-beta.18 (6.2 editor foundation + 6.3 li` (2026-06-17)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: listing sidebar wrapper to div, avoid duplicate complem` (2026-06-17)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump eleventy-site to 8011d2a (incremental stale fron` (2026-06-17)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`chore: bump to 1.1.0 for layout-intent` (2026-06-16)
@@ -25,9 +28,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
 <br>`fix: detect XHTML self-closing <img/>; cover {value}/undefin` (2026-06-14)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: site-config ^1.0.0-beta.17 (preview cap self-calibrat` (2026-06-13)
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`Merge Phase 5 (frontend half): SW /preview/ bypass (beta.44)` (2026-06-12)
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27669096675)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27739079136)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump eleventy-site to 8011d2a (incremental stale fron` (2026-06-17, 30s)
+Last build: `chore: site-config beta.18 (registry) + eleventy-site 21a641` (2026-06-18, 18s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
