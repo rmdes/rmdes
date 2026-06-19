@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`chore: release v1.0.0-beta.24 (pages create/delete flash fix` (2026-06-19)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump site-config beta.23 + theme 37449f1 (Phase 6.5 p` (2026-06-19)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: render published standalone pages (composedPages loade` (2026-06-19)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`chore: release v1.0.0-beta.23 (Phase 6.5 standalone pages su` (2026-06-19)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`chore: bump to 1.1.0 for layout-intent` (2026-06-16)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[acunningham-ship-it/leakproof](https://github.com/acunningham-ship-it/leakproof) — Local secret firewall for AI coding assistants (Claude Code/Cursor/aider) — scan
+
 [gastownhall/gastown](https://github.com/gastownhall/gastown) — Gas Town - multi-agent workspace manager
 
 [rorlikowski/stepyard](https://github.com/rorlikowski/stepyard) — Developer-first automation runner: YAML pipelines, Python plugins, local CLI and
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) — TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observ
 
 [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curating Top Open Source Apps for Homelab Enthusiasts
-
-[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — Agentic AI Infrastructure for magnifying HUMAN capabilities.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -61,8 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Reading : how to destroy a literary reputation in one move?](https://rmendes.net/bookmarks/2026/05/31/reading-how-to-destroy-a/) - 2026-05-31
 
 [Quand Putin investit dans les idiots utiles pour servir ses intérêts](https://rmendes.net/bookmarks/2026/05/30/quand-putin-investit-dans-les/) - 2026-05-30
-
-[Building Plume](https://rmendes.net/articles/2026/05/20/building-plume/) - 2026-05-20
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
@@ -79,11 +77,11 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**14,486** downloads last month across **33** packages
+**15,049** downloads last month across **33** packages
 
 | Package | Downloads |
 |---------|-----------|
-| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 3,187 |
+| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 3,750 |
 | [indiekit-endpoint-activitypub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-activitypub) | 2,444 |
 | [indiekit-endpoint-microsub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-microsub) | 848 |
 | [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 795 |
