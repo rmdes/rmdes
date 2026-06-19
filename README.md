@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`chore: release v1.0.0-beta.24 (pages create/delete flash fix` (2026-06-19)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump site-config beta.23 + theme 37449f1 (Phase 6.5 p` (2026-06-19)
+<br>`chore: update plugin-registry (site-config beta.24)` (2026-06-19)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump site-config to ^1.0.0-beta.23 (Phase 6.5 pages s` (2026-06-19)
+<br>`chore: bump site-config to ^1.0.0-beta.24 (pages flash fix)` (2026-06-19)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`chore: release v1.0.0-beta.24 (pages create/delete flash fix` (2026-06-19)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: render published standalone pages (composedPages loade` (2026-06-19)
@@ -59,16 +59,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [The Brexit Bus Was Only the Beginning](https://rmendes.net/articles/2026/06/06/the-brexit-bus-was-only/) - 2026-06-06
 
 [Reading : how to destroy a literary reputation in one move?](https://rmendes.net/bookmarks/2026/05/31/reading-how-to-destroy-a/) - 2026-05-31
-
-[Quand Putin investit dans les idiots utiles pour servir ses intérêts](https://rmendes.net/bookmarks/2026/05/30/quand-putin-investit-dans-les/) - 2026-05-30
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27817913024)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27829783724)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump site-config beta.23 + theme 37449f1 (Phase 6.5 p` (2026-06-19, 30s)
+Last build: `chore: update plugin-registry (site-config beta.24)` (2026-06-19, 18s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
