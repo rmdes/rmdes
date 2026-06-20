@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
+<br>`feat!: remove bespoke CV page-builder — CV is now data-only ` (2026-06-20)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`feat: gated category URLs 302 to /categories/?q=<slug> (sear` (2026-06-20)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat: wire canonical category list to publication.categories` (2026-06-20)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
+
 [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) — Tools for Use with ObsidianMD
 
 [SierraSoftworks/markout](https://github.com/SierraSoftworks/markout) — Native Markdown support in Outlook
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nicolo-ribaudo/bsky-to-mu](https://github.com/nicolo-ribaudo/bsky-to-mu) — Browser extension that automatically redirects bsky.app to mu.social.
 
 [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
-
-[blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) — Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
