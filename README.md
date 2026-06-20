@@ -8,8 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
+<br>`feat: enable category typeahead on the post form (Category G` (2026-06-20)
+
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`feat: category typeahead on tag input (Category Governance L` (2026-06-20)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`feat: normalise category on write (Category Governance L1)` (2026-06-20)
+
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`fix: handle quoted YAML scalars in category merge` (2026-06-20)
+<br>`feat: wire canonical category list to publication.categories` (2026-06-20)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry (site-config → beta.25, catego` (2026-06-20)
@@ -20,17 +29,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: prune orphaned category pages (realize the L3 gating wi` (2026-06-20)
 
-[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
-<br>`chore: bump to 1.1.0 for layout-intent` (2026-06-16)
-
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`fix: detect XHTML self-closing <img/>; cover {value}/undefin` (2026-06-14)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`Merge Phase 5 (frontend half): SW /preview/ bypass (beta.44)` (2026-06-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
