@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (gc-before-pagefind pe` (2026-06-20)
+<br>`chore: update eleventy-site submodule (category governance L` (2026-06-20)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`perf: gc before pagefind to cut late-phase build memory peak` (2026-06-20)
+<br>`feat: category governance Layer 3 — unify collections, fix c` (2026-06-20)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump site-config to ^1.0.0-beta.24 (pages flash fix)` (2026-06-19)
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27866971096)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27868811092)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (gc-before-pagefind pe` (2026-06-20, 17s)
+Last build: `chore: update eleventy-site submodule (category governance L` (2026-06-20, 21s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
