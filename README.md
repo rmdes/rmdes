@@ -9,13 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: Phase 7 CV→v2-blocks — registry (cv 1.1.0, site-confi` (2026-06-21)
+<br>`fix: bump theme to 0dc5fbb — cv.njk permalink build-crash fi` (2026-06-21)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`test: scope cv.njk permalink inputPath assertion to the func` (2026-06-21)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump cv ^1.1.0 + site-config ^1.0.0-beta.28 (Phase 7 ` (2026-06-21)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: collision-proof /cv cutover + reserved-slug guard (Pha` (2026-06-20)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat: seed page:cv from cvPageConfig (Phase 7 Task 3)` (2026-06-20)
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Bookmarked : Populism, public opinion, and the mainstreaming of the far right: The ‘immigration issue’ and the construction of a reactionary ‘people’](https://rmendes.net/bookmarks/2026/06/21/bookmarked-populism-public-opinion-and/) - 2026-06-21
+
 [The Brexit Bus Was Only the Beginning](https://rmendes.net/articles/2026/06/06/the-brexit-bus-was-only/) - 2026-06-06
 
 [Reading : how to destroy a literary reputation in one move?](https://rmendes.net/bookmarks/2026/05/31/reading-how-to-destroy-a/) - 2026-05-31
@@ -64,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27899075458)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27903480149)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: Phase 7 CV→v2-blocks — registry (cv 1.1.0, site-confi` (2026-06-21, 23s)
+Last build: `fix: bump theme to 0dc5fbb — cv.njk permalink build-crash fi` (2026-06-21, 25s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
