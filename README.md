@@ -59,8 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Bookmarked : Populism, public opinion, and the mainstreaming of the far right: The ‘immigration issue’ and the construction of a reactionary ‘people’](https://rmendes.net/bookmarks/2026/06/21/bookmarked-populism-public-opinion-and/) - 2026-06-21
 
 [The Brexit Bus Was Only the Beginning](https://rmendes.net/articles/2026/06/06/the-brexit-bus-was-only/) - 2026-06-06
-
-[Reading : how to destroy a literary reputation in one move?](https://rmendes.net/bookmarks/2026/05/31/reading-how-to-destroy-a/) - 2026-05-31
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
