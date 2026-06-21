@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: bump theme to 0dc5fbb — cv.njk permalink build-crash fi` (2026-06-21)
+<br>`chore: bump theme (composedPages debug)` (2026-06-21)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`test: scope cv.njk permalink inputPath assertion to the func` (2026-06-21)
+<br>`debug(TEMP): log composedPages default() execution (Phase 7 ` (2026-06-21)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump cv ^1.1.0 + site-config ^1.0.0-beta.28 (Phase 7 ` (2026-06-21)
@@ -59,16 +59,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Interesting: Turning Arch Linux into a Music Production Powerhouse: Running Ableton Live in a Windows VM](https://rmendes.net/bookmarks/2026/06/21/interesting-turning-arch-linux-into/) - 2026-06-21
 
 [Bookmarked : Populism, public opinion, and the mainstreaming of the far right: The ‘immigration issue’ and the construction of a reactionary ‘people’](https://rmendes.net/bookmarks/2026/06/21/bookmarked-populism-public-opinion-and/) - 2026-06-21
-
-[The Brexit Bus Was Only the Beginning](https://rmendes.net/articles/2026/06/06/the-brexit-bus-was-only/) - 2026-06-06
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27903480149)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27909645039)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: bump theme to 0dc5fbb — cv.njk permalink build-crash fi` (2026-06-21, 25s)
+Last build: `chore: bump theme (composedPages debug)` (2026-06-21, 24s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
