@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: Phase 7 CV→v2-blocks — registry (cv 1.1.0, site-confi` (2026-06-21)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump cv ^1.1.0 + site-config ^1.0.0-beta.28 (Phase 7 ` (2026-06-21)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: collision-proof /cv cutover + reserved-slug guard (Pha` (2026-06-20)
 
@@ -17,14 +23,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`feat!: remove bespoke CV page-builder — CV is now data-only ` (2026-06-20)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`feat: gated category URLs 302 to /categories/?q=<slug> (sear` (2026-06-20)
-
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`fix: category typeahead dropdown clipped by tag-input overfl` (2026-06-20)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump site-config to ^1.0.0-beta.27 (category governan` (2026-06-20)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`feat: enable category typeahead on the post form (Category G` (2026-06-20)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Andrulius/PGStream](https://github.com/Andrulius/PGStream) — DAW Audio LAN streamer
+
 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) — Tools for Use with ObsidianMD
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rorlikowski/stepyard](https://github.com/rorlikowski/stepyard) — Developer-first automation runner: YAML pipelines, Python plugins, local CLI and
 
 [nicolo-ribaudo/bsky-to-mu](https://github.com/nicolo-ribaudo/bsky-to-mu) — Browser extension that automatically redirects bsky.app to mu.social.
-
-[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — Open source Ghostty-based macOS terminal with vertical tabs and notifications. B
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27878319000)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27899075458)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `feat: gated category URLs 302 to /categories/?q=<slug> (sear` (2026-06-20, 17s)
+Last build: `chore: Phase 7 CV→v2-blocks — registry (cv 1.1.0, site-confi` (2026-06-21, 23s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
