@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump theme (composedPages debug)` (2026-06-21)
+<br>`fix: rebuild-trigger watches v4 composition artifacts (compo` (2026-06-21)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`debug(TEMP): log composedPages default() execution (Phase 7 ` (2026-06-21)
+<br>`fix: composedPages _data file must be default-only (Phase 7 ` (2026-06-21)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump cv ^1.1.0 + site-config ^1.0.0-beta.28 (Phase 7 ` (2026-06-21)
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27909645039)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/27910937150)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump theme (composedPages debug)` (2026-06-21, 24s)
+Last build: `fix: rebuild-trigger watches v4 composition artifacts (compo` (2026-06-21, 24s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
