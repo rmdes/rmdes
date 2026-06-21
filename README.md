@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[La thermodynamique de la justice](https://rmendes.net/articles/2026/06/21/la-thermodynamique-de-la-justice/) - 2026-06-21
+
 [Interesting: Turning Arch Linux into a Music Production Powerhouse: Running Ableton Live in a Windows VM](https://rmendes.net/bookmarks/2026/06/21/interesting-turning-arch-linux-into/) - 2026-06-21
 
 [Bookmarked : Populism, public opinion, and the mainstreaming of the far right: The ‘immigration issue’ and the construction of a reactionary ‘people’](https://rmendes.net/bookmarks/2026/06/21/bookmarked-populism-public-opinion-and/) - 2026-06-21
