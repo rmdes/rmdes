@@ -49,7 +49,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [nicolo-ribaudo/bsky-to-mu](https://github.com/nicolo-ribaudo/bsky-to-mu) — Browser extension that automatically redirects bsky.app to mu.social.
 
-[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding 
+[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) — Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
