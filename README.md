@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[raiyanyahya/recall](https://github.com/raiyanyahya/recall) — Stop wasting tokens and re-explaining your project every session. Recall gives C
+
 [Andrulius/PGStream](https://github.com/Andrulius/PGStream) — DAW Audio LAN streamer
 
 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [gastownhall/gastown](https://github.com/gastownhall/gastown) — Gas Town - multi-agent workspace manager
 
 [rorlikowski/stepyard](https://github.com/rorlikowski/stepyard) — Developer-first automation runner: YAML pipelines, Python plugins, local CLI and
-
-[nicolo-ribaudo/bsky-to-mu](https://github.com/nicolo-ribaudo/bsky-to-mu) — Browser extension that automatically redirects bsky.app to mu.social.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
