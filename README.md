@@ -9,13 +9,19 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump plugin-registry (7b plugin pins) + eleventy-site` (2026-06-23)
+<br>`chore: bump plugin-registry (7c pins) + eleventy-site (7c fu` (2026-06-23)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump 7b plugin pins (comments 1.0.17, webmention-io 1` (2026-06-23)
+<br>`chore: bump 7c plugin pins (github 1.2.8, funkwhale 1.0.14)` (2026-06-23)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: map 7b plugin block names to loadout slugs in ENDPOINT` (2026-06-22)
+<br>`feat: widgets go full-live; ENDPOINT_SLUGS for funkwhale (Ph` (2026-06-23)
+
+[indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
+<br>`feat: own funkwhale/Listening block via get blocks() (Phase ` (2026-06-23)
+
+[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
+<br>`feat: own github-repos block + add /api/repos endpoint (Phas` (2026-06-23)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`feat: declare fediverse-follow v2 block(s) via get blocks() ` (2026-06-22)
@@ -25,12 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`feat: declare webmentions v2 block(s) via get blocks() (Phas` (2026-06-22)
-
-[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
-<br>`feat: declare recent-comments v2 block(s) via get blocks() (` (2026-06-22)
-
-[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
-<br>`feat: write CV data to content/_data/cv.json (v2 block-contr` (2026-06-21)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28049134509)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28060230618)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump plugin-registry (7b plugin pins) + eleventy-site` (2026-06-23, 37s)
+Last build: `chore: bump plugin-registry (7c pins) + eleventy-site (7c fu` (2026-06-23, 26s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
@@ -107,8 +107,8 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 259 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 257 |
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 256 |
-| [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 247 |
 | [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 247 |
+| [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 247 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 228 |
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 223 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 218 |
