@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[odysseus](https://github.com/rmdes/odysseus) — Self-hosted AI workspace. 
+<br>`refactor(tools): migrate config/integration admin tools to t` (2026-06-24)
+
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`refactor: retire the legacy discovery subsystem (Phase 7d cl` (2026-06-24)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`feat: declare fediverse-follow v2 block(s) via get blocks() ` (2026-06-22)
-
-[indiekit-endpoint-blogroll](https://github.com/rmdes/indiekit-endpoint-blogroll) — Indiekit endpoint plugin for blogroll management with OPML import and RSS aggreg
-<br>`feat: declare blogroll + feedland v2 block(s) via get blocks` (2026-06-22)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[Francosimon53/verification-layer](https://github.com/Francosimon53/verification-layer) — Open-source HIPAA compliance scanner for healthcare code. 140+ rules, 5 HIPAA ca
+
 [SauceyRed/bring-twitter-back](https://github.com/SauceyRed/bring-twitter-back) — A browser extension for Firefox and Chromium-based browsers that turns X back in
 
 [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with m
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) — Tools for Use with ObsidianMD
-
-[SierraSoftworks/markout](https://github.com/SierraSoftworks/markout) — Native Markdown support in Outlook
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
