@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`refactor: retire the legacy render-time gating bridge (Phase` (2026-06-24)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`refactor: remove 7 plugin-owned widget seeds from BUILTIN_BL` (2026-06-24)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump plugin-registry (7c pins) + eleventy-site (7c fu` (2026-06-23)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump 7c plugin pins (github 1.2.8, funkwhale 1.0.14)` (2026-06-23)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: widgets go full-live; ENDPOINT_SLUGS for funkwhale (Ph` (2026-06-23)
 
 [indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
 <br>`feat: own funkwhale/Listening block via get blocks() (Phase ` (2026-06-23)
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-blogroll](https://github.com/rmdes/indiekit-endpoint-blogroll) — Indiekit endpoint plugin for blogroll management with OPML import and RSS aggreg
 <br>`feat: declare blogroll + feedland v2 block(s) via get blocks` (2026-06-22)
-
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`feat: declare webmentions v2 block(s) via get blocks() (Phas` (2026-06-22)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[NVIDIA/dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks) — Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DG
+
 [raiyanyahya/recall](https://github.com/raiyanyahya/recall) — Stop wasting tokens and re-explaining your project every session. Recall gives C
 
 [Andrulius/PGStream](https://github.com/Andrulius/PGStream) — DAW Audio LAN streamer
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [acunningham-ship-it/leakproof](https://github.com/acunningham-ship-it/leakproof) — Local secret firewall for AI coding assistants (Claude Code/Cursor/aider) — scan
 
 [gastownhall/gastown](https://github.com/gastownhall/gastown) — Gas Town - multi-agent workspace manager
-
-[rorlikowski/stepyard](https://github.com/rorlikowski/stepyard) — Developer-first automation runner: YAML pipelines, Python plugins, local CLI and
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
