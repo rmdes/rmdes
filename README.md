@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`refactor: retire the legacy discovery subsystem (Phase 7d cl` (2026-06-24)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`refactor: derive widget/section routing sets from the filesy` (2026-06-24)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump site-config pin to ^1.0.0-beta.29 (Phase 7d lega` (2026-06-24)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`refactor: remove 7 plugin-owned widget seeds from BUILTIN_BL` (2026-06-24)
 
 [indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
 <br>`feat: own funkwhale/Listening block via get blocks() (Phase ` (2026-06-23)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[SauceyRed/bring-twitter-back](https://github.com/SauceyRed/bring-twitter-back) — A browser extension for Firefox and Chromium-based browsers that turns X back in
+
 [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with m
 
 [NVIDIA/dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks) — Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DG
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) — Tools for Use with ObsidianMD
 
 [SierraSoftworks/markout](https://github.com/SierraSoftworks/markout) — Native Markdown support in Outlook
-
-[acunningham-ship-it/leakproof](https://github.com/acunningham-ship-it/leakproof) — Local secret firewall for AI coding assistants (Claude Code/Cursor/aider) — scan
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
