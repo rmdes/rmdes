@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[MykhailoTamarin/vllm-starter](https://github.com/MykhailoTamarin/vllm-starter) — 
+
+[firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web
+
 [ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet) — 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any thi
 
 [kishan-ptl/joystick](https://github.com/kishan-ptl/joystick) — Terminal-operations dashboard for Ghostty — event log, zsh + Claude Code hook em
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 pipelines, 52 too
-
-[LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) — 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Curso
-
-[Francosimon53/verification-layer](https://github.com/Francosimon53/verification-layer) — Open-source HIPAA compliance scanner for healthcare code. 140+ rules, 5 HIPAA ca
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
