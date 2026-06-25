@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet) — 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any thi
+
+[kishan-ptl/joystick](https://github.com/kishan-ptl/joystick) — Terminal-operations dashboard for Ghostty — event log, zsh + Claude Code hook em
+
 [maximhq/bifrost](https://github.com/maximhq/bifrost) — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balan
 
 [mchestr/home-cluster](https://github.com/mchestr/home-cluster) — Cat-approved, 100% renewable, GMO-Free HomeLab k8s cluster managed via Flux2 & R
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) — 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Curso
 
 [Francosimon53/verification-layer](https://github.com/Francosimon53/verification-layer) — Open-source HIPAA compliance scanner for healthcare code. 140+ rules, 5 HIPAA ca
-
-[SauceyRed/bring-twitter-back](https://github.com/SauceyRed/bring-twitter-back) — A browser extension for Firefox and Chromium-based browsers that turns X back in
-
-[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with m
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
