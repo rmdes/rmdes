@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump plugin-registry (site-config beta.30) + eleventy` (2026-06-25)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump site-config pin to ^1.0.0-beta.30 (legacy discov` (2026-06-25)
+
 [odysseus](https://github.com/rmdes/odysseus) — Self-hosted AI workspace. 
 <br>`refactor(tools): migrate config/integration admin tools to t` (2026-06-24)
 
@@ -16,12 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`refactor: derive widget/section routing sets from the filesy` (2026-06-24)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump plugin-registry (site-config beta.29) + eleventy` (2026-06-24)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump site-config pin to ^1.0.0-beta.29 (Phase 7d lega` (2026-06-24)
 
 [indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
 <br>`feat: own funkwhale/Listening block via get blocks() (Phase ` (2026-06-23)
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28083810046)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28186211621)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump plugin-registry (site-config beta.29) + eleventy` (2026-06-24, 21s)
+Last build: `chore: bump plugin-registry (site-config beta.30) + eleventy` (2026-06-25, 26s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
