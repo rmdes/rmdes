@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[maximhq/bifrost](https://github.com/maximhq/bifrost) — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balan
+
+[mchestr/home-cluster](https://github.com/mchestr/home-cluster) — Cat-approved, 100% renewable, GMO-Free HomeLab k8s cluster managed via Flux2 & R
+
+[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
+
+[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 pipelines, 52 too
+
+[LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) — 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Curso
+
 [Francosimon53/verification-layer](https://github.com/Francosimon53/verification-layer) — Open-source HIPAA compliance scanner for healthcare code. 140+ rules, 5 HIPAA ca
 
 [SauceyRed/bring-twitter-back](https://github.com/SauceyRed/bring-twitter-back) — A browser extension for Firefox and Chromium-based browsers that turns X back in
 
 [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with m
-
-[NVIDIA/dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks) — Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DG
-
-[raiyanyahya/recall](https://github.com/raiyanyahya/recall) — Stop wasting tokens and re-explaining your project every session. Recall gives C
-
-[Andrulius/PGStream](https://github.com/Andrulius/PGStream) — DAW Audio LAN streamer
-
-[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
-
-[Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) — Tools for Use with ObsidianMD
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
