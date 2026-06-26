@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator d
+
+[LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) —  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLM
+
+[xtekky/gpt4free](https://github.com/xtekky/gpt4free) — The official gpt4free repository | various collection of powerful language model
+
+[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anth
+
 [kesteva/cyboflow](https://github.com/kesteva/cyboflow) — 
 
 [MykhailoTamarin/vllm-starter](https://github.com/MykhailoTamarin/vllm-starter) — 
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web
 
 [ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet) — 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any thi
-
-[kishan-ptl/joystick](https://github.com/kishan-ptl/joystick) — Terminal-operations dashboard for Ghostty — event log, zsh + Claude Code hook em
-
-[maximhq/bifrost](https://github.com/maximhq/bifrost) — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balan
-
-[mchestr/home-cluster](https://github.com/mchestr/home-cluster) — Cat-approved, 100% renewable, GMO-Free HomeLab k8s cluster managed via Flux2 & R
-
-[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
