@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[kesteva/cyboflow](https://github.com/kesteva/cyboflow) — 
+
 [MykhailoTamarin/vllm-starter](https://github.com/MykhailoTamarin/vllm-starter) — 
 
 [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mchestr/home-cluster](https://github.com/mchestr/home-cluster) — Cat-approved, 100% renewable, GMO-Free HomeLab k8s cluster managed via Flux2 & R
 
 [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
-
-[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 pipelines, 52 too
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
