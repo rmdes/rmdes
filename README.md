@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) — Google Cloud Knowledge Catalog Tools and Samples
+
 [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator d
 
 [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) —  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLM
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [MykhailoTamarin/vllm-starter](https://github.com/MykhailoTamarin/vllm-starter) — 
 
 [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) — 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web
-
-[ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet) — 🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any thi
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
