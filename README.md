@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
-<br>`fix: default to 32k context so agentic clients don't compact` (2026-06-27)
+<br>`feat: add Qwen2.5-Coder-7B as the coding default` (2026-06-27)
 
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`docs: clarify single-host use and shared-filesystem requirem` (2026-06-27)
