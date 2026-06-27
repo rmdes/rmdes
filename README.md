@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
+
 [obro79/promptetheus](https://github.com/obro79/promptetheus) — Debugging infrastructure for AI agents
 
 [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) — Google Cloud Knowledge Catalog Tools and Samples
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anth
 
 [kesteva/cyboflow](https://github.com/kesteva/cyboflow) — 
-
-[MykhailoTamarin/vllm-starter](https://github.com/MykhailoTamarin/vllm-starter) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
