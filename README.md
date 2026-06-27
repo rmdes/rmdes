@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
+<br>`fix: default to 32k context so agentic clients don't compact` (2026-06-27)
+
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`docs: clarify single-host use and shared-filesystem requirem` (2026-06-27)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
 <br>`feat: own funkwhale/Listening block via get blocks() (Phase ` (2026-06-23)
-
-[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
-<br>`feat: own github-repos block + add /api/repos endpoint (Phas` (2026-06-23)
 <!-- active_repos ends -->
 
 ### Recently Starred
