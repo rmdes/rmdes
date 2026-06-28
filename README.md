@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[heymrun/heym](https://github.com/heymrun/heym) — Build AI workflows by prompt or visual canvas. Heym is source-available and self
+
 [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 
 [obro79/promptetheus](https://github.com/obro79/promptetheus) — Debugging infrastructure for AI agents
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [xtekky/gpt4free](https://github.com/xtekky/gpt4free) — The official gpt4free repository | various collection of powerful language model
 
 [mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anth
-
-[kesteva/cyboflow](https://github.com/kesteva/cyboflow) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
