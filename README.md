@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) — GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer
+
+[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX mul
+
+[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
+
 [heymrun/heym](https://github.com/heymrun/heym) — Build AI workflows by prompt or visual canvas. Heym is source-available and self
 
 [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) — Google Cloud Knowledge Catalog Tools and Samples
 
 [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator d
-
-[LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) —  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLM
-
-[xtekky/gpt4free](https://github.com/xtekky/gpt4free) — The official gpt4free repository | various collection of powerful language model
-
-[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anth
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
