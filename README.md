@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
+
 [kivirnz/OpenLyfta](https://github.com/kivirnz/OpenLyfta) — An easy, Caddy & ExpressJS based web app for importing and sharing data from the
 
 [quarterback/closedtab](https://github.com/quarterback/closedtab) — Review the work your AI agents do. CLI + MCP.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
-
-[heymrun/heym](https://github.com/heymrun/heym) — Build AI workflows by prompt or visual canvas. Heym is source-available and self
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
