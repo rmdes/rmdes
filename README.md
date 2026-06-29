@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[kivirnz/OpenLyfta](https://github.com/kivirnz/OpenLyfta) — An easy, Caddy & ExpressJS based web app for importing and sharing data from the
+
+[quarterback/closedtab](https://github.com/quarterback/closedtab) — Review the work your AI agents do. CLI + MCP.
+
+[tomreinert/claude-annotate](https://github.com/tomreinert/claude-annotate) — Claude Code plugin: draw on a live frontend in the Playwright browser, annotated
+
+[joanseg/specmanager](https://github.com/joanseg/specmanager) — Spec-driven development for Claude Code. SpecManager turns AI coding into a gate
+
 [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) — GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer
 
 [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX mul
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 [heymrun/heym](https://github.com/heymrun/heym) — Build AI workflows by prompt or visual canvas. Heym is source-available and self
-
-[anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
-
-[obro79/promptetheus](https://github.com/obro79/promptetheus) — Debugging infrastructure for AI agents
-
-[GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) — Google Cloud Knowledge Catalog Tools and Samples
-
-[open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator d
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
