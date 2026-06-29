@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Inbound and outbound RSS](https://rmendes.net/articles/2026/06/29/inbound-and-outbound-rss/) - 2026-06-29
+
 [La thermodynamique de la justice](https://rmendes.net/articles/2026/06/21/la-thermodynamique-de-la-justice/) - 2026-06-21
 
 [Interesting: Turning Arch Linux into a Music Production Powerhouse: Running Ableton Live in a Windows VM](https://rmendes.net/bookmarks/2026/06/21/interesting-turning-arch-linux-into/) - 2026-06-21
