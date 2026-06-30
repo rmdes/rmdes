@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[mjn298/ts7-lsp-plugin](https://github.com/mjn298/ts7-lsp-plugin) — Claude Code plugin: TypeScript LSP backed by the native TypeScript 7 server (tsc
+
+[danny-avila/rag_api](https://github.com/danny-avila/rag_api) — ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector
+
 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 
 [kivirnz/OpenLyfta](https://github.com/kivirnz/OpenLyfta) — An easy, Caddy & ExpressJS based web app for importing and sharing data from the
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [joanseg/specmanager](https://github.com/joanseg/specmanager) — Spec-driven development for Claude Code. SpecManager turns AI coding into a gate
 
 [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) — GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer
-
-[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX mul
-
-[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
