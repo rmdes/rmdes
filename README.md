@@ -8,17 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`test: CSRF token generation + validation (security)` (2026-07-01)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (activitypub 3.13.10` (2026-07-01)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub to ^3.13.10 (security fix — stored X` (2026-07-01)
+<br>`chore: bump eleventy-site (markdown alternate for notes/abou` (2026-07-01)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(markdown-agents): run via one-shot flag not !incremental` (2026-07-01)
+<br>`feat(theme): advertise markdown alternate for notes, /about,` (2026-07-01)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`chore: v3.13.12 — extract federation send-path (index.js god` (2026-07-01)
+
+[activitypub-tests](https://github.com/rmdes/activitypub-tests) — ActivityPub federation compliance test suite for Indiekit + Fedify
+<br>`fix(test): check assertionMethod (singular), not assertionMe` (2026-07-01)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump activitypub to ^3.13.11 (index.js god-entry spli` (2026-07-01)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`feat: add Qwen2.5-Coder-7B as the coding default` (2026-06-27)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [odysseus](https://github.com/rmdes/odysseus) — Self-hosted AI workspace. 
 <br>`refactor(tools): migrate config/integration admin tools to t` (2026-06-24)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`refactor: retire the legacy discovery subsystem (Phase 7d cl` (2026-06-24)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28526023174)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28531179067)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (activitypub 3.13.10` (2026-07-01, 28s)
+Last build: `chore: bump eleventy-site (markdown alternate for notes/abou` (2026-07-01, 18s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
