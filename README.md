@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump eleventy-site (markdown alternate for notes/abou` (2026-07-01)
+<br>`chore: bump eleventy-site (gate synthesized twins on page ex` (2026-07-01)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(theme): advertise markdown alternate for notes, /about,` (2026-07-01)
+<br>`fix(markdown-agents): gate synthesized about/home twins on t` (2026-07-01)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`chore: v3.13.12 — extract federation send-path (index.js god` (2026-07-01)
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28531179067)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28532203684)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump eleventy-site (markdown alternate for notes/abou` (2026-07-01, 18s)
+Last build: `chore: bump eleventy-site (gate synthesized twins on page ex` (2026-07-01, 31s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
