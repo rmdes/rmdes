@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[activitypub-tests](https://github.com/rmdes/activitypub-tests) — ActivityPub federation compliance test suite for Indiekit + Fedify
+<br>`fix(test): skip media/attachment URLs when picking a post UR` (2026-07-01)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry submodule (activitypub 3.13.13` (2026-07-01)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(markdown-agents): gate synthesized about/home twins on t` (2026-07-01)
-
-[activitypub-tests](https://github.com/rmdes/activitypub-tests) — ActivityPub federation compliance test suite for Indiekit + Fedify
-<br>`fix(test): check assertionMethod (singular), not assertionMe` (2026-07-01)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`feat: add Qwen2.5-Coder-7B as the coding default` (2026-06-27)
