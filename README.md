@@ -9,10 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`test: unit tests for pure inbox + content helpers (no behavi` (2026-07-01)
+<br>`test: CSRF token generation + validation (security)` (2026-07-01)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix(make): verify-agents skips article check when site has n` (2026-07-01)
+<br>`chore: update plugin-registry submodule (activitypub 3.13.10` (2026-07-01)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump activitypub to ^3.13.10 (security fix — stored X` (2026-07-01)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(markdown-agents): run via one-shot flag not !incremental` (2026-07-01)
@@ -22,9 +25,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`docs: clarify single-host use and shared-filesystem requirem` (2026-06-27)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump site-config pin to ^1.0.0-beta.30 (legacy discov` (2026-06-25)
 
 [odysseus](https://github.com/rmdes/odysseus) — Self-hosted AI workspace. 
 <br>`refactor(tools): migrate config/integration admin tools to t` (2026-06-24)
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28522863083)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28526023174)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix(make): verify-agents skips article check when site has n` (2026-07-01, 21s)
+Last build: `chore: update plugin-registry submodule (activitypub 3.13.10` (2026-07-01, 28s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
