@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`test: unit tests for pure inbox + content helpers (no behavi` (2026-07-01)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (agent-readable markdo` (2026-07-01)
+<br>`fix(make): verify-agents skips article check when site has n` (2026-07-01)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`refactor(eleventy): call lib/markdown-agents; add notes + tw` (2026-07-01)
+<br>`fix(markdown-agents): run via one-shot flag not !incremental` (2026-07-01)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`feat: add Qwen2.5-Coder-7B as the coding default` (2026-06-27)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`refactor: retire the legacy discovery subsystem (Phase 7d cl` (2026-06-24)
-
-[indiekit-endpoint-funkwhale](https://github.com/rmdes/indiekit-endpoint-funkwhale) — an indiekit plugin to display funkwhale data on indiekit + eleventy blog
-<br>`feat: own funkwhale/Listening block via get blocks() (Phase ` (2026-06-23)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28520805603)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28522863083)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (agent-readable markdo` (2026-07-01, 25s)
+Last build: `fix(make): verify-agents skips article check when site has n` (2026-07-01, 21s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
