@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) — Design, Test and Document APIs in plain Markdown. Compose Requests with API bloc
+
 [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — OpenWiki is a CLI that writes and maintains agent documentation for your codebas
 
 [0xferrous/agent-box](https://github.com/0xferrous/agent-box) —  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspace
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [danny-avila/rag_api](https://github.com/danny-avila/rag_api) — ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector
 
 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
-
-[kivirnz/OpenLyfta](https://github.com/kivirnz/OpenLyfta) — An easy, Caddy & ExpressJS based web app for importing and sharing data from the
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
