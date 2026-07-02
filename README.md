@@ -8,20 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[activitypub-tests](https://github.com/rmdes/activitypub-tests) — ActivityPub federation compliance test suite for Indiekit + Fedify
-<br>`fix(test): skip media/attachment URLs when picking a post UR` (2026-07-01)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (activitypub 3.13.13` (2026-07-01)
+<br>`chore: update plugin-registry submodule (activitypub 3.13.14` (2026-07-02)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub to ^3.13.13 (content-neg trailing-sl` (2026-07-01)
+<br>`chore: bump activitypub to ^3.13.14 (Fedify 2.3.1 upgrade)` (2026-07-02)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: content negotiation post lookup is now trailing-slash t` (2026-07-01)
+<br>`chore: upgrade @fedify/fedify 2.2.4 → 2.3.1 (exact pin)` (2026-07-02)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(markdown-agents): gate synthesized about/home twins on t` (2026-07-01)
+<br>`docs: document Markdown for Agents (llms.txt + .md twins) in` (2026-07-02)
+
+[activitypub-tests](https://github.com/rmdes/activitypub-tests) — ActivityPub federation compliance test suite for Indiekit + Fedify
+<br>`fix(test): skip media/attachment URLs when picking a post UR` (2026-07-01)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`feat: add Qwen2.5-Coder-7B as the coding default` (2026-06-27)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — OpenWiki is a CLI that writes and maintains agent documentation for your codebas
+
+[0xferrous/agent-box](https://github.com/0xferrous/agent-box) —  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspace
+
+[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) — MiMo Code: Where Models and Agents Co-Evolve
+
 [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code
 
 [mjn298/ts7-lsp-plugin](https://github.com/mjn298/ts7-lsp-plugin) — Claude Code plugin: TypeScript LSP backed by the native TypeScript 7 server (tsc
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 
 [kivirnz/OpenLyfta](https://github.com/kivirnz/OpenLyfta) — An easy, Caddy & ExpressJS based web app for importing and sharing data from the
-
-[quarterback/closedtab](https://github.com/quarterback/closedtab) — Review the work your AI agents do. CLI + MCP.
-
-[tomreinert/claude-annotate](https://github.com/tomreinert/claude-annotate) — Claude Code plugin: draw on a live frontend in the Playwright browser, annotated
-
-[joanseg/specmanager](https://github.com/joanseg/specmanager) — Spec-driven development for Claude Code. SpecManager turns AI coding into a gate
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28544687760)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28577720934)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (activitypub 3.13.13` (2026-07-01, 17s)
+Last build: `chore: update plugin-registry submodule (activitypub 3.13.14` (2026-07-02, 20s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
