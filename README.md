@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — High-performance code intelligence MCP server. Indexes codebases into a persiste
+
+[NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffe
+
+[google-research/tabfm](https://github.com/google-research/tabfm) — 
+
+[montevive/autocache](https://github.com/montevive/autocache) — 🚀 Autocache - Intelligent Anthropic API Cache Proxy   Automatically inject cache
+
 [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) — Design, Test and Document APIs in plain Markdown. Compose Requests with API bloc
 
 [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — OpenWiki is a CLI that writes and maintains agent documentation for your codebas
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [0xferrous/agent-box](https://github.com/0xferrous/agent-box) —  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspace
 
 [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) — MiMo Code: Where Models and Agents Co-Evolve
-
-[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code
-
-[mjn298/ts7-lsp-plugin](https://github.com/mjn298/ts7-lsp-plugin) — Claude Code plugin: TypeScript LSP backed by the native TypeScript 7 server (tsc
-
-[danny-avila/rag_api](https://github.com/danny-avila/rag_api) — ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector
-
-[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
