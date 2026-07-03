@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[jamesob/local-llm](https://github.com/jamesob/local-llm) — Everything I know about running LLMs locally
+
 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffe
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — OpenWiki is a CLI that writes and maintains agent documentation for your codebas
 
 [0xferrous/agent-box](https://github.com/0xferrous/agent-box) —  Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspace
-
-[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) — MiMo Code: Where Models and Agents Co-Evolve
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
