@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
+<br>`docs: reframe repo comparison as a neutral trade-off table` (2026-07-03)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry submodule (activitypub 3.13.14` (2026-07-02)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
 <br>`docs: clarify single-host use and shared-filesystem requirem` (2026-06-27)
-
-[odysseus](https://github.com/rmdes/odysseus) — Self-hosted AI workspace. 
-<br>`refactor(tools): migrate config/integration admin tools to t` (2026-06-24)
 <!-- active_repos ends -->
 
 ### Recently Starred
