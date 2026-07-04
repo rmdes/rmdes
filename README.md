@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: update dependencies` (2026-04-04)
+
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`build: pin npm@11 (npm 10 mis-resolves @noble/hashes lock)` (2026-07-04)
 
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`chore: upgrade @fedify/fedify 2.2.4 → 2.3.1 (exact pin)` (2026-07-02)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`docs: document Markdown for Agents (llms.txt + .md twins) in` (2026-07-02)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) — A Modern Orchestration Engine for Security
+
+[j3ssie/metabigor](https://github.com/j3ssie/metabigor) — OSINT tools and more but without API key
+
 [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   aut
 
 [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware.
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffe
-
-[google-research/tabfm](https://github.com/google-research/tabfm) — 
-
-[montevive/autocache](https://github.com/montevive/autocache) — 🚀 Autocache - Intelligent Anthropic API Cache Proxy   Automatically inject cache
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
