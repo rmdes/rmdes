@@ -8,6 +8,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
+<br>`build: pin npm@11 (npm 10 mis-resolves @noble/hashes lock)` (2026-07-04)
+
+[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
+<br>`chore: bump newsdiff to 898c03f (npm@11 pin)` (2026-07-04)
+
+[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
+<br>`build: pin npm@11 in builder (npm 10 mis-resolves @noble/has` (2026-07-04)
+
 [feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
 <br>`docs: reframe repo comparison as a neutral trade-off table` (2026-07-03)
 
@@ -22,19 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`docs: document Markdown for Agents (llms.txt + .md twins) in` (2026-07-02)
-
-[activitypub-tests](https://github.com/rmdes/activitypub-tests) — ActivityPub federation compliance test suite for Indiekit + Fedify
-<br>`fix(test): skip media/attachment URLs when picking a post UR` (2026-07-01)
-
-[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
-<br>`feat: add Qwen2.5-Coder-7B as the coding default` (2026-06-27)
-
-[claude-recent](https://github.com/rmdes/claude-recent) — Cross-machine session tracker for Claude Code — index sessions to a shared folde
-<br>`docs: clarify single-host use and shared-filesystem requirem` (2026-06-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   aut
+
+[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware.
+
 [hannah-wright/saas-landing-page-template](https://github.com/hannah-wright/saas-landing-page-template) — Free SaaS landing page template in React, Vue, and HTML on Tailwind CSS. Drop it
 
 [jamesob/local-llm](https://github.com/jamesob/local-llm) — Everything I know about running LLMs locally
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [google-research/tabfm](https://github.com/google-research/tabfm) — 
 
 [montevive/autocache](https://github.com/montevive/autocache) — 🚀 Autocache - Intelligent Anthropic API Cache Proxy   Automatically inject cache
-
-[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) — Design, Test and Document APIs in plain Markdown. Compose Requests with API bloc
-
-[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — OpenWiki is a CLI that writes and maintains agent documentation for your codebas
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
