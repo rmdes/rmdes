@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[zzet/gortex](https://github.com/zzet/gortex) — High-performance code-intelligence engine for AI agents and IDE, supports 257 la
+
+[mitos-run/mitos](https://github.com/mitos-run/mitos) — Millisecond microVM sandbox forking for AI agents on Kubernetes. Firecracker VMs
+
+[sonyarianto/santui](https://github.com/sonyarianto/santui) — Santui is your terminal home base.
+
+[ChinadaCam/DNScanner](https://github.com/ChinadaCam/DNScanner) — Scan domains like a pro  
+
+[Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) — Find out where your coding agent starts degrading. Personal context-rot analytic
+
+[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc
+
+[Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) — Reverse-engineered system prompt and skill library that turns an LLM into an opi
+
 [benjaminjaklic/NAS_readme](https://github.com/benjaminjaklic/NAS_readme) — 
-
-[j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) — A Modern Orchestration Engine for Security
-
-[j3ssie/metabigor](https://github.com/j3ssie/metabigor) — OSINT tools and more but without API key
-
-[shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   aut
-
-[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware.
-
-[hannah-wright/saas-landing-page-template](https://github.com/hannah-wright/saas-landing-page-template) — Free SaaS landing page template in React, Vue, and HTML on Tailwind CSS. Drop it
-
-[jamesob/local-llm](https://github.com/jamesob/local-llm) — Everything I know about running LLMs locally
-
-[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — High-performance code intelligence MCP server. Indexes codebases into a persiste
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
