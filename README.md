@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[benjaminjaklic/NAS_readme](https://github.com/benjaminjaklic/NAS_readme) — 
+
 [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) — A Modern Orchestration Engine for Security
 
 [j3ssie/metabigor](https://github.com/j3ssie/metabigor) — OSINT tools and more but without API key
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [jamesob/local-llm](https://github.com/jamesob/local-llm) — Everything I know about running LLMs locally
 
 [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — High-performance code intelligence MCP server. Indexes codebases into a persiste
-
-[NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffe
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
