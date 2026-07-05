@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,
+
 [yibie/skills-manager](https://github.com/yibie/skills-manager) — A native macOS app to manage skills across coding agents — Claude Code, Cursor, 
 
 [flomesh-io/ztm](https://github.com/flomesh-io/ztm) — ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized end-to-end en
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ChinadaCam/DNScanner](https://github.com/ChinadaCam/DNScanner) — Scan domains like a pro  
 
 [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) — Find out where your coding agent starts degrading. Personal context-rot analytic
-
-[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
