@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[yibie/skills-manager](https://github.com/yibie/skills-manager) — A native macOS app to manage skills across coding agents — Claude Code, Cursor, 
+
+[flomesh-io/ztm](https://github.com/flomesh-io/ztm) — ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized end-to-end en
+
 [zzet/gortex](https://github.com/zzet/gortex) — High-performance code-intelligence engine for AI agents and IDE, supports 257 la
 
 [mitos-run/mitos](https://github.com/mitos-run/mitos) — Millisecond microVM sandbox forking for AI agents on Kubernetes. Firecracker VMs
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) — Find out where your coding agent starts degrading. Personal context-rot analytic
 
 [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc
-
-[Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) — Reverse-engineered system prompt and skill library that turns an LLM into an opi
-
-[benjaminjaklic/NAS_readme](https://github.com/benjaminjaklic/NAS_readme) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
