@@ -8,6 +8,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
+<br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`fix: pin upstream post-types to ^1.0.0-beta.28` (2026-07-06)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: stable activity ids + FEP-8fcf sync + exact Fedify pins` (2026-07-06)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-04-04)
 
@@ -22,15 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
 <br>`docs: reframe repo comparison as a neutral trade-off table` (2026-07-03)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (activitypub 3.13.14` (2026-07-02)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub to ^3.13.14 (Fedify 2.3.1 upgrade)` (2026-07-02)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`chore: upgrade @fedify/fedify 2.2.4 → 2.3.1 (exact pin)` (2026-07-02)
 <!-- active_repos ends -->
 
 ### Recently Starred
