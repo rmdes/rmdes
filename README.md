@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
-<br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
-
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`fix: pin upstream post-types to ^1.0.0-beta.28` (2026-07-06)
+<br>`chore: bump activitypub plugin to ^3.13.16 (S-2 mention/hash` (2026-07-07)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: stable activity ids + FEP-8fcf sync + exact Fedify pins` (2026-07-06)
+<br>`fix: inbound mention/hashtag detection (S-2) + migrate to @f` (2026-07-07)
+
+[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
+<br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-04-04)
