@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.17 (audit round-2 fi` (2026-07-07)
+<br>`chore: bump activitypub plugin to ^3.13.18 (audit LOW batch ` (2026-07-07)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: audit round-2 — XSS, Delete ownership, interaction addr` (2026-07-07)
+<br>`fix: classify transient inbox errors + LOW audit batch (v3.1` (2026-07-07)
 
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
