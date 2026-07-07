@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — AI-powered job application framework built on Claude Code. Fork it, fill in your
+
 [natolambert/dgx-spark-setup](https://github.com/natolambert/dgx-spark-setup) — Setup guide for ML training on NVIDIA DGX Spark (GB10 Blackwell, CUDA 13, aarch6
 
 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mitos-run/mitos](https://github.com/mitos-run/mitos) — Millisecond microVM sandbox forking for AI agents on Kubernetes. Firecracker VMs
 
 [sonyarianto/santui](https://github.com/sonyarianto/santui) — Santui is your terminal home base.
-
-[ChinadaCam/DNScanner](https://github.com/ChinadaCam/DNScanner) — Scan domains like a pro  
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
