@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[chattocorp/chatto](https://github.com/chattocorp/chatto) — A really good chat application that you can self-host.
+
+[apache/shiro](https://github.com/apache/shiro) — Apache Shiro is a powerful and easy-to-use Java security framework that performs
+
+[linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) — This does for Documents what repo-browser does for repos. A local AI powered Doc
+
+[microsoft/flint-chart](https://github.com/microsoft/flint-chart) — 🪄 Flint is a visualization language that lets AI agents reliably create expressi
+
+[mohsen1/session-recorder-chrome-extension](https://github.com/mohsen1/session-recorder-chrome-extension) — Chrome extension that records web sessions (network, screenshots, real-time voic
+
+[malisper/pgrust](https://github.com/malisper/pgrust) — Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+
 [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — AI-powered job application framework built on Claude Code. Fork it, fill in your
 
 [natolambert/dgx-spark-setup](https://github.com/natolambert/dgx-spark-setup) — Setup guide for ML training on NVIDIA DGX Spark (GB10 Blackwell, CUDA 13, aarch6
-
-[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,
-
-[yibie/skills-manager](https://github.com/yibie/skills-manager) — A native macOS app to manage skills across coding agents — Claude Code, Cursor, 
-
-[flomesh-io/ztm](https://github.com/flomesh-io/ztm) — ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized end-to-end en
-
-[zzet/gortex](https://github.com/zzet/gortex) — High-performance code-intelligence engine for AI agents and IDE, supports 257 la
-
-[mitos-run/mitos](https://github.com/mitos-run/mitos) — Millisecond microVM sandbox forking for AI agents on Kubernetes. Firecracker VMs
-
-[sonyarianto/santui](https://github.com/sonyarianto/santui) — Santui is your terminal home base.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
