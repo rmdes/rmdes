@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: round-3 live-probe findings — Note attribution, WebFing` (2026-07-09)
+<br>`docs: gotcha #41 — Fedify constructor prop names vs JSON-LD ` (2026-07-09)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.18 (audit LOW batch ` (2026-07-07)
+<br>`chore: bump activitypub plugin to ^3.13.19 (round-3 live-pro` (2026-07-09)
 
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ronak-create/FableCut](https://github.com/ronak-create/FableCut) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, M
+
+[PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) — PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed
+
 [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 [talalalrwas/ocr-grab](https://github.com/talalalrwas/ocr-grab) — Flameshot clone that adds OCR.
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [allenai/olmocr](https://github.com/allenai/olmocr) — Toolkit for linearizing PDFs for LLM datasets/training
 
 [smittix/intercept](https://github.com/smittix/intercept) — iNTERCEPT, a free and open-source platform that unites the best signal intellige
-
-[usestrix/strix](https://github.com/usestrix/strix) — Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti
-
-[metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) — Standard grep, plus a few commands your coding agent can use to navigate code — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
