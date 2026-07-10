@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[xkaluv/harvey](https://github.com/xkaluv/harvey) — AI law firm skill for Claude Code — multi-agent legal analysis, contract review,
+[techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) — A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
-[Open-Legal-Products/mike](https://github.com/Open-Legal-Products/mike) — OSS AI Legal Platform
+[punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) — 
 
-[ronak-create/FableCut](https://github.com/ronak-create/FableCut) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, M
+[Shiva108/ai-llm-red-team-handbook](https://github.com/Shiva108/ai-llm-red-team-handbook) — AI / LLM Red Team Field Manual & Consultant’s Handbook
 
-[PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) — PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed
+[olalie/tapmap](https://github.com/olalie/tapmap) — Watch your computer connect across the internet in real time. Discover the world
 
-[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit commun
+[34306/vphone-aio](https://github.com/34306/vphone-aio) — 1 script run the vphone
 
-[talalalrwas/ocr-grab](https://github.com/talalalrwas/ocr-grab) — Flameshot clone that adds OCR.
+[braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) — Paste any GitHub URL → interactive architecture map. See how files connect, find
 
-[JustVugg/colibri](https://github.com/JustVugg/colibri) — Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, exper
+[dreddnafious/thereisnospoon](https://github.com/dreddnafious/thereisnospoon) — A machine learning primer built from first principles. For engineers who want to
 
-[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
+[brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) — Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -61,8 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [La thermodynamique de la justice](https://rmendes.net/articles/2026/06/21/la-thermodynamique-de-la-justice/) - 2026-06-21
 
 [Interesting: Turning Arch Linux into a Music Production Powerhouse: Running Ableton Live in a Windows VM](https://rmendes.net/bookmarks/2026/06/21/interesting-turning-arch-linux-into/) - 2026-06-21
-
-[Bookmarked : Populism, public opinion, and the mainstreaming of the far right: The ‘immigration issue’ and the construction of a reactionary ‘people’](https://rmendes.net/bookmarks/2026/06/21/bookmarked-populism-public-opinion-and/) - 2026-06-21
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
