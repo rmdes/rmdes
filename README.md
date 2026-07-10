@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[lyqht/mini-qr](https://github.com/lyqht/mini-qr) — Create & scan cute qr codes easily 👾
+
 [techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) — A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
 [punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) — Paste any GitHub URL → interactive architecture map. See how files connect, find
 
 [dreddnafious/thereisnospoon](https://github.com/dreddnafious/thereisnospoon) — A machine learning primer built from first principles. For engineers who want to
-
-[brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) — Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
