@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
+<br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`docs: gotcha #41 — Fedify constructor prop names vs JSON-LD ` (2026-07-09)
 
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
 <br>`build: pin npm@11 in builder (npm 10 mis-resolves @noble/has` (2026-07-04)
-
-[feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
-<br>`docs: reframe repo comparison as a neutral trade-off table` (2026-07-03)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[xkaluv/harvey](https://github.com/xkaluv/harvey) — AI law firm skill for Claude Code — multi-agent legal analysis, contract review,
+
+[Open-Legal-Products/mike](https://github.com/Open-Legal-Products/mike) — OSS AI Legal Platform
+
 [ronak-create/FableCut](https://github.com/ronak-create/FableCut) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, M
 
 [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) — PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [JustVugg/colibri](https://github.com/JustVugg/colibri) — Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, exper
 
 [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
-
-[allenai/olmocr](https://github.com/allenai/olmocr) — Toolkit for linearizing PDFs for LLM datasets/training
-
-[smittix/intercept](https://github.com/smittix/intercept) — iNTERCEPT, a free and open-source platform that unites the best signal intellige
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
