@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[feyninc/chonkie](https://github.com/feyninc/chonkie) — 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, effici
+
 [zoosky/yqr](https://github.com/zoosky/yqr) — A fidelity-first, jq-style CLI for YAML: query and surgically edit with comments
 
 [mbvlabs/andurel](https://github.com/mbvlabs/andurel) — The rails-like Go framework you didn't know you needed
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) — No fortress, purely open ground.  OpenManus is Coming.
 
 [lyqht/mini-qr](https://github.com/lyqht/mini-qr) — Create & scan cute qr codes easily 👾
-
-[techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) — A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
