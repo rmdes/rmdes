@@ -45,11 +45,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [Trivo25/code-airlock](https://github.com/Trivo25/code-airlock) — Run Claude Code (or another coding agent) unattended, inside a disposable microV
 
-[scripting/rss.chat](https://github.com/scripting/rss.chat) — A simple chat network based on RSS and other standard web technologies.
-
 [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) — No fortress, purely open ground.  OpenManus is Coming.
 
 [lyqht/mini-qr](https://github.com/lyqht/mini-qr) — Create & scan cute qr codes easily 👾
+
+[techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) — A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
