@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`docs: gotcha #42 — account id scheme, isLocalAccountId, hidd` (2026-07-11)
+<br>`fix: resolveActorData checks the reverse-id cache (v3.13.22)` (2026-07-11)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.20 (followers/follow` (2026-07-11)
+<br>`chore: bump activitypub plugin to ^3.13.21 (username repair ` (2026-07-11)
 
 [claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
 <br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[mbvlabs/andurel](https://github.com/mbvlabs/andurel) — The rails-like Go framework you didn't know you needed
+
 [hongaar/servicebeard](https://github.com/hongaar/servicebeard) — Turn mailboxes into issue boards.
 
 [Trivo25/code-airlock](https://github.com/Trivo25/code-airlock) — Run Claude Code (or another coding agent) unattended, inside a disposable microV
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) — A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
 [punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) — 
-
-[Shiva108/ai-llm-red-team-handbook](https://github.com/Shiva108/ai-llm-red-team-handbook) — AI / LLM Red Team Field Manual & Consultant’s Handbook
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
