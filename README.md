@@ -9,13 +9,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: followers/following lists empty on every profile (v3.13` (2026-07-11)
+<br>`docs: gotcha #42 — account id scheme, isLocalAccountId, hidd` (2026-07-11)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump activitypub plugin to ^3.13.20 (followers/follow` (2026-07-11)
 
 [claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
 <br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.19 (round-3 live-pro` (2026-07-09)
 
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[hongaar/servicebeard](https://github.com/hongaar/servicebeard) — Turn mailboxes into issue boards.
+
+[Trivo25/code-airlock](https://github.com/Trivo25/code-airlock) — Run Claude Code (or another coding agent) unattended, inside a disposable microV
+
 [scripting/rss.chat](https://github.com/scripting/rss.chat) — A simple chat network based on RSS and other standard web technologies.
 
 [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) — No fortress, purely open ground.  OpenManus is Coming.
@@ -46,16 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) — 
 
 [Shiva108/ai-llm-red-team-handbook](https://github.com/Shiva108/ai-llm-red-team-handbook) — AI / LLM Red Team Field Manual & Consultant’s Handbook
-
-[olalie/tapmap](https://github.com/olalie/tapmap) — Watch your computer connect across the internet in real time. Discover the world
-
-[34306/vphone-aio](https://github.com/34306/vphone-aio) — 1 script run the vphone
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Canicule : Adapte-toi ou crève!](https://rmendes.net/articles/2026/07/11/canicule-adapte-toi-ou-creve/) - 2026-07-11
+
 [Inbound and outbound RSS](https://rmendes.net/articles/2026/06/29/inbound-and-outbound-rss/) - 2026-06-29
 
 [La thermodynamique de la justice](https://rmendes.net/articles/2026/06/21/la-thermodynamique-de-la-justice/) - 2026-06-21
