@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`security: Mastodon API auth-bypass, private-post leak, unaut` (2026-07-12)
+
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`fix: community-reported issues — pyproject URLs, dashboard T` (2026-07-09)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump activitypub plugin to ^3.13.22 (resolveActorData` (2026-07-12)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: resolveActorData checks the reverse-id cache (v3.13.22)` (2026-07-11)
 
 [claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
 <br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
+
+[microsoft/PyRIT](https://github.com/microsoft/PyRIT) — The Python Risk Identification Tool for generative AI (PyRIT) is an open source 
+
+[rookiestar28/ComfyUI-LongCat-Avatar](https://github.com/rookiestar28/ComfyUI-LongCat-Avatar) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video gener
+
+[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) — 
+
 [cupy/cupy](https://github.com/cupy/cupy) — NumPy & SciPy for GPU
 
 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — Your Personal AI super intelligence. A brain that builds a local-first memory of
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) — A prompt bar that edits the site it's on — ask for a change; a real Claude Code 
 
 [feyninc/chonkie](https://github.com/feyninc/chonkie) — 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, effici
-
-[zoosky/yqr](https://github.com/zoosky/yqr) — A fidelity-first, jq-style CLI for YAML: query and surgically edit with comments
-
-[mbvlabs/andurel](https://github.com/mbvlabs/andurel) — The rails-like Go framework you didn't know you needed
-
-[hongaar/servicebeard](https://github.com/hongaar/servicebeard) — Turn mailboxes into issue boards.
-
-[Trivo25/code-airlock](https://github.com/Trivo25/code-airlock) — Run Claude Code (or another coding agent) unattended, inside a disposable microV
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
