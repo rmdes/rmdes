@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[scripting/rss.chat](https://github.com/scripting/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+
+[andysylvester/MyStatusTool](https://github.com/andysylvester/MyStatusTool) — Official repo for minimal blogging tool using Node.js, RSS, and rssCloud
+
 [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) — A straightforward method for training your LLM, from downloading data to generat
 
 [google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
@@ -46,16 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) — 
 
 [cupy/cupy](https://github.com/cupy/cupy) — NumPy & SciPy for GPU
-
-[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — Your Personal AI super intelligence. A brain that builds a local-first memory of
-
-[vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) — A prompt bar that edits the site it's on — ask for a change; a real Claude Code 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Standard-Site Implementation Eleventy](https://rmendes.net/bookmarks/2026/07/12/standard-site-implementation-eleventy/) - 2026-07-12
+
 [Canicule : Adapte-toi ou crève!](https://rmendes.net/articles/2026/07/11/canicule-adapte-toi-ou-creve/) - 2026-07-11
 
 [Inbound and outbound RSS](https://rmendes.net/articles/2026/06/29/inbound-and-outbound-rss/) - 2026-06-29
