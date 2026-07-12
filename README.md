@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) — A straightforward method for training your LLM, from downloading data to generat
+
 [google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
 
 [microsoft/PyRIT](https://github.com/microsoft/PyRIT) — The Python Risk Identification Tool for generative AI (PyRIT) is an open source 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — Your Personal AI super intelligence. A brain that builds a local-first memory of
 
 [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) — A prompt bar that edits the site it's on — ask for a change; a real Claude Code 
-
-[feyninc/chonkie](https://github.com/feyninc/chonkie) — 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, effici
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
