@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump activitypub plugin to ^3.13.22 (resolveActorData` (2026-07-12)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: resolveActorData checks the reverse-id cache (v3.13.22)` (2026-07-11)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.21 (username repair ` (2026-07-11)
 
 [claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
 <br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
