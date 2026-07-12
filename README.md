@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[cupy/cupy](https://github.com/cupy/cupy) — NumPy & SciPy for GPU
+
+[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — Your Personal AI super intelligence. A brain that builds a local-first memory of
+
 [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) — A prompt bar that edits the site it's on — ask for a change; a real Claude Code 
 
 [feyninc/chonkie](https://github.com/feyninc/chonkie) — 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, effici
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [hongaar/servicebeard](https://github.com/hongaar/servicebeard) — Turn mailboxes into issue boards.
 
 [Trivo25/code-airlock](https://github.com/Trivo25/code-airlock) — Run Claude Code (or another coding agent) unattended, inside a disposable microV
-
-[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) — No fortress, purely open ground.  OpenManus is Coming.
-
-[lyqht/mini-qr](https://github.com/lyqht/mini-qr) — Create & scan cute qr codes easily 👾
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -61,8 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Inbound and outbound RSS](https://rmendes.net/articles/2026/06/29/inbound-and-outbound-rss/) - 2026-06-29
 
 [La thermodynamique de la justice](https://rmendes.net/articles/2026/06/21/la-thermodynamique-de-la-justice/) - 2026-06-21
-
-[Interesting: Turning Arch Linux into a Music Production Powerhouse: Running Ableton Live in a Windows VM](https://rmendes.net/bookmarks/2026/06/21/interesting-turning-arch-linux-into/) - 2026-06-21
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
