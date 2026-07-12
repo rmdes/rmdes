@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
+<br>`fix: community-reported issues — pyproject URLs, dashboard T` (2026-07-09)
+
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump activitypub plugin to ^3.13.22 (resolveActorData` (2026-07-12)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
 <br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
-
-[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
-<br>`fix(tests): use mkdtempSync for test scratch dirs (CodeQL js` (2026-07-04)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-04-04)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) — A prompt bar that edits the site it's on — ask for a change; a real Claude Code 
+
 [feyninc/chonkie](https://github.com/feyninc/chonkie) — 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, effici
 
 [zoosky/yqr](https://github.com/zoosky/yqr) — A fidelity-first, jq-style CLI for YAML: query and surgically edit with comments
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) — No fortress, purely open ground.  OpenManus is Coming.
 
 [lyqht/mini-qr](https://github.com/lyqht/mini-qr) — Create & scan cute qr codes easily 👾
-
-[techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) — A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
