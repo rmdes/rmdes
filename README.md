@@ -8,8 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
+<br>`Require basic auth for the MailPit UI (magic links were worl` (2026-07-13)
+
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
-<br>`deploy: fix README test command for node --test directory qu` (2026-07-13)
+<br>`docs: make-first README with Docker prerequisites; refresh l` (2026-07-13)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: hashtag keyword filters + status editing (v3.13.26)` (2026-07-13)
@@ -28,28 +31,25 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
 <br>`build: pin npm@11 (npm 10 mis-resolves @noble/hashes lock)` (2026-07-04)
-
-[newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
-<br>`chore: bump newsdiff to 898c03f (npm@11 pin)` (2026-07-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
-[scripting/rss.chat](https://github.com/scripting/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+[dotbrt/dejaview](https://github.com/dotbrt/dejaview) — TUI to browse and resume Claude Code sessions across projects
 
-[andysylvester/MyStatusTool](https://github.com/andysylvester/MyStatusTool) — Official repo for minimal blogging tool using Node.js, RSS, and rssCloud
+[bazarkua/claudeusage-sync](https://github.com/bazarkua/claudeusage-sync) — Auditable CLI for syncing local Claude Code usage aggregates to claudeusage.com
 
-[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) — A straightforward method for training your LLM, from downloading data to generat
+[TheBestTvarynka/grafily](https://github.com/TheBestTvarynka/grafily) — Obsidian plugin for rendering pretty family graphs (family trees)
 
-[google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo
+[backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
 
-[microsoft/PyRIT](https://github.com/microsoft/PyRIT) — The Python Risk Identification Tool for generative AI (PyRIT) is an open source 
+[Dawnfz-Lenfeng/tikos](https://github.com/Dawnfz-Lenfeng/tikos) — Turn anything into questions. Open-source desktop app: material → LLM question b
 
-[rookiestar28/ComfyUI-LongCat-Avatar](https://github.com/rookiestar28/ComfyUI-LongCat-Avatar) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video gener
+[mickael-kerjean/fdrive](https://github.com/mickael-kerjean/fdrive) — Universal File Sync
 
-[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) — 
+[0x4D31/stinger](https://github.com/0x4D31/stinger) — Unprivileged endpoint deception for macOS and Linux workstations. Uses FIFO bait
 
-[cupy/cupy](https://github.com/cupy/cupy) — NumPy & SciPy for GPU
+[VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) — Unified CLI for running AI coding agents in isolated containers. Includes built-
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -81,7 +81,7 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**14,683** downloads last month across **33** packages
+**14,647** downloads last month across **32** packages
 
 | Package | Downloads |
 |---------|-----------|
@@ -91,7 +91,7 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 | [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 627 |
 | [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 546 |
 
-<details><summary>See all 33 packages</summary>
+<details><summary>See all 32 packages</summary>
 
 | Package | Downloads |
 |---------|-----------|
@@ -122,7 +122,6 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 | [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 126 |
 | [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 106 |
 | [indiekit-syndicator-indienews](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-indienews) | 75 |
-| [indiekit-endpoint-webmentions-proxy](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmentions-proxy) | 36 |
 
 </details>
 <!-- npm_stats ends -->
