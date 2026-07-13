@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+<br>`deploy: fix README test command for node --test directory qu` (2026-07-13)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: hashtag keyword filters + status editing (v3.13.26)` (2026-07-13)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [newsdiff-deploy](https://github.com/rmdes/newsdiff-deploy) — Docker Compose deployment for NewsDiff — self-hosted news article diff tracker
 <br>`chore: bump newsdiff to 898c03f (npm@11 pin)` (2026-07-04)
-
-[newsdiff](https://github.com/rmdes/newsdiff) — Monitor RSS feeds for article changes and display visual diffs
-<br>`build: pin npm@11 in builder (npm 10 mis-resolves @noble/has` (2026-07-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -56,13 +56,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Claude code vs Opencode token overhead](https://rmendes.net/bookmarks/2026/07/13/claude-code-vs-opencode-token/) - 2026-07-13
+
+[Ableton on Linux](https://rmendes.net/bookmarks/2026/07/13/ableton-on-linux/) - 2026-07-13
+
 [Standard-Site Implementation Eleventy](https://rmendes.net/bookmarks/2026/07/12/standard-site-implementation-eleventy/) - 2026-07-12
 
 [Canicule : Adapte-toi ou crève!](https://rmendes.net/articles/2026/07/11/canicule-adapte-toi-ou-creve/) - 2026-07-11
 
 [Inbound and outbound RSS](https://rmendes.net/articles/2026/06/29/inbound-and-outbound-rss/) - 2026-06-29
-
-[La thermodynamique de la justice](https://rmendes.net/articles/2026/06/21/la-thermodynamique-de-la-justice/) - 2026-06-21
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
