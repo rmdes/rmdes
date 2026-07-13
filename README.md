@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump activitypub plugin to ^3.13.26 (hashtag filters ` (2026-07-13)
+
 [feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
 <br>`Require basic auth for the MailPit UI (magic links were worl` (2026-07-13)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: hashtag keyword filters + status editing (v3.13.26)` (2026-07-13)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.25 (search URL resol` (2026-07-13)
 
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`fix: community-reported issues — pyproject URLs, dashboard T` (2026-07-09)
