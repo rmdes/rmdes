@@ -45,7 +45,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
 
-[Dawnfz-Lenfeng/tikos](https://github.com/Dawnfz-Lenfeng/tikos) — Turn anything into questions. Open-source desktop app: material → LLM question b
+[Dawnfz-Lenfeng/tikos](https://github.com/Dawnfz-Lenfeng/tikos) — Open-source local-first desktop app that turns study material into practice ques
 
 [mickael-kerjean/fdrive](https://github.com/mickael-kerjean/fdrive) — Universal File Sync
 
@@ -108,8 +108,8 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 | [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 179 |
 | [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 178 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 175 |
-| [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 161 |
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 161 |
+| [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 161 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 158 |
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 158 |
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 157 |
