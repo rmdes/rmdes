@@ -45,7 +45,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
 
-[Dawnfz-Lenfeng/tikos](https://github.com/Dawnfz-Lenfeng/tikos) — Open-source local-first desktop app that turns study material into practice ques
+[Dawnfz-Lenfeng/tikos](https://github.com/Dawnfz-Lenfeng/tikos) — Local-first app that turns study materials into question banks, with an open eng
 
 [mickael-kerjean/fdrive](https://github.com/mickael-kerjean/fdrive) — Universal File Sync
 
