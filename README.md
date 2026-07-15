@@ -8,11 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: Mastodon API low-tail — reblog id, context state, publi` (2026-07-13)
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump eleventy-site (ai_code_level in twins + AI-trans` (2026-07-15)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`docs: note aiTransparency feature flags + AI-transparency re` (2026-07-15)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`docs: AI Transparency section (distinct from Markdown for Ag` (2026-07-15)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.26 (hashtag filters ` (2026-07-13)
+<br>`chore: bump activitypub plugin to ^3.13.27 (Mastodon API low` (2026-07-15)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: Mastodon API low-tail — reblog id, context state, publi` (2026-07-13)
 
 [feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
 <br>`Require basic auth for the MailPit UI (magic links were worl` (2026-07-13)
@@ -22,15 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
 <br>`fix: community-reported issues — pyproject URLs, dashboard T` (2026-07-09)
-
-[claude-brain](https://github.com/rmdes/claude-brain) — Sync your Claude Code brain across machines — memory, skills, agents, rules, and
-<br>`fix(import): handle keybindings.json shape mismatch without ` (2026-06-09)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-04-04)
-
-[cloudron-newsdiff](https://github.com/rmdes/cloudron-newsdiff) — Cloudron packaging for NewsDiff — news article diff tracker
-<br>`build: pin npm@11 (npm 10 mis-resolves @noble/hashes lock)` (2026-07-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[How to Set Up Windows 11 Without a Microsoft Account in 2026](https://rmendes.net/bookmarks/2026/07/14/how-to-set-up-windows/) - 2026-07-14
+
 [Claude code vs Opencode token overhead](https://rmendes.net/bookmarks/2026/07/13/claude-code-vs-opencode-token/) - 2026-07-13
 
 [Ableton on Linux](https://rmendes.net/bookmarks/2026/07/13/ableton-on-linux/) - 2026-07-13
@@ -70,9 +72,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/28577720934)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/29399783920)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (activitypub 3.13.14` (2026-07-02, 20s)
+Last build: `chore: bump eleventy-site (ai_code_level in twins + AI-trans` (2026-07-15, 17s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
@@ -114,8 +116,8 @@ Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 158 |
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 157 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 146 |
-| [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 145 |
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 145 |
+| [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 145 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 133 |
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 115 |
 | [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 113 |
