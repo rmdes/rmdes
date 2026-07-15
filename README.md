@@ -74,7 +74,7 @@ More on [rmendes.net](https://rmendes.net/)
 <!-- pipelines starts -->
 [![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/29410484736)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `refactor: consume shared compose-core from plugin-registry s` (2026-07-15)
+Last build: `refactor: consume shared compose-core from plugin-registry s` (2026-07-15, 26s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
 **Docker Compose** — Standalone server deployment
