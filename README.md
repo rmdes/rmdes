@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry (activitypub -> 3.13.30)` (2026-07-15)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump activitypub to ^3.13.30 (10-min token expiry fix` (2026-07-15)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: don't enforce refresh-token expiry (removes re-auth vec` (2026-07-15)
+<br>`fix: clear inherited code expiry on access tokens (10-min 40` (2026-07-15)
 
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
 <br>`feat: registry-driven plugin selection + site-builder (retir` (2026-07-15)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump activitypub plugin to ^3.13.28 (per-token rate l` (2026-07-15)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`refactor: consume shared compose-core from plugin-registry s` (2026-07-15)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`docs: note aiTransparency feature flags + AI-transparency re` (2026-07-15)
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Phandroid : Phanpy for Android](https://rmendes.net/bookmarks/2026/07/15/phandroid-phanpy-for-android/) - 2026-07-15
+
 [How to Set Up Windows 11 Without a Microsoft Account in 2026](https://rmendes.net/bookmarks/2026/07/14/how-to-set-up-windows/) - 2026-07-14
 
 [Claude code vs Opencode token overhead](https://rmendes.net/bookmarks/2026/07/13/claude-code-vs-opencode-token/) - 2026-07-13
@@ -72,13 +74,13 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/29410484736)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/29428557451)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `refactor: consume shared compose-core from plugin-registry s` (2026-07-15, 26s)
+Last build: `chore: update plugin-registry (activitypub -> 3.13.30)` (2026-07-15, 18s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29424551634)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
-Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026-07-15, 3m 19s)
+Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026-07-15, 2m 58s)
 <!-- pipelines ends -->
 
 ### npm Downloads
