@@ -8,11 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`refactor: consume shared compose-core from plugin-registry s` (2026-07-15)
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: don't enforce refresh-token expiry (removes re-auth vec` (2026-07-15)
+
+[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
+<br>`feat: registry-driven plugin selection + site-builder (retir` (2026-07-15)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`feat: add shared compose-core (pure plugin-set compiler) + t` (2026-07-15)
+<br>`chore: bump activitypub plugin to ^3.13.28 (per-token rate l` (2026-07-15)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`refactor: consume shared compose-core from plugin-registry s` (2026-07-15)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`docs: note aiTransparency feature flags + AI-transparency re` (2026-07-15)
@@ -20,21 +26,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`docs: AI Transparency section (distinct from Markdown for Ag` (2026-07-15)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: Mastodon API low-tail — reblog id, context state, publi` (2026-07-13)
-
 [feedland-docker](https://github.com/rmdes/feedland-docker) — Production-ready Docker Compose deployment for FeedLand
 <br>`Require basic auth for the MailPit UI (magic links were worl` (2026-07-13)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`docs: make-first README with Docker prerequisites; refresh l` (2026-07-13)
-
-[everything-claude-code](https://github.com/rmdes/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands,
-<br>`fix: community-reported issues — pyproject URLs, dashboard T` (2026-07-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[evansjp/grepathy](https://github.com/evansjp/grepathy) — Your agent writes down why, in the repo, so everyone else's agents can find it w
+
 [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) — YouTrackDB is a general-use object-oriented graph database with storage format n
 
 [dotbrt/dejaview](https://github.com/dotbrt/dejaview) — TUI to browse and resume Claude Code sessions across projects
@@ -44,8 +46,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [TheBestTvarynka/grafily](https://github.com/TheBestTvarynka/grafily) — Obsidian plugin for rendering pretty family graphs (family trees)
 
 [backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
-
-[Dawnfz-Lenfeng/tikos](https://github.com/Dawnfz-Lenfeng/tikos) — Local-first app that turns study materials into question banks, with an open eng
 
 [mickael-kerjean/fdrive](https://github.com/mickael-kerjean/fdrive) — Universal File Sync
 
@@ -76,9 +76,9 @@ More on [rmendes.net](https://rmendes.net/)
 **Cloudron** — Production deployment at rmendes.net
 Last build: `refactor: consume shared compose-core from plugin-registry s` (2026-07-15, 26s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/25567974584)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29424551634)
 **Docker Compose** — Standalone server deployment
-Last build: `docs: fact-check CLAUDE.md and README.md against repo realit` (2026-05-08, 3m 38s)
+Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026-07-15, 3m 19s)
 <!-- pipelines ends -->
 
 ### npm Downloads
