@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: store follower inbox via correct Fedify accessor + back` (2026-07-15)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry (activitypub -> 3.13.31)` (2026-07-15)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump activitypub to ^3.13.31 (lookup timeout + follow` (2026-07-15)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: bound remote lookups with timeout + dedup follow notifi` (2026-07-15)
 
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
 <br>`feat: registry-driven plugin selection + site-builder (retir` (2026-07-15)
