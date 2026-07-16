@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+<br>`Merge branch 'scripting:main' into main` (2026-07-16)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry (microsub -> 1.0.67)` (2026-07-16)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
-
-[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
-<br>`Merge branch 'scripting:main' into main` (2026-07-16)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: store follower inbox via correct Fedify accessor + back` (2026-07-15)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[BearToCode/carta](https://github.com/BearToCode/carta) — A lightweight, fast and extensible Svelte Markdown editor and viewer.
+
 [evansjp/grepathy](https://github.com/evansjp/grepathy) — Your agent writes down why, in the repo, so everyone else's agents can find it w
 
 [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) — YouTrackDB is a general-use object-oriented graph database with storage format n
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
 
 [mickael-kerjean/fdrive](https://github.com/mickael-kerjean/fdrive) — Universal File Sync
-
-[0x4D31/stinger](https://github.com/0x4D31/stinger) — Unprivileged endpoint deception for macOS and Linux workstations. Uses FIFO bait
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
