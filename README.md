@@ -72,7 +72,13 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/29506786192)
+**Cloudron** — Production deployment at rmendes.net
+Last build: `chore: update plugin-registry (microsub -> 1.0.67)` (2026-07-16, 19s)
 
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
+**Docker Compose** — Standalone server deployment
+Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026-07-15, 2m 58s)
 <!-- pipelines ends -->
 
 ### npm Downloads
