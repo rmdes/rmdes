@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[RubenGlez/easydocs](https://github.com/RubenGlez/easydocs) — The OpenAPI spec you can trust — generated on your machine from your API's real 
+
 [BearToCode/carta](https://github.com/BearToCode/carta) — A lightweight, fast and extensible Svelte Markdown editor and viewer.
 
 [evansjp/grepathy](https://github.com/evansjp/grepathy) — Your agent writes down why, in the repo, so everyone else's agents can find it w
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [TheBestTvarynka/grafily](https://github.com/TheBestTvarynka/grafily) — Obsidian plugin for rendering pretty family graphs (family trees)
 
 [backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
-
-[mickael-kerjean/fdrive](https://github.com/mickael-kerjean/fdrive) — Universal File Sync
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
