@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[steve-bate/activitypub-c2s-toolkit](https://github.com/steve-bate/activitypub-c2s-toolkit) — An ActivityPub C2S client and related tools for developers.
+
 [RubenGlez/easydocs](https://github.com/RubenGlez/easydocs) — The OpenAPI spec you can trust — generated on your machine from your API's real 
 
 [BearToCode/carta](https://github.com/BearToCode/carta) — A lightweight, fast and extensible Svelte Markdown editor and viewer.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [bazarkua/claudeusage-sync](https://github.com/bazarkua/claudeusage-sync) — Auditable CLI for syncing local Claude Code usage aggregates to claudeusage.com
 
 [TheBestTvarynka/grafily](https://github.com/TheBestTvarynka/grafily) — Obsidian plugin for rendering pretty family graphs (family trees)
-
-[backant-io/jerrycan](https://github.com/backant-io/jerrycan) — jerrycan — the AI-native Rust backend platform: framework, CLI, and MCP server. 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
