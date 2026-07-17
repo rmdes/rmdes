@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nexu-io/open-design](https://github.com/nexu-io/open-design) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
+
 [steve-bate/activitypub-c2s-toolkit](https://github.com/steve-bate/activitypub-c2s-toolkit) — An ActivityPub C2S client and related tools for developers.
 
 [RubenGlez/easydocs](https://github.com/RubenGlez/easydocs) — The OpenAPI spec you can trust — generated on your machine from your API's real 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [dotbrt/dejaview](https://github.com/dotbrt/dejaview) — TUI to browse and resume Claude Code sessions across projects
 
 [bazarkua/claudeusage-sync](https://github.com/bazarkua/claudeusage-sync) — Auditable CLI for syncing local Claude Code usage aggregates to claudeusage.com
-
-[TheBestTvarynka/grafily](https://github.com/TheBestTvarynka/grafily) — Obsidian plugin for rendering pretty family graphs (family trees)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
