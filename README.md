@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) — 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
+
 [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) — Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JS
 
 [nexu-io/open-design](https://github.com/nexu-io/open-design) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [evansjp/grepathy](https://github.com/evansjp/grepathy) — Your agent writes down why, in the repo, so everyone else's agents can find it w
 
 [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) — YouTrackDB is a general-use object-oriented graph database with storage format n
-
-[dotbrt/dejaview](https://github.com/dotbrt/dejaview) — TUI to browse and resume Claude Code sessions across projects
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
