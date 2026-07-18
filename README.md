@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
-<br>`web: cover listAdminFeeds + removeRemoteFeed api clients` (2026-07-18)
+<br>`web: /admin/users responsive card list (fits the 42rem admin` (2026-07-18)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-18)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[modem-dev/sideshow](https://github.com/modem-dev/sideshow) — The missing visual surface companion for agents - generate UI mockups, data visu
+
+[geminimir/warden](https://github.com/geminimir/warden) — Fail-closed authorization gateway for agentic RAG — capability-label pushdown, d
+
 [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) — 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 
 [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) — Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JS
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [RubenGlez/easydocs](https://github.com/RubenGlez/easydocs) — The OpenAPI spec you can trust — generated on your machine from your API's real 
 
 [BearToCode/carta](https://github.com/BearToCode/carta) — A lightweight, fast and extensible Svelte Markdown editor and viewer.
-
-[evansjp/grepathy](https://github.com/evansjp/grepathy) — Your agent writes down why, in the repo, so everyone else's agents can find it w
-
-[JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) — YouTrackDB is a general-use object-oriented graph database with storage format n
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
