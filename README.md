@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
-<br>`web: /admin/users responsive card list (fits the 42rem admin` (2026-07-18)
+<br>`docs(ideas): refresh backlog — admin milestone (SP1-4) + Liv` (2026-07-18)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-18)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
+
 [T0mSIlver/localvoxtral](https://github.com/T0mSIlver/localvoxtral) — Native macOS menu bar app for realtime dictation with optional LLM polishing. Co
 
 [modem-dev/sideshow](https://github.com/modem-dev/sideshow) — The missing visual surface companion for agents - generate UI mockups, data visu
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nexu-io/open-design](https://github.com/nexu-io/open-design) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
 
 [steve-bate/activitypub-c2s-toolkit](https://github.com/steve-bate/activitypub-c2s-toolkit) — An ActivityPub C2S client and related tools for developers.
-
-[RubenGlez/easydocs](https://github.com/RubenGlez/easydocs) — The OpenAPI spec you can trust — generated on your machine from your API's real 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -101,8 +101,8 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 398 |
 | [indiekit-endpoint-blogroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-blogroll) | 394 |
 | [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 351 |
-| [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 327 |
 | [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 327 |
+| [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 327 |
 | [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 320 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 315 |
 | [indiekit-syndicator-bluesky](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-bluesky) | 220 |
