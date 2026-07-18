@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[T0mSIlver/localvoxtral](https://github.com/T0mSIlver/localvoxtral) — Native macOS menu bar app for realtime dictation with optional LLM polishing. Co
+
 [modem-dev/sideshow](https://github.com/modem-dev/sideshow) — The missing visual surface companion for agents - generate UI mockups, data visu
 
 [geminimir/warden](https://github.com/geminimir/warden) — Fail-closed authorization gateway for agentic RAG — capability-label pushdown, d
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [steve-bate/activitypub-c2s-toolkit](https://github.com/steve-bate/activitypub-c2s-toolkit) — An ActivityPub C2S client and related tools for developers.
 
 [RubenGlez/easydocs](https://github.com/RubenGlez/easydocs) — The OpenAPI spec you can trust — generated on your machine from your API's real 
-
-[BearToCode/carta](https://github.com/BearToCode/carta) — A lightweight, fast and extensible Svelte Markdown editor and viewer.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
