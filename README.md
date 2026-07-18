@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
-<br>`web: confirm feed-add with an SSR success flash` (2026-07-18)
+<br>`core: email-derived instance admin (isAdmin, requireAdmin, /` (2026-07-18)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`deploy: vendor the og:image so link previews don't come from` (2026-07-17)
