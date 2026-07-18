@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) — Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JS
+
 [nexu-io/open-design](https://github.com/nexu-io/open-design) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
 
 [steve-bate/activitypub-c2s-toolkit](https://github.com/steve-bate/activitypub-c2s-toolkit) — An ActivityPub C2S client and related tools for developers.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) — YouTrackDB is a general-use object-oriented graph database with storage format n
 
 [dotbrt/dejaview](https://github.com/dotbrt/dejaview) — TUI to browse and resume Claude Code sessions across projects
-
-[bazarkua/claudeusage-sync](https://github.com/bazarkua/claudeusage-sync) — Auditable CLI for syncing local Claude Code usage aggregates to claudeusage.com
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
