@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
-<br>`docs: UI/UX review disposition — all 13 items shipped (c336c` (2026-07-19)
+<br>`docs: ideas.md — clarify open-api prod posture (code rides i` (2026-07-19)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-18)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[xai-org/grok-build](https://github.com/xai-org/grok-build) — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
+
 [m1k1o/neko](https://github.com/m1k1o/neko) — A self hosted virtual browser that runs in docker and uses WebRTC.
 
 [CaviraOSS/Akashic](https://github.com/CaviraOSS/Akashic) — Akashic is an open-source Palantir alternative for connecting, exploring, and an
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mathaix/OpenClawMachines](https://github.com/mathaix/OpenClawMachines) — Manage OpenClaw in your team (Enterprise) by providing it compute infrastructure
 
 [RangerWolf/loris-tunnel-app](https://github.com/RangerWolf/loris-tunnel-app) — GUI SSH Tunnel Manager,  Create and Manage Tunnels easily
-
-[floodtide/dom-docx](https://github.com/floodtide/dom-docx) — Convert semantic HTML fragments to native, editable Word documents (OOXML)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
