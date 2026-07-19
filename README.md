@@ -8,7 +8,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
+[rsc](https://github.com/rmdes/rsc) — A feeds-native social timeline — local posts and remote feed items are equal cit
 <br>`test: 15s timeout on the two slow OPML tests (kill full-suit` (2026-07-19)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.
+
 [Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) — Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 
 [hnpwd/hnpwd](https://github.com/hnpwd/hnpwd) — HN personal website directory and OPML
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [MarceliRacis/minio-dash](https://github.com/MarceliRacis/minio-dash) — 
 
 [0pen-Sourcer/Hearth](https://github.com/0pen-Sourcer/Hearth) — Your computer finally has an AI that can use it.
-
-[yeet-src/sigwire](https://github.com/yeet-src/sigwire) — tail -f for signals. Every signal any process on the box raises — who sent it, w
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
