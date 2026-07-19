@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
-<br>`docs: ideas.md — clarify open-api prod posture (code rides i` (2026-07-19)
+<br>`test: 15s timeout on the two slow OPML tests (kill full-suit` (2026-07-19)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-18)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) — Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
+
+[hnpwd/hnpwd](https://github.com/hnpwd/hnpwd) — HN personal website directory and OPML
+
 [xai-org/grok-build](https://github.com/xai-org/grok-build) — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
 
 [m1k1o/neko](https://github.com/m1k1o/neko) — A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [0pen-Sourcer/Hearth](https://github.com/0pen-Sourcer/Hearth) — Your computer finally has an AI that can use it.
 
 [yeet-src/sigwire](https://github.com/yeet-src/sigwire) — tail -f for signals. Every signal any process on the box raises — who sent it, w
-
-[mathaix/OpenClawMachines](https://github.com/mathaix/OpenClawMachines) — Manage OpenClaw in your team (Enterprise) by providing it compute infrastructure
-
-[RangerWolf/loris-tunnel-app](https://github.com/RangerWolf/loris-tunnel-app) — GUI SSH Tunnel Manager,  Create and Manage Tunnels easily
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
