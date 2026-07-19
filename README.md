@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[m1k1o/neko](https://github.com/m1k1o/neko) — A self hosted virtual browser that runs in docker and uses WebRTC.
+
+[CaviraOSS/Akashic](https://github.com/CaviraOSS/Akashic) — Akashic is an open-source Palantir alternative for connecting, exploring, and an
+
+[MarceliRacis/minio-dash](https://github.com/MarceliRacis/minio-dash) — 
+
 [0pen-Sourcer/Hearth](https://github.com/0pen-Sourcer/Hearth) — Your computer finally has an AI that can use it.
 
 [yeet-src/sigwire](https://github.com/yeet-src/sigwire) — tail -f for signals. Every signal any process on the box raises — who sent it, w
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [RangerWolf/loris-tunnel-app](https://github.com/RangerWolf/loris-tunnel-app) — GUI SSH Tunnel Manager,  Create and Manage Tunnels easily
 
 [floodtide/dom-docx](https://github.com/floodtide/dom-docx) — Convert semantic HTML fragments to native, editable Word documents (OOXML)
-
-[patonw/leaves](https://github.com/patonw/leaves) — A text-mode disk usage visualization utility
-
-[rmdes/textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
-
-[T0mSIlver/localvoxtral](https://github.com/T0mSIlver/localvoxtral) — Native macOS menu bar app for realtime dictation with optional LLM polishing. Co
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
