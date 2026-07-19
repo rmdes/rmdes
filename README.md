@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[0pen-Sourcer/Hearth](https://github.com/0pen-Sourcer/Hearth) — Your computer finally has an AI that can use it.
+
+[yeet-src/sigwire](https://github.com/yeet-src/sigwire) — tail -f for signals. Every signal any process on the box raises — who sent it, w
+
+[mathaix/OpenClawMachines](https://github.com/mathaix/OpenClawMachines) — Manage OpenClaw in your team (Enterprise) by providing it compute infrastructure
+
+[RangerWolf/loris-tunnel-app](https://github.com/RangerWolf/loris-tunnel-app) — GUI SSH Tunnel Manager,  Create and Manage Tunnels easily
+
+[floodtide/dom-docx](https://github.com/floodtide/dom-docx) — Convert semantic HTML fragments to native, editable Word documents (OOXML)
+
+[patonw/leaves](https://github.com/patonw/leaves) — A text-mode disk usage visualization utility
+
 [rmdes/textcaster](https://github.com/rmdes/textcaster) — A feeds-native social timeline — local posts and remote feed items are equal cit
 
 [T0mSIlver/localvoxtral](https://github.com/T0mSIlver/localvoxtral) — Native macOS menu bar app for realtime dictation with optional LLM polishing. Co
-
-[modem-dev/sideshow](https://github.com/modem-dev/sideshow) — The missing visual surface companion for agents - generate UI mockups, data visu
-
-[geminimir/warden](https://github.com/geminimir/warden) — Fail-closed authorization gateway for agentic RAG — capability-label pushdown, d
-
-[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) — 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
-
-[macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) — Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JS
-
-[nexu-io/open-design](https://github.com/nexu-io/open-design) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
-
-[steve-bate/activitypub-c2s-toolkit](https://github.com/steve-bate/activitypub-c2s-toolkit) — An ActivityPub C2S client and related tools for developers.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
