@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) — Optimizing inference proxy for LLMs
+
 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.
 
 [Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) — Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [CaviraOSS/Akashic](https://github.com/CaviraOSS/Akashic) — Akashic is an open-source Palantir alternative for connecting, exploring, and an
 
 [MarceliRacis/minio-dash](https://github.com/MarceliRacis/minio-dash) — 
-
-[0pen-Sourcer/Hearth](https://github.com/0pen-Sourcer/Hearth) — Local-first AI that can actually use your computer.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
