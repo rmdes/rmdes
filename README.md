@@ -59,14 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Phandroid : Phanpy for Android](https://rmendes.net/bookmarks/2026/07/15/phandroid-phanpy-for-android/) - 2026-07-15
 
 [How to Set Up Windows 11 Without a Microsoft Account in 2026](https://rmendes.net/bookmarks/2026/07/14/how-to-set-up-windows/) - 2026-07-14
-
-[Claude code vs Opencode token overhead](https://rmendes.net/bookmarks/2026/07/13/claude-code-vs-opencode-token/) - 2026-07-13
-
-[Ableton on Linux](https://rmendes.net/bookmarks/2026/07/13/ableton-on-linux/) - 2026-07-13
-
-[Standard-Site Implementation Eleventy](https://rmendes.net/bookmarks/2026/07/12/standard-site-implementation-eleventy/) - 2026-07-12
-
-[Canicule : Adapte-toi ou crève!](https://rmendes.net/articles/2026/07/11/canicule-adapte-toi-ou-creve/) - 2026-07-11
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
