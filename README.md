@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — A feeds-native social timeline — local posts and remote feed items are equal cit
+<br>`.` (2026-07-20)
+
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-20)
-
-[rsc](https://github.com/rmdes/rsc) — A feeds-native social timeline — local posts and remote feed items are equal cit
-<br>`update domain name` (2026-07-20)
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge v1.3/account-switcher — v1.3.0` (2026-07-17)
@@ -110,8 +110,8 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 153 |
 | [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 146 |
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 143 |
-| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 136 |
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 136 |
+| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 136 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 135 |
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 133 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 128 |
