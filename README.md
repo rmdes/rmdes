@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) — Your docs to books with Claude Code
+
+[kitchen-engineer42/pdf2skills](https://github.com/kitchen-engineer42/pdf2skills) — Convert a book into skills directly callable to Claude Code.
+
+[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Turn any technical book PDF into a Claude Code skill — ready to study, reference
+
 [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) — Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for e
 
 [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) — Optimizing inference proxy for LLMs
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) — Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 
 [hnpwd/hnpwd](https://github.com/hnpwd/hnpwd) — HN personal website directory and OPML
-
-[xai-org/grok-build](https://github.com/xai-org/grok-build) — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
-
-[m1k1o/neko](https://github.com/m1k1o/neko) — A self hosted virtual browser that runs in docker and uses WebRTC.
-
-[CaviraOSS/Akashic](https://github.com/CaviraOSS/Akashic) — Akashic is an open-source Palantir alternative for connecting, exploring, and an
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
