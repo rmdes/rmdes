@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[block/buzz](https://github.com/block/buzz) — A hive mind communication platform
+
 [EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) — Your docs to books with Claude Code
 
 [kitchen-engineer42/pdf2skills](https://github.com/kitchen-engineer42/pdf2skills) — Convert a book into skills directly callable to Claude Code.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.
 
 [Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) — Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
-
-[hnpwd/hnpwd](https://github.com/hnpwd/hnpwd) — HN personal website directory and OPML
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
