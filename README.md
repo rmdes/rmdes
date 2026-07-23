@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[blamouche/browsidian](https://github.com/blamouche/browsidian) — Browser interface for your local Obsidian vaults
+
 [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) — NVSentinel is a cross-platform fault remediation service designed to rapidly rem
 
 [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) — On-device models that know when they're wrong: every answer carries a confidence
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kitchen-engineer42/pdf2skills](https://github.com/kitchen-engineer42/pdf2skills) — Convert a book into skills directly callable to Claude Code.
 
 [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Turn any technical book PDF into a Claude Code skill — ready to study, reference
-
-[Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) — Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for e
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
