@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Vertical 1 — Source Control Plane: plan review` (2026-07-23)
+
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-23)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`.` (2026-07-20)
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge v1.3/account-switcher — v1.3.0` (2026-07-17)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) — NVSentinel is a cross-platform fault remediation service designed to rapidly rem
+
+[cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) — On-device models that know when they're wrong: every answer carries a confidence
+
+[nyblnet/bento](https://github.com/nyblnet/bento) — 
+
 [block/buzz](https://github.com/block/buzz) — A hive mind communication platform
 
 [EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) — Your docs to books with Claude Code
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Turn any technical book PDF into a Claude Code skill — ready to study, reference
 
 [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) — Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for e
-
-[algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) — Optimizing inference proxy for LLMs
-
-[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.
-
-[Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) — Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
