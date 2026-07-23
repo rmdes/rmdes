@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
+
 [blamouche/browsidian](https://github.com/blamouche/browsidian) — Browser interface for your local Obsidian vaults
 
 [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) — NVSentinel is a cross-platform fault remediation service designed to rapidly rem
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) — Your docs to books with Claude Code
 
 [kitchen-engineer42/pdf2skills](https://github.com/kitchen-engineer42/pdf2skills) — Convert a book into skills directly callable to Claude Code.
-
-[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Turn any technical book PDF into a Claude Code skill — ready to study, reference
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
