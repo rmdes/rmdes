@@ -8,11 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Vertical 1 — Source Control Plane: plan review` (2026-07-23)
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
-<br>`Merge branch 'scripting:main' into main` (2026-07-23)
+<br>`Merge branch 'scripting:main' into main` (2026-07-24)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`docs: fix stale 'inert until Phase 3' comment on block-catal` (2026-07-24)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore: remove unused _blockDataCache scaffold (Finding 1 she` (2026-07-24)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Vertical 1 — Source Control Plane: plan review` (2026-07-23)
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge v1.3/account-switcher — v1.3.0` (2026-07-17)
@@ -22,19 +31,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump microsub to 1.0.67 (per-item source identity)` (2026-07-16)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: store follower inbox via correct Fedify accessor + back` (2026-07-15)
-
-[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`feat: registry-driven plugin selection + site-builder (retir` (2026-07-15)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[OtoDock/oto-dock](https://github.com/OtoDock/oto-dock) — Your personal AI agent platform — self-hosted, BYO Claude/Codex subscription
+
+[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) — agent multiplexer that lives in your terminal.
+
+[DamianEdwards/vsc-change-agent-watch](https://github.com/DamianEdwards/vsc-change-agent-watch) — VS Code extension that follows file changes in real-time, automatically opening 
+
 [yamafaktory/whetuu](https://github.com/yamafaktory/whetuu) — An opinionated, zero-config status line and history picker for fish, bash and zs
 
 [trifle-io/trifle-docs](https://github.com/trifle-io/trifle-docs) — Map a folder of Markdown files to documentation URLs. Drop into Rack, Rails, or 
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [onecli/onecli](https://github.com/onecli/onecli) — Open-source credential gateway with a built-in vault. give your AI agents access
 
 [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
-
-[blamouche/browsidian](https://github.com/blamouche/browsidian) — Browser interface for your local Obsidian vaults
-
-[NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) — NVSentinel is a cross-platform fault remediation service designed to rapidly rem
-
-[cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) — On-device models that know when they're wrong: every answer carries a confidence
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
