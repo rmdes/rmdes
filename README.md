@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[yamafaktory/whetuu](https://github.com/yamafaktory/whetuu) — An opinionated, zero-config status line and history picker for fish, bash and zs
+
+[trifle-io/trifle-docs](https://github.com/trifle-io/trifle-docs) — Map a folder of Markdown files to documentation URLs. Drop into Rack, Rails, or 
+
+[trifle-io/trifle](https://github.com/trifle-io/trifle) — 
+
+[onecli/onecli](https://github.com/onecli/onecli) — Open-source credential gateway with a built-in vault. give your AI agents access
+
 [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
 
 [blamouche/browsidian](https://github.com/blamouche/browsidian) — Browser interface for your local Obsidian vaults
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) — NVSentinel is a cross-platform fault remediation service designed to rapidly rem
 
 [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) — On-device models that know when they're wrong: every answer carries a confidence
-
-[nyblnet/bento](https://github.com/nyblnet/bento) — 
-
-[block/buzz](https://github.com/block/buzz) — A hive mind communication platform
-
-[EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) — Your docs to books with Claude Code
-
-[kitchen-engineer42/pdf2skills](https://github.com/kitchen-engineer42/pdf2skills) — Convert a book into skills directly callable to Claude Code.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
