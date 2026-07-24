@@ -8,48 +8,48 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: embed block release — registry beta.31, theme e977cc6` (2026-07-24)
 
-[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
-<br>`Merge branch 'scripting:main' into main` (2026-07-24)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`docs: fix stale 'inert until Phase 3' comment on block-catal` (2026-07-24)
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump site-config to ^1.0.0-beta.31 (embed block)` (2026-07-24)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore: remove unused _blockDataCache scaffold (Finding 1 she` (2026-07-24)
+<br>`feat: embed block renderer — provider mapper + section templ` (2026-07-24)
+
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`feat: embed block — builtin catalog entry + x-allowed-url-ho` (2026-07-24)
+
+[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+<br>`docs: bring the operator README up to date with the overlay` (2026-07-24)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Vertical 1 — Source Control Plane: plan review` (2026-07-23)
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge v1.3/account-switcher — v1.3.0` (2026-07-17)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry (microsub -> 1.0.67)` (2026-07-16)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump microsub to 1.0.67 (per-item source identity)` (2026-07-16)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) — Helps AI assistants access text content from bot-protected websites. MCP server 
+
+[Cedriccmh/claude-code-skill-scrapling](https://github.com/Cedriccmh/claude-code-skill-scrapling) — Claude Code skill for web scraping with scrapling - auto Fetcher selection, Clou
+
+[larsenweigle/langextract-mcp](https://github.com/larsenweigle/langextract-mcp) — FastMCP for Google's langextract library
+
+[PromtEngineer/LangExtract-RAG](https://github.com/PromtEngineer/LangExtract-RAG) — 
+
+[google/langextract](https://github.com/google/langextract) — A Python library for extracting structured information from unstructured text us
+
 [OtoDock/oto-dock](https://github.com/OtoDock/oto-dock) — Your personal AI agent platform — self-hosted, BYO Claude/Codex subscription
 
 [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) — agent multiplexer that lives in your terminal.
 
 [DamianEdwards/vsc-change-agent-watch](https://github.com/DamianEdwards/vsc-change-agent-watch) — VS Code extension that follows file changes in real-time, automatically opening 
-
-[yamafaktory/whetuu](https://github.com/yamafaktory/whetuu) — An opinionated, zero-config status line and history picker for fish, bash and zs
-
-[trifle-io/trifle-docs](https://github.com/trifle-io/trifle-docs) — Map a folder of Markdown files to documentation URLs. Drop into Rack, Rails, or 
-
-[trifle-io/trifle](https://github.com/trifle-io/trifle) — 
-
-[onecli/onecli](https://github.com/onecli/onecli) — Open-source credential gateway with a built-in vault. give your AI agents access
-
-[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS video editor built for AI
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/29506786192)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/30105912928)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry (microsub -> 1.0.67)` (2026-07-16, 19s)
+Last build: `chore: embed block release — registry beta.31, theme e977cc6` (2026-07-24, 26s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
