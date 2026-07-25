@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sazalo101/yaiko](https://github.com/sazalo101/yaiko) — rust ,web framework ,fullstack ,jquery
+
 [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) — Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal
 
 [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) — 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Cedriccmh/claude-code-skill-scrapling](https://github.com/Cedriccmh/claude-code-skill-scrapling) — Claude Code skill for web scraping with scrapling - auto Fetcher selection, Clou
 
 [larsenweigle/langextract-mcp](https://github.com/larsenweigle/langextract-mcp) — FastMCP for Google's langextract library
-
-[PromtEngineer/LangExtract-RAG](https://github.com/PromtEngineer/LangExtract-RAG) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
