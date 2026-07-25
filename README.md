@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs: the flag-on user-journey checklist — the wave's closin` (2026-07-25)
+<br>`core: index all v2 foreign keys + FK-coverage guardrail + re` (2026-07-25)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: donation-campaign block renderer (bespoke section + Al` (2026-07-24)
