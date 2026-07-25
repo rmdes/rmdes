@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs: spec for admin source & user governance visibility (v2` (2026-07-25)
+<br>`docs: spec + plan for V1 retirement (V4 Task 11)` (2026-07-25)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`fix: layout-width hint no longer promises a nonexistent conf` (2026-07-25)
