@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`docs: spec for admin source & user governance visibility (v2` (2026-07-25)
+
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`fix: layout-width hint no longer promises a nonexistent conf` (2026-07-25)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat: honest build strip — detect never-started builds + rep` (2026-07-25)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`core: cap the WAL (journal_size_limit) + truncate a bloated ` (2026-07-25)
 
 [myblog](https://github.com/rmdes/myblog) — Archive of myblog in markdown
 <br>`Archiving 1 file from Micro.blog.` (2026-07-25)
