@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rortan134/cache-app](https://github.com/rortan134/cache-app) — (New) The AI bookmark manager for busy people. With support for links, notes, im
+
+[0hardik1/awsmux](https://github.com/0hardik1/awsmux) — Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built i
+
 [squidowl/halloy](https://github.com/squidowl/halloy) — IRC application written in Rust
 
 [sazalo101/yaiko](https://github.com/sazalo101/yaiko) — rust ,web framework ,fullstack ,jquery
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [aleenz1102/AgentState](https://github.com/aleenz1102/AgentState) — 
 
 [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Wor
-
-[cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) — Helps AI assistants access text content from bot-protected websites. MCP server 
-
-[Cedriccmh/claude-code-skill-scrapling](https://github.com/Cedriccmh/claude-code-skill-scrapling) — Claude Code skill for web scraping with scrapling - auto Fetcher selection, Clou
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
