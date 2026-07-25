@@ -8,8 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+<br>`Merge branch 'scripting:main' into main` (2026-07-25)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`core: index all v2 foreign keys + FK-coverage guardrail + re` (2026-07-25)
+<br>`docs: SQLite perf-hardening record + deferred projector-N+1 ` (2026-07-25)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: registry → site-config beta.32 (composition history)` (2026-07-25)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump site-config to ^1.0.0-beta.32 (composition histo` (2026-07-25)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: donation-campaign block renderer (bespoke section + Al` (2026-07-24)
@@ -20,21 +29,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat: composition history — last-10 per surface + restore-as` (2026-07-24)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: embed block release — registry beta.31, theme e977cc6` (2026-07-24)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump site-config to ^1.0.0-beta.31 (embed block)` (2026-07-24)
-
-[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
-<br>`docs: bring the operator README up to date with the overlay` (2026-07-24)
-
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
 <br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[squidowl/halloy](https://github.com/squidowl/halloy) — IRC application written in Rust
+
 [sazalo101/yaiko](https://github.com/sazalo101/yaiko) — rust ,web framework ,fullstack ,jquery
 
 [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) — Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) — Helps AI assistants access text content from bot-protected websites. MCP server 
 
 [Cedriccmh/claude-code-skill-scrapling](https://github.com/Cedriccmh/claude-code-skill-scrapling) — Claude Code skill for web scraping with scrapling - auto Fetcher selection, Clou
-
-[larsenweigle/langextract-mcp](https://github.com/larsenweigle/langextract-mcp) — FastMCP for Google's langextract library
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/30105912928)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/30161672209)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: embed block release — registry beta.31, theme e977cc6` (2026-07-24, 26s)
+Last build: `chore: registry → site-config beta.32 (composition history)` (2026-07-25, 32s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
