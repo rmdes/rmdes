@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) — pierre’s open source code
+
 [rortan134/cache-app](https://github.com/rortan134/cache-app) — (New) The AI bookmark manager for busy people. With support for links, notes, im
 
 [0hardik1/awsmux](https://github.com/0hardik1/awsmux) — Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built i
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) — 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale
 
 [aleenz1102/AgentState](https://github.com/aleenz1102/AgentState) — 
-
-[OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Wor
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
