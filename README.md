@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
+<br>`Merge branch 'scripting:main' into main` (2026-07-26)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`docs: spec + plan for V1 retirement (V4 Task 11)` (2026-07-25)
 
@@ -25,9 +28,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [myblog](https://github.com/rmdes/myblog) — Archive of myblog in markdown
 <br>`Archiving 1 file from Micro.blog.` (2026-07-25)
-
-[rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
-<br>`Merge branch 'scripting:main' into main` (2026-07-25)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: donation-campaign block renderer (bespoke section + Al` (2026-07-24)
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[RSC : et si le web social n'avait jamais eu besoin d'un nouveau protocole ?](https://rmendes.net/articles/2026/07/26/rsc-et-si-le-web/) - 2026-07-26
+
 [Curious : Linux VM in your browser 🤔](https://rmendes.net/bookmarks/2026/07/26/curious-linux-vm-in-your/) - 2026-07-26
 
 [What happened to thenumbers.com ?](https://rmendes.net/bookmarks/2026/07/24/what-happened-to-thenumbers-com/) - 2026-07-24
