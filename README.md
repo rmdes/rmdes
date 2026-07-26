@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code 
+[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
-[amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) — Amnezia VPN Client (Desktop+Mobile)
+[every-app/open-seo](https://github.com/every-app/open-seo) — Open source alternative to Semrush and Ahrefs
 
-[carlitose/minnarone](https://github.com/carlitose/minnarone) — Framework for AI agents that perceive live multimodal context (audio, video, cha
+[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) — Kimi Code CLI is your next CLI agent.
 
-[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) — This repository started out as a learning in public project for myself and has n
+[stablyai/orca](https://github.com/stablyai/orca) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
-[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
+[andrewyng/aisuite](https://github.com/andrewyng/aisuite) — Simple, unified interface to multiple Generative AI providers 
 
-[getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitc
+[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 
-[devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) — An authoritative list of awesome devsecops tools with the help from community ex
+[pingdotgg/t3code](https://github.com/pingdotgg/t3code) — 
 
-[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) — Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
+[CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
