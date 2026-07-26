@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code 
+
+[amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) — Amnezia VPN Client (Desktop+Mobile)
+
 [carlitose/minnarone](https://github.com/carlitose/minnarone) — Framework for AI agents that perceive live multimodal context (audio, video, cha
 
 [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) — This repository started out as a learning in public project for myself and has n
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) — An authoritative list of awesome devsecops tools with the help from community ex
 
 [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) — Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
-
-[JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) — The most customisable and low-latency cross platform/shell prompt renderer
-
-[odennav/ELK-stack-setup](https://github.com/odennav/ELK-stack-setup) — Implement centralized logging with ELK Stack 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
