@@ -35,27 +35,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) — pierre’s open source code
+[scotthansonde/rsschat-wordpress-service](https://github.com/scotthansonde/rsschat-wordpress-service) — 
 
-[rortan134/cache-app](https://github.com/rortan134/cache-app) — (New) The AI bookmark manager for busy people. With support for links, notes, im
+[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
-[0hardik1/awsmux](https://github.com/0hardik1/awsmux) — Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built i
+[kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) — 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & F
 
-[squidowl/halloy](https://github.com/squidowl/halloy) — IRC application written in Rust
+[go-ap/activitypub](https://github.com/go-ap/activitypub) — ActivityPub vocabulary for Go
 
-[sazalo101/yaiko](https://github.com/sazalo101/yaiko) — rust ,web framework ,fullstack ,jquery
+[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) — Creates standalone executables from Python scripts with the same performance as 
 
-[ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) — Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal
+[basecamp/fizzy](https://github.com/basecamp/fizzy) — Kanban as it should be. Not as it has been.
 
-[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) — 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale
+[zml/zml](https://github.com/zml/zml) — Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR 
 
-[aleenz1102/AgentState](https://github.com/aleenz1102/AgentState) — 
+[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) — runs anywhere. uses anything
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Curious : Linux VM in your browser 🤔](https://rmendes.net/bookmarks/2026/07/26/curious-linux-vm-in-your/) - 2026-07-26
+
 [What happened to thenumbers.com ?](https://rmendes.net/bookmarks/2026/07/24/what-happened-to-thenumbers-com/) - 2026-07-24
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
