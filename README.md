@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[scotthansonde/rsschat-wordpress-service](https://github.com/scotthansonde/rsschat-wordpress-service) — 
+[carlitose/minnarone](https://github.com/carlitose/minnarone) — Framework for AI agents that perceive live multimodal context (audio, video, cha
 
-[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
+[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) — This repository started out as a learning in public project for myself and has n
 
-[kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) — 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & F
+[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, 
 
-[go-ap/activitypub](https://github.com/go-ap/activitypub) — ActivityPub vocabulary for Go
+[getumbrel/umbrel](https://github.com/getumbrel/umbrel) — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitc
 
-[marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) — Creates standalone executables from Python scripts with the same performance as 
+[devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) — An authoritative list of awesome devsecops tools with the help from community ex
 
-[basecamp/fizzy](https://github.com/basecamp/fizzy) — Kanban as it should be. Not as it has been.
+[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) — Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 
-[zml/zml](https://github.com/zml/zml) — Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR 
+[JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) — The most customisable and low-latency cross platform/shell prompt renderer
 
-[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) — runs anywhere. uses anything
+[odennav/ELK-stack-setup](https://github.com/odennav/ELK-stack-setup) — Implement centralized logging with ELK Stack 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
