@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[skariel/shellbox.issues](https://github.com/skariel/shellbox.issues) — issues and support for shellbox.dev
+
 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 
 [every-app/open-seo](https://github.com/every-app/open-seo) — Open source alternative to Semrush and Ahrefs
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 
 [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — 
-
-[CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
