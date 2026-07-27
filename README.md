@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`docs: backlog readable permalinks + site-wide OpenGraph idea` (2026-07-27)
+
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-26)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs: spec + plan for V1 retirement (V4 Task 11)` (2026-07-25)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`fix: layout-width hint no longer promises a nonexistent conf` (2026-07-25)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky
+
 [buhuipao/agent-console](https://github.com/buhuipao/agent-console) — A local terminal control plane for Codex and Claude Code sessions—discover, moni
 
 [kubara-io/kubara](https://github.com/kubara-io/kubara) — Kubara is a single binary CLI tool written in Go providing a lightweight framewo
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) — Kimi Code CLI is your next CLI agent.
 
 [stablyai/orca](https://github.com/stablyai/orca) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
-
-[andrewyng/aisuite](https://github.com/andrewyng/aisuite) — Simple, unified interface to multiple Generative AI providers 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
