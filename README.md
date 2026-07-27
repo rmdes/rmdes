@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`update .gitignore` (2026-07-27)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`docs: backlog readable permalinks + site-wide OpenGraph idea` (2026-07-27)
 
@@ -28,14 +31,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [myblog](https://github.com/rmdes/myblog) — Archive of myblog in markdown
 <br>`Archiving 1 file from Micro.blog.` (2026-07-25)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: donation-campaign block renderer (bespoke section + Al` (2026-07-24)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
-[rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky
+[rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 
 [buhuipao/agent-console](https://github.com/buhuipao/agent-console) — A local terminal control plane for Codex and Claude Code sessions—discover, moni
 
