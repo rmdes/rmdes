@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[buhuipao/agent-console](https://github.com/buhuipao/agent-console) — A local terminal control plane for Codex and Claude Code sessions—discover, moni
+
+[kubara-io/kubara](https://github.com/kubara-io/kubara) — Kubara is a single binary CLI tool written in Go providing a lightweight framewo
+
 [skariel/shellbox.issues](https://github.com/skariel/shellbox.issues) — issues and support for shellbox.dev
 
 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [stablyai/orca](https://github.com/stablyai/orca) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 
 [andrewyng/aisuite](https://github.com/andrewyng/aisuite) — Simple, unified interface to multiple Generative AI providers 
-
-[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
-
-[pingdotgg/t3code](https://github.com/pingdotgg/t3code) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
