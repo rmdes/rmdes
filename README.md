@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[pfefferle/wordpress-rss-chat](https://github.com/pfefferle/wordpress-rss-chat) — Publish WordPress posts to the rss.chat network using the native chat post forma
+
 [gordonmurray/data-engineering-skills](https://github.com/gordonmurray/data-engineering-skills) — Expert knowledge skills for Claude Code to help with specific technologies and t
 
 [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) — 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js,
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kubara-io/kubara](https://github.com/kubara-io/kubara) — kubara is a single binary CLI tool written in Go providing a lightweight framewo
 
 [skariel/shellbox.issues](https://github.com/skariel/shellbox.issues) — issues and support for shellbox.dev
-
-[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
