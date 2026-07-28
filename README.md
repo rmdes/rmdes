@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[gordonmurray/data-engineering-skills](https://github.com/gordonmurray/data-engineering-skills) — Expert knowledge skills for Claude Code to help with specific technologies and t
+
+[hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) — 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js,
+
 [franktisellano/datatype](https://github.com/franktisellano/datatype) — Datatype is a variable font that turns text into charts.
 
 [rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 
 [buhuipao/agent-console](https://github.com/buhuipao/agent-console) — A local terminal control plane for Codex and Claude Code sessions—discover, moni
 
-[kubara-io/kubara](https://github.com/kubara-io/kubara) — Kubara is a single binary CLI tool written in Go providing a lightweight framewo
+[kubara-io/kubara](https://github.com/kubara-io/kubara) — kubara is a single binary CLI tool written in Go providing a lightweight framewo
 
 [skariel/shellbox.issues](https://github.com/skariel/shellbox.issues) — issues and support for shellbox.dev
 
 [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),
-
-[every-app/open-seo](https://github.com/every-app/open-seo) — Open source alternative to Semrush and Ahrefs
-
-[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) — Kimi Code CLI is your next CLI agent.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
