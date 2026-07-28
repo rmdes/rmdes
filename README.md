@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`chore: ignore .worktrees/ (isolated SDD workspace directory)` (2026-07-28)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <br>`update .gitignore` (2026-07-27)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs: backlog readable permalinks + site-wide OpenGraph idea` (2026-07-27)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-26)
