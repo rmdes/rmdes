@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[roberte3/rss.chat.go](https://github.com/roberte3/rss.chat.go) — A Go implementation of Dave Winer's RSS Chat — distributed social networking ove
+
 [franc-pentest/ldeep](https://github.com/franc-pentest/ldeep) — In-depth ldap enumeration utility
 
 [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) — An archive of public Claude and Grok conversations, exported from their share li
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) — 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js,
 
 [franktisellano/datatype](https://github.com/franktisellano/datatype) — Datatype is a variable font that turns text into charts.
-
-[rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
