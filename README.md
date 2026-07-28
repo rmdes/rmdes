@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[franc-pentest/ldeep](https://github.com/franc-pentest/ldeep) — In-depth ldap enumeration utility
+
+[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) — An archive of public Claude and Grok conversations, exported from their share li
+
+[hcsum/dont-let-me](https://github.com/hcsum/dont-let-me) — A mentor that lives in Claude Code — it knows what you're building toward, and h
+
 [pfefferle/wordpress-rss-chat](https://github.com/pfefferle/wordpress-rss-chat) — Publish WordPress posts to the rss.chat network using the native chat post forma
 
 [gordonmurray/data-engineering-skills](https://github.com/gordonmurray/data-engineering-skills) — Expert knowledge skills for Claude Code to help with specific technologies and t
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [franktisellano/datatype](https://github.com/franktisellano/datatype) — Datatype is a variable font that turns text into charts.
 
 [rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-
-[buhuipao/agent-console](https://github.com/buhuipao/agent-console) — A local terminal control plane for Codex and Claude Code sessions—discover, moni
-
-[kubara-io/kubara](https://github.com/kubara-io/kubara) — kubara is a single binary CLI tool written in Go providing a lightweight framewo
-
-[skariel/shellbox.issues](https://github.com/skariel/shellbox.issues) — issues and support for shellbox.dev
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
