@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[franktisellano/datatype](https://github.com/franktisellano/datatype) — Datatype is a variable font that turns text into charts.
+
 [rmdes/bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 
 [buhuipao/agent-console](https://github.com/buhuipao/agent-console) — A local terminal control plane for Codex and Claude Code sessions—discover, moni
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [every-app/open-seo](https://github.com/every-app/open-seo) — Open source alternative to Semrush and Ahrefs
 
 [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) — Kimi Code CLI is your next CLI agent.
-
-[stablyai/orca](https://github.com/stablyai/orca) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
