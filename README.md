@@ -41,7 +41,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) — An archive of public Claude and Grok conversations, exported from their share li
 
-[hcsum/dont-let-me](https://github.com/hcsum/dont-let-me) — A mentor that lives in Claude Code — it knows what you're building toward, and h
+[hcsum/dont-let-me](https://github.com/hcsum/dont-let-me) — Turn your agent into a mentor. It knows what you're working toward, and how you 
 
 [pfefferle/wordpress-rss-chat](https://github.com/pfefferle/wordpress-rss-chat) — Publish WordPress posts to the rss.chat network using the native chat post forma
 
