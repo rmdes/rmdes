@@ -9,10 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`refactor(fleet): collapse redundant ratelimit branch in Bsky` (2026-07-29)
+<br>`fix(fleet): enforce mode 0600 on the imported secrets file` (2026-07-29)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`design: move page-head padding override to CSS, hide empty r` (2026-07-29)
+<br>`fix: whole-branch review findings — MASTER.md accuracy, publ` (2026-07-29)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-26)
