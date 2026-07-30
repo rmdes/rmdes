@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`About cleanup for admins` (2026-07-30)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`fix: exec fleet directly in the compose command instead of v` (2026-07-30)
+<br>`docs: point the main README at fleet mode` (2026-07-30)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'worktree-header-nav-consolidation'` (2026-07-29)
 
 [rss.chat](https://github.com/rmdes/rss.chat) — A simple chat network, client and server, based on RSS 2.0 feeds and websockets.
 <br>`Merge branch 'scripting:main' into main` (2026-07-26)
