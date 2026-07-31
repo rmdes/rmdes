@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs: park the remote-content-simplification spec (supersede` (2026-07-31)
+<br>`docs(ideas): mark the obs-version-churn entry resolved (+ fl` (2026-07-31)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <br>`docs: point the main README at fleet mode` (2026-07-30)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[pescheckit/dmarc-service](https://github.com/pescheckit/dmarc-service) — Self-hosted, multi-tenant DMARC / TLS-RPT report collector and viewer
+
 [mrgluek/deltachat_publish](https://github.com/mrgluek/deltachat_publish) — Delta Chat bot for mobile publishing of posts and image assets to Astro blogs (I
 
 [roberte3/rss.chat.go](https://github.com/roberte3/rss.chat.go) — A Go implementation of Dave Winer's RSS Chat — distributed social networking ove
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [gordonmurray/data-engineering-skills](https://github.com/gordonmurray/data-engineering-skills) — Expert knowledge skills for Claude Code to help with specific technologies and t
 
 [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) — 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js,
-
-[franktisellano/datatype](https://github.com/franktisellano/datatype) — Datatype is a variable font that turns text into charts.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
