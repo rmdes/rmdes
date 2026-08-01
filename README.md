@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
+
 [lyogavin/airllm](https://github.com/lyogavin/airllm) — AirLLM 70B inference with single 4GB GPU
 
 [pescheckit/dmarc-service](https://github.com/pescheckit/dmarc-service) — Self-hosted, multi-tenant DMARC / TLS-RPT report collector and viewer
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [hcsum/dont-let-me](https://github.com/hcsum/dont-let-me) — Turn your agent into a mentor. It knows what you're working toward, and how you 
 
 [pfefferle/wordpress-rss-chat](https://github.com/pfefferle/wordpress-rss-chat) — Publish WordPress posts to the rss.chat network using the native chat post forma
-
-[gordonmurray/data-engineering-skills](https://github.com/gordonmurray/data-engineering-skills) — Expert knowledge skills for Claude Code to help with specific technologies and t
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
