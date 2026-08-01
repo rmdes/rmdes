@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`feat(web): surface retentionFiltered in the admin source vie` (2026-08-01)
-
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <br>`docs: point the main README at fleet mode` (2026-07-30)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`feat(web): surface retentionFiltered in the admin source vie` (2026-08-01)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[lyogavin/airllm](https://github.com/lyogavin/airllm) — AirLLM 70B inference with single 4GB GPU
+
 [pescheckit/dmarc-service](https://github.com/pescheckit/dmarc-service) — Self-hosted, multi-tenant DMARC / TLS-RPT report collector and viewer
 
 [mrgluek/deltachat_publish](https://github.com/mrgluek/deltachat_publish) — Delta Chat bot for mobile publishing of posts and image assets to Astro blogs (I
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [pfefferle/wordpress-rss-chat](https://github.com/pfefferle/wordpress-rss-chat) — Publish WordPress posts to the rss.chat network using the native chat post forma
 
 [gordonmurray/data-engineering-skills](https://github.com/gordonmurray/data-engineering-skills) — Expert knowledge skills for Claude Code to help with specific technologies and t
-
-[hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) — 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js,
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
