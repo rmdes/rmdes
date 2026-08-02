@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) — 🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA,
+
 [pradipta/wallfacer](https://github.com/pradipta/wallfacer) — A terminal session manager for Claude Code, and more
 
 [JamelHammoud/crew](https://github.com/JamelHammoud/crew) — Build Together
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mrgluek/deltachat_publish](https://github.com/mrgluek/deltachat_publish) — Delta Chat bot for mobile publishing of posts and image assets to Astro blogs (I
 
 [roberte3/rss.chat.go](https://github.com/roberte3/rss.chat.go) — A Go implementation of Dave Winer's RSS Chat — distributed social networking ove
-
-[franc-pentest/ldeep](https://github.com/franc-pentest/ldeep) — In-depth ldap enumeration utility
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
