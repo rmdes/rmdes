@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[pradipta/wallfacer](https://github.com/pradipta/wallfacer) — A terminal session manager for Claude Code, and more
+
 [JamelHammoud/crew](https://github.com/JamelHammoud/crew) — Build Together
 
 [rmdes/bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [roberte3/rss.chat.go](https://github.com/roberte3/rss.chat.go) — A Go implementation of Dave Winer's RSS Chat — distributed social networking ove
 
 [franc-pentest/ldeep](https://github.com/franc-pentest/ldeep) — In-depth ldap enumeration utility
-
-[hcsum/dont-let-me](https://github.com/hcsum/dont-let-me) — Turn your agent into a mentor. It knows what you're working toward, and how you 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
