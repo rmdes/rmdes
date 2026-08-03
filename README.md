@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`Configure Renovate for automated dependency management` (2026-08-01)
+<br>`Merge pull request #5 from rmdes/plan/cross-repository-deplo` (2026-08-03)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`feat(web): surface retentionFiltered in the admin source vie` (2026-08-01)
@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) — Local AI powered red teamer on a phone
+
+[jpmoo/brigid](https://github.com/jpmoo/brigid) — A beautiful and powerful web application for writing novels and short stories th
+
+[almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack) — Self-hosted browser terminal manager for AI coding agents. Control Claude Code, 
+
+[vostride/agent-qa](https://github.com/vostride/agent-qa) — The self-improving QA agent for software teams. A test harness with memory. Writ
+
+[SpektrNO/newsroom](https://github.com/SpektrNO/newsroom) — 
+
+[lakehq/sail](https://github.com/lakehq/sail) — Drop-in Apache Spark replacement written in Rust, unifying batch processing, str
+
 [dailydotdev/daily](https://github.com/dailydotdev/daily) — daily.dev is the personalized developer news feed and community. Get the best te
 
 [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) — 🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA,
-
-[pradipta/wallfacer](https://github.com/pradipta/wallfacer) — A terminal session manager for Claude Code, and more
-
-[JamelHammoud/crew](https://github.com/JamelHammoud/crew) — Build Together
-
-[rmdes/bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
-
-[lyogavin/airllm](https://github.com/lyogavin/airllm) — AirLLM 70B inference with single 4GB GPU
-
-[pescheckit/dmarc-service](https://github.com/pescheckit/dmarc-service) — Self-hosted, multi-tenant DMARC / TLS-RPT report collector and viewer
-
-[mrgluek/deltachat_publish](https://github.com/mrgluek/deltachat_publish) — Delta Chat bot for mobile publishing of posts and image assets to Astro blogs (I
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
