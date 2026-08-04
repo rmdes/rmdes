@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) — Fast Rust library for PDF inspection, classification, and text extraction. Intel
+[kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) — HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 
-[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver
+[ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) — Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally
 
-[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
+[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) — Use Codex from Claude Code to review code or delegate tasks.
 
-[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+[saadeghi/daisyui](https://github.com/saadeghi/daisyui) — 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
-[1jehuang/jcode](https://github.com/1jehuang/jcode) — The most RAM efficient harness
+[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) — </> htmx - high power tools for HTML
 
-[different-ai/openwork](https://github.com/different-ai/openwork) — The open-source alternative to Claude Cowork (powered by opencode)
+[OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) — Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
 
-[moeru-ai/airi](https://github.com/moeru-ai/airi) — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l
+[fastify/fastify](https://github.com/fastify/fastify) — Fast and low overhead web framework, for Node.js
 
-[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) —  This project is dedicated to collecting high-quality macOS software and organi
+[vercel/next.js](https://github.com/vercel/next.js) — The React Framework
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
