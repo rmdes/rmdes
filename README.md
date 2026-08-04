@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[tokio-rs/tokio](https://github.com/tokio-rs/tokio) — A runtime for writing reliable asynchronous applications with Rust. Provides I/O
+
+[quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) — Tantivy is a full-text search engine library inspired by Apache Lucene and writt
+
+[rtk-ai/rtk](https://github.com/rtk-ai/rtk) — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
+
+[katanemo/plano](https://github.com/katanemo/plano) — Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM ro
+
+[LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) — A fast, standalone terminal music player in Rust: native Spotify streaming plus 
+
+[risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) — Event streaming platform for agentic AI. Continuously ingest, transform, and ser
+
+[qdrant/qdrant](https://github.com/qdrant/qdrant) — Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
+
 [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) — HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
-
-[ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) — Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally
-
-[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) — Use Codex from Claude Code to review code or delegate tasks.
-
-[saadeghi/daisyui](https://github.com/saadeghi/daisyui) — 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) — </> htmx - high power tools for HTML
-
-[OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) — Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
-
-[fastify/fastify](https://github.com/fastify/fastify) — Fast and low overhead web framework, for Node.js
-
-[vercel/next.js](https://github.com/vercel/next.js) — The React Framework
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
