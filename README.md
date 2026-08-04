@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[federico-pepe/ableton-push-hack](https://github.com/federico-pepe/ableton-push-hack) — An unofficial extensible hack framework for Ableton Push 3 Standalone.
+
 [JoasASantos/n8n-cybersecurity-projects](https://github.com/JoasASantos/n8n-cybersecurity-projects) — 
 
 [flusio/Flus](https://github.com/flusio/Flus) —  Collect, organise, annotate on and share links from around the Web. 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) — Local AI powered red teamer on a phone
 
 [jpmoo/brigid](https://github.com/jpmoo/brigid) — A beautiful and powerful web application for writing novels and short stories th
-
-[almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack) — Self-hosted browser terminal manager for AI coding agents. Control Claude Code, 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
