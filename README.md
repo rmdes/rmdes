@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[JoasASantos/n8n-cybersecurity-projects](https://github.com/JoasASantos/n8n-cybersecurity-projects) — 
+
+[flusio/Flus](https://github.com/flusio/Flus) —  Collect, organise, annotate on and share links from around the Web. 
+
+[electh/ReactFlux](https://github.com/electh/ReactFlux) — A Simple but Powerful RSS Reader for Miniflux
+
+[rmdes/framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
+
+[Trans-N-ai/swama](https://github.com/Trans-N-ai/swama) — High-performance MLX-based LLM inference engine for macOS with native Swift impl
+
 [garagehq/nightcrawler](https://github.com/garagehq/nightcrawler) — Local AI powered red teamer on a phone
 
 [jpmoo/brigid](https://github.com/jpmoo/brigid) — A beautiful and powerful web application for writing novels and short stories th
 
 [almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack) — Self-hosted browser terminal manager for AI coding agents. Control Claude Code, 
-
-[vostride/agent-qa](https://github.com/vostride/agent-qa) — The self-improving QA agent for software teams. A test harness with memory. Writ
-
-[SpektrNO/newsroom](https://github.com/SpektrNO/newsroom) — 
-
-[lakehq/sail](https://github.com/lakehq/sail) — Drop-in Apache Spark replacement written in Rust, unifying batch processing, str
-
-[dailydotdev/daily](https://github.com/dailydotdev/daily) — daily.dev is the personalized developer news feed and community. Get the best te
-
-[tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) — 🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA,
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
