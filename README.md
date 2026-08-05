@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`docs: add comprehensive CHANGELOG and CONTRIBUTING guides` (2026-08-05)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(web): match resolved upstream path in both catch-all pro` (2026-08-04)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`Configure Renovate for automated dependency management` (2026-08-01)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — "RAG-Anything: All-in-One RAG Framework"
+
+[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
+
 [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — A runtime for writing reliable asynchronous applications with Rust. Provides I/O
 
 [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) — Tantivy is a full-text search engine library inspired by Apache Lucene and writt
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) — A fast, standalone terminal music player in Rust: native Spotify streaming plus 
 
 [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) — Event streaming platform for agentic AI. Continuously ingest, transform, and ser
-
-[qdrant/qdrant](https://github.com/qdrant/qdrant) — Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
-
-[kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) — HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
