@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`fix: restore lint/typecheck cleanliness after the app-module` (2026-08-05)
+<br>`docs: add Contributing & Testing section to README` (2026-08-05)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge simplification-phase-f: close the logical-pipeline sim` (2026-08-05)
@@ -104,8 +104,8 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 89 |
 | [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 83 |
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 76 |
-| [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 74 |
 | [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 74 |
+| [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 74 |
 | [indiekit-syndicator-bluesky](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-bluesky) | 71 |
 | [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 68 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 66 |
