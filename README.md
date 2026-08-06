@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[anvanster/codegraph](https://github.com/anvanster/codegraph) — Fast, flexible graph database for code relationships with 16 production-ready la
+
+[semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-Native Infrastructure for Context and Accountable AI Systems
+
+[kristoferlund/ratcn](https://github.com/kristoferlund/ratcn) — Beautifully designed terminal UI components for Ratatui apps
+
 [naveenayalla1-CS50/ResumeGit](https://github.com/naveenayalla1-CS50/ResumeGit) — A local-first resume builder with version history and optional local AI.
 
 [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — "RAG-Anything: All-in-One RAG Framework"
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — A runtime for writing reliable asynchronous applications with Rust. Provides I/O
 
 [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) — Tantivy is a full-text search engine library inspired by Apache Lucene and writt
-
-[rtk-ai/rtk](https://github.com/rtk-ai/rtk) — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
-
-[katanemo/plano](https://github.com/katanemo/plano) — Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM ro
-
-[LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) — A fast, standalone terminal music player in Rust: native Spotify streaming plus 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -81,7 +81,7 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**7,444** downloads last month across **31** packages
+**7,503** downloads last month across **32** packages
 
 | Package | Downloads |
 |---------|-----------|
@@ -91,7 +91,7 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 357 |
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 209 |
 
-<details><summary>See all 31 packages</summary>
+<details><summary>See all 32 packages</summary>
 
 | Package | Downloads |
 |---------|-----------|
@@ -112,6 +112,7 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 74 |
 | [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 72 |
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 62 |
+| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 59 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 57 |
 | [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 56 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 54 |
