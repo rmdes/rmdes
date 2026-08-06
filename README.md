@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`docs: add Quick Start, Troubleshooting, and GitHub issue tem` (2026-08-06)
+<br>`docs: add Phase 2 documentation (FAQ, Config Reference, Exam` (2026-08-06)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(web,docs): close final-review Finding 3 + Minors 1-2 — 4` (2026-08-05)
