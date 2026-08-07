@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`docs: add mappedValues implementation plan` (2026-08-07)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`feat(feeds): declare the source namespace as https, matching` (2026-08-07)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`docs: add mappedValues (dc/itunes field mapping) design spec` (2026-08-07)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[uber/ADR](https://github.com/uber/ADR) — ADR secures enterprise AI agents through observability, security benchmarking, a
+
 [veedstudio/open-edit](https://github.com/veedstudio/open-edit) — The video editor you own, not rent — edit clips from your coding agent (Claude C
 
 [kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) — A self-hosted RSS reader and aggregator, also available as a desktop app. 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kristoferlund/ratcn](https://github.com/kristoferlund/ratcn) — Beautifully designed terminal UI components for Ratatui apps
 
 [naveenayalla1-CS50/ResumeGit](https://github.com/naveenayalla1-CS50/ResumeGit) — A local-first resume builder with version history and optional local AI.
-
-[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — "RAG-Anything: All-in-One RAG Framework"
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -63,8 +63,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [RSC : et si le web social n'avait jamais eu besoin d'un nouveau protocole ?](https://rmendes.net/articles/2026/07/26/rsc-et-si-le-web/) - 2026-07-26
 
 [Curious : Linux VM in your browser 🤔](https://rmendes.net/bookmarks/2026/07/26/curious-linux-vm-in-your/) - 2026-07-26
-
-[What happened to thenumbers.com ?](https://rmendes.net/bookmarks/2026/07/24/what-happened-to-thenumbers-com/) - 2026-07-24
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
