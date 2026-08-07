@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`docs: reconcile stale Unreleased changelog entries into 2.3.` (2026-08-06)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`spec: fix instance-governed members reaped as orphans (+ rec` (2026-08-06)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`Merge branch 'main' of github.com:rmdes/bsky.rss` (2026-08-06)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) — A persistent workspace for development work that self-improves and continues bey
+
 [anvanster/codegraph](https://github.com/anvanster/codegraph) — Fast, flexible graph database for code relationships with 16 production-ready la
 
 [semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 
 [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — A runtime for writing reliable asynchronous applications with Rust. Provides I/O
-
-[quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) — Tantivy is a full-text search engine library inspired by Apache Lucene and writt
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
