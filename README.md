@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`docs: add disaster/hazard alerts recipe using markdown links` (2026-08-08)
+
 [myblog](https://github.com/rmdes/myblog) — Archive of myblog in markdown
 <br>`Archiving 1 file from Micro.blog.` (2026-08-08)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`bump version to 2.7.0` (2026-08-08)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(core): strip XML-illegal characters at the shared RSS fi` (2026-08-08)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[tikazyq/tech-news](https://github.com/tikazyq/tech-news) — Technical News Aggregator
+
 [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) — Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
 
 [ATProtocol-Community/atgeo-marker](https://github.com/ATProtocol-Community/atgeo-marker) — Experimental app for markers to test Gazeteers + Geo lexicons.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) — A persistent workspace for development work that self-improves and continues bey
 
 [anvanster/codegraph](https://github.com/anvanster/codegraph) — Fast, flexible graph database for code relationships with 16 production-ready la
-
-[semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-Native Infrastructure for Context and Accountable AI Systems
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
