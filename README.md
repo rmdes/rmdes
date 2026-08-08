@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ATProtocol-Community/atgeo-marker](https://github.com/ATProtocol-Community/atgeo-marker) — Experimental app for markers to test Gazeteers + Geo lexicons.
+
 [uber/ADR](https://github.com/uber/ADR) — ADR secures enterprise AI agents through observability, security benchmarking, a
 
 [veedstudio/open-edit](https://github.com/veedstudio/open-edit) — The video editor you own, not rent — edit clips from your coding agent (Claude C
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-Native Infrastructure for Context and Accountable AI Systems
 
 [kristoferlund/ratcn](https://github.com/kristoferlund/ratcn) — Beautifully designed terminal UI components for Ratatui apps
-
-[naveenayalla1-CS50/ResumeGit](https://github.com/naveenayalla1-CS50/ResumeGit) — A local-first resume builder with version history and optional local AI.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
