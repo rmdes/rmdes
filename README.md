@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) — Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
+
 [ATProtocol-Community/atgeo-marker](https://github.com/ATProtocol-Community/atgeo-marker) — Experimental app for markers to test Gazeteers + Geo lexicons.
 
 [uber/ADR](https://github.com/uber/ADR) — ADR secures enterprise AI agents through observability, security benchmarking, a
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [anvanster/codegraph](https://github.com/anvanster/codegraph) — Fast, flexible graph database for code relationships with 16 production-ready la
 
 [semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-Native Infrastructure for Context and Accountable AI Systems
-
-[kristoferlund/ratcn](https://github.com/kristoferlund/ratcn) — Beautifully designed terminal UI components for Ratatui apps
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
