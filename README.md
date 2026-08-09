@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[shobhitx64/Benzi](https://github.com/shobhitx64/Benzi) — Benzi is a coding AI agent + harness grounded in a live code map.
+
 [tikazyq/tech-news](https://github.com/tikazyq/tech-news) — Technical News Aggregator
 
 [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) — Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) — A self-hosted RSS reader and aggregator, also available as a desktop app. 
 
 [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) — A persistent workspace for development work that self-improves and continues bey
-
-[anvanster/codegraph](https://github.com/anvanster/codegraph) — Fast, flexible graph database for code relationships with 16 production-ready la
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
