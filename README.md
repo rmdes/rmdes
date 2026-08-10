@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) — Scan the world (for secrets)
+
+[FlowFactorNV/secret-sniper](https://github.com/FlowFactorNV/secret-sniper) — 
+
 [shobhitx64/Benzi](https://github.com/shobhitx64/Benzi) — Benzi is a coding AI agent + harness grounded in a live code map.
 
 [tikazyq/tech-news](https://github.com/tikazyq/tech-news) — Technical News Aggregator
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [uber/ADR](https://github.com/uber/ADR) — ADR secures enterprise AI agents through observability, security benchmarking, a
 
 [veedstudio/open-edit](https://github.com/veedstudio/open-edit) — The video editor you own, not rent — edit clips from your coding agent (Claude C
-
-[kryoseu/WyrmRSS](https://github.com/kryoseu/WyrmRSS) — A self-hosted RSS reader and aggregator, also available as a desktop app. 
-
-[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) — A persistent workspace for development work that self-improves and continues bey
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
