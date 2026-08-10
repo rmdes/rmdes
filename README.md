@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`chore: release v2.8.0` (2026-08-10)
+<br>`chore: release v2.8.1` (2026-08-10)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat: post-publish 'tell your readers?' prompt (spec §5.3) (` (2026-08-08)
@@ -61,8 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://rmendes.net/bookmarks/2026/08/01/anatomy-of-a-frontier-lab/) - 2026-08-01
 
 [RSC : et si le web social n'avait jamais eu besoin d'un nouveau protocole ?](https://rmendes.net/articles/2026/07/26/rsc-et-si-le-web/) - 2026-07-26
-
-[Curious : Linux VM in your browser 🤔](https://rmendes.net/bookmarks/2026/07/26/curious-linux-vm-in-your/) - 2026-07-26
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
