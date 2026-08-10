@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`chore(deps): Update Yarn to v4.18.0 (#15)` (2026-08-10)
+<br>`refactor: drop redundant @typescript-eslint plugin registrat` (2026-08-10)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump registry pointer — activitypub ^3.13.33 (AP-D1)` (2026-08-10)
