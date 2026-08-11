@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat: build lint — surface over-budget pages in build-status` (2026-08-08)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`chore(deps): Update docker/setup-qemu-action action to v4 (#` (2026-08-10)
+<br>`fix: migrate dbHandler.test.ts off require.cache invalidatio` (2026-08-11)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump registry pointer — activitypub ^3.13.33 (AP-D1)` (2026-08-10)
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: reader unboost never reached the original author (v3.13` (2026-08-10)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump registry pointer — activitypub ^3.13.33 (AP-D1)` (2026-08-10)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: pin activitypub ^3.13.33 (AP-D1 unboost author delive` (2026-08-10)
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`feat: post-publish 'tell your readers?' prompt (spec §5.3) (` (2026-08-08)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: build lint — surface over-budget pages in build-status` (2026-08-08)
-
-[myblog](https://github.com/rmdes/myblog) — Archive of myblog in markdown
-<br>`Archiving 1 file from Micro.blog.` (2026-08-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
