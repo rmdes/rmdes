@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`polish: address final-review Minor findings in app/ handler ` (2026-08-11)
+<br>`chore(deps): Update TypeScript tooling (#14)` (2026-08-11)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
