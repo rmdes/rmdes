@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`chore(deps): Update TypeScript tooling (#14)` (2026-08-11)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: pin activitypub ^4.0.0 (single-lane core refactor)` (2026-08-11)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`chore(deps): Update TypeScript tooling (#14)` (2026-08-11)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
@@ -66,7 +66,7 @@ More on [rmendes.net](https://rmendes.net/)
 <!-- pipelines starts -->
 [![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31517257750)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11)
+Last build: `chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11, 3m 3s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
