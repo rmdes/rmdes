@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`polish: address final-review Minor findings in app/ handler ` (2026-08-11)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: build lint — surface over-budget pages in build-status` (2026-08-08)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`fix: migrate dbHandler.test.ts off require.cache invalidatio` (2026-08-11)
-
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
 <br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: reader unboost never reached the original author (v3.13` (2026-08-10)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
