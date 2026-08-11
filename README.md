@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <br>`chore(deps): Update docker/setup-qemu-action action to v4 (#` (2026-08-10)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [myblog](https://github.com/rmdes/myblog) — Archive of myblog in markdown
 <br>`Archiving 1 file from Micro.blog.` (2026-08-08)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`fix(core): strip XML-illegal characters at the shared RSS fi` (2026-08-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -39,7 +39,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [FlowFactorNV/secret-sniper](https://github.com/FlowFactorNV/secret-sniper) — 
 
-[shobhitx64/Benzi](https://github.com/shobhitx64/Benzi) — Benzi is a coding AI agent + harness grounded in a live code map.
+[oooscoos/Benzi](https://github.com/oooscoos/Benzi) — Benzi is a coding AI agent + harness grounded in a live code map.
 
 [tikazyq/tech-news](https://github.com/tikazyq/tech-news) — Technical News Aggregator
 
