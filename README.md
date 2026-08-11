@@ -59,8 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Reaping the Whirlwind | Inside the Potomac River Midair Collision](https://rmendes.net/bookmarks/2026/08/03/reaping-the-whirlwind-inside-the/) - 2026-08-03
 
 [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://rmendes.net/bookmarks/2026/08/01/anatomy-of-a-frontier-lab/) - 2026-08-01
-
-[RSC : et si le web social n'avait jamais eu besoin d'un nouveau protocole ?](https://rmendes.net/articles/2026/07/26/rsc-et-si-le-web/) - 2026-07-26
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
