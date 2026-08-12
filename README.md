@@ -23,18 +23,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
 
+[starrykit-plugin](https://github.com/rmdes/starrykit-plugin) — Free AI presentation maker & free AI poster maker for Codex, Claude Code, Cursor
+<br>`chore: ignore app submission artifact (#137)` (2026-08-11)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: build lint — surface over-budget pages in build-status` (2026-08-08)
 
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
 <br>`docs: note hasImages frontmatter stamp is currently unconsum` (2026-07-24)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[cmnord/whoport](https://github.com/cmnord/whoport) — Who's using this port?
+
 [srijan/kirby-micropub](https://github.com/srijan/kirby-micropub) — A Micropub server endpoint for Kirby 5
 
 [ojamin/okf-loom](https://github.com/ojamin/okf-loom) — Toolkit for turning Markdown docs bundles into validated OKF knowledge graphs, w
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) —  AI Agent Skills built for Founders who hate Marketing
 
 [stagas/textlog](https://github.com/stagas/textlog) — textlog.cc
-
-[betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) — Scan the world (for secrets)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
