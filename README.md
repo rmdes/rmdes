@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`docs: update CHANGELOG for production improvements` (2026-08-12)
+<br>`style: fix prettier formatting in sharedLimiters.ts and feed` (2026-08-12)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[kushal-omnius/open-knowledge-compiler](https://github.com/kushal-omnius/open-knowledge-compiler) — Raw engineering artifacts go in. A living, query-able, agent-readable knowledge 
+
+[Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) —  AI Agent Skills built for Founders who hate Marketing
+
 [stagas/textlog](https://github.com/stagas/textlog) — textlog.cc
 
 [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) — Scan the world (for secrets)
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [tikazyq/tech-news](https://github.com/tikazyq/tech-news) — Technical News Aggregator
 
 [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) — Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
-
-[ATProtocol-Community/atgeo-marker](https://github.com/ATProtocol-Community/atgeo-marker) — Experimental app for markers to test Gazeteers + Geo lexicons.
-
-[uber/ADR](https://github.com/uber/ADR) — ADR secures enterprise AI agents through observability, security benchmarking, a
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
