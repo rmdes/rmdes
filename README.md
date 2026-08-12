@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <br>`fix: bound Bluesky API network calls with a 30s timeout` (2026-08-12)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: pin activitypub ^4.0.0 (single-lane core refactor)` (2026-08-11)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
 
 [starrykit-plugin](https://github.com/rmdes/starrykit-plugin) — Free AI presentation maker & free AI poster maker for Codex, Claude Code, Cursor
 <br>`chore: ignore app submission artifact (#137)` (2026-08-11)
