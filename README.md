@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ojamin/okf-loom](https://github.com/ojamin/okf-loom) — Toolkit for turning Markdown docs bundles into validated OKF knowledge graphs, w
+
+[jordiboehme/crystalline](https://github.com/jordiboehme/crystalline) — Local-first memory for AI agents: teach knowledge as Markdown Domains, capture l
+
+[qemus/qemu](https://github.com/qemus/qemu) — QEMU in a Docker container.
+
 [kushal-omnius/open-knowledge-compiler](https://github.com/kushal-omnius/open-knowledge-compiler) — Raw engineering artifacts go in. A living, query-able, agent-readable knowledge 
 
 [Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) —  AI Agent Skills built for Founders who hate Marketing
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) — Scan the world (for secrets)
 
 [FlowFactorNV/secret-sniper](https://github.com/FlowFactorNV/secret-sniper) — 
-
-[oooscoos/Benzi](https://github.com/oooscoos/Benzi) — Benzi is a coding AI agent + harness grounded in a live code map.
-
-[tikazyq/tech-news](https://github.com/tikazyq/tech-news) — Technical News Aggregator
-
-[InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery) — Beautiful, ready-to-use dashboard templates for Obsidian PKM✨
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
