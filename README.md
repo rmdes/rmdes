@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`Merge v1.3.1/cross-browser-auth — v1.3.1` (2026-08-12)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
 <br>`style: fix prettier formatting in sharedLimiters.ts and feed` (2026-08-12)
 
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`feat: per-item author identity from RSS item-level <source> ` (2026-07-16)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`feat: post-publish 'tell your readers?' prompt (spec §5.3) (` (2026-08-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[srijan/kirby-micropub](https://github.com/srijan/kirby-micropub) — A Micropub server endpoint for Kirby 5
+
 [ojamin/okf-loom](https://github.com/ojamin/okf-loom) — Toolkit for turning Markdown docs bundles into validated OKF knowledge graphs, w
 
 [jordiboehme/crystalline](https://github.com/jordiboehme/crystalline) — Local-first memory for AI agents: teach knowledge as Markdown Domains, capture l
@@ -48,17 +50,13 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [stagas/textlog](https://github.com/stagas/textlog) — textlog.cc
 
 [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) — Scan the world (for secrets)
-
-[FlowFactorNV/secret-sniper](https://github.com/FlowFactorNV/secret-sniper) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
-[Reaping the Whirlwind | Inside the Potomac River Midair Collision](https://rmendes.net/bookmarks/2026/08/03/reaping-the-whirlwind-inside-the/) - 2026-08-03
 
-[Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://rmendes.net/bookmarks/2026/08/01/anatomy-of-a-frontier-lab/) - 2026-08-01
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
