@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`Merge v1.3.1/cross-browser-auth — v1.3.1` (2026-08-12)
-
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`style: fix prettier formatting in sharedLimiters.ts and feed` (2026-08-12)
+<br>`bump version to 2.11.0` (2026-08-12)
+
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`Merge v1.4.0/drafts — v1.4.0` (2026-08-12)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11)
@@ -39,7 +39,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [ojamin/okf-loom](https://github.com/ojamin/okf-loom) — Toolkit for turning Markdown docs bundles into validated OKF knowledge graphs, w
 
-[jordiboehme/crystalline](https://github.com/jordiboehme/crystalline) — Local-first memory for AI agents: teach knowledge as Markdown Domains, capture l
+[jordiboehme/crystalline](https://github.com/jordiboehme/crystalline) — Local-first crystalline intelligence for AI agents: the knowledge that endures a
 
 [qemus/qemu](https://github.com/qemus/qemu) — QEMU in a Docker container.
 
