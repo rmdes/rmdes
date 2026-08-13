@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[faisalhussain-devs/MindCache](https://github.com/faisalhussain-devs/MindCache) — Agentic Memory System for Long-Term AI
+
 [cmnord/whoport](https://github.com/cmnord/whoport) — Who's using this port?
 
 [srijan/kirby-micropub](https://github.com/srijan/kirby-micropub) — A Micropub server endpoint for Kirby 5
@@ -45,11 +47,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [qemus/qemu](https://github.com/qemus/qemu) — QEMU in a Docker container.
 
-[kushal-omnius/open-knowledge-compiler](https://github.com/kushal-omnius/open-knowledge-compiler) — Raw engineering artifacts go in. A living, query-able, agent-readable knowledge 
+[kushal-omnius/open-knowledge-compiler](https://github.com/kushal-omnius/open-knowledge-compiler) — Deterministic compilation of Git, PR, and test history into a provenance-tracked
 
 [Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) —  AI Agent Skills built for Founders who hate Marketing
-
-[stagas/textlog](https://github.com/stagas/textlog) — textlog.cc
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
