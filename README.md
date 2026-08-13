@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: registry pointer -> activitypub ^4.1.0-beta.1 (staged` (2026-08-13)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: pin activitypub ^4.1.0-beta.1 (staged test of the cor` (2026-08-13)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
 
@@ -16,12 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge v1.4.0/drafts — v1.4.0` (2026-08-12)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin activitypub ^4.0.0 (single-lane core refactor)` (2026-08-11)
 
 [starrykit-plugin](https://github.com/rmdes/starrykit-plugin) — Free AI presentation maker & free AI poster maker for Codex, Claude Code, Cursor
 <br>`chore: ignore app submission artifact (#137)` (2026-08-11)
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31517257750)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31671355930)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump registry pointer — activitypub ^4.0.0` (2026-08-11, 3m 3s)
+Last build: `chore: registry pointer -> activitypub ^4.1.0-beta.1 (staged` (2026-08-13, 2m 10s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
