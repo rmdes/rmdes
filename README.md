@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs
+
+[vllm-project/recipes](https://github.com/vllm-project/recipes) — Common recipes to run vLLM
+
+[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) — Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
 [faisalhussain-devs/MindCache](https://github.com/faisalhussain-devs/MindCache) — Agentic Memory System for Long-Term AI
 
 [cmnord/whoport](https://github.com/cmnord/whoport) — Who's using this port?
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ojamin/okf-loom](https://github.com/ojamin/okf-loom) — Toolkit for turning Markdown docs bundles into validated OKF knowledge graphs, w
 
 [jordiboehme/crystalline](https://github.com/jordiboehme/crystalline) — Local-first crystalline intelligence for AI agents: the knowledge that endures a
-
-[qemus/qemu](https://github.com/qemus/qemu) — QEMU in a Docker container.
-
-[kushal-omnius/open-knowledge-compiler](https://github.com/kushal-omnius/open-knowledge-compiler) — Deterministic compilation of Git, PR, and test history into a provenance-tracked
-
-[Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) —  AI Agent Skills built for Founders who hate Marketing
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
