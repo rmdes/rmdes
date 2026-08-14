@@ -56,7 +56,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
-
+[The Man Who Cannot Be Overruled Wants to Talk About Balance of Power](https://rmendes.net/articles/2026/08/14/the-man-who-cannot-be/) - 2026-08-14
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
