@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) — Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start bu
+
+[gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) — 
+
 [Plume-org/joinplu.me](https://github.com/Plume-org/joinplu.me) — The official Plume website
 
 [xero/dotfiles](https://github.com/xero/dotfiles) — rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cul
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) — Open-Source Web UI for managing Apache Kafka clusters
 
 [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs
-
-[vllm-project/recipes](https://github.com/vllm-project/recipes) — Common recipes to run vLLM
-
-[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) — Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
