@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`feat(mcp): bind the instance to the identity, one JSON confi` (2026-08-08)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-04-04)
 
@@ -19,37 +31,25 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: registry pointer -> activitypub ^4.1.0-beta.1 (staged` (2026-08-13)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin activitypub ^4.1.0-beta.1 (staged test of the cor` (2026-08-13)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`Merge single-lane core refactor (v4.0.0)` (2026-08-11)
-
-[starrykit-plugin](https://github.com/rmdes/starrykit-plugin) — Free AI presentation maker & free AI poster maker for Codex, Claude Code, Cursor
-<br>`chore: ignore app submission artifact (#137)` (2026-08-11)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: build lint — surface over-budget pages in build-status` (2026-08-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[Plume-org/joinplu.me](https://github.com/Plume-org/joinplu.me) — The official Plume website
+
+[xero/dotfiles](https://github.com/xero/dotfiles) — rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cul
+
+[faressoft/terminalizer](https://github.com/faressoft/terminalizer) — 🦄 Record your terminal and generate animated gif images or share a web player
+
+[erev0s/VAmPI](https://github.com/erev0s/VAmPI) — Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
+
+[kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) — Open-Source Web UI for managing Apache Kafka clusters
+
 [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs
 
 [vllm-project/recipes](https://github.com/vllm-project/recipes) — Common recipes to run vLLM
 
 [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) — Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-
-[faisalhussain-devs/MindCache](https://github.com/faisalhussain-devs/MindCache) — Agentic Memory System for Long-Term AI
-
-[cmnord/whoport](https://github.com/cmnord/whoport) — Who's using this port?
-
-[srijan/kirby-micropub](https://github.com/srijan/kirby-micropub) — A Micropub server endpoint for Kirby 5
-
-[ojamin/okf-loom](https://github.com/ojamin/okf-loom) — Toolkit for turning Markdown docs bundles into validated OKF knowledge graphs, w
-
-[jordiboehme/crystalline](https://github.com/jordiboehme/crystalline) — Local-first crystalline intelligence for AI agents: the knowledge that endures a
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
