@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`feat(mcp): bind the instance to the identity, one JSON confi` (2026-08-08)
+<br>`docs(plan): delete propagation — 13-task implementation plan` (2026-08-14)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[andysylvester/opml-outline-viewer](https://github.com/andysylvester/opml-outline-viewer) — Static, dependency-free OPML outline viewer -- reads an OPML file and renders it
+
 [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) — Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start bu
 
 [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [erev0s/VAmPI](https://github.com/erev0s/VAmPI) — Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 
 [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) — Open-Source Web UI for managing Apache Kafka clusters
-
-[vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
