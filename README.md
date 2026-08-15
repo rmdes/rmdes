@@ -8,8 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`release: 1.0.0-beta.35` (2026-08-15)
+
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`release: 1.0.0-beta.32` (2026-08-15)
+
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`Merge v1.5.0/onboarding-diagnostics — v1.5.0` (2026-08-15)
+<br>`Merge fix/instrument-debug-log` (2026-08-15)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-07-12)
@@ -25,12 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`docs(plan): delete propagation — 13-task implementation plan` (2026-08-14)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
 <!-- active_repos ends -->
 
 ### Recently Starred
