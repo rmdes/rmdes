@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[omnibear/omnibear](https://github.com/omnibear/omnibear) — A Micropub browser extension
+
 [andysylvester/opml-outline-viewer](https://github.com/andysylvester/opml-outline-viewer) — Static, dependency-free OPML outline viewer -- reads an OPML file and renders it
 
 [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) — Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start bu
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [faressoft/terminalizer](https://github.com/faressoft/terminalizer) — 🦄 Record your terminal and generate animated gif images or share a web player
 
 [erev0s/VAmPI](https://github.com/erev0s/VAmPI) — Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
-
-[kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) — Open-Source Web UI for managing Apache Kafka clusters
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
