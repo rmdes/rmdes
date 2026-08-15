@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`fix: bound Bluesky API network calls with a 30s timeout` (2026-08-12)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-07-12)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`fix: bound Bluesky API network calls with a 30s timeout` (2026-08-12)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`docs(plan): delete propagation — 13-task implementation plan` (2026-08-14)
