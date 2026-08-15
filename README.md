@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
+
+[m98/fluent](https://github.com/m98/fluent) — The AI Language Learning Kit for Claude Code and others
+
 [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 
 [omnibear/omnibear](https://github.com/omnibear/omnibear) — A Micropub browser extension
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) — 
 
 [Plume-org/joinplu.me](https://github.com/Plume-org/joinplu.me) — The official Plume website
-
-[xero/dotfiles](https://github.com/xero/dotfiles) — rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cul
-
-[faressoft/terminalizer](https://github.com/faressoft/terminalizer) — 🦄 Record your terminal and generate animated gif images or share a web player
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
