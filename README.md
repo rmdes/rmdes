@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: update dependencies` (2026-07-12)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-04-04)
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge fix/literal-redirect-uris` (2026-08-15)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
+
 [omnibear/omnibear](https://github.com/omnibear/omnibear) — A Micropub browser extension
 
 [andysylvester/opml-outline-viewer](https://github.com/andysylvester/opml-outline-viewer) — Static, dependency-free OPML outline viewer -- reads an OPML file and renders it
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [xero/dotfiles](https://github.com/xero/dotfiles) — rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cul
 
 [faressoft/terminalizer](https://github.com/faressoft/terminalizer) — 🦄 Record your terminal and generate animated gif images or share a web player
-
-[erev0s/VAmPI](https://github.com/erev0s/VAmPI) — Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
