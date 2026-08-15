@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
+<br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`Merge docs/mv2-gotcha` (2026-08-13)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: registry pointer -> activitypub ^4.1.0-beta.1 (staged` (2026-08-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
