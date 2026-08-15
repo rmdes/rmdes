@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — A coding agent for open models like Kimi K3
+
 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
 
 [m98/fluent](https://github.com/m98/fluent) — The AI Language Learning Kit for Claude Code and others
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) — Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start bu
 
 [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) — 
-
-[Plume-org/joinplu.me](https://github.com/Plume-org/joinplu.me) — The official Plume website
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
