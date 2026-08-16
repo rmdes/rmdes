@@ -9,28 +9,28 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (indienews 1.0.2)` (2026-08-16)
+<br>`chore: update plugin-registry submodule (webmention-sender 1` (2026-08-16)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump indienews syndicator to 1.0.2` (2026-08-16)
+<br>`chore: bump webmention-sender to 1.1.0` (2026-08-16)
+
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`release: 1.0.0-beta.33` (2026-08-16)
+
+[indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
+<br>`fix: report posts dropped before processing, and stop retryi` (2026-08-16)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
 
 [indiekit-syndicator-indienews](https://github.com/rmdes/indiekit-syndicator-indienews) — IndieNews syndicator for Indiekit
 <br>`fix: submit the URL IndieNews can actually read` (2026-08-16)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-07-12)
-
-[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`Merge feat/vertical-type-rail` (2026-08-15)
-
-[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`docs: add fork notice to README, adopt version-in-package.js` (2026-08-15)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`release: 1.0.0-beta.35` (2026-08-15)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31941859884)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31948581003)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (indienews 1.0.2)` (2026-08-16, 2m 43s)
+Last build: `chore: update plugin-registry submodule (webmention-sender 1` (2026-08-16, 2m 45s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
