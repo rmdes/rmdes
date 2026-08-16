@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) — Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthro
+
+[MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
+
 [nilbuild/claude-run](https://github.com/nilbuild/claude-run) — A beautiful web UI for browsing Claude Code conversation history.
 
 [marvinvr/docktail](https://github.com/marvinvr/docktail) — Expose Docker containers as Tailscale Services using label-based configuration.
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [m98/fluent](https://github.com/m98/fluent) — The AI Language Learning Kit for Claude Code and others
 
 [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
-
-[omnibear/omnibear](https://github.com/omnibear/omnibear) — A Micropub browser extension
-
-[andysylvester/opml-outline-viewer](https://github.com/andysylvester/opml-outline-viewer) — Static, dependency-free OPML outline viewer -- reads an OPML file and renders it
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
