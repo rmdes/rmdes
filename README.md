@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`Merge docs/refresh-since-1.3` (2026-08-16)
+<br>`chore: hold the drafts panel for a release that earns one` (2026-08-16)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry submodule (webmention-sender 1` (2026-08-16)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nilbuild/claude-run](https://github.com/nilbuild/claude-run) — A beautiful web UI for browsing Claude Code conversation history.
+
 [marvinvr/docktail](https://github.com/marvinvr/docktail) — Expose Docker containers as Tailscale Services using label-based configuration.
 
 [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — A coding agent for open models like Kimi K3
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [omnibear/omnibear](https://github.com/omnibear/omnibear) — A Micropub browser extension
 
 [andysylvester/opml-outline-viewer](https://github.com/andysylvester/opml-outline-viewer) — Static, dependency-free OPML outline viewer -- reads an OPML file and renders it
-
-[shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) — Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start bu
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
