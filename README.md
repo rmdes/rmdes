@@ -8,6 +8,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry submodule (indienews 1.0.2)` (2026-08-16)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump indienews syndicator to 1.0.2` (2026-08-16)
+
+[indiekit-syndicator-indienews](https://github.com/rmdes/indiekit-syndicator-indienews) — IndieNews syndicator for Indiekit
+<br>`fix: submit the URL IndieNews can actually read` (2026-08-16)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-07-12)
 
@@ -22,19 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`fix: bound Bluesky API network calls with a 30s timeout` (2026-08-12)
-
-[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
-<br>`fix: exec fleet directly instead of routing through yarn` (2026-07-30)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs(plan): delete propagation — 13-task implementation plan` (2026-08-14)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[marvinvr/docktail](https://github.com/marvinvr/docktail) — Expose Docker containers as Tailscale Services using label-based configuration.
+
 [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — A coding agent for open models like Kimi K3
 
 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [andysylvester/opml-outline-viewer](https://github.com/andysylvester/opml-outline-viewer) — Static, dependency-free OPML outline viewer -- reads an OPML file and renders it
 
 [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) — Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start bu
-
-[gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31671355930)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31941859884)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: registry pointer -> activitypub ^4.1.0-beta.1 (staged` (2026-08-13, 2m 10s)
+Last build: `chore: update plugin-registry submodule (indienews 1.0.2)` (2026-08-16, 2m 43s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
