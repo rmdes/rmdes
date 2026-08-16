@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`Merge docs/refresh-since-1.3` (2026-08-16)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry submodule (webmention-sender 1` (2026-08-16)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-syndicator-indienews](https://github.com/rmdes/indiekit-syndicator-indienews) — IndieNews syndicator for Indiekit
 <br>`fix: submit the URL IndieNews can actually read` (2026-08-16)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-07-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
