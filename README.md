@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[NanoNets/docext](https://github.com/NanoNets/docext) — An on-premises, OCR-free unstructured data extraction, markdown conversion and b
+
 [chddaniel/chatpack](https://github.com/chddaniel/chatpack) — 
 
 [StepaniaH/port-light](https://github.com/StepaniaH/port-light) — A web dashboard that shows your server's port usage as a traffic-light grid. Bui
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [marvinvr/docktail](https://github.com/marvinvr/docktail) — Expose Docker containers as Tailscale Services using label-based configuration.
 
 [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — A coding agent for open models like Kimi K3
-
-[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
