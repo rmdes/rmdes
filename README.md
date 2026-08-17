@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[chddaniel/chatpack](https://github.com/chddaniel/chatpack) — 
+
+[StepaniaH/port-light](https://github.com/StepaniaH/port-light) — A web dashboard that shows your server's port usage as a traffic-light grid. Bui
+
 [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) — Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthro
 
 [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — A coding agent for open models like Kimi K3
 
 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
-
-[m98/fluent](https://github.com/m98/fluent) — The AI Language Learning Kit for Claude Code and others
-
-[HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
