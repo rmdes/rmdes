@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — Terminal UI OS (Terminal Multiplexer)
+
 [NanoNets/docext](https://github.com/NanoNets/docext) — An on-premises, OCR-free unstructured data extraction, markdown conversion and b
 
 [chddaniel/chatpack](https://github.com/chddaniel/chatpack) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nilbuild/claude-run](https://github.com/nilbuild/claude-run) — A beautiful web UI for browsing Claude Code conversation history.
 
 [marvinvr/docktail](https://github.com/marvinvr/docktail) — Expose Docker containers as Tailscale Services using label-based configuration.
-
-[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — A coding agent for open models like Kimi K3
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
