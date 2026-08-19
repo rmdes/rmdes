@@ -8,8 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
+<br>`fix: bound Bluesky API network calls with a 30s timeout` (2026-08-12)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`fix(sources): removing a source must never delete a local po` (2026-08-19)
+<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-19)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`release: 1.0.0-beta.33` (2026-08-16)
-
-[indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
-<br>`fix: report posts dropped before processing, and stop retryi` (2026-08-16)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) — Next generation Cosmic desktop environment
+
+[aaronpk/Meetable](https://github.com/aaronpk/Meetable) — an event listing website
+
 [inkshell/inkshell](https://github.com/inkshell/inkshell) — A tabbed desktop workspace for Claude Code. The CLI, with style. Every session i
 
 [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — Terminal UI OS (Terminal Multiplexer)
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [StepaniaH/port-light](https://github.com/StepaniaH/port-light) — A web dashboard that shows your server's port usage as a traffic-light grid. Bui
 
 [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) — Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthro
-
-[MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB lapto
-
-[nilbuild/claude-run](https://github.com/nilbuild/claude-run) — A beautiful web UI for browsing Claude Code conversation history.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
