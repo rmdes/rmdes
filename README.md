@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`fix(moderation): an author cannot overwrite a moderator's re` (2026-08-19)
+[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
+<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-19)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - that supports multi accounts - in active
-<br>`fix: bound Bluesky API network calls with a 30s timeout` (2026-08-12)
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update docker/setup-buildx-action digest to 37f` (2026-08-19)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #3 from rmdes/renovate/cloudron-base-5.x` (2026-08-19)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump webmention-sender to 1.1.0` (2026-08-16)
-
-[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`release: 1.0.0-beta.33` (2026-08-16)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
+
+[mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
+
 [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) — Next generation Cosmic desktop environment
 
 [aaronpk/Meetable](https://github.com/aaronpk/Meetable) — an event listing website
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [NanoNets/docext](https://github.com/NanoNets/docext) — An on-premises, OCR-free unstructured data extraction, markdown conversion and b
 
 [chddaniel/chatpack](https://github.com/chddaniel/chatpack) — 
-
-[StepaniaH/port-light](https://github.com/StepaniaH/port-light) — A web dashboard that shows your server's port usage as a traffic-light grid. Bui
-
-[nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) — Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthro
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
