@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`fix(build): npm@12 on every `npm ci` path — npm 11 ci breaks` (2026-08-20)
+<br>`fix(cloudron): node 22.22.2 + npm 12 via tarball swap, so `n` (2026-08-20)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: bump auth to 1.0.0-beta.36 (code binding from claims)` (2026-08-20)
@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) — One local control plane for every AI agent: route across models, fuse new capabi
+
+[zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) — Route OpenClaw API requests through Claude Code subscription billing instead of 
+
+[profullstack/rssamplifier.com](https://github.com/profullstack/rssamplifier.com) — An open, agent-first directory of independent blogs. Submit a URL, a list or an 
+
+[pesarkhobeee/lovelyRSS](https://github.com/pesarkhobeee/lovelyRSS) — Static RSS reader generator
+
+[pesarkhobeee/FediverseRssFriends](https://github.com/pesarkhobeee/FediverseRssFriends) — A social, RSS-friendly radar for the open web — self-hosted, magic-link auth, Ac
+
 [Avijit07x/claude-db](https://github.com/Avijit07x/claude-db) — Persistent memory for Claude Code. Bring your own database.
 
 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 [BrightbeamAI/chap](https://github.com/BrightbeamAI/chap) — Collaborative Human Agent Protocol (CHAP)
-
-[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
-
-[mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
-
-[pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) — Next generation Cosmic desktop environment
-
-[aaronpk/Meetable](https://github.com/aaronpk/Meetable) — an event listing website
-
-[inkshell/inkshell](https://github.com/inkshell/inkshell) — A tabbed desktop workspace for Claude Code. The CLI, with style. Every session i
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
