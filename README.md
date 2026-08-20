@@ -12,10 +12,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <br>`chore: update dependencies` (2026-07-12)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump auth to 1.0.0-beta.34 (response_type fix)` (2026-08-20)
+<br>`chore: bump auth to 1.0.0-beta.35 (grant_type at /auth)` (2026-08-20)
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`fix: guard profile discovery and correct a specification lin` (2026-08-20)
+<br>`fix: accept code exchange without `grant_type` at the author` (2026-08-20)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(deps): pin better-sqlite3 to 12.11.1; migration 25 for b` (2026-08-19)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Avijit07x/claude-db](https://github.com/Avijit07x/claude-db) — Persistent memory for Claude Code. Bring your own database.
+
 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 
 [BrightbeamAI/chap](https://github.com/BrightbeamAI/chap) — Collaborative Human Agent Protocol (CHAP)
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [aaronpk/Meetable](https://github.com/aaronpk/Meetable) — an event listing website
 
 [inkshell/inkshell](https://github.com/inkshell/inkshell) — A tabbed desktop workspace for Claude Code. The CLI, with style. Every session i
-
-[Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — Terminal UI OS (Terminal Multiplexer)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32356155534)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32370039237)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump auth to 1.0.0-beta.34 (response_type fix)` (2026-08-20, 2m 15s)
+Last build: `chore: bump auth to 1.0.0-beta.35 (grant_type at /auth)` (2026-08-20, 1m 19s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
