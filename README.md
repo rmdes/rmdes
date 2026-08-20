@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump auth to 1.0.0-beta.34 (response_type fix)` (2026-08-20)
+
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`fix: guard profile discovery and correct a specification lin` (2026-08-20)
 
@@ -26,15 +29,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`build: run Node 24 to match upstream engines` (2026-08-16)
-
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`fix(popup): label the drafts control instead of relying on a` (2026-08-16)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[BrightbeamAI/chap](https://github.com/BrightbeamAI/chap) — Collaborative Human Agent Protocol (CHAP)
+
 [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) — Terminal UI OS (Terminal Multiplexer)
 
 [NanoNets/docext](https://github.com/NanoNets/docext) — An on-premises, OCR-free unstructured data extraction, markdown conversion and b
-
-[chddaniel/chatpack](https://github.com/chddaniel/chatpack) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/31960356891)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32356155534)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `build: run Node 24 to match upstream engines` (2026-08-16, 2m 24s)
+Last build: `chore: bump auth to 1.0.0-beta.34 (response_type fix)` (2026-08-20, 2m 15s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
