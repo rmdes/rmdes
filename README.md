@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-07-12)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump auth to 1.0.0-beta.35 (grant_type at /auth)` (2026-08-20)
+<br>`chore: bump auth to 1.0.0-beta.36 (code binding from claims)` (2026-08-20)
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`fix: accept code exchange without `grant_type` at the author` (2026-08-20)
+<br>`fix: bind code exchange to the code's own claims` (2026-08-20)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: update dependencies` (2026-07-12)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(deps): pin better-sqlite3 to 12.11.1; migration 25 for b` (2026-08-19)
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32370039237)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32375659372)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump auth to 1.0.0-beta.35 (grant_type at /auth)` (2026-08-20, 1m 19s)
+Last build: `chore: bump auth to 1.0.0-beta.36 (code binding from claims)` (2026-08-20, 1m 27s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
