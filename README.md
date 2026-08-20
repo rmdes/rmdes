@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @atproto/api to v0.20.41 (#25` (2026-08-19)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(deps): pin better-sqlite3 to 12.11.1; migration 25 for b` (2026-08-19)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-19)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update docker/setup-buildx-action digest to 37f` (2026-08-19)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
