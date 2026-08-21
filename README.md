@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[janboddez/indieblocks](https://github.com/janboddez/indieblocks) — Mirrored from https://codeberg.org/janboddez/indieblocks
+
+[patchwork-hub/channels](https://github.com/patchwork-hub/channels) — Your self-hosted, globally interconnected microblogging community
+
 [immanent-tech/foragd](https://github.com/immanent-tech/foragd) — A beautiful, web based, online feed reader.
 
 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) — One local control plane for every AI agent: route across models, fuse new capabi
@@ -46,16 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [pesarkhobeee/lovelyRSS](https://github.com/pesarkhobeee/lovelyRSS) — Static RSS reader generator
 
 [pesarkhobeee/FediverseRssFriends](https://github.com/pesarkhobeee/FediverseRssFriends) — A social, RSS-friendly radar for the open web — self-hosted, magic-link auth, Ac
-
-[Avijit07x/claude-db](https://github.com/Avijit07x/claude-db) — Persistent memory for Claude Code. Bring your own database.
-
-[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[I shipped my comment plugin to a service that could never accept it](https://rmendes.net/articles/2026/08/21/ai-shipped-comment-plugin-indielogin/) - 2026-08-21
+
 [The Man Who Cannot Be Overruled Wants to Talk About Balance of Power](https://rmendes.net/articles/2026/08/14/the-man-who-cannot-be/) - 2026-08-14
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
