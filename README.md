@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[immanent-tech/foragd](https://github.com/immanent-tech/foragd) — A beautiful, web based, online feed reader.
+
 [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) — One local control plane for every AI agent: route across models, fuse new capabi
 
 [zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) — Route OpenClaw API requests through Claude Code subscription billing instead of 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Avijit07x/claude-db](https://github.com/Avijit07x/claude-db) — Persistent memory for Claude Code. Bring your own database.
 
 [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
-
-[BrightbeamAI/chap](https://github.com/BrightbeamAI/chap) — Collaborative Human Agent Protocol (CHAP)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
