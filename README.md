@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
+<br>`tweak data` (2026-08-21)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`tweak eleventy build` (2026-08-21)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: pin comments ^1.1.0 (IndieLogin migration)` (2026-08-21)
+
+[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
+<br>`feat!: delegate visitor authentication to IndieLogin.com` (2026-08-21)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
 
@@ -19,18 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`fix: bind code exchange to the code's own claims` (2026-08-20)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-07-12)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.20.41 (#25` (2026-08-19)
-
-[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
-<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-19)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`Merge pull request #7 from rmdes/renovate/tailwindcss-typogr` (2026-08-14)
 <!-- active_repos ends -->
 
 ### Recently Starred
