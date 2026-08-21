@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[RSSNext/Folo](https://github.com/RSSNext/Folo) — 🧡 Folo is the AI RSS Reader
+
 [janboddez/indieblocks](https://github.com/janboddez/indieblocks) — Mirrored from https://codeberg.org/janboddez/indieblocks
 
 [patchwork-hub/channels](https://github.com/patchwork-hub/channels) — Your self-hosted, globally interconnected microblogging community
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [profullstack/rssamplifier.com](https://github.com/profullstack/rssamplifier.com) — An open, agent-first directory of independent blogs. Submit a URL, a list or an 
 
 [pesarkhobeee/lovelyRSS](https://github.com/pesarkhobeee/lovelyRSS) — Static RSS reader generator
-
-[pesarkhobeee/FediverseRssFriends](https://github.com/pesarkhobeee/FediverseRssFriends) — A social, RSS-friendly radar for the open web — self-hosted, magic-link auth, Ac
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
