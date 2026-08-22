@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[tqbf/mdv](https://github.com/tqbf/mdv) — Markdown Viewer
+[anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
 
-[kanjani-ai-research/Vesta](https://github.com/kanjani-ai-research/Vesta) — An adaptive ontology over a resolved code graph: the vocabulary is learned from 
+[browser-use/browser-harness](https://github.com/browser-use/browser-harness) — Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-[mukundzha/mread](https://github.com/mukundzha/mread) — A CLI built to bypass medium paywall and read medium paid article for free in te
+[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni
 
-[xhall-beep/ApexYX-Sovereign](https://github.com/xhall-beep/ApexYX-Sovereign) — 
+[google/adk-samples](https://github.com/google/adk-samples) — A collection of sample agents built with Agent Development Kit (ADK) 
 
-[tstack/lnav](https://github.com/tstack/lnav) — Log file navigator
+[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B toke
 
-[modem-dev/hunk](https://github.com/modem-dev/hunk) — Review-first terminal diff viewer for agentic coders
+[apache/maka](https://github.com/apache/maka) — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to
 
-[ducaale/xh](https://github.com/ducaale/xh) — Friendly and fast tool for sending HTTP requests
+[open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) — OpenTelemetry Collector
 
-[RSSNext/Folo](https://github.com/RSSNext/Folo) — 🧡 Folo is the AI RSS Reader
+[oven-sh/bun](https://github.com/oven-sh/bun) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
