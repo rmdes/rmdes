@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`docs(endpoint-share): document query parameters for pre-fill` (2026-08-17)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`docs(api): point API consumers at the MCP client, and at two` (2026-08-22)
 
 [indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
 <br>`fix: refuse to fetch visitor-supplied URLs at blocked hosts` (2026-08-22)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-07-12)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: advertise the IndieAuth metadata endpoint` (2026-08-21)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[databasus/databasus](https://github.com/databasus/databasus) — PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
+
 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
 
 [browser-use/browser-harness](https://github.com/browser-use/browser-harness) — Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [apache/maka](https://github.com/apache/maka) — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to
 
 [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) — OpenTelemetry Collector
-
-[oven-sh/bun](https://github.com/oven-sh/bun) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
