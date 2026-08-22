@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: advertise the IndieAuth metadata endpoint` (2026-08-21)
-
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-07-12)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat: advertise the IndieAuth metadata endpoint` (2026-08-21)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: ignore Daily Notes/ and sites/indiekit-demo/` (2026-08-21)
@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[mukundzha/mread](https://github.com/mukundzha/mread) — A CLI built to bypass medium paywall and read medium paid article for free in te
+
+[xhall-beep/ApexYX-Sovereign](https://github.com/xhall-beep/ApexYX-Sovereign) — 
+
+[tstack/lnav](https://github.com/tstack/lnav) — Log file navigator
+
+[modem-dev/hunk](https://github.com/modem-dev/hunk) — Review-first terminal diff viewer for agentic coders
+
+[ducaale/xh](https://github.com/ducaale/xh) — Friendly and fast tool for sending HTTP requests
+
 [RSSNext/Folo](https://github.com/RSSNext/Folo) — 🧡 Folo is the AI RSS Reader
 
 [janboddez/indieblocks](https://github.com/janboddez/indieblocks) — Mirrored from https://codeberg.org/janboddez/indieblocks
 
 [patchwork-hub/channels](https://github.com/patchwork-hub/channels) — Your self-hosted, globally interconnected microblogging community
-
-[immanent-tech/foragd](https://github.com/immanent-tech/foragd) — A beautiful, web based, online feed reader.
-
-[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) — One local control plane for every AI agent: route across models, fuse new capabi
-
-[zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) — Route OpenClaw API requests through Claude Code subscription billing instead of 
-
-[profullstack/rssamplifier.com](https://github.com/profullstack/rssamplifier.com) — An open, agent-first directory of independent blogs. Submit a URL, a list or an 
-
-[pesarkhobeee/lovelyRSS](https://github.com/pesarkhobeee/lovelyRSS) — Static RSS reader generator
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
