@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[micropub-mcp](https://github.com/rmdes/micropub-mcp) — MCP server for creating, updating, and querying posts on Micropub-compatible blo
+<br>`feat: support multiple sites, and stop defaulting to a live ` (2026-08-22)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`docs(endpoint-share): document query parameters for pre-fill` (2026-08-17)
 
 [example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
 <br>`chore: update dependencies` (2024-04-08)
-
-[micropub-mcp](https://github.com/rmdes/micropub-mcp) — MCP server for creating, updating, and querying posts on Micropub-compatible blo
-<br>`chore: move plans to centralized documentation-central` (2026-03-16)
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`test: cover the API, dashboard and blocklist controllers` (2026-08-22)
