@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`docs(api): point API consumers at the MCP client, and at two` (2026-08-22)
+
+[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
+<br>`fix: refuse to fetch visitor-supplied URLs at blocked hosts` (2026-08-22)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-07-12)
 
@@ -20,21 +26,19 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: pin comments ^1.3.0 (IndieAuth server metadata discov` (2026-08-21)
 
-[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
-<br>`feat: prefer IndieAuth server metadata for discovery` (2026-08-21)
-
 [indiekit-endpoint-cv](https://github.com/rmdes/indiekit-endpoint-cv) — CV/Resume editor endpoint for Indiekit. Manage work experience, projects, skills
 <br>`tweak data` (2026-08-21)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge pull request #1 from rmdes/renovate/configure` (2026-08-14)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`fix(cloudron): node 22.22.2 + npm 12 via tarball swap, so `n` (2026-08-20)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[tqbf/mdv](https://github.com/tqbf/mdv) — Markdown Viewer
+
+[kanjani-ai-research/Vesta](https://github.com/kanjani-ai-research/Vesta) — An adaptive ontology over a resolved code graph: the vocabulary is learned from 
+
 [mukundzha/mread](https://github.com/mukundzha/mread) — A CLI built to bypass medium paywall and read medium paid article for free in te
 
 [xhall-beep/ApexYX-Sovereign](https://github.com/xhall-beep/ApexYX-Sovereign) — 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ducaale/xh](https://github.com/ducaale/xh) — Friendly and fast tool for sending HTTP requests
 
 [RSSNext/Folo](https://github.com/RSSNext/Folo) — 🧡 Folo is the AI RSS Reader
-
-[janboddez/indieblocks](https://github.com/janboddez/indieblocks) — Mirrored from https://codeberg.org/janboddez/indieblocks
-
-[patchwork-hub/channels](https://github.com/patchwork-hub/channels) — Your self-hosted, globally interconnected microblogging community
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
