@@ -14,6 +14,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
 <br>`chore: update dependencies` (2024-04-08)
 
+[micropub-mcp](https://github.com/rmdes/micropub-mcp) — MCP server for creating, updating, and querying posts on Micropub-compatible blo
+<br>`chore: move plans to centralized documentation-central` (2026-03-16)
+
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`test: cover the API, dashboard and blocklist controllers` (2026-08-22)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`feat: advertise the IndieAuth metadata endpoint` (2026-08-21)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: ignore Daily Notes/ and sites/indiekit-demo/` (2026-08-21)
 <!-- active_repos ends -->
 
 ### Recently Starred
