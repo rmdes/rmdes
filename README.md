@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @atproto/api to v0.20.41 (#25` (2026-08-19)
+
 [micropub-mcp](https://github.com/rmdes/micropub-mcp) — MCP server for creating, updating, and querying posts on Micropub-compatible blo
 <br>`feat: support multiple sites, and stop defaulting to a live ` (2026-08-22)
 
@@ -28,13 +31,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
 <br>`fix: refuse to fetch visitor-supplied URLs at blocked hosts` (2026-08-22)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: advertise the IndieAuth metadata endpoint` (2026-08-21)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[hughhowey/neo](https://github.com/hughhowey/neo) — A novel-writing tool created by a novelist.
+
+[llvm/llvm-project](https://github.com/llvm/llvm-project) — The LLVM Project is a collection of modular and reusable compiler and toolchain 
+
+[ai-hero-dev/ai-coding-crash-course](https://github.com/ai-hero-dev/ai-coding-crash-course) — Exercise repo for the AI Coding Crash Course with Claude Code (aihero.dev)
+
 [databasus/databasus](https://github.com/databasus/databasus) — PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 
 [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni
 
 [google/adk-samples](https://github.com/google/adk-samples) — A collection of sample agents built with Agent Development Kit (ADK) 
-
-[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B toke
-
-[apache/maka](https://github.com/apache/maka) — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to
-
-[open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) — OpenTelemetry Collector
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
