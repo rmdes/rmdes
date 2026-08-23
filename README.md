@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) — Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
+
+[samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) — GitOps/Flux2 managed full-stack Kubernetes clusters
+
+[s0md3v/ReconDog](https://github.com/s0md3v/ReconDog) — Reconnaissance Swiss Army Knife
+
+[fayazara/Screendrop](https://github.com/fayazara/Screendrop) — A beautiful screenshot + screen recording + Loom alternative - all native, self 
+
 [hughhowey/neo](https://github.com/hughhowey/neo) — A novel-writing tool created by a novelist.
 
 [llvm/llvm-project](https://github.com/llvm/llvm-project) — The LLVM Project is a collection of modular and reusable compiler and toolchain 
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ai-hero-dev/ai-coding-crash-course](https://github.com/ai-hero-dev/ai-coding-crash-course) — Exercise repo for the AI Coding Crash Course with Claude Code (aihero.dev)
 
 [databasus/databasus](https://github.com/databasus/databasus) — PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
-
-[anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror
-
-[browser-use/browser-harness](https://github.com/browser-use/browser-harness) — Browser Harness | Self-healing harness that enables LLMs to complete any task.
-
-[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni
-
-[google/adk-samples](https://github.com/google/adk-samples) — A collection of sample agents built with Agent Development Kit (ADK) 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
