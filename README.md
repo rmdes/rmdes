@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`feat(create-indiekit): offer the file system content store` (2026-08-23)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`fix(deps): pin @typescript-eslint/* to ^8.67.0 for ESLint 10` (2026-08-23)
 
@@ -16,12 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`docs(endpoint-share): document query parameters for pre-fill` (2026-08-17)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`feat(create-indiekit): offer the file system content store` (2026-08-23)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/mcp-hosted-transport'` (2026-08-23)
 
 [micropub-mcp](https://github.com/rmdes/micropub-mcp) — MCP server for creating, updating, and querying posts on Micropub-compatible blo
 <br>`feat: support multiple sites, and stop defaulting to a live ` (2026-08-22)
