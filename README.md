@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`feat(create-indiekit): offer the file system content store` (2026-08-23)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/mcp-hosted-transport'` (2026-08-23)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
 <br>`revert: tell-your-readers prompt — WON'T-DO per user decisio` (2026-08-22)
-
-[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
-<br>`fix: refuse to fetch visitor-supplied URLs at blocked hosts` (2026-08-22)
 <!-- active_repos ends -->
 
 ### Recently Starred
