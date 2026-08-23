@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency eslint to v10 (#18)` (2026-08-23)
+<br>`fix(deps): pin @typescript-eslint/* to ^8.67.0 for ESLint 10` (2026-08-23)
 
 [eleventy-starter](https://github.com/getindiekit/eleventy-starter) — Indiekit + Eleventy starter: publish a post and it resolves at the URL Indiekit 
 <br>`Run servers and tests in one CI step` (2026-08-23)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) — Build better with Web Awesome, the open source library of web components from Fo
+
 [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) — Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
 
 [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) — GitOps/Flux2 managed full-stack Kubernetes clusters
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [llvm/llvm-project](https://github.com/llvm/llvm-project) — The LLVM Project is a collection of modular and reusable compiler and toolchain 
 
 [ai-hero-dev/ai-coding-crash-course](https://github.com/ai-hero-dev/ai-coding-crash-course) — Exercise repo for the AI Coding Crash Course with Claude Code (aihero.dev)
-
-[databasus/databasus](https://github.com/databasus/databasus) — PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
