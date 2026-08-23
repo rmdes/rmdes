@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
+<br>`chore: update dependencies` (2024-04-08)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`feat(create-indiekit): offer the file system content store` (2026-08-23)
 
+[eleventy-starter](https://github.com/getindiekit/eleventy-starter) — Indiekit + Eleventy starter: publish a post and it resolves at the URL Indiekit 
+<br>`Document how the Eleventy starter differs, and INDIEKIT_URL` (2026-08-23)
+
 [hugo-starter](https://github.com/getindiekit/hugo-starter) — Indiekit + Hugo starter: publish a post and it resolves at the URL Indiekit repo
 <br>`Fix the README install command and stop emitting feeds` (2026-08-23)
-
-[eleventy-starter](https://github.com/getindiekit/eleventy-starter) — Indiekit + Eleventy starter: publish a post and it resolves at the URL Indiekit 
-<br>`Report the delete response in the smoke test` (2026-08-23)
-
-[example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
-<br>`chore: update dependencies` (2024-04-08)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
