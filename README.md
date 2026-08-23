@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency eslint to v10 (#18)` (2026-08-23)
+
+[eleventy-starter](https://github.com/getindiekit/eleventy-starter) — Indiekit + Eleventy starter: publish a post and it resolves at the URL Indiekit 
+<br>`Run servers and tests in one CI step` (2026-08-23)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`docs(endpoint-share): document query parameters for pre-fill` (2026-08-17)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`feat(create-indiekit): offer the file system content store` (2026-08-23)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/mcp-hosted-transport'` (2026-08-23)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.20.41 (#25` (2026-08-19)
-
 [micropub-mcp](https://github.com/rmdes/micropub-mcp) — MCP server for creating, updating, and querying posts on Micropub-compatible blo
 <br>`feat: support multiple sites, and stop defaulting to a live ` (2026-08-22)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`docs(endpoint-share): document query parameters for pre-fill` (2026-08-17)
 
 [example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
 <br>`chore: update dependencies` (2024-04-08)
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`test: cover the API, dashboard and blocklist controllers` (2026-08-22)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`revert: tell-your-readers prompt — WON'T-DO per user decisio` (2026-08-22)
 <!-- active_repos ends -->
 
 ### Recently Starred
