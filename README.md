@@ -41,7 +41,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [tt-a1i/archify](https://github.com/tt-a1i/archify) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
-[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
 [openma-ai/Martty](https://github.com/openma-ai/Martty) — deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Ha
 
