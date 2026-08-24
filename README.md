@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）
+
+[tt-a1i/archify](https://github.com/tt-a1i/archify) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
+
+[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+[openma-ai/Martty](https://github.com/openma-ai/Martty) — deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Ha
+
 [idiap/anonymization](https://github.com/idiap/anonymization) — A Python library for anonymizing sensitive information in text data. Focused on 
 
 [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) — Build better with Web Awesome, the open source library of web components from Fo
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) — Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
 
 [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) — GitOps/Flux2 managed full-stack Kubernetes clusters
-
-[s0md3v/ReconDog](https://github.com/s0md3v/ReconDog) — Reconnaissance Swiss Army Knife
-
-[fayazara/Screendrop](https://github.com/fayazara/Screendrop) — A beautiful screenshot + screen recording + Loom alternative - all native, self 
-
-[hughhowey/neo](https://github.com/hughhowey/neo) — A novel-writing tool created by a novelist.
-
-[llvm/llvm-project](https://github.com/llvm/llvm-project) — The LLVM Project is a collection of modular and reusable compiler and toolchain 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
