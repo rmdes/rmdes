@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[idiap/anonymization](https://github.com/idiap/anonymization) — A Python library for anonymizing sensitive information in text data. Focused on 
+
 [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) — Build better with Web Awesome, the open source library of web components from Fo
 
 [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) — Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [hughhowey/neo](https://github.com/hughhowey/neo) — A novel-writing tool created by a novelist.
 
 [llvm/llvm-project](https://github.com/llvm/llvm-project) — The LLVM Project is a collection of modular and reusable compiler and toolchain 
-
-[ai-hero-dev/ai-coding-crash-course](https://github.com/ai-hero-dev/ai-coding-crash-course) — Exercise repo for the AI Coding Crash Course with Claude Code (aihero.dev)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
