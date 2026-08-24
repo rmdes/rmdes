@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`fix(deps): pin @typescript-eslint/* to ^8.67.0 for ESLint 10` (2026-08-23)
+
 [example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
 <br>`chore: update dependencies` (2024-04-08)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`fix(deps): pin @typescript-eslint/* to ^8.67.0 for ESLint 10` (2026-08-23)
 <!-- active_repos ends -->
 
 ### Recently Starred
