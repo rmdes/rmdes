@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix: return 401 for GET requests with invalid bearer token` (2026-08-24)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #19 from rmdes/worktree-renovate-triage` (2026-08-24)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
 
 [jekyll-starter](https://github.com/getindiekit/jekyll-starter) — Indiekit + Jekyll starter: publish a post and it resolves at the URL Indiekit re
 <br>`Name the dateless default, matching the other two starters` (2026-08-24)
