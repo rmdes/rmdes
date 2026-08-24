@@ -8,17 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat: advertise the IndieAuth metadata endpoint` (2026-08-21)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`bump version to 2.11.2` (2026-08-24)
 
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style(endpoint-share): format share-url example (#910)` (2026-08-23)
-
 [example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
 <br>`chore: update dependencies` (2024-04-08)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`docs(endpoint-share): document query parameters for pre-fill` (2026-08-17)
 
 [hugo-starter](https://github.com/getindiekit/hugo-starter) — Indiekit + Hugo starter: publish a post and it resolves at the URL Indiekit repo
 <br>`Stop relying on --cleanDestinationDir, load .env in smoke te` (2026-08-23)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [jekyll-starter](https://github.com/getindiekit/jekyll-starter) — Indiekit + Jekyll starter: publish a post and it resolves at the URL Indiekit re
 <br>`State the Ruby version, the rebuild step, and how to enable ` (2026-08-23)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -106,9 +106,9 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 122 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 116 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 102 |
+| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 90 |
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 90 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 90 |
-| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 90 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 81 |
 | [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 81 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 79 |
