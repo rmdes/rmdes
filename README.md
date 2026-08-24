@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`Merge pull request #22 from rmdes/fix/post-visibility-and-ai` (2026-08-24)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update eleventy-site submodule` (2026-08-24)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix: return 401 for GET requests with invalid bearer token` (2026-08-24)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`Merge pull request #19 from rmdes/worktree-renovate-triage` (2026-08-24)
 
 [jekyll-starter](https://github.com/getindiekit/jekyll-starter) — Indiekit + Jekyll starter: publish a post and it resolves at the URL Indiekit re
 <br>`Name the dateless default, matching the other two starters` (2026-08-24)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`bump version to 2.11.2` (2026-08-24)
-
-[example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
-<br>`chore: update dependencies` (2024-04-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32495803098)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32777892328)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: ignore Daily Notes/ and sites/indiekit-demo/` (2026-08-21, 3m 58s)
+Last build: `chore: update eleventy-site submodule` (2026-08-24, 1m 54s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
