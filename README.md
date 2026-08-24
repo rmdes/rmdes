@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[xsukax/xsukax-Static-Blog-Studio](https://github.com/xsukax/xsukax-Static-Blog-Studio) — A fully offline, single-file static blog generator with local post management, f
+
 [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）
 
 [tt-a1i/archify](https://github.com/tt-a1i/archify) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) — Build better with Web Awesome, the open source library of web components from Fo
 
 [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) — Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
-
-[samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) — GitOps/Flux2 managed full-stack Kubernetes clusters
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
