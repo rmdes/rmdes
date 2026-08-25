@@ -37,7 +37,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- starred starts -->
 [xsukax/xsukax-Static-Blog-Studio](https://github.com/xsukax/xsukax-Static-Blog-Studio) — A fully offline, single-file static blog generator with local post management, f
 
-[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）
+[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发
 
 [tt-a1i/archify](https://github.com/tt-a1i/archify) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
