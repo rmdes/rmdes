@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[searlsco/posse_party](https://github.com/searlsco/posse_party) — Quit social media by posting more
+
 [xsukax/xsukax-Static-Blog-Studio](https://github.com/xsukax/xsukax-Static-Blog-Studio) — A fully offline, single-file static blog generator with local post management, f
 
 [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [idiap/anonymization](https://github.com/idiap/anonymization) — A Python library for anonymizing sensitive information in text data. Focused on 
 
 [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) — Build better with Web Awesome, the open source library of web components from Fo
-
-[webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) — Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
