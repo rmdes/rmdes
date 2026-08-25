@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix: return 401 for GET requests with invalid bearer token` (2026-08-24)
+<br>`chore: make the development environment work from a clean ch` (2026-08-25)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #22 from rmdes/fix/post-visibility-and-ai` (2026-08-24)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[charmbracelet/crush](https://github.com/charmbracelet/crush) — Glamourous agentic coding for all 💘
+
 [searlsco/posse_party](https://github.com/searlsco/posse_party) — Quit social media by posting more
 
 [xsukax/xsukax-Static-Blog-Studio](https://github.com/xsukax/xsukax-Static-Blog-Studio) — A fully offline, single-file static blog generator with local post management, f
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [openma-ai/Martty](https://github.com/openma-ai/Martty) — deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Ha
 
 [idiap/anonymization](https://github.com/idiap/anonymization) — A Python library for anonymizing sensitive information in text data. Focused on 
-
-[shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) — Build better with Web Awesome, the open source library of web components from Fo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
