@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[bidual/awesome-dgx-spark](https://github.com/bidual/awesome-dgx-spark) — A curated list of tools, guides, playbooks, and resources for the NVIDIA DGX Spa
+
+[calico88x/DGX-Model-Manager](https://github.com/calico88x/DGX-Model-Manager) — Browser-based model and inference management for NVIDIA DGX Spark - inventory lo
+
+[odnodn/dgx-spark](https://github.com/odnodn/dgx-spark) — NVIDIA DGX Spark ressources
+
+[jasonacox/dgx-spark](https://github.com/jasonacox/dgx-spark) — Helpful Tools for the Nvidia DGX Spark AI Personal Supercomputer
+
+[joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) — Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, UMA pressu
+
 [charmbracelet/crush](https://github.com/charmbracelet/crush) — Glamourous agentic coding for all 💘
 
 [searlsco/posse_party](https://github.com/searlsco/posse_party) — Quit social media by posting more
 
 [xsukax/xsukax-Static-Blog-Studio](https://github.com/xsukax/xsukax-Static-Blog-Studio) — A fully offline, single-file static blog generator with local post management, f
-
-[zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) — DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发
-
-[tt-a1i/archify](https://github.com/tt-a1i/archify) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
-
-[anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-[openma-ai/Martty](https://github.com/openma-ai/Martty) — deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Ha
-
-[idiap/anonymization](https://github.com/idiap/anonymization) — A Python library for anonymizing sensitive information in text data. Focused on 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
