@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[karpathy/llm-council](https://github.com/karpathy/llm-council) — LLM Council works together to answer your hardest questions
+
 [multica-ai/multica](https://github.com/multica-ai/multica) — Make humans and AI agents work as one team — open-source and self-hostable.
 
 [bidual/awesome-dgx-spark](https://github.com/bidual/awesome-dgx-spark) — A curated list of tools, guides, playbooks, and resources for the NVIDIA DGX Spa
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) — Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, UMA pressu
 
 [charmbracelet/crush](https://github.com/charmbracelet/crush) — Glamourous agentic coding for all 💘
-
-[searlsco/posse_party](https://github.com/searlsco/posse_party) — Quit social media by posting more
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
