@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[multica-ai/multica](https://github.com/multica-ai/multica) — Make humans and AI agents work as one team — open-source and self-hostable.
+
 [bidual/awesome-dgx-spark](https://github.com/bidual/awesome-dgx-spark) — A curated list of tools, guides, playbooks, and resources for the NVIDIA DGX Spa
 
 [calico88x/DGX-Model-Manager](https://github.com/calico88x/DGX-Model-Manager) — Browser-based model and inference management for NVIDIA DGX Spark - inventory lo
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [charmbracelet/crush](https://github.com/charmbracelet/crush) — Glamourous agentic coding for all 💘
 
 [searlsco/posse_party](https://github.com/searlsco/posse_party) — Quit social media by posting more
-
-[xsukax/xsukax-Static-Blog-Studio](https://github.com/xsukax/xsukax-Static-Blog-Studio) — A fully offline, single-file static blog generator with local post management, f
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
