@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #23 from rmdes/renovate/11ty-eleventy-fet` (2026-08-25)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [hugo-starter](https://github.com/getindiekit/hugo-starter) — Indiekit + Hugo starter: publish a post and it resolves at the URL Indiekit repo
 <br>`Document dated URLs, which were never written down here` (2026-08-24)
-
-[eleventy-starter](https://github.com/getindiekit/eleventy-starter) — Indiekit + Eleventy starter: publish a post and it resolves at the URL Indiekit 
-<br>`Simplify the dated-URL recipe to a config change` (2026-08-24)
 <!-- active_repos ends -->
 
 ### Recently Starred
