@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-08-25)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-08-25)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: make the development environment work from a clean ch` (2026-08-25)
