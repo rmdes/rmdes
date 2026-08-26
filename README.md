@@ -56,9 +56,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
-[I shipped my comment plugin to a service that could never accept it](https://rmendes.net/articles/2026/08/21/ai-shipped-comment-plugin-indielogin/) - 2026-08-21
+[Another reason to leave WordPress behind](https://rmendes.net/articles/2026/08/26/another-reason-to-leave-wordpress/) - 2026-08-26
 
-[The Man Who Cannot Be Overruled Wants to Talk About Balance of Power](https://rmendes.net/articles/2026/08/14/the-man-who-cannot-be/) - 2026-08-14
+[I shipped my comment plugin to a service that could never accept it](https://rmendes.net/articles/2026/08/21/ai-shipped-comment-plugin-indielogin/) - 2026-08-21
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
