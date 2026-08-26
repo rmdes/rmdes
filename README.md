@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #23 from rmdes/renovate/11ty-eleventy-fet` (2026-08-25)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-08-25)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[DevWebeloper/aura-glass](https://github.com/DevWebeloper/aura-glass) — A frosted-glass GNOME theme (GTK4 + libadwaita) for GNOME Shell 48-50 — Arch, Ca
+
 [karpathy/llm-council](https://github.com/karpathy/llm-council) — LLM Council works together to answer your hardest questions
 
 [multica-ai/multica](https://github.com/multica-ai/multica) — Make humans and AI agents work as one team — open-source and self-hostable.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [jasonacox/dgx-spark](https://github.com/jasonacox/dgx-spark) — Helpful Tools for the Nvidia DGX Spark AI Personal Supercomputer
 
 [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) — Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, UMA pressu
-
-[charmbracelet/crush](https://github.com/charmbracelet/crush) — Glamourous agentic coding for all 💘
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
