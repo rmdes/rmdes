@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-08-25)
-
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-08-25)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`Merge pull request #23 from rmdes/renovate/11ty-eleventy-fet` (2026-08-25)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[zachleat/speedlify2](https://github.com/zachleat/speedlify2) — Benchmark the performance and accessibility of websites over time.
+
+[unslothai/unsloth](https://github.com/unslothai/unsloth) — Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,
+
 [DevWebeloper/aura-glass](https://github.com/DevWebeloper/aura-glass) — A frosted-glass GNOME theme (GTK4 + libadwaita) for GNOME Shell 48-50 — Arch, Ca
 
 [karpathy/llm-council](https://github.com/karpathy/llm-council) — LLM Council works together to answer your hardest questions
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [calico88x/DGX-Model-Manager](https://github.com/calico88x/DGX-Model-Manager) — Browser-based model and inference management for NVIDIA DGX Spark - inventory lo
 
 [odnodn/dgx-spark](https://github.com/odnodn/dgx-spark) — NVIDIA DGX Spark ressources
-
-[jasonacox/dgx-spark](https://github.com/jasonacox/dgx-spark) — Helpful Tools for the Nvidia DGX Spark AI Personal Supercomputer
-
-[joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) — Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, UMA pressu
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
