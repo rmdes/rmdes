@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency satori to v0.33.4 (#27)` (2026-08-27)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-auth): accept code exchange without `grant_type` (2026-08-27)
 
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry submodule` (2026-08-27)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump indienews syndicator to ^1.0.3` (2026-08-27)
+
+[indiekit-syndicator-indienews](https://github.com/rmdes/indiekit-syndicator-indienews) — IndieNews syndicator for Indiekit
+<br>`fix: submit to the requested IndieNews language` (2026-08-27)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`fix(mcp): stop rscFetch leaking core's internal URL and RSC_` (2026-08-23)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`Merge pull request #23 from rmdes/renovate/11ty-eleventy-fet` (2026-08-25)
-
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-08-25)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule` (2026-08-24)
-
-[jekyll-starter](https://github.com/getindiekit/jekyll-starter) — Indiekit + Jekyll starter: publish a post and it resolves at the URL Indiekit re
-<br>`Name the dateless default, matching the other two starters` (2026-08-24)
-
-[hugo-starter](https://github.com/getindiekit/hugo-starter) — Indiekit + Hugo starter: publish a post and it resolves at the URL Indiekit repo
-<br>`Document dated URLs, which were never written down here` (2026-08-24)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -64,9 +64,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/32777892328)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33119056875)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule` (2026-08-24, 1m 54s)
+Last build: `chore: update plugin-registry submodule` (2026-08-27, 1m 33s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
