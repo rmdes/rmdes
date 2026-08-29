@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[YishenTu/claudian](https://github.com/YishenTu/claudian) — An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your v
+[infiniflow/ragflow](https://github.com/infiniflow/ragflow) — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
-[hjxcloud-tech/dsh-harness](https://github.com/hjxcloud-tech/dsh-harness) — Open DeepSeek Harness Web GUI in Obsidian (embedded iframe with auto service sta
+[guhcostan/claude-mega-brain](https://github.com/guhcostan/claude-mega-brain) — OKF-powered knowledge context for Claude Code — injects your project's knowledge
 
-[Arindam200/docxy](https://github.com/Arindam200/docxy) — 
+[serradura/okf](https://github.com/serradura/okf) — OKF (Open Knowledge Format): Durable, structured memory for AI agents. Author, v
 
-[lycheeverse/lychee](https://github.com/lycheeverse/lychee) — ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and 
+[scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) — The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Kn
 
-[nilbuild/rundown](https://github.com/nilbuild/rundown) — 
+[iwe-org/iwe](https://github.com/iwe-org/iwe) — Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI age
 
-[NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) — Send and receive SMS messages using your Android phone programmatically via a si
+[akashicode/kash](https://github.com/akashicode/kash) — Kash is a Go CLI that turns your raw documents (PDFs, Markdown, text files) into
 
-[baserow/baserow](https://github.com/baserow/baserow) — Build databases, automations, apps & agents with AI — no code.  Open source plat
+[samadpls/BestRAG](https://github.com/samadpls/BestRAG) — BestRAG: A library for hybrid RAG, combining dense, sparse, and late interaction
 
-[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — A spy satellite simulator in your browser, except the data is real. Live open so
+[timothywarner-org/context-engineering](https://github.com/timothywarner-org/context-engineering) — 🧠 Stop building AI that forgets. Master MCP (Model Context Protocol) with produc
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -104,8 +104,8 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 117 |
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 105 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 100 |
-| [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 94 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 94 |
+| [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 94 |
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 86 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 85 |
 | [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 82 |
