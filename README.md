@@ -35,27 +35,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[amarnath3003/MCPify](https://github.com/amarnath3003/MCPify) — MCPify is an AI enablement compiler that transforms existing applications into A
+
+[rafmacalaba/armada](https://github.com/rafmacalaba/armada) — Loop engineering for software development. Turn any repository into a self-organ
+
+[armadaproject/armada](https://github.com/armadaproject/armada) — A multi-cluster batch queuing system for high-throughput workloads on Kubernetes
+
+[justrach/codegraff](https://github.com/justrach/codegraff) — graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DG
+
+[bhavsec/reconspider](https://github.com/bhavsec/reconspider) — 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Addre
+
 [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 
 [guhcostan/claude-mega-brain](https://github.com/guhcostan/claude-mega-brain) — OKF-powered knowledge context for Claude Code — injects your project's knowledge
 
 [serradura/okf](https://github.com/serradura/okf) — OKF (Open Knowledge Format): Durable, structured memory for AI agents. Author, v
-
-[scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) — The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Kn
-
-[iwe-org/iwe](https://github.com/iwe-org/iwe) — Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI age
-
-[akashicode/kash](https://github.com/akashicode/kash) — Kash is a Go CLI that turns your raw documents (PDFs, Markdown, text files) into
-
-[samadpls/BestRAG](https://github.com/samadpls/BestRAG) — BestRAG: A library for hybrid RAG, combining dense, sparse, and late interaction
-
-[timothywarner-org/context-engineering](https://github.com/timothywarner-org/context-engineering) — 🧠 Stop building AI that forgets. Master MCP (Model Context Protocol) with produc
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Trump’s Third Term May Not Need Trump](https://rmendes.net/articles/2026/08/29/trump-successor-election/) - 2026-08-29
+
 [Another reason to leave WordPress behind](https://rmendes.net/articles/2026/08/26/another-reason-to-leave-wordpress/) - 2026-08-26
 
 [I shipped my comment plugin to a service that could never accept it](https://rmendes.net/articles/2026/08/21/ai-shipped-comment-plugin-indielogin/) - 2026-08-21
