@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nilbuild/rundown](https://github.com/nilbuild/rundown) — 
+
 [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) — Send and receive SMS messages using your Android phone programmatically via a si
 
 [baserow/baserow](https://github.com/baserow/baserow) — Build databases, automations, apps & agents with AI — no code.  Open source plat
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [zachleat/speedlify2](https://github.com/zachleat/speedlify2) — Benchmark the performance and accessibility of websites over time.
 
 [unslothai/unsloth](https://github.com/unslothai/unsloth) — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8
-
-[DevWebeloper/aura-glass](https://github.com/DevWebeloper/aura-glass) — A frosted-glass GNOME theme (GTK4 + libadwaita) for GNOME Shell 48-50 — Arch, Ca
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
