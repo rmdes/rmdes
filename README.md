@@ -11,6 +11,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency markdown-it to v15.0.1 (#28)` (2026-08-31)
 
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry submodule (comments ^1.4.0, in` (2026-08-31)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump comments to ^1.4.0` (2026-08-31)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
 
@@ -25,16 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-auth): accept code exchange without `grant_type` (2026-08-27)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule` (2026-08-27)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump indienews syndicator to ^1.0.3` (2026-08-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter for 11ty / Build Awesome 📝
+
 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous task
 
 [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [justrach/codegraff](https://github.com/justrach/codegraff) — graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DG
 
 [bhavsec/reconspider](https://github.com/bhavsec/reconspider) — 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Addre
-
-[infiniflow/ragflow](https://github.com/infiniflow/ragflow) — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33119056875)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33380524339)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule` (2026-08-27, 1m 33s)
+Last build: `chore: update plugin-registry submodule (comments ^1.4.0, in` (2026-08-31, 2m 34s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
