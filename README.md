@@ -35,7 +35,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter for 11ty / Build Awesome 📝
+[buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter powered by Build Awesome One kit and Blades CSS
 
 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous task
 
