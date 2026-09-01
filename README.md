@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(endpoint-auth): accept code exchange without `grant_type` (2026-08-27)
-
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-auth): accept code exchange without `grant_type` (2026-08-27)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency markdown-it to v15.0.1 (#28)` (2026-08-31)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) — 🔬pgwatch: PostgreSQL metrics monitor/dashboard 
+
 [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — High-performance In-browser LLM Inference Engine 
 
 [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) — Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angu
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [amarnath3003/MCPify](https://github.com/amarnath3003/MCPify) — MCPify is an AI enablement compiler that transforms existing applications into A
 
 [rafmacalaba/armada](https://github.com/rafmacalaba/armada) — Loop engineering for software development. Turn any repository into a self-organ
-
-[armadaproject/armada](https://github.com/armadaproject/armada) — A multi-cluster batch queuing system for high-throughput workloads on Kubernetes
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
