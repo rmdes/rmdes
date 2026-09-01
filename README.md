@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — High-performance In-browser LLM Inference Engine 
+
+[BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) — Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angu
+
 [buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter powered by Build Awesome One kit and Blades CSS
 
 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous task
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rafmacalaba/armada](https://github.com/rafmacalaba/armada) — Loop engineering for software development. Turn any repository into a self-organ
 
 [armadaproject/armada](https://github.com/armadaproject/armada) — A multi-cluster batch queuing system for high-throughput workloads on Kubernetes
-
-[justrach/codegraff](https://github.com/justrach/codegraff) — graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DG
-
-[bhavsec/reconspider](https://github.com/bhavsec/reconspider) — 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Addre
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -59,8 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Trump’s Third Term May Not Need Trump](https://rmendes.net/articles/2026/08/29/trump-successor-election/) - 2026-08-29
 
 [Another reason to leave WordPress behind](https://rmendes.net/articles/2026/08/26/another-reason-to-leave-wordpress/) - 2026-08-26
-
-[I shipped my comment plugin to a service that could never accept it](https://rmendes.net/articles/2026/08/21/ai-shipped-comment-plugin-indielogin/) - 2026-08-21
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
