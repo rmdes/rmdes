@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) — Convert any text to a graph of knowledge. This can be used for Graph Augmented G
+
+[Osmantic/ODS](https://github.com/Osmantic/ODS) — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
+
+[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) — Free, open-source alternative to Microsoft Office with built-in AI agents — Word
+
 [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) — 🔬pgwatch: PostgreSQL metrics monitor/dashboard 
 
 [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — High-performance In-browser LLM Inference Engine 
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter powered by Build Awesome One kit and Blades CSS
 
 [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous task
-
-[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) — 
-
-[amarnath3003/MCPify](https://github.com/amarnath3003/MCPify) — MCPify is an AI enablement compiler that transforms existing applications into A
-
-[rafmacalaba/armada](https://github.com/rafmacalaba/armada) — Loop engineering for software development. Turn any repository into a self-organ
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
