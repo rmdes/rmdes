@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update non-major dependencies to v3.17.1 (#31)` (2026-09-04)
+[indiekit-syndicator-indienews](https://github.com/rmdes/indiekit-syndicator-indienews) — IndieNews syndicator for Indiekit
+<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-03)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`Merge pull request #6 from rmdes/renovate/fedify-redis-2.x` (2026-09-03)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`Merge pull request #5 from rmdes/renovate/safe-regex2-5.x` (2026-09-03)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`Merge pull request #1 from rmdes/renovate/configure` (2026-09-03)
+[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
+<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
 
 [indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`refactor: tidy batch loop and consolidate guard tests` (2026-09-03)
+<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
 
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`perf: fetch OG image and metadata concurrently (v1.0.24)` (2026-09-03)
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
+
+[indiekit-endpoint-donation](https://github.com/rmdes/indiekit-endpoint-donation) — Stripe-backed donation endpoint for Indiekit — campaigns from Stripe Products, d
+<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
+
+[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
+<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`Merge pull request #6 from rmdes/chore/ci-and-renovate` (2026-09-04)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`Merge pull request #4 from rmdes/chore/ci-and-renovate` (2026-09-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
