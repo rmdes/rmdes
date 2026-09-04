@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-syndicator-indienews](https://github.com/rmdes/indiekit-syndicator-indienews) — IndieNews syndicator for Indiekit
-<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
-
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
+<br>`chore: drop Renovate config from this fork` (2026-09-04)
 
 [indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
-
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
-
-[indiekit-endpoint-donation](https://github.com/rmdes/indiekit-endpoint-donation) — Stripe-backed donation endpoint for Indiekit — campaigns from Stripe Products, d
-<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
-
-[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
-<br>`Merge pull request #1 from rmdes/chore/ci-and-renovate` (2026-09-04)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`Merge pull request #6 from rmdes/chore/ci-and-renovate` (2026-09-04)
+<br>`chore: drop Renovate config from this fork` (2026-09-04)
 
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`Merge pull request #4 from rmdes/chore/ci-and-renovate` (2026-09-04)
+<br>`chore: drop Renovate config from this fork` (2026-09-04)
+
+[indiekit-syndicator-linkedin](https://github.com/rmdes/indiekit-syndicator-linkedin) — LinkedIn syndicator for Indiekit, supporting notes and articles
+<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
+
+[indiekit-startup-gate](https://github.com/rmdes/indiekit-startup-gate) — Defers Indiekit plugin background tasks until the host signals readiness
+<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
+
+[indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
+<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
+
+[indiekit-endpoint-youtube](https://github.com/rmdes/indiekit-endpoint-youtube) — YouTube channel endpoint for Indiekit - display latest videos and live streaming
+<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
+
+[indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
+<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
