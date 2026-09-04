@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[humanlayer/skills](https://github.com/humanlayer/skills) — 
+
 [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) — Convert any text to a graph of knowledge. This can be used for Graph Augmented G
 
 [Osmantic/ODS](https://github.com/Osmantic/ODS) — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) — Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angu
 
 [buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter powered by Build Awesome One kit and Blades CSS
-
-[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous task
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
