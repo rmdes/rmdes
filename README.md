@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update eleventy-site submodule (renovate deps: eleven` (2026-09-05)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump post-type-page ^1.0.5, cv ^1.1.2, bluesky ^1.0.2` (2026-09-05)
+
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`chore: drop Renovate config from this fork` (2026-09-04)
 
@@ -25,16 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
 <br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
-
-[indiekit-endpoint-youtube](https://github.com/rmdes/indiekit-endpoint-youtube) — YouTube channel endpoint for Indiekit - display latest videos and live streaming
-<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
-
-[indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
-<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[Mah3Sec/ForgeGuardian](https://github.com/Mah3Sec/ForgeGuardian) — Local-first, AI-native Software Supply Chain Security Platform
+
+[antonyrag/ragleap-core](https://github.com/antonyrag/ragleap-core) — Open-source, agentic AI business manager — multi-agent RAG, AI Employees, Voice 
+
 [humanlayer/skills](https://github.com/humanlayer/skills) — 
 
 [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) — Convert any text to a graph of knowledge. This can be used for Graph Augmented G
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) — 🔬pgwatch: PostgreSQL metrics monitor/dashboard 
 
 [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — High-performance In-browser LLM Inference Engine 
-
-[BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) — Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angu
-
-[buildawesome-one/starter](https://github.com/buildawesome-one/starter) — Best content-first micro-starter powered by Build Awesome One kit and Blades CSS
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33380524339)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33956424024)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (comments ^1.4.0, in` (2026-08-31, 2m 34s)
+Last build: `chore: update eleventy-site submodule (renovate deps: eleven` (2026-09-05, 2m 3s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
