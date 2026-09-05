@@ -8,33 +8,35 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
+<br>`feat: add publish-all.sh — discover and publish pending @rmd` (2026-09-05)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (renovate deps: eleven` (2026-09-05)
+<br>`chore: bump 11 plugin versions (auth beta.37, micropub beta.` (2026-09-05)
+
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump post-type-page ^1.0.5, cv ^1.1.2, bluesky ^1.0.2` (2026-09-05)
+<br>`chore: bump bluesky 1.1.0, mastodon 1.1.0, webmention-io 1.1` (2026-09-05)
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`chore: drop Renovate config from this fork` (2026-09-04)
+<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
 
 [indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`chore: drop Renovate config from this fork` (2026-09-04)
+<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
 
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`chore: drop Renovate config from this fork` (2026-09-04)
+<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
 
-[indiekit-syndicator-linkedin](https://github.com/rmdes/indiekit-syndicator-linkedin) — LinkedIn syndicator for Indiekit, supporting notes and articles
-<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
-
-[indiekit-startup-gate](https://github.com/rmdes/indiekit-startup-gate) — Defers Indiekit plugin background tasks until the host signals readiness
-<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
-
-[indiekit-post-type-page](https://github.com/rmdes/indiekit-post-type-page) — Page post type for Indiekit - creates root-level slash pages like /about, /now, 
-<br>`chore: enable Renovate with grouped, review-only updates` (2026-09-04)
+[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
+<br>`chore: bump version to 1.1.0` (2026-09-05)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[haydenbleasel/blume](https://github.com/haydenbleasel/blume) — World-class docs for everything you ship. Fast, AI-ready, and zero-config.
+
 [Mah3Sec/ForgeGuardian](https://github.com/Mah3Sec/ForgeGuardian) — Local-first, AI-native Software Supply Chain Security Platform
 
 [antonyrag/ragleap-core](https://github.com/antonyrag/ragleap-core) — Open-source, agentic AI business manager — multi-agent RAG, AI Employees, Voice 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) — Free, open-source alternative to Microsoft Office with built-in AI agents — Word
 
 [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) — 🔬pgwatch: PostgreSQL metrics monitor/dashboard 
-
-[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — High-performance In-browser LLM Inference Engine 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33956424024)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33970130144)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (renovate deps: eleven` (2026-09-05, 2m 3s)
+Last build: `chore: bump 11 plugin versions (auth beta.37, micropub beta.` (2026-09-05, 2m 6s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
