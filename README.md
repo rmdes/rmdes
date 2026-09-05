@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
-<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`docs: say how to quote PASSWORD_SECRET for Docker Compose an` (2026-09-05)
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
+
+[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
+<br>`fix: the watermark compared a string against a Date, so noth` (2026-09-05)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (JSON-LD escaping)` (2026-09-05)
+<br>`chore: update plugin-registry submodule (rss ^1.1.3)` (2026-09-05)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump rss ^1.1.3` (2026-09-05)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`chore: release 1.0.68` (2026-09-05)
@@ -27,9 +30,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <br>`fix: escape JSON-LD embedded in the post script block` (2026-09-05)
 
 [indiekit-endpoint-readlater](https://github.com/rmdes/indiekit-endpoint-readlater) — Read It Later endpoint for Indiekit. Save URLs from any context for later consum
-<br>`fix: declare the mongodb dependency` (2026-09-05)
-
-[indiekit-endpoint-blogroll](https://github.com/rmdes/indiekit-endpoint-blogroll) — Indiekit endpoint plugin for blogroll management with OPML import and RSS aggreg
 <br>`fix: declare the mongodb dependency` (2026-09-05)
 <!-- active_repos ends -->
 
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33984889985)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33991515205)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (JSON-LD escaping)` (2026-09-05, 1m 21s)
+Last build: `chore: update plugin-registry submodule (rss ^1.1.3)` (2026-09-05, 2m 5s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
@@ -73,7 +73,7 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**8,782** downloads last month across **32** packages
+**8,872** downloads last month across **33** packages
 
 | Package | Downloads |
 |---------|-----------|
@@ -83,7 +83,7 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-microsub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-microsub) | 465 |
 | [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 423 |
 
-<details><summary>See all 32 packages</summary>
+<details><summary>See all 33 packages</summary>
 
 | Package | Downloads |
 |---------|-----------|
@@ -103,6 +103,7 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 105 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 101 |
 | [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 94 |
+| [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 90 |
 | [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 89 |
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 86 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 84 |
