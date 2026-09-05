@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
+<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`docs: say how to quote PASSWORD_SECRET for Docker Compose an` (2026-09-05)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update eleventy-site submodule (JSON-LD escaping)` (2026-09-05)
+
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`chore: release 1.0.68` (2026-09-05)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: move peer dependencies to where they are actually used` (2026-09-05)
+<br>`fix: declare the mongodb dependency` (2026-09-05)
 
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`fix: declare @rmdes/indiekit-startup-gate, and drop the host` (2026-09-05)
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: escape JSON-LD embedded in the post script block` (2026-09-05)
 
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`fix: restore a valid version` (2026-09-05)
+[indiekit-endpoint-readlater](https://github.com/rmdes/indiekit-endpoint-readlater) — Read It Later endpoint for Indiekit. Save URLs from any context for later consum
+<br>`fix: declare the mongodb dependency` (2026-09-05)
 
-[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
-<br>`fix: restore a valid version` (2026-09-05)
-
-[indiekit-endpoint-donation](https://github.com/rmdes/indiekit-endpoint-donation) — Stripe-backed donation endpoint for Indiekit — campaigns from Stripe Products, d
-<br>`fix: restore a valid version` (2026-09-05)
-
-[indiekit-syndicator-linkedin](https://github.com/rmdes/indiekit-syndicator-linkedin) — LinkedIn syndicator for Indiekit, supporting notes and articles
-<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-endpoint-linkedin](https://github.com/rmdes/indiekit-endpoint-linkedin) — LinkedIn OAuth 2.0 endpoint for Indiekit — handles token acquisition through the
-<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-endpoint-youtube](https://github.com/rmdes/indiekit-endpoint-youtube) — YouTube channel endpoint for Indiekit - display latest videos and live streaming
-<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
+[indiekit-endpoint-blogroll](https://github.com/rmdes/indiekit-endpoint-blogroll) — Indiekit endpoint plugin for blogroll management with OPML import and RSS aggreg
+<br>`fix: declare the mongodb dependency` (2026-09-05)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33973301723)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33984889985)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (rss ^1.0.17)` (2026-09-05, 1m 16s)
+Last build: `chore: update eleventy-site submodule (JSON-LD escaping)` (2026-09-05, 1m 21s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
