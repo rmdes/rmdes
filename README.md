@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
-<br>`feat: add publish-all.sh — discover and publish pending @rmd` (2026-09-05)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump 11 plugin versions (auth beta.37, micropub beta.` (2026-09-05)
-
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump bluesky 1.1.0, mastodon 1.1.0, webmention-io 1.1` (2026-09-05)
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: move peer dependencies to where they are actually used` (2026-09-05)
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
+<br>`fix: declare @rmdes/indiekit-startup-gate, and drop the host` (2026-09-05)
 
 [indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
+<br>`fix: restore a valid version` (2026-09-05)
 
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`Merge remote-tracking branch 'origin/main'` (2026-09-05)
+[indiekit-endpoint-site-config](https://github.com/rmdes/indiekit-endpoint-site-config) — Site identity, branding, layout, and feature-flag configuration plugin for Indie
+<br>`fix: restore a valid version` (2026-09-05)
 
-[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
-<br>`chore: bump version to 1.1.0` (2026-09-05)
+[indiekit-endpoint-donation](https://github.com/rmdes/indiekit-endpoint-donation) — Stripe-backed donation endpoint for Indiekit — campaigns from Stripe Products, d
+<br>`fix: restore a valid version` (2026-09-05)
+
+[indiekit-syndicator-linkedin](https://github.com/rmdes/indiekit-syndicator-linkedin) — LinkedIn syndicator for Indiekit, supporting notes and articles
+<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
+
+[indiekit-endpoint-linkedin](https://github.com/rmdes/indiekit-endpoint-linkedin) — LinkedIn OAuth 2.0 endpoint for Indiekit — handles token acquisition through the
+<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
+
+[indiekit-endpoint-youtube](https://github.com/rmdes/indiekit-endpoint-youtube) — YouTube channel endpoint for Indiekit - display latest videos and live streaming
+<br>`fix: drop the @indiekit/indiekit peer dependency` (2026-09-05)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33970130144)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33973301723)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump 11 plugin versions (auth beta.37, micropub beta.` (2026-09-05, 2m 6s)
+Last build: `chore: update plugin-registry submodule (rss ^1.0.17)` (2026-09-05, 1m 16s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
