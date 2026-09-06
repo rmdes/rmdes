@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
+[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
+<br>`feat: space out the posts in a publish batch` (2026-09-05)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (rss ^1.2.2)` (2026-09-05)
+<br>`chore: update plugin-registry submodule (12 pins aligned to ` (2026-09-05)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump rss ^1.2.2` (2026-09-05)
+<br>`fix: align 12 unresolvable version pins with published npm v` (2026-09-05)
 
-[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
-<br>`fix: the token could create but not update` (2026-09-05)
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33997473471)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33997828335)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (rss ^1.2.2)` (2026-09-05, 1m 32s)
+Last build: `chore: update plugin-registry submodule (12 pins aligned to ` (2026-09-05, 2m 0s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
