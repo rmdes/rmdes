@@ -8,28 +8,28 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
-<br>`feat: space out the posts in a publish batch` (2026-09-05)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (12 pins aligned to ` (2026-09-05)
+<br>`chore: update plugin-registry submodule (14 published versio` (2026-09-06)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`fix: align 12 unresolvable version pins with published npm v` (2026-09-05)
+<br>`chore: pin the 14 versions published from the other machine` (2026-09-06)
+
+[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
+<br>`fix: a long featured list opened every request at once` (2026-09-06)
+
+[indiekit-endpoint-rss](https://github.com/rmdes/indiekit-endpoint-rss) — RSS feed reader endpoint for Indiekit. Aggregates multiple feeds, caches in Mong
+<br>`fix: the content field prefilled the template that strips fo` (2026-09-06)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix: escape JSON-LD embedded in the post script block` (2026-09-05)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-syndicator-linkedin](https://github.com/rmdes/indiekit-syndicator-linkedin) — LinkedIn syndicator for Indiekit, supporting notes and articles
-<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-endpoint-linkedin](https://github.com/rmdes/indiekit-endpoint-linkedin) — LinkedIn OAuth 2.0 endpoint for Indiekit — handles token acquisition through the
-<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-endpoint-youtube](https://github.com/rmdes/indiekit-endpoint-youtube) — YouTube channel endpoint for Indiekit - display latest videos and live streaming
 <br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
 <!-- active_repos ends -->
 
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/33997828335)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34028845877)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (12 pins aligned to ` (2026-09-05, 2m 0s)
+Last build: `chore: update plugin-registry submodule (14 published versio` (2026-09-06, 2m 32s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
