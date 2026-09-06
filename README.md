@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-<br>`Add a DEMO knob, and swap builds in so removed pages do not ` (2026-09-06)
+<br>`Point the README at /posts as the way into Indiekit` (2026-09-06)
 
 [indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
 <br>`Merge remote-tracking branch 'origin/main'` (2026-09-06)
