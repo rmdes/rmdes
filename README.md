@@ -8,33 +8,37 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
-
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`chore: bump version to 1.1.2` (2026-09-06)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`chore: bump version to 1.0.0-beta.48` (2026-09-06)
+[indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
+<br>`Merge branch 'fix/img-cache': build with no images yet` (2026-09-06)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: deployed builds used the 4h dev cache TTL` (2026-09-06)
 
+[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
+<br>`feat: quarantine a domain instead of blocking it outright` (2026-09-06)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style(endpoint-share): keep the share-url example on one lin` (2026-08-24)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (webmention-sender 1` (2026-09-06)
+<br>`chore: update plugin-registry submodule (webmention-io 1.1.3` (2026-09-06)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin indiekit-endpoint-webmention-sender 1.1.4` (2026-09-06)
+<br>`chore: pin indiekit-endpoint-webmention-io 1.1.3` (2026-09-06)
 
-[indiekit-endpoint-webmention-sender](https://github.com/rmdes/indiekit-endpoint-webmention-sender) — Webmention sender endpoint for Indiekit. Automatically discovers and sends webme
-<br>`chore: add .gitignore` (2026-09-06)
-
-[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
-<br>`fix: PR contributions showed one untitled entry` (2026-09-06)
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`chore: bump version to 1.0.0-beta.48` (2026-09-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[getindiekit/indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
+
+[dstotijn/hetty](https://github.com/dstotijn/hetty) — An HTTP toolkit for security research.
+
 [haydenbleasel/blume](https://github.com/haydenbleasel/blume) — World-class docs for everything you ship. Fast, AI-ready, and zero-config.
 
 [Mah3Sec/ForgeGuardian](https://github.com/Mah3Sec/ForgeGuardian) — Local-first, AI-native Software Supply Chain Security Platform
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) — Convert any text to a graph of knowledge. This can be used for Graph Augmented G
 
 [Osmantic/ODS](https://github.com/Osmantic/ODS) — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
-
-[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) — Free, open-source alternative to Microsoft Office with built-in AI agents — Word
-
-[cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) — 🔬pgwatch: PostgreSQL metrics monitor/dashboard 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -62,9 +62,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34033965896)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34044187102)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (webmention-sender 1` (2026-09-06, 2m 34s)
+Last build: `chore: update plugin-registry submodule (webmention-io 1.1.3` (2026-09-06, 2m 44s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
