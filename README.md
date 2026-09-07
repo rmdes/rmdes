@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
+
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
 <!-- active_repos ends -->
 
 ### Recently Starred
