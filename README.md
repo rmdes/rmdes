@@ -8,33 +8,39 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat(blogroll): link cards to the blog, its tab, and its fee` (2026-09-07)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump blogroll to ^1.1.0` (2026-09-07)
+
+[indiekit-endpoint-blogroll](https://github.com/rmdes/indiekit-endpoint-blogroll) — Indiekit endpoint plugin for blogroll management with OPML import and RSS aggreg
+<br>`feat: make every blog reachable and stop sync clobbering man` (2026-09-07)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency postcss to v8.5.28 (#32)` (2026-09-06)
-
-[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-<br>`Point the README at /posts as the way into Indiekit` (2026-09-06)
-
-[indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
-<br>`Merge remote-tracking branch 'origin/main'` (2026-09-06)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (webmention-io 1.2.0` (2026-09-06)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin indiekit-endpoint-webmention-io 1.2.0` (2026-09-06)
-
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`feat: quarantine a domain instead of blocking it outright` (2026-09-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) — A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免
+
+[open-webui/desktop](https://github.com/open-webui/desktop) — Open WebUI Desktop 🌐
+
+[goposta/posta](https://github.com/goposta/posta) — Self-hosted email delivery platform that enables applications to send emails via
+
 [open-webui/open-terminal](https://github.com/open-webui/open-terminal) — A computer you can curl ⚡
 
 [getindiekit/indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [haydenbleasel/blume](https://github.com/haydenbleasel/blume) — World-class docs for everything you ship. Fast, AI-ready, and zero-config.
 
 [Mah3Sec/ForgeGuardian](https://github.com/Mah3Sec/ForgeGuardian) — Local-first, AI-native Software Supply Chain Security Platform
-
-[antonyrag/ragleap-core](https://github.com/antonyrag/ragleap-core) — Open-source, agentic AI business manager — multi-agent RAG, AI Employees, Voice 
-
-[humanlayer/skills](https://github.com/humanlayer/skills) — 
-
-[rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) — Convert any text to a graph of knowledge. This can be used for Graph Augmented G
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
