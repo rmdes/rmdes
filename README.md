@@ -8,8 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(blogroll): link cards to the blog, its tab, and its fee` (2026-09-07)
+<br>`chore(deps): update dependency autoprefixer to v10.5.5 (#33)` (2026-09-08)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-syndicate): syndicate posts awaiting syndicatio` (2026-09-07)
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[infiniV/ultra-instinct-claude-code](https://github.com/infiniV/ultra-instinct-claude-code) — We read 17 Claude Code repos (500k+ stars) so you don't have to. 176 tips, nothi
+
 [getindiekit/indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
 
 [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) — A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免
@@ -48,14 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [getindiekit/indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
 
 [dstotijn/hetty](https://github.com/dstotijn/hetty) — An HTTP toolkit for security research.
-
-[haydenbleasel/blume](https://github.com/haydenbleasel/blume) — World-class docs for everything you ship. Fast, AI-ready, and zero-config.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[J'aime bien le terme "peut-être" dans leur titre.](https://rmendes.net/bookmarks/2026/09/08/jaime-bien-le-terme-peut/) - 2026-09-08
+
 [Trump’s Third Term May Not Need Trump](https://rmendes.net/articles/2026/08/29/trump-successor-election/) - 2026-08-29
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
