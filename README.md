@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat(blogroll): link cards to the blog, its tab, and its fee` (2026-09-07)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-syndicate): syndicate posts awaiting syndicatio` (2026-09-07)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat(blogroll): link cards to the blog, its tab, and its fee` (2026-09-07)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump blogroll to ^1.1.0` (2026-09-07)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[getindiekit/indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
+
 [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) — A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免
 
 [open-webui/desktop](https://github.com/open-webui/desktop) — Open WebUI Desktop 🌐
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [dstotijn/hetty](https://github.com/dstotijn/hetty) — An HTTP toolkit for security research.
 
 [haydenbleasel/blume](https://github.com/haydenbleasel/blume) — World-class docs for everything you ship. Fast, AI-ready, and zero-config.
-
-[Mah3Sec/ForgeGuardian](https://github.com/Mah3Sec/ForgeGuardian) — Local-first, AI-native Software Supply Chain Security Platform
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
