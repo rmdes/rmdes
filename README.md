@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump plugin versions (auth beta.38, posts 1.2.1, synd` (2026-09-08)
+<br>`chore: bump frontend to 1.0.0-beta.49` (2026-09-08)
+
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`chore: bump version to 1.0.0-beta.49` (2026-09-08)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump bluesky ^1.1.2, webmention-io ^1.2.1` (2026-09-08)
@@ -25,9 +28,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
 <br>`chore: bump version to 1.1.2` (2026-09-08)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`fix: stop forcing a reload in every tab when the service wor` (2026-09-08)
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`chore: bump version to 1.2.1` (2026-09-08)
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Oh... On a plus qu'un seul avion pour le Roi et les Ministres, mais quel pays de dingue tsé!](https://rmendes.net/bookmarks/2026/09/08/oh-on-a-plus-quun/) - 2026-09-08
+
 [J'aime bien le terme "peut-être" dans leur titre.](https://rmendes.net/bookmarks/2026/09/08/jaime-bien-le-terme-peut/) - 2026-09-08
 
 [Trump’s Third Term May Not Need Trump](https://rmendes.net/articles/2026/08/29/trump-successor-election/) - 2026-08-29
@@ -64,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34230853517)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34269582007)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump plugin versions (auth beta.38, posts 1.2.1, synd` (2026-09-08, 3m 4s)
+Last build: `chore: bump frontend to 1.0.0-beta.49` (2026-09-08, 2m 14s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
