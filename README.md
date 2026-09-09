@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: bump frontend to 1.0.0-beta.50 (hidden attribute fix)` (2026-09-09)
+<br>`fix(nginx): revalidate the service worker on every request` (2026-09-09)
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`fix: honour the hidden attribute on notification banners (1.` (2026-09-09)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
+
+[open-webui/oikb](https://github.com/open-webui/oikb) — Sync anything to Open WebUI Knowledge Bases
+
 [infiniV/ultra-instinct-claude-code](https://github.com/infiniV/ultra-instinct-claude-code) — We read 17 Claude Code repos (500k+ stars) so you don't have to. 176 tips, nothi
 
 [getindiekit/indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
@@ -46,29 +50,25 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [goposta/posta](https://github.com/goposta/posta) — Self-hosted email delivery platform that enables applications to send emails via
 
 [open-webui/open-terminal](https://github.com/open-webui/open-terminal) — A computer you can curl ⚡
-
-[getindiekit/indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
-
-[dstotijn/hetty](https://github.com/dstotijn/hetty) — An HTTP toolkit for security research.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Getting Started with OpenWebUI Pipelines](https://rmendes.net/bookmarks/2026/09/09/getting-started-with-openwebui-pipelines/) - 2026-09-09
+
 [Oh... On a plus qu'un seul avion pour le Roi et les Ministres, mais quel pays de dingue tsé!](https://rmendes.net/bookmarks/2026/09/08/oh-on-a-plus-quun/) - 2026-09-08
 
 [J'aime bien le terme "peut-être" dans leur titre.](https://rmendes.net/bookmarks/2026/09/08/jaime-bien-le-terme-peut/) - 2026-09-08
-
-[Trump’s Third Term May Not Need Trump](https://rmendes.net/articles/2026/08/29/trump-successor-election/) - 2026-08-29
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34315519051)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34318497751)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: bump frontend to 1.0.0-beta.50 (hidden attribute fix)` (2026-09-09, 2m 5s)
+Last build: `fix(nginx): revalidate the service worker on every request` (2026-09-09, 1m 40s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
