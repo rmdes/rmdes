@@ -8,33 +8,37 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: bump frontend to 1.0.0-beta.51` (2026-09-10)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency autoprefixer to v10.5.5 (#33)` (2026-09-08)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`chore: bump version to 1.0.0-beta.51` (2026-09-10)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency autoprefixer to v10.5.5 (#33)` (2026-09-08)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix(nginx): revalidate the service worker on every request` (2026-09-09)
-
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump bluesky ^1.1.2, webmention-io ^1.2.1` (2026-09-08)
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`chore: bump version to 1.2.1` (2026-09-08)
-
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`chore: bump version to 1.0.0-beta.42` (2026-09-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) — Turn code into clarity. Generate accurate technical docs and AI-ready context in
+
+[chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) — A clean, self-hosted web UI for managing your Traefik reverse proxy.
+
 [stefan-jansen/coding-agent-toolkit](https://github.com/stefan-jansen/coding-agent-toolkit) — Cross-agent workflow toolkit (Claude Code + Codex) — align/plan/ship/handoff ver
 
 [instana/mcp-instana](https://github.com/instana/mcp-instana) — MCP Server for Instana
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [open-webui/oikb](https://github.com/open-webui/oikb) — Sync anything to Open WebUI Knowledge Bases
 
 [infiniV/ultra-instinct-claude-code](https://github.com/infiniV/ultra-instinct-claude-code) — We read 17 Claude Code repos (500k+ stars) so you don't have to. 176 tips, nothi
-
-[getindiekit/indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-
-[RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) — A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -66,9 +66,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34318497751)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34518637560)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix(nginx): revalidate the service worker on every request` (2026-09-09, 1m 40s)
+Last build: `chore: bump frontend to 1.0.0-beta.51` (2026-09-10, 2m 53s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
