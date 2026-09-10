@@ -11,6 +11,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
 
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`chore: bump version to 1.0.0-beta.51` (2026-09-10)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`fix(nginx): revalidate the service worker on every request` (2026-09-09)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`fix: honour the hidden attribute on notification banners (1.` (2026-09-09)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: bump bluesky ^1.1.2, webmention-io ^1.2.1` (2026-09-08)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[instana/mcp-instana](https://github.com/instana/mcp-instana) — MCP Server for Instana
+
 [lerna/lerna](https://github.com/lerna/lerna) — Lerna is a fast, modern build system for managing and publishing multiple JavaSc
 
 [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) — A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免
 
 [open-webui/desktop](https://github.com/open-webui/desktop) — Open WebUI Desktop 🌐
-
-[goposta/posta](https://github.com/goposta/posta) — Self-hosted email delivery platform that enables applications to send emails via
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
