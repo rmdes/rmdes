@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
-
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency autoprefixer to v10.5.5 (#33)` (2026-09-08)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[lerna/lerna](https://github.com/lerna/lerna) — Lerna is a fast, modern build system for managing and publishing multiple JavaSc
+
 [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
 
 [open-webui/oikb](https://github.com/open-webui/oikb) — Sync anything to Open WebUI Knowledge Bases
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [open-webui/desktop](https://github.com/open-webui/desktop) — Open WebUI Desktop 🌐
 
 [goposta/posta](https://github.com/goposta/posta) — Self-hosted email delivery platform that enables applications to send emails via
-
-[open-webui/open-terminal](https://github.com/open-webui/open-terminal) — A computer you can curl ⚡
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
