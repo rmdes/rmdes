@@ -12,10 +12,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <br>`fix(endpoint-syndicate): syndicate posts awaiting syndicatio` (2026-09-07)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: raise the Eleventy watcher heap cap to 3328 and flatten` (2026-09-12)
+<br>`chore: update eleventy-site submodule (summary before descri` (2026-09-12)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`perf: flatten the og:description excerpt so it stops pinning` (2026-09-12)
+<br>`refactor: prefer summary over description, matching Indiekit` (2026-09-12)
 
 [blackbox](https://github.com/rmdes/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
 <br>`feat: NVIDIA Field Diagnostic awareness + document UVM livel` (2026-09-12)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34705673715)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34709960233)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: raise the Eleventy watcher heap cap to 3328 and flatten` (2026-09-12, 2m 1s)
+Last build: `chore: update eleventy-site submodule (summary before descri` (2026-09-12, 2m 1s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
