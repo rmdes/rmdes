@@ -11,11 +11,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
 
+[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
+<br>`fix: escape the password hash so Compose does not eat it` (2026-09-12)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: remove personal assets from the shared theme, add a neu` (2026-09-11)
-
-[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-<br>`Default SITE_HOST to the local try-out name` (2026-09-11)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update eleventy-site submodule (drop personal assets,` (2026-09-11)
@@ -35,27 +35,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) — Turn code into clarity. Generate accurate technical docs and AI-ready context in
+[giulio333/ClaudeLens](https://github.com/giulio333/ClaudeLens) — A desktop app to visually explore and manage your local Claude Code data.
 
-[chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) — A clean, self-hosted web UI for managing your Traefik reverse proxy.
+[lcasarin-maker/blackbox](https://github.com/lcasarin-maker/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
 
-[stefan-jansen/coding-agent-toolkit](https://github.com/stefan-jansen/coding-agent-toolkit) — Cross-agent workflow toolkit (Claude Code + Codex) — align/plan/ship/handoff ver
+[elie222/rakazo](https://github.com/elie222/rakazo) — Open-source Grok Bot alternative. Choose your own model and sandbox.
 
-[instana/mcp-instana](https://github.com/instana/mcp-instana) — MCP Server for Instana
+[LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) — Give your AI agent a real browser — with a human in the loop. Open-source MCP-na
 
-[lerna/lerna](https://github.com/lerna/lerna) — Lerna is a fast, modern build system for managing and publishing multiple JavaSc
+[Aisland-SJL/dsh-worktable](https://github.com/Aisland-SJL/dsh-worktable) — 🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable 
 
-[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — FreeToken brings datacenter-scale model serving to your desktop. Run massive mod
+[Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) — Open-source room for humans + cross-vendor AI agents. Every agent gets its own n
 
-[open-webui/oikb](https://github.com/open-webui/oikb) — Sync anything to Open WebUI Knowledge Bases
+[steviebuilds/agent-room](https://github.com/steviebuilds/agent-room) — Private local meeting rooms where Codex, Claude Code, and other agents collabora
 
-[infiniV/ultra-instinct-claude-code](https://github.com/infiniV/ultra-instinct-claude-code) — We read 17 Claude Code repos (500k+ stars) so you don't have to. 176 tips, nothi
+[shannhk/hermes-agent-control-room](https://github.com/shannhk/hermes-agent-control-room) — Control Room-first template for managing Hermes agents from one VPS agent to spe
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Genocidal cogs just doing their technical job is the new normal](https://rmendes.net/bookmarks/2026/09/12/genocidal-cogs-just-doing-their/) - 2026-09-12
+
 [Quatre ans après Bouddhisme, la loi du silence ce dernier continue](https://rmendes.net/articles/2026/09/10/quatre-ans-apres-bouddhisme-la/) - 2026-09-10
 
 [Getting Started with OpenWebUI Pipelines](https://rmendes.net/bookmarks/2026/09/09/getting-started-with-openwebui-pipelines/) - 2026-09-09
