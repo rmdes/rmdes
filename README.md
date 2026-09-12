@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-syndicate): syndicate posts awaiting syndicatio` (2026-09-07)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`fix: raise the Eleventy watcher heap cap to 3328 and flatten` (2026-09-12)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`perf: flatten the og:description excerpt so it stops pinning` (2026-09-12)
+
+[blackbox](https://github.com/rmdes/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
+<br>`feat: NVIDIA Field Diagnostic awareness + document UVM livel` (2026-09-12)
+
 [example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
 <br>`chore: update dependencies` (2024-04-08)
 
@@ -17,24 +29,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: remove personal assets from the shared theme, add a neu` (2026-09-11)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (drop personal assets,` (2026-09-11)
-
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`chore: bump version to 1.0.0-beta.51` (2026-09-10)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[parallelArchitect/sparkview](https://github.com/parallelArchitect/sparkview) — Operator-grade GPU monitor for NVIDIA GPUs with native GB10 / DGX Spark coherent
+
+[quantized-ai/luca-py](https://github.com/quantized-ai/luca-py) — 
+
+[kennethwolters/litelm](https://github.com/kennethwolters/litelm) — litellm without the bloat
+
 [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) — Docker configuration for running VLLM on dual DGX Sparks
 
 [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) — Run and supervise teams of coding agents from planning to merge. Any harness (Cl
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [lcasarin-maker/blackbox](https://github.com/lcasarin-maker/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
 
 [elie222/rakazo](https://github.com/elie222/rakazo) — Open-source Grok Bot alternative. Choose your own model and sandbox.
-
-[LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) — Give your AI agent a real browser — with a human in the loop. Open-source MCP-na
-
-[Aisland-SJL/dsh-worktable](https://github.com/Aisland-SJL/dsh-worktable) — 🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable 
-
-[Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) — Open-source room for humans + cross-vendor AI agents. Every agent gets its own n
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34617058799)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34705673715)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (drop personal assets,` (2026-09-11, 2m 13s)
+Last build: `fix: raise the Eleventy watcher heap cap to 3328 and flatten` (2026-09-12, 2m 1s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
