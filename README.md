@@ -8,33 +8,39 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @types/node to v24.13.4 (#34)` (2026-09-13)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: enable useUnknownInCatchVariables` (2026-09-12)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`feat: serve build health at /health/build.json (nginx + supe` (2026-09-13)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`feat: publish build health at /health/build.json for externa` (2026-09-13)
+<br>`fix: restore prev/next nav thumbnails — one canonical OG slu` (2026-09-13)
 
-[blackbox](https://github.com/rmdes/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
-<br>`feat: NVIDIA Field Diagnostic awareness + document UVM livel` (2026-09-12)
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update ATProto packages (#35)` (2026-09-13)
 
-[example-config](https://github.com/rmdes/example-config) — Example configuration for Indiekit
-<br>`chore: update dependencies` (2024-04-08)
+[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
+<br>`chore: bump version to 1.2.2` (2026-09-13)
 
-[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-<br>`fix: say that --force replaces the password, and test the wo` (2026-09-12)
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`chore: bump version to 1.1.4` (2026-09-13)
 
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
+[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
+<br>`chore: bump version to 1.2.3` (2026-09-13)
+
+[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
+<br>`chore: bump version to 1.0.0-beta.44` (2026-09-13)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`chore: bump version to 1.0.0-beta.38` (2026-09-13)
+
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`chore: bump version to 1.0.0-beta.40` (2026-09-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[71/dance](https://github.com/71/dance) — Make your cursors dance with Kakoune and Helix-like modal editing in VS Code.
+
+[mawww/kakoune](https://github.com/mawww/kakoune) — mawww's experiment for a better code editor
+
+[ErikHellman/txt](https://github.com/ErikHellman/txt) — A fast, keyboard-driven terminal text editor for engineers in the age of AI codi
+
 [riponcm/projectmem](https://github.com/riponcm/projectmem) — Open-source coding agents memory. Records issues, attempts, fixes and decisions,
 
 [nftechie/stonkfly](https://github.com/nftechie/stonkfly) — A full retained fly-connectome simulation with experimental memory and guarded C
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [parallelArchitect/sparkview](https://github.com/parallelArchitect/sparkview) — Operator-grade GPU monitor for NVIDIA GPUs with native GB10 / DGX Spark coherent
 
 [quantized-ai/luca-py](https://github.com/quantized-ai/luca-py) — 
-
-[kennethwolters/litelm](https://github.com/kennethwolters/litelm) — litellm without the bloat
-
-[eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) — Docker configuration for running VLLM on dual DGX Sparks
-
-[Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) — Run and supervise teams of coding agents from planning to merge. Any harness (Cl
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34750830443)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34756984209)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `feat: serve build health at /health/build.json (nginx + supe` (2026-09-13, 1m 33s)
+Last build: `chore: pin the upstream-sync round — 9 packages across both ` (2026-09-13, 2m 1s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
