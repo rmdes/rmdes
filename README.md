@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @types/node to v24.13.4 (#34)` (2026-09-13)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: enable useUnknownInCatchVariables` (2026-09-12)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`refactor: prefer summary over description, matching Indiekit` (2026-09-12)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update eleventy-site submodule (summary before descri` (2026-09-12)
+<br>`feat: serve build health at /health/build.json (nginx + supe` (2026-09-13)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`feat: publish build health at /health/build.json for externa` (2026-09-13)
 
 [blackbox](https://github.com/rmdes/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
 <br>`feat: NVIDIA Field Diagnostic awareness + document UVM livel` (2026-09-12)
@@ -28,13 +31,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #15 from rmdes/renovate/nodemailer-9.x` (2026-08-28)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-07)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[riponcm/projectmem](https://github.com/riponcm/projectmem) — Open-source coding agents memory. Records issues, attempts, fixes and decisions,
+
+[nftechie/stonkfly](https://github.com/nftechie/stonkfly) — A full retained fly-connectome simulation with experimental memory and guarded C
+
+[petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) — Removes 20+ patterns of AI slop from any piece of writing.
+
 [parallelArchitect/sparkview](https://github.com/parallelArchitect/sparkview) — Operator-grade GPU monitor for NVIDIA GPUs with native GB10 / DGX Spark coherent
 
 [quantized-ai/luca-py](https://github.com/quantized-ai/luca-py) — 
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) — Docker configuration for running VLLM on dual DGX Sparks
 
 [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) — Run and supervise teams of coding agents from planning to merge. Any harness (Cl
-
-[giulio333/ClaudeLens](https://github.com/giulio333/ClaudeLens) — A desktop app to visually explore and manage your local Claude Code data.
-
-[lcasarin-maker/blackbox](https://github.com/lcasarin-maker/blackbox) — Post-mortem forensic instrumentation for NVIDIA GB10 AI workstations (DGX Spark,
-
-[elie222/rakazo](https://github.com/elie222/rakazo) — Open-source Grok Bot alternative. Choose your own model and sandbox.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34709960233)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34750830443)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update eleventy-site submodule (summary before descri` (2026-09-12, 2m 1s)
+Last build: `feat: serve build health at /health/build.json (nginx + supe` (2026-09-13, 1m 33s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
