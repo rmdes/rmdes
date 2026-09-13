@@ -11,20 +11,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
 
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency autoprefixer to v10.5.6 (#37)` (2026-09-13)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry submodule (activitypub 4.1.0-b` (2026-09-13)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: pin activitypub ^4.1.0-beta.5 (Mastodon API delete fe` (2026-09-13)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge pull request #16 from rmdes/fix/delete-federation` (2026-09-13)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: pin syndicate beta.45 — unblocks syndication on all sit` (2026-09-13)
-
 [indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
 <br>`fix: read the post's own og:image instead of re-deriving its` (2026-09-13)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin activitypub ^4.1.0-beta.4 (Track A close-out)` (2026-09-13)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: restore prev/next nav thumbnails — one canonical OG slu` (2026-09-13)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-13)
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34776838505)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34786012446)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: pin syndicate beta.45 — unblocks syndication on all sit` (2026-09-13, 3m 11s)
+Last build: `chore: update plugin-registry submodule (activitypub 4.1.0-b` (2026-09-13, 2m 39s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
