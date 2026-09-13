@@ -8,6 +8,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: pin the typecheck-clean follow-up round` (2026-09-13)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: bump syndicator-bluesky 1.1.4 (typecheck-clean follow` (2026-09-13)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: restore prev/next nav thumbnails — one canonical OG slu` (2026-09-13)
 
@@ -22,15 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
 <br>`chore: bump version to 1.2.3` (2026-09-13)
-
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`chore: bump version to 1.0.0-beta.44` (2026-09-13)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`chore: bump version to 1.0.0-beta.38` (2026-09-13)
-
-[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`chore: bump version to 1.0.0-beta.40` (2026-09-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34756984209)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34763425365)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: pin the upstream-sync round — 9 packages across both ` (2026-09-13, 2m 1s)
+Last build: `chore: pin the typecheck-clean follow-up round` (2026-09-13, 2m 42s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
