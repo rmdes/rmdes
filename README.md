@@ -8,33 +8,35 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix: restore the @indiekit/indiekit peer dependency` (2026-09-05)
+<br>`Merge pull request #16 from rmdes/fix/delete-federation` (2026-09-13)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: pin the typecheck-clean follow-up round` (2026-09-13)
+<br>`fix: pin syndicate beta.45 — unblocks syndication on all sit` (2026-09-13)
+
+[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
+<br>`fix: read the post's own og:image instead of re-deriving its` (2026-09-13)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: bump syndicator-bluesky 1.1.4 (typecheck-clean follow` (2026-09-13)
+<br>`chore: pin activitypub ^4.1.0-beta.4 (Track A close-out)` (2026-09-13)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: restore prev/next nav thumbnails — one canonical OG slu` (2026-09-13)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update ATProto packages (#35)` (2026-09-13)
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-13)
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`chore: bump version to 1.2.2` (2026-09-13)
-
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`chore: bump version to 1.1.4` (2026-09-13)
-
-[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
-<br>`chore: bump version to 1.2.3` (2026-09-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[bubbuild/bub](https://github.com/bubbuild/bub) — Bub it. Build it. A hook-first runtime for agents that live alongside people.
+
 [71/dance](https://github.com/71/dance) — Make your cursors dance with Kakoune and Helix-like modal editing in VS Code.
 
 [mawww/kakoune](https://github.com/mawww/kakoune) — mawww's experiment for a better code editor
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) — Removes 20+ patterns of AI slop from any piece of writing.
 
 [parallelArchitect/sparkview](https://github.com/parallelArchitect/sparkview) — Operator-grade GPU monitor for NVIDIA GPUs with native GB10 / DGX Spark coherent
-
-[quantized-ai/luca-py](https://github.com/quantized-ai/luca-py) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34763425365)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34776838505)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: pin the typecheck-clean follow-up round` (2026-09-13, 2m 42s)
+Last build: `fix: pin syndicate beta.45 — unblocks syndication on all sit` (2026-09-13, 3m 11s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
