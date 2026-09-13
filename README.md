@@ -47,7 +47,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [giulio333/ClaudeLens](https://github.com/giulio333/ClaudeLens) — A desktop app to visually explore and manage your local Claude Code data.
 
-[lcasarin-maker/blackbox](https://github.com/lcasarin-maker/blackbox) — Caja negra de la AI TOP ATOM (GB10): telemetria, crashes, OOM y diagnostico post
+[lcasarin-maker/blackbox](https://github.com/lcasarin-maker/blackbox) — Post-mortem forensic instrumentation for NVIDIA GB10 AI workstations (DGX Spark,
 
 [elie222/rakazo](https://github.com/elie222/rakazo) — Open-source Grok Bot alternative. Choose your own model and sandbox.
 <!-- starred ends -->
