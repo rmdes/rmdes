@@ -8,33 +8,35 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: update plugin-registry (activitypub -> ^4.1.0-beta.6)` (2026-09-14)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: pin activitypub ^4.1.0-beta.6 (replies, retention, co` (2026-09-14)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`Merge pull request #14 from rmdes/renovate/lock-file-mainten` (2026-09-14)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency markdown-it to v15.0.2 (#38)` (2026-09-14)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-14)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`Merge pull request #17 from rmdes/beta6-replies-retention-co` (2026-09-14)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`feat(endpoint-micropub): discover post type from its vocabul` (2026-09-13)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: update plugin-registry submodule (activitypub 4.1.0-b` (2026-09-13)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin activitypub ^4.1.0-beta.5 (Mastodon API delete fe` (2026-09-13)
-
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`fix: read the post's own og:image instead of re-deriving its` (2026-09-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) — Run a 1-billion parameter LLM on a $10 board with 256MB RAM
+
 [bubbuild/bub](https://github.com/bubbuild/bub) — Bub it. Build it. A hook-first runtime for agents that live alongside people.
 
 [71/dance](https://github.com/71/dance) — Make your cursors dance with Kakoune and Helix-like modal editing in VS Code.
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nftechie/stonkfly](https://github.com/nftechie/stonkfly) — A full retained fly-connectome simulation with experimental memory and guarded C
 
 [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) — Removes 20+ patterns of AI slop from any piece of writing.
-
-[parallelArchitect/sparkview](https://github.com/parallelArchitect/sparkview) — Operator-grade GPU monitor for NVIDIA GPUs with native GB10 / DGX Spark coherent
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34786012446)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/34875819397)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: update plugin-registry submodule (activitypub 4.1.0-b` (2026-09-13, 2m 39s)
+Last build: `chore: update plugin-registry (activitypub -> ^4.1.0-beta.6)` (2026-09-14, 2m 19s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
