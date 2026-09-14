@@ -11,11 +11,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`feat(endpoint-micropub): discover post type from its vocabul` (2026-09-13)
 
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency autoprefixer to v10.5.6 (#37)` (2026-09-13)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-13)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry submodule (activitypub 4.1.0-b` (2026-09-13)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
 <br>`fix: read the post's own og:image instead of re-deriving its` (2026-09-13)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
