@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[limeburst/eunha](https://github.com/limeburst/eunha) — Mastodon implementation in Rust
+
+[Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) — Open-source coding agent for your terminal, built in Rust and on a journey of co
+
+[stultus/kavu](https://github.com/stultus/kavu) — A Hugo theme for digital gardens, named after the sacred groves of Kerala. Monos
+
+[twelvesec/gasmask](https://github.com/twelvesec/gasmask) — Information gathering tool - OSINT
+
+[tailscale/tailcat](https://github.com/tailscale/tailcat) — like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
 [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) — Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
 [bubbuild/bub](https://github.com/bubbuild/bub) — Bub it. Build it. A hook-first runtime for agents that live alongside people.
 
 [71/dance](https://github.com/71/dance) — Make your cursors dance with Kakoune and Helix-like modal editing in VS Code.
-
-[mawww/kakoune](https://github.com/mawww/kakoune) — mawww's experiment for a better code editor
-
-[ErikHellman/txt](https://github.com/ErikHellman/txt) — A fast, keyboard-driven terminal text editor for engineers in the age of AI codi
-
-[riponcm/projectmem](https://github.com/riponcm/projectmem) — Open-source coding agents memory. Records issues, attempts, fixes and decisions,
-
-[nftechie/stonkfly](https://github.com/nftechie/stonkfly) — A full retained fly-connectome simulation with experimental memory and guarded C
-
-[petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) — Removes 20+ patterns of AI slop from any piece of writing.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
