@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update docker/build-push-action digest to c3c9e` (2026-09-15)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-09-15)
+
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`test: drop client-origin.js, covered by upstream's client te` (2026-09-15)
 
@@ -17,9 +23,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency markdown-it to v15.0.2 (#38)` (2026-09-14)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-14)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry (activitypub -> ^4.1.0-beta.6)` (2026-09-14)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`Merge pull request #14 from rmdes/renovate/lock-file-mainten` (2026-09-14)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`feat(endpoint-micropub): discover post type from its vocabul` (2026-09-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -59,12 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Genocidal cogs just doing their technical job is the new normal](https://rmendes.net/bookmarks/2026/09/12/genocidal-cogs-just-doing-their/) - 2026-09-12
 
 [Quatre ans après Bouddhisme, la loi du silence ce dernier continue](https://rmendes.net/articles/2026/09/10/quatre-ans-apres-bouddhisme-la/) - 2026-09-10
-
-[Getting Started with OpenWebUI Pipelines](https://rmendes.net/bookmarks/2026/09/09/getting-started-with-openwebui-pipelines/) - 2026-09-09
-
-[Oh... On a plus qu'un seul avion pour le Roi et les Ministres, mais quel pays de dingue tsé!](https://rmendes.net/bookmarks/2026/09/08/oh-on-a-plus-quun/) - 2026-09-08
-
-[J'aime bien le terme "peut-être" dans leur titre.](https://rmendes.net/bookmarks/2026/09/08/jaime-bien-le-terme-peut/) - 2026-09-08
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
