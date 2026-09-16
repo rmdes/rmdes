@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[hebbianai/dure](https://github.com/hebbianai/dure) — Dure — every coding agent, one screen. MIT source release in preparation.
+
 [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) — Satellite tracker and pass predictor for Android, inspired by Gpredict
 
 [mgm-tp/a12-base](https://github.com/mgm-tp/a12-base) — 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) — Open-source coding agent for your terminal, built in Rust and on a journey of co
 
 [stultus/kavu](https://github.com/stultus/kavu) — A Hugo theme for digital gardens, named after the sacred groves of Kerala. Monos
-
-[twelvesec/gasmask](https://github.com/twelvesec/gasmask) — Information gathering tool - OSINT
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
