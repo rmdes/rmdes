@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency markdown-it to v15.0.2 (#38)` (2026-09-14)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update docker/build-push-action digest to c3c9e` (2026-09-15)
 
@@ -16,12 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`test: drop client-origin.js, covered by upstream's client te` (2026-09-15)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency markdown-it to v15.0.2 (#38)` (2026-09-14)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: update plugin-registry (activitypub -> ^4.1.0-beta.6)` (2026-09-14)
