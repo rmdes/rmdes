@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`docs: correct the memory claim, and note the fix landed on u` (2026-09-16)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix: raise the watchdog floor above cold-build time (900s ->` (2026-09-16)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`docs: correct the memory claim, and note the fix landed on u` (2026-09-16)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) — Satellite tracker and pass predictor for Android, inspired by Gpredict
+
+[mgm-tp/a12-base](https://github.com/mgm-tp/a12-base) — 
+
 [Nurysso/eulix](https://github.com/Nurysso/eulix) — Local-first code navigation for large codebases. Parse, index, search, and under
 
 [super-phenix/superphenix](https://github.com/super-phenix/superphenix) — An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [stultus/kavu](https://github.com/stultus/kavu) — A Hugo theme for digital gardens, named after the sacred groves of Kerala. Monos
 
 [twelvesec/gasmask](https://github.com/twelvesec/gasmask) — Information gathering tool - OSINT
-
-[tailscale/tailcat](https://github.com/tailscale/tailcat) — like netcat, but over Tailscale's data plane, without Tailscale's control plane
-
-[RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) — Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
