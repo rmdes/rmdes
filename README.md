@@ -37,7 +37,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- starred starts -->
 [cookiy-ai/sell-sessions-skill](https://github.com/cookiy-ai/sell-sessions-skill) — 
 
-[hebbianai/dure](https://github.com/hebbianai/dure) — Dure — every coding agent, one screen. MIT source release in preparation.
+[hebbianai/dure](https://github.com/hebbianai/dure) — Dure — every coding agent, one workspace across desktop and mobile.
 
 [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) — Satellite tracker and pass predictor for Android, inspired by Gpredict
 
