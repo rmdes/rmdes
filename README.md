@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[cookiy-ai/sell-sessions-skill](https://github.com/cookiy-ai/sell-sessions-skill) — 
+[karmada-io/karmada](https://github.com/karmada-io/karmada) — Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 
-[hebbianai/dure](https://github.com/hebbianai/dure) — Dure — every coding agent, one workspace across desktop and mobile.
+[flet-dev/flet](https://github.com/flet-dev/flet) — Build realtime web, mobile and desktop apps in Python only. No frontend experien
 
-[rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) — Satellite tracker and pass predictor for Android, inspired by Gpredict
+[asciimoo/hister](https://github.com/asciimoo/hister) — Your own search engine
 
-[mgm-tp/a12-base](https://github.com/mgm-tp/a12-base) — 
+[connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) — Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyz
 
-[Nurysso/eulix](https://github.com/Nurysso/eulix) — Local-first code navigation for large codebases. Parse, index, search, and under
+[booklore-app/booklore](https://github.com/booklore-app/booklore) — BookLore: A self-hosted, multi-user digital library with smart shelves, auto met
 
-[super-phenix/superphenix](https://github.com/super-phenix/superphenix) — An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud 
+[bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) — BookOrbit: Your Reading Space
 
-[limeburst/eunha](https://github.com/limeburst/eunha) — Mastodon implementation in Rust
+[yifanzhang-pro/Agora](https://github.com/yifanzhang-pro/Agora) — Agora: Git as Shared Memory for Collective AutoResearch (arXiv:2609.18094)
 
-[Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) — Open-source coding agent for your terminal, built in Rust and on a journey of co
+[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
