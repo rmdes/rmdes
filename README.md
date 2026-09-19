@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`Merge pull request #14 from rmdes/renovate/lock-file-mainten` (2026-09-14)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update non-major dependencies to v3.17.3 (#40)` (2026-09-17)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`docs: correct the memory claim, and note the fix landed on u` (2026-09-16)
+<br>`chore(deps): update dependency autoprefixer to v10.6.1 (#41)` (2026-09-19)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`Merge pull request #14 from rmdes/renovate/lock-file-mainten` (2026-09-14)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`docs: correct the memory claim, and note the fix landed on u` (2026-09-16)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update docker/build-push-action digest to c3c9e` (2026-09-15)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[imron/crt](https://github.com/imron/crt) — Code Review Tool
+
 [karmada-io/karmada](https://github.com/karmada-io/karmada) — Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 
 [flet-dev/flet](https://github.com/flet-dev/flet) — Build realtime web, mobile and desktop apps in Python only. No frontend experien
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) — BookOrbit: Your Reading Space
 
 [yifanzhang-pro/Agora](https://github.com/yifanzhang-pro/Agora) — Agora: Git as Shared Memory for Collective AutoResearch (arXiv:2609.18094)
-
-[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
