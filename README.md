@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix(deps): update non-major dependencies to v2.3.7 (#18)` (2026-09-19)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency autoprefixer to v10.6.1 (#41)` (2026-09-19)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`docs: correct the memory claim, and note the fix landed on u` (2026-09-16)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Railly/agentfiles](https://github.com/Railly/agentfiles) — Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 1
+
 [imron/crt](https://github.com/imron/crt) — Code Review Tool
 
 [karmada-io/karmada](https://github.com/karmada-io/karmada) — Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [booklore-app/booklore](https://github.com/booklore-app/booklore) — BookLore: A self-hosted, multi-user digital library with smart shelves, auto met
 
 [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) — BookOrbit: Your Reading Space
-
-[yifanzhang-pro/Agora](https://github.com/yifanzhang-pro/Agora) — Agora: Git as Shared Memory for Collective AutoResearch (arXiv:2609.18094)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
