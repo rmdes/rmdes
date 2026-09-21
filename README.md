@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[jaredpalmer/kev](https://github.com/jaredpalmer/kev) — tiny Jev-like family of decision models built on top of Qwen3.5 you can train an
+
+[Gabry848/skillgesture](https://github.com/Gabry848/skillgesture) — 
+
 [gosuda/bitcoin-rs](https://github.com/gosuda/bitcoin-rs) — Bitcoin full independent blazingly-fast node in Rust, with a typed API for embed
 
 [Railly/agentfiles](https://github.com/Railly/agentfiles) — Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 1
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [flet-dev/flet](https://github.com/flet-dev/flet) — Build realtime web, mobile and desktop apps in Python only. No frontend experien
 
 [asciimoo/hister](https://github.com/asciimoo/hister) — Your own search engine
-
-[connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) — Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyz
-
-[booklore-app/booklore](https://github.com/booklore-app/booklore) — BookLore: A self-hosted, multi-user digital library with smart shelves, auto met
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
