@@ -37,7 +37,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- starred starts -->
 [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) — Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci
 
-[jaredpalmer/kev](https://github.com/jaredpalmer/kev) — tiny Jev-like family of decision models built on top of Qwen3.5 you can train an
+[jaredpalmer/kev](https://github.com/jaredpalmer/kev) — Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and
 
 [Gabry848/skillgesture](https://github.com/Gabry848/skillgesture) — 
 
