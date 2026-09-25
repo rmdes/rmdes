@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies to v2.3.7 (#18)` (2026-09-19)
-
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency dotenv to v18 (#42)` (2026-09-23)
+<br>`chore(deps): Update dependency feedsmith to v3 (#43)` (2026-09-25)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix: eleventy-img ignores outputDir unless urlPath is set to` (2026-09-22)
+<br>`chore(deps): update non-major dependencies to v3.17.4 (#42)` (2026-09-25)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies to v2.3.7 (#18)` (2026-09-19)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`fix: seed the public OG dir from the card cache, not the rel` (2026-09-22)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[feigeCode/navop](https://github.com/feigeCode/navop) — A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote deskt
+
 [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) — Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci
 
 [jaredpalmer/kev](https://github.com/jaredpalmer/kev) — Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [imron/crt](https://github.com/imron/crt) — Code Review Tool
 
 [karmada-io/karmada](https://github.com/karmada-io/karmada) — Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-
-[flet-dev/flet](https://github.com/flet-dev/flet) — Build realtime web, mobile and desktop apps in Python only. No frontend experien
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
