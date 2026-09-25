@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies to v2.3.7 (#18)` (2026-09-19)
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: update dependencies` (2026-09-25)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update non-major dependencies to v3.17.4 (#42)` (2026-09-25)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update dependency feedsmith to v3 (#43)` (2026-09-25)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update non-major dependencies to v3.17.4 (#42)` (2026-09-25)
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies to v2.3.7 (#18)` (2026-09-19)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`test: drop client-origin.js, covered by upstream's client te` (2026-09-15)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin activitypub ^4.1.0-beta.6 (replies, retention, co` (2026-09-14)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -73,48 +73,48 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**23,143** downloads last month across **33** packages
+**23,163** downloads last month across **33** packages
 
 | Package | Downloads |
 |---------|-----------|
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 2,283 |
-| [indiekit-endpoint-activitypub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-activitypub) | 1,551 |
-| [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 1,244 |
+| [indiekit-endpoint-activitypub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-activitypub) | 1,520 |
+| [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 1,241 |
 | [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 1,234 |
-| [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 1,228 |
+| [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 1,227 |
 
 <details><summary>See all 33 packages</summary>
 
 | Package | Downloads |
 |---------|-----------|
 | [indiekit-syndicator-bluesky](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-bluesky) | 1,114 |
-| [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 814 |
-| [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 795 |
-| [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 774 |
-| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 724 |
-| [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 695 |
+| [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 803 |
+| [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 789 |
+| [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 776 |
+| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 729 |
 | [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 691 |
+| [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 691 |
 | [indiekit-endpoint-blogroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-blogroll) | 688 |
 | [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 685 |
-| [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 631 |
-| [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 583 |
+| [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 630 |
+| [indiekit-endpoint-microsub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-microsub) | 589 |
+| [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 580 |
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 557 |
-| [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 542 |
-| [indiekit-endpoint-microsub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-microsub) | 539 |
-| [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 539 |
-| [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 536 |
-| [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 527 |
+| [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 540 |
+| [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 538 |
+| [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 535 |
+| [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 528 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 524 |
-| [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 514 |
-| [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 514 |
-| [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 504 |
-| [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 466 |
-| [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 427 |
+| [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 515 |
+| [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 515 |
+| [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 506 |
+| [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 484 |
+| [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 428 |
 | [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 309 |
 | [indiekit-syndicator-indienews](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-indienews) | 277 |
-| [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 270 |
+| [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 272 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 190 |
-| [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 174 |
+| [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 175 |
 
 </details>
 <!-- npm_stats ends -->
