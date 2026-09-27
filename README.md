@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[arpwal/leftovers](https://github.com/arpwal/leftovers) — Clean up what your apps and coding agents left running. A free, open-source macO
+
+[lava/withmcp](https://github.com/lava/withmcp) — Host-wide MCP configuration manager
+
 [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) — An open-source Android app to let you browse YouTube and other services freely. 
 
 [lenra-io/dofigen](https://github.com/lenra-io/dofigen) — Dofigen is a Dockerfile generator using a simplified description in YAML or JSON
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [jaredpalmer/kev](https://github.com/jaredpalmer/kev) — Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and
 
 [Gabry848/skillgesture](https://github.com/Gabry848/skillgesture) — 
-
-[gosuda/bitcoin-rs](https://github.com/gosuda/bitcoin-rs) — Bitcoin full independent blazingly-fast node in Rust, with a typed API for embed
-
-[Railly/agentfiles](https://github.com/Railly/agentfiles) — Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 1
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
