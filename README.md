@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-09-29)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
 <br>`test: upstream title after dropping the drop-zone form` (2026-09-28)
-
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`docs: prettier README` (2026-09-28)
 <!-- active_repos ends -->
 
 ### Recently Starred
