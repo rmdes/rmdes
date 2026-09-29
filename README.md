@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`fix(fleet): refuse to enqueue a broadcast into a nonexistent` (2026-09-29)
+<br>`fix(fleet): dedupe broadcast targets by Bluesky identity, no` (2026-09-29)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[CakeCrusher/full_duplex_code](https://github.com/CakeCrusher/full_duplex_code) — Talk to Claude Code while it works. A full-duplex voice companion powered by GPT
+
+[aboodcs/helm-valuetrace](https://github.com/aboodcs/helm-valuetrace) — 
+
 [paulmillr/qr](https://github.com/paulmillr/qr) — Minimal 0-dep QR code generator & reader
 
 [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) — Modern, self-hosted RSS reader with smart folders, powerful search, and a clean 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [securo-finance/securo](https://github.com/securo-finance/securo) — Open-source personal finance manager. Self-hosted, privacy-first.
 
 [confident-ai/deepteam](https://github.com/confident-ai/deepteam) — DeepTeam is a framework to red team LLMs and AI agents.
-
-[0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) — Structured multi-perspective deliberation for hard decisions. Run full councils,
-
-[imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) — AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or termi
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
