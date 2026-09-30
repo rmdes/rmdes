@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[songhive](https://github.com/rmdes/songhive) —  A federated and self-hosted music sharing service 
+<br>`Bump version: 0.3.10 → 0.4.0` (2026-09-30)
+
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`release: v1.7.0` (2026-09-30)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`fix(fleet): dedupe broadcast targets by Bluesky identity, no` (2026-09-29)
 
@@ -25,16 +31,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
 <br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-09-28)
-
-[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-09-28)
-
-[indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
-<br>`test: upstream title after dropping the drop-zone form` (2026-09-28)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[blacklight/songhive](https://github.com/blacklight/songhive) —  A federated and self-hosted music sharing service 
+
+[ychampion/melete](https://github.com/ychampion/melete) — Superintelligence Personal AI that does work you while you sleep. Open source, m
+
+[visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) — Visa Vulnerability Agentic Harness
+
 [CakeCrusher/full_duplex_code](https://github.com/CakeCrusher/full_duplex_code) — Talk to Claude Code while it works. A full-duplex voice companion powered by GPT
 
 [aboodcs/helm-valuetrace](https://github.com/aboodcs/helm-valuetrace) — 
@@ -44,18 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) — Modern, self-hosted RSS reader with smart folders, powerful search, and a clean 
 
 [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) — Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
-
-[eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) — Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdo
-
-[securo-finance/securo](https://github.com/securo-finance/securo) — Open-source personal finance manager. Self-hosted, privacy-first.
-
-[confident-ai/deepteam](https://github.com/confident-ai/deepteam) — DeepTeam is a framework to red team LLMs and AI agents.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[September 2026: the world today, as seen by one Polish guy | Tom Wojcik](https://rmendes.net/bookmarks/2026/09/30/september-2026-the-world-today/) - 2026-09-30
+
 [AI Exec: We May Have Pulled Off “The Largest Theft of Labor in Human History”](https://rmendes.net/bookmarks/2026/09/26/ai-exec-we-may-have/) - 2026-09-26
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
@@ -105,8 +107,8 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 557 |
 | [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 546 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 539 |
-| [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 528 |
 | [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 528 |
+| [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 528 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 525 |
 | [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 523 |
 | [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 443 |
