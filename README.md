@@ -73,46 +73,46 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 
 ### npm Downloads
 <!-- npm_stats starts -->
-**24,365** downloads last month across **33** packages
+**24,393** downloads last month across **33** packages
 
 | Package | Downloads |
 |---------|-----------|
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 2,334 |
-| [indiekit-endpoint-activitypub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-activitypub) | 1,653 |
-| [indiekit-syndicator-bluesky](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-bluesky) | 1,442 |
-| [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 1,267 |
-| [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 1,264 |
+| [indiekit-endpoint-activitypub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-activitypub) | 1,647 |
+| [indiekit-syndicator-bluesky](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-bluesky) | 1,444 |
+| [indiekit-endpoint-syndicate](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-syndicate) | 1,266 |
+| [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 1,251 |
 
 <details><summary>See all 33 packages</summary>
 
 | Package | Downloads |
 |---------|-----------|
-| [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 1,248 |
-| [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 831 |
+| [indiekit-endpoint-webmention-io](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-io) | 1,247 |
+| [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 828 |
 | [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 820 |
-| [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 815 |
-| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 772 |
-| [indiekit-endpoint-blogroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-blogroll) | 731 |
+| [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 816 |
+| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 771 |
+| [indiekit-endpoint-blogroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-blogroll) | 747 |
+| [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 729 |
 | [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 724 |
-| [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 724 |
 | [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 714 |
-| [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 657 |
-| [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 633 |
-| [indiekit-endpoint-microsub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-microsub) | 589 |
-| [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 573 |
-| [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 571 |
+| [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 654 |
+| [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 632 |
+| [indiekit-endpoint-microsub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-microsub) | 598 |
+| [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 574 |
+| [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 572 |
 | [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 560 |
-| [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 556 |
+| [indiekit-endpoint-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-linkedin) | 557 |
 | [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 546 |
-| [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 538 |
+| [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 539 |
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 528 |
-| [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 527 |
+| [indiekit-syndicator-linkedin](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-linkedin) | 528 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 525 |
-| [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 509 |
-| [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 440 |
+| [indiekit-endpoint-comments](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-comments) | 523 |
+| [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 443 |
 | [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 328 |
-| [indiekit-syndicator-indienews](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-indienews) | 287 |
-| [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 277 |
+| [indiekit-syndicator-indienews](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-indienews) | 288 |
+| [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 278 |
 | [indiekit-post-type-page](https://www.npmjs.com/package/@rmdes/indiekit-post-type-page) | 194 |
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 188 |
 
