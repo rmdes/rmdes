@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies (#20)` (2026-09-25)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency satori to v0.33.5 (#43)` (2026-09-25)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies (#20)` (2026-09-25)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`docs: update IndieAuth specification support` (2026-09-26)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, 
+
 [managelm/claude-extension](https://github.com/managelm/claude-extension) — Manage Linux & Windows servers directly from Claude using natural language — MCP
 
 [pedr0v/halv-releases](https://github.com/pedr0v/halv-releases) — Public release artifacts and auto-updater manifests for Halv. Source lives in th
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) — Visa Vulnerability Agentic Harness
 
 [CakeCrusher/full_duplex_code](https://github.com/CakeCrusher/full_duplex_code) — Talk to Claude Code while it works. A full-duplex voice companion powered by GPT
-
-[aboodcs/helm-valuetrace](https://github.com/aboodcs/helm-valuetrace) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
