@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[managelm/claude-extension](https://github.com/managelm/claude-extension) — Manage Linux & Windows servers directly from Claude using natural language — MCP
+
 [pedr0v/halv-releases](https://github.com/pedr0v/halv-releases) — Public release artifacts and auto-updater manifests for Halv. Source lives in th
 
 [ralsina/sheety](https://github.com/ralsina/sheety) — Playing with spreadsheet ideas
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [CakeCrusher/full_duplex_code](https://github.com/CakeCrusher/full_duplex_code) — Talk to Claude Code while it works. A full-duplex voice companion powered by GPT
 
 [aboodcs/helm-valuetrace](https://github.com/aboodcs/helm-valuetrace) — 
-
-[paulmillr/qr](https://github.com/paulmillr/qr) — Minimal 0-dep QR code generator & reader
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
