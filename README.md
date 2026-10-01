@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency satori to v0.33.5 (#43)` (2026-09-25)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies (#20)` (2026-09-25)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`docs: update IndieAuth specification support` (2026-09-26)
+
 [songhive](https://github.com/rmdes/songhive) —  A federated and self-hosted music sharing service 
 <br>`Bump version: 0.3.10 → 0.4.0` (2026-09-30)
 
@@ -19,18 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`style: globalThis over window (unicorn/prefer-global-this)` (2026-09-28)
-
-[indiekit-preset-eleventy](https://github.com/rmdes/indiekit-preset-eleventy) — Eleventy publication preset for Indiekit
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-09-28)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-09-28)
 <!-- active_repos ends -->
 
 ### Recently Starred
