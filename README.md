@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`CI` (2026-10-02)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: lint JavaScript` (2026-10-02)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`fix(fleet): dedupe broadcast targets by Bluesky identity, no` (2026-09-29)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`Qual: Update Phan baseline (#38805)` (2026-06-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Vous saviez.](https://rmendes.net/articles/2026/10/02/vous-saviez/) - 2026-10-02
+
 [September 2026: the world today, as seen by one Polish guy | Tom Wojcik](https://rmendes.net/bookmarks/2026/09/30/september-2026-the-world-today/) - 2026-09-30
 
 [AI Exec: We May Have Pulled Off “The Largest Theft of Labor in Human History”](https://rmendes.net/bookmarks/2026/09/26/ai-exec-we-may-have/) - 2026-09-26
