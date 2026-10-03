@@ -9,16 +9,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @types/node to v24.19.1 (#49)` (2026-10-03)
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-03)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies to v2.3.10 (#23)` (2026-10-03)
 
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`release: v1.7.3` (2026-10-03)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies to v2.3.10 (#23)` (2026-10-03)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: lint JavaScript` (2026-10-03)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[Enverge-Labs/dgx-spark-vllm-flashinfer](https://github.com/Enverge-Labs/dgx-spark-vllm-flashinfer) — Runnable BAD/GOOD walkthrough of two DGX Spark (GB10) gotchas when serving NVFP4
+
+[nuta/ftl](https://github.com/nuta/ftl) — A new operating system for clouds.
+
 [gmaterni/ragindex](https://github.com/gmaterni/ragindex) — Implementazioe di una architettura RAG utilizzando l'algoritmo di indicizzazione
 
 [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ralsina/sheety](https://github.com/ralsina/sheety) — Playing with spreadsheet ideas
 
 [blacklight/songhive](https://github.com/blacklight/songhive) —  A federated and self-hosted music sharing service 
-
-[ychampion/melete](https://github.com/ychampion/melete) — Superintelligence Personal AI that does work you while you sleep. Open source, m
-
-[visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) — Visa Vulnerability Agentic Harness
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
