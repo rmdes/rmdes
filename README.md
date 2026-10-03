@@ -8,17 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @types/node to v24.19.1 (#49)` (2026-10-03)
+
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`release: v1.7.3` (2026-10-03)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix(deps): update non-major dependencies to v2.3.10 (#23)` (2026-10-03)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: lint JavaScript` (2026-10-03)
-
-[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`release: v1.7.2` (2026-10-03)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`CI` (2026-10-02)
@@ -28,13 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [songhive](https://github.com/rmdes/songhive) —  A federated and self-hosted music sharing service 
 <br>`Bump version: 0.3.10 → 0.4.0` (2026-09-30)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`fix(fleet): dedupe broadcast targets by Bluesky identity, no` (2026-09-29)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[gmaterni/ragindex](https://github.com/gmaterni/ragindex) — Implementazioe di una architettura RAG utilizzando l'algoritmo di indicizzazione
+
 [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, 
 
 [managelm/claude-extension](https://github.com/managelm/claude-extension) — Manage Linux & Windows servers directly from Claude using natural language — MCP
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ychampion/melete](https://github.com/ychampion/melete) — Superintelligence Personal AI that does work you while you sleep. Open source, m
 
 [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) — Visa Vulnerability Agentic Harness
-
-[CakeCrusher/full_duplex_code](https://github.com/CakeCrusher/full_duplex_code) — Talk to Claude Code while it works. A full-duplex voice companion powered by GPT
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -92,8 +92,8 @@ Last build: `feat: registry-driven plugin selection + site-builder (retir` (2026
 | Package | Downloads |
 |---------|-----------|
 | [indiekit-frontend](https://www.npmjs.com/package/@rmdes/indiekit-frontend) | 1,219 |
-| [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 820 |
 | [indiekit-endpoint-auth](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-auth) | 820 |
+| [indiekit-endpoint-posts](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-posts) | 820 |
 | [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 806 |
 | [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 781 |
 | [indiekit-endpoint-github](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-github) | 738 |
