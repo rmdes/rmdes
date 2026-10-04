@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) — 28 eval-informed mental models and critical-thinking skills for Claude Code, Git
+
 [Wassimyounes01/qwen38-uncensored](https://github.com/Wassimyounes01/qwen38-uncensored) — Local Qwen 3.8 27B uncensored Q4_K_M + harvested SYSTEM pack. Official 3.8 weigh
 
 [eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) — One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [spark-arena/sparkrun](https://github.com/spark-arena/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
 
 [Enverge-Labs/dgx-spark-vllm-flashinfer](https://github.com/Enverge-Labs/dgx-spark-vllm-flashinfer) — Runnable BAD/GOOD walkthrough of two DGX Spark (GB10) gotchas when serving NVFP4
-
-[nuta/ftl](https://github.com/nuta/ftl) — A new operating system for clouds.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
