@@ -14,6 +14,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update ATProto packages (#51)` (2026-10-04)
 
+[sparkrun](https://github.com/rmdes/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
+<br>`Merge pull request #302 from spark-arena/develop` (2026-09-24)
+
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
 <br>`release: v1.7.3` (2026-10-03)
 
@@ -28,28 +31,25 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency satori to v0.33.5 (#43)` (2026-09-25)
-
-[songhive](https://github.com/rmdes/songhive) —  A federated and self-hosted music sharing service 
-<br>`Bump version: 0.3.10 → 0.4.0` (2026-09-30)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) — One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_
+
+[raullenchai/twinspark](https://github.com/raullenchai/twinspark) — Production-grade recipe for DeepSeek-V4-Flash-0731 (284B MoE) on 2x NVIDIA DGX S
+
+[hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) — Fastest measured Qwen3.8-27B config for DGX Spark (GB10): SGLang + NVFP4 + DFlas
+
+[Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark) — Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-c
+
+[spark-arena/sparkrun](https://github.com/spark-arena/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
+
 [Enverge-Labs/dgx-spark-vllm-flashinfer](https://github.com/Enverge-Labs/dgx-spark-vllm-flashinfer) — Runnable BAD/GOOD walkthrough of two DGX Spark (GB10) gotchas when serving NVFP4
 
 [nuta/ftl](https://github.com/nuta/ftl) — A new operating system for clouds.
 
 [gmaterni/ragindex](https://github.com/gmaterni/ragindex) — Implementazioe di una architettura RAG utilizzando l'algoritmo di indicizzazione
-
-[mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, 
-
-[managelm/claude-extension](https://github.com/managelm/claude-extension) — Manage Linux & Windows servers directly from Claude using natural language — MCP
-
-[pedr0v/halv-releases](https://github.com/pedr0v/halv-releases) — Public release artifacts and auto-updater manifests for Halv. Source lives in th
-
-[ralsina/sheety](https://github.com/ralsina/sheety) — Playing with spreadsheet ideas
-
-[blacklight/songhive](https://github.com/blacklight/songhive) —  A federated and self-hosted music sharing service 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
