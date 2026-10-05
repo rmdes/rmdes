@@ -11,11 +11,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency satori to v0.33.5 (#43)` (2026-09-25)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies (#24)` (2026-10-04)
-
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update ATProto packages (#51)` (2026-10-04)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies (#24)` (2026-10-04)
 
 [sparkrun](https://github.com/rmdes/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
 <br>`Merge pull request #302 from spark-arena/develop` (2026-09-24)
