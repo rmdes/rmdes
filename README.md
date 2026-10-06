@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[copier-org/copier](https://github.com/copier-org/copier) — Library and command-line utility for rendering projects templates.
+
 [yicheng47/runner](https://github.com/yicheng47/runner) — Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on t
 
 [Framework-of-Open-GraphRAG/FROG](https://github.com/Framework-of-Open-GraphRAG/FROG) — An open GraphRAG, a system that integrates Retrieval-Augmented Generation (RAG) 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) — One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_
 
 [raullenchai/twinspark](https://github.com/raullenchai/twinspark) — Production-grade recipe for DeepSeek-V4-Flash-0731 (284B MoE) on 2x NVIDIA DGX S
-
-[hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) — Fastest measured Qwen3.8-27B config for DGX Spark (GB10): SGLang + NVFP4 + DFlas
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
