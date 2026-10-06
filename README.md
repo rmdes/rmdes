@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[yicheng47/runner](https://github.com/yicheng47/runner) — Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on t
+
 [Framework-of-Open-GraphRAG/FROG](https://github.com/Framework-of-Open-GraphRAG/FROG) — An open GraphRAG, a system that integrates Retrieval-Augmented Generation (RAG) 
 
 [microsoft/nvx](https://github.com/microsoft/nvx) — Cross-Platform Micro-VM Sandbox for Agentic Workloads
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [raullenchai/twinspark](https://github.com/raullenchai/twinspark) — Production-grade recipe for DeepSeek-V4-Flash-0731 (284B MoE) on 2x NVIDIA DGX S
 
 [hasso5703/dgx-spark-qwen38](https://github.com/hasso5703/dgx-spark-qwen38) — Fastest measured Qwen3.8-27B config for DGX Spark (GB10): SGLang + NVFP4 + DFlas
-
-[Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark) — Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-c
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
