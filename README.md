@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`chore(deps): update dependency supertest to v7.3.1 (#25)` (2026-10-05)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: lint JavaScript` (2026-10-05)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update dependency satori to ^0.35.0 (#44)` (2026-10-05)
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`chore(deps): update dependency supertest to v7.3.1 (#25)` (2026-10-05)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-05)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(deps): update dependency satori to ^0.35.0 (#44)` (2026-10-05)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
@@ -35,6 +35,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ChristopherKahler/base](https://github.com/ChristopherKahler/base) — AI builder operating system. Turn Claude Code from a per-session tool into a wor
+
+[charlesdove977/claude-x-jev](https://github.com/charlesdove977/claude-x-jev) — Fast, cheap, typed decisions for Claude Code. Jev (TypeSafe's decision model on 
+
+[parseablehq/parseable](https://github.com/parseablehq/parseable) — Parseable is an open source, unified infrastructure observability platform built
+
+[autohandai/getzit](https://github.com/autohandai/getzit) — Zit: a git extension that lets developers and coding agents change one repositor
+
 [Perpeer/lazychat](https://github.com/Perpeer/lazychat) — One terminal for all your AI coding agents. Run Claude Code and Codex side by si
 
 [copier-org/copier](https://github.com/copier-org/copier) — Library and command-line utility for rendering projects templates.
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [yicheng47/runner](https://github.com/yicheng47/runner) — Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on t
 
 [Framework-of-Open-GraphRAG/FROG](https://github.com/Framework-of-Open-GraphRAG/FROG) — An open GraphRAG, a system that integrates Retrieval-Augmented Generation (RAG) 
-
-[microsoft/nvx](https://github.com/microsoft/nvx) — Cross-Platform Micro-VM Sandbox for Agentic Workloads
-
-[tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) — 28 eval-informed mental models and critical-thinking skills for Claude Code, Git
-
-[Wassimyounes01/qwen38-uncensored](https://github.com/Wassimyounes01/qwen38-uncensored) — Local Qwen 3.8 27B uncensored Q4_K_M + harvested SYSTEM pack. Official 3.8 weigh
-
-[eelbaz/dgx-spark-vllm-setup](https://github.com/eelbaz/dgx-spark-vllm-setup) — One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
