@@ -8,6 +8,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`refactor: retire the endpoint-files override, use upstream d` (2026-10-07)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`docs: record that endpoint-files is no longer forked` (2026-10-07)
+
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`release: v1.0.0-beta.41` (2026-10-07)
 
@@ -22,19 +31,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
 <br>`release: v1.1.5` (2026-10-07)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-05)
-
-[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`fix(popup): clear the previous target URL when the post type` (2026-10-07)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style: lint JavaScript` (2026-10-05)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) — ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, eng
+
 [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — Build and deploy iOS SwiftUI apps from Omarchy Linux on Apple Silicon, no Xcode 
 
 [sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) — Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, O
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [parseablehq/parseable](https://github.com/parseablehq/parseable) — Parseable is an open source, unified infrastructure observability platform built
 
 [autohandai/getzit](https://github.com/autohandai/getzit) — Zit: a git extension that lets developers and coding agents change one repositor
-
-[Perpeer/lazychat](https://github.com/Perpeer/lazychat) — One terminal for all your AI coding agents. Run Claude Code and Codex side by si
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -58,7 +58,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 <!-- blog starts -->
 [DisInfo2026 : Europe cannot defend itself with its eyes shut](https://rmendes.net/articles/2026/10/07/disinfo2026-europe-cannot-defend-itself/) - 2026-10-07
 
-[Europe cannot defend itself with its eyes shut](https://rmendes.net/bookmarks/2026/10/07/europe-cannot-defend-itself-with/) - 2026-10-07
+[EEAS runs scared of US 'disinformation' debate](https://rmendes.net/bookmarks/2026/10/07/eeas-runs-scared-of-us-disinformation-debate/) - 2026-10-07
 
 [Israel cannot edit its crimes out of history](https://rmendes.net/articles/2026/10/04/israel-cannot-edit-its-crimes/) - 2026-10-04
 
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/35759301735)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37654769810)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: seed the public OG dir from the card cache, not the rel` (2026-09-22, 1m 53s)
+Last build: `refactor: retire the endpoint-files override, use upstream d` (2026-10-07, 3m 12s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
