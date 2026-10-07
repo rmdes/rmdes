@@ -8,33 +8,39 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style: lint JavaScript` (2026-10-05)
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`release: v1.0.0-beta.41` (2026-10-07)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`chore(deps): update dependency supertest to v7.3.1 (#25)` (2026-10-05)
+[indiekit-preset-eleventy](https://github.com/rmdes/indiekit-preset-eleventy) — Eleventy publication preset for Indiekit
+<br>`release: v1.0.0-beta.40` (2026-10-07)
+
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`release: v1.0.0-beta.54` (2026-10-07)
+
+[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
+<br>`release: v1.1.3` (2026-10-07)
+
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`release: v1.1.5` (2026-10-07)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-05)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update dependency satori to ^0.35.0 (#44)` (2026-10-05)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
-
-[sparkrun](https://github.com/rmdes/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
-<br>`Merge pull request #302 from spark-arena/develop` (2026-09-24)
-
 [plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`release: v1.7.3` (2026-10-03)
+<br>`fix(popup): clear the previous target URL when the post type` (2026-10-07)
 
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`CI` (2026-10-02)
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style: lint JavaScript` (2026-10-05)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — Build and deploy iOS SwiftUI apps from Omarchy Linux on Apple Silicon, no Xcode 
+
+[sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) — Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, O
+
+[morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries
+
 [ChristopherKahler/base](https://github.com/ChristopherKahler/base) — AI builder operating system. Turn Claude Code from a per-session tool into a wor
 
 [charlesdove977/claude-x-jev](https://github.com/charlesdove977/claude-x-jev) — Fast, cheap, typed decisions for Claude Code. Jev (TypeSafe's decision model on 
@@ -44,18 +50,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [autohandai/getzit](https://github.com/autohandai/getzit) — Zit: a git extension that lets developers and coding agents change one repositor
 
 [Perpeer/lazychat](https://github.com/Perpeer/lazychat) — One terminal for all your AI coding agents. Run Claude Code and Codex side by si
-
-[copier-org/copier](https://github.com/copier-org/copier) — Library and command-line utility for rendering projects templates.
-
-[yicheng47/runner](https://github.com/yicheng47/runner) — Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on t
-
-[Framework-of-Open-GraphRAG/FROG](https://github.com/Framework-of-Open-GraphRAG/FROG) — An open GraphRAG, a system that integrates Retrieval-Augmented Generation (RAG) 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[DisInfo2026 : Europe cannot defend itself with its eyes shut](https://rmendes.net/articles/2026/10/07/disinfo2026-europe-cannot-defend-itself/) - 2026-10-07
+
+[Europe cannot defend itself with its eyes shut](https://rmendes.net/bookmarks/2026/10/07/europe-cannot-defend-itself-with/) - 2026-10-07
+
 [Israel cannot edit its crimes out of history](https://rmendes.net/articles/2026/10/04/israel-cannot-edit-its-crimes/) - 2026-10-04
 
 [Vous saviez.](https://rmendes.net/articles/2026/10/02/vous-saviez/) - 2026-10-02
