@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`refactor: retire the endpoint-files override, use upstream d` (2026-10-07)
+<br>`chore: pin the five republished forks + theme 7ce6b16` (2026-10-08)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`docs: record that endpoint-files is no longer forked` (2026-10-07)
+<br>`chore: pin preset-eleventy beta.40, mastodon 1.1.3, bluesky ` (2026-10-08)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-05)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`release: v1.0.0-beta.41` (2026-10-07)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
 <br>`release: v1.1.3` (2026-10-07)
-
-[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
-<br>`release: v1.1.5` (2026-10-07)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37654769810)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37755225119)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `refactor: retire the endpoint-files override, use upstream d` (2026-10-07, 3m 12s)
+Last build: `chore: pin the five republished forks + theme 7ce6b16` (2026-10-08)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
