@@ -8,14 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency postcss to v8.5.29 (#45)` (2026-10-08)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies to v2.4.1 (#26)` (2026-10-08)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update actions/setup-node digest to 949feb2 (#5` (2026-10-08)
+
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: pin the five republished forks + theme 7ce6b16` (2026-10-08)
 
 [indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
 <br>`chore: pin preset-eleventy beta.40, mastodon 1.1.3, bluesky ` (2026-10-08)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-05)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
@@ -25,16 +31,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-preset-eleventy](https://github.com/rmdes/indiekit-preset-eleventy) — Eleventy publication preset for Indiekit
 <br>`release: v1.0.0-beta.40` (2026-10-07)
-
-[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`release: v1.0.0-beta.54` (2026-10-07)
-
-[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
-<br>`release: v1.1.3` (2026-10-07)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[storytold/pdfcraft](https://github.com/storytold/pdfcraft) — An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
+
+[storytold/filmcraft](https://github.com/storytold/filmcraft) — An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure 
+
+[storytold/photocraft](https://github.com/storytold/photocraft) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+[microsoft/mxc](https://github.com/microsoft/mxc) — Policy-driven, layered isolation and containment 
+
 [DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) — ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, eng
 
 [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — Build and deploy iOS SwiftUI apps from Omarchy Linux on Apple Silicon, no Xcode 
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) — Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, O
 
 [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries
-
-[ChristopherKahler/base](https://github.com/ChristopherKahler/base) — AI builder operating system. Turn Claude Code from a per-session tool into a wor
-
-[charlesdove977/claude-x-jev](https://github.com/charlesdove977/claude-x-jev) — Fast, cheap, typed decisions for Claude Code. Jev (TypeSafe's decision model on 
-
-[parseablehq/parseable](https://github.com/parseablehq/parseable) — Parseable is an open source, unified infrastructure observability platform built
-
-[autohandai/getzit](https://github.com/autohandai/getzit) — Zit: a git extension that lets developers and coding agents change one repositor
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -72,7 +72,7 @@ More on [rmendes.net](https://rmendes.net/)
 <!-- pipelines starts -->
 [![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37755225119)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: pin the five republished forks + theme 7ce6b16` (2026-10-08)
+Last build: `chore: pin the five republished forks + theme 7ce6b16` (2026-10-08, 3m 57s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
