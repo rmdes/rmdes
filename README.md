@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`chore(deps): update dependency express-rate-limit to v8.7.1 ` (2026-10-09)
+
 [indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
 <br>`types: align the fork's JSDoc with what the code returns und` (2026-10-09)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
 <br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-09)
-
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`refactor: drop the fork's duplicate post-type guard, getType` (2026-10-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -45,7 +45,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) — ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, eng
 
-[joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — Build and deploy iOS SwiftUI apps from Omarchy Linux on Apple Silicon, no Xcode 
+[joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — Build and deploy iOS SwiftUI apps from Omarchy Linux on any PC (x86_64 or Apple 
 
 [sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) — Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, O
 
