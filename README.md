@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update actions/setup-node digest to 949feb2 (#5` (2026-10-08)
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`types: align the fork's JSDoc with what the code returns und` (2026-10-09)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`release: v4.1.0-beta.7 — one log line per Fedify record` (2026-10-08)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`fix: stop the container log drowning the build output` (2026-10-08)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency postcss to v8.5.29 (#45)` (2026-10-08)
-
-[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
-<br>`chore: pin preset-eleventy beta.40, mastodon 1.1.3, bluesky ` (2026-10-08)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge pull request #17 from rmdes/renovate/major-vitest-mono` (2026-09-13)
+[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
+<br>`fix: drop the leftover limit fallback (declared twice)` (2026-10-09)
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`release: v1.0.0-beta.41` (2026-10-07)
+<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-09)
 
-[indiekit-preset-eleventy](https://github.com/rmdes/indiekit-preset-eleventy) — Eleventy publication preset for Indiekit
-<br>`release: v1.0.0-beta.40` (2026-10-07)
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`style: simple condition first` (2026-10-09)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-webmention-io): cope with authors without a pho` (2026-09-05)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style: lint JavaScript` (2026-10-05)
+
+[indiekit-endpoint-files](https://github.com/rmdes/indiekit-endpoint-files) — File management endpoint for Indiekit with multi-file upload support
+<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-09)
+
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`refactor: drop the fork's duplicate post-type guard, getType` (2026-10-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37833005853)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37891136250)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `fix: stop the container log drowning the build output` (2026-10-08, 1m 19s)
+Last build: `chore: registry pointer for activitypub beta.7` (2026-10-09, 3m 16s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
