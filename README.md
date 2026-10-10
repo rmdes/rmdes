@@ -8,6 +8,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`docs(core): MIGRATIONS header names the versions that also r` (2026-10-10)
+
+[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
+<br>`fix: survive Fedora 44 upgrade (ROCm 7.1 soname bump, el9 li` (2026-10-10)
+
+[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
+<br>`Merge worktree-chore+deps-and-store-notes — vitest 5 / Vite ` (2026-10-10)
+
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(preset-eleventy): write posts where the advertised URL r` (2026-10-09)
 
@@ -19,22 +31,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
 <br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.24.3 (#53)` (2026-10-10)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency satori to v0.35.1 (#49)` (2026-10-10)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs(reviews): commit the 2026-08-06 architecture & technica` (2026-10-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[trymirai/uzu](https://github.com/trymirai/uzu) — A high-performance inference engine for AI models
+
+[Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code's system prompts, create custom toolsets, input pattern hi
+
+[smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+
+[zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search MCP for Claude Code. Make entire codebase the context for any coding
+
 [storytold/pdfcraft](https://github.com/storytold/pdfcraft) — An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
 
 [storytold/filmcraft](https://github.com/storytold/filmcraft) — An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure 
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [storytold/photocraft](https://github.com/storytold/photocraft) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
 [microsoft/mxc](https://github.com/microsoft/mxc) — Policy-driven, layered isolation and containment 
-
-[DreambigOu/ELI5](https://github.com/DreambigOu/ELI5) — ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, eng
-
-[joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — Build and deploy iOS SwiftUI apps from Omarchy Linux on any PC (x86_64 or Apple 
-
-[sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal) — Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, O
-
-[morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
