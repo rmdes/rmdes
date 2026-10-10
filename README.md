@@ -8,33 +8,35 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs(core): MIGRATIONS header names the versions that also r` (2026-10-10)
+[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
+<br>`feat: check the npm credential before publishing anything` (2026-10-10)
 
-[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
-<br>`fix: survive Fedora 44 upgrade (ROCm 7.1 soname bump, el9 li` (2026-10-10)
-
-[plume](https://github.com/rmdes/plume) — Cross-browser Micropub client extension. Post to your IndieWeb blog from any pag
-<br>`Merge worktree-chore+deps-and-store-notes — vitest 5 / Vite ` (2026-10-10)
-
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`docs: deploy handover 2026-10-10 (nine forks to publish, pos` (2026-10-10)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(preset-eleventy): write posts where the advertised URL r` (2026-10-09)
+<br>`chore: update dependencies` (2026-10-10)
+
+[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
+<br>`chore: bump version to 1.2.3` (2026-10-10)
+
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`chore: bump version to 1.1.6` (2026-10-10)
+
+[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
+<br>`chore: bump version to 1.1.4` (2026-10-10)
 
 [indiekit-preset-eleventy](https://github.com/rmdes/indiekit-preset-eleventy) — Eleventy publication preset for Indiekit
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
+<br>`chore: bump version to 1.0.0-beta.41` (2026-10-10)
 
-[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
-
-[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`chore: bump version to 1.0.0-beta.55` (2026-10-10)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M
+
 [trymirai/uzu](https://github.com/trymirai/uzu) — A high-performance inference engine for AI models
 
 [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code's system prompts, create custom toolsets, input pattern hi
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [storytold/filmcraft](https://github.com/storytold/filmcraft) — An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure 
 
 [storytold/photocraft](https://github.com/storytold/photocraft) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
-
-[microsoft/mxc](https://github.com/microsoft/mxc) — Policy-driven, layered isolation and containment 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -68,9 +68,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/37991576203)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/38075634721)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `perf: gzip_comp_level 5 — nginx was compressing at level 1` (2026-10-09, 1m 54s)
+Last build: `docs: deploy handover 2026-10-10 (nine forks to publish, pos` (2026-10-10, 1m 50s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/29429037719)
 **Docker Compose** — Standalone server deployment
