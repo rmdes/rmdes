@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency satori to v0.35.1 (#49)` (2026-10-10)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(preset-eleventy): write posts where the advertised URL r` (2026-10-09)
 
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`docs(reviews): commit the 2026-08-06 architecture & technica` (2026-10-09)
+[indiekit-preset-eleventy](https://github.com/rmdes/indiekit-preset-eleventy) — Eleventy publication preset for Indiekit
+<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
 
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`perf: gzip_comp_level 5 — nginx was compressing at level 1` (2026-10-09)
+[indiekit-endpoint-micropub](https://github.com/rmdes/indiekit-endpoint-micropub) — Fork of @indiekit/endpoint-micropub with mp-syndicate-to preservation for IndieN
+<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
+
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-10)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`feat: add bump-version script to keep deploy compose tags in` (2026-10-09)
+<br>`chore(deps): Update dependency @atproto/api to v0.24.3 (#53)` (2026-10-10)
 
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`Merge remote-tracking branch 'upstream/main' into upstream-s` (2026-10-09)
+[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
 
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`style: prettier` (2026-10-09)
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency satori to v0.35.1 (#49)` (2026-10-10)
 
-[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
-<br>`style: assign the import's uid in the literal, drop the unus` (2026-10-09)
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`docs(reviews): commit the 2026-08-06 architecture & technica` (2026-10-09)
 <!-- active_repos ends -->
 
 ### Recently Starred
