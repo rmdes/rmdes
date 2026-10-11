@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(frontend): don't throw looking up elements that may be a` (2026-10-10)
-
-[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: pin frontend 1.0.0-beta.57` (2026-10-10)
+[indiekit-syndicator-bluesky](https://github.com/rmdes/indiekit-syndicator-bluesky) — Bluesky syndicator for Indiekit with external like support
+<br>`fix(ci): scope npm test to the files that can run outside th` (2026-10-11)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
-<br>`fix(agent): ignore OCI fedora remote in flatpak update count` (2026-10-10)
+<br>`feat(agent): weekly docker prune timer — keep the last 2 bui` (2026-10-11)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(frontend): don't drop attributes after one without a val` (2026-10-10)
+
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: pin auth beta.43, frontend beta.58, bluesky ^1.1.7` (2026-10-10)
+
+[indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
+<br>`chore: pin endpoint-auth ^1.0.0-beta.43, frontend ^1.0.0-bet` (2026-10-10)
+
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: pin syndicator-bluesky ^1.1.7` (2026-10-10)
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
-<br>`fix: file-input looked up a picker it was about to create` (2026-10-10)
+<br>`chore: bump version to 1.0.0-beta.58` (2026-10-10)
 
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
-
-[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
-<br>`feat(publish-all): skip the trust step for packages already ` (2026-10-10)
-
-[indiekit-syndicator-mastodon](https://github.com/rmdes/indiekit-syndicator-mastodon) — Mastodon syndicator for Indiekit with external like support
-<br>`ci: publish to npm via trusted publishing (OIDC)` (2026-10-10)
-
-[indiekit-syndicator-linkedin](https://github.com/rmdes/indiekit-syndicator-linkedin) — LinkedIn syndicator for Indiekit, supporting notes and articles
-<br>`ci: publish to npm via trusted publishing (OIDC)` (2026-10-10)
+[indiekit-endpoint-auth](https://github.com/rmdes/indiekit-endpoint-auth) — IndieAuth authentication and authorization endpoint for Indiekit
+<br>`chore: bump version to 1.0.0-beta.43` (2026-10-10)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,13 +70,13 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/38090260715)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/38096160782)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: pin frontend 1.0.0-beta.57` (2026-10-10, 3m 28s)
+Last build: `chore: pin auth beta.43, frontend beta.58, bluesky ^1.1.7` (2026-10-10, 1m 53s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/38079934415)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/38096156977)
 **Docker Compose** — Standalone server deployment
-Last build: `chore: pin the 2026-10-10 publish round` (2026-10-10, 3m 42s)
+Last build: `chore: pin endpoint-auth ^1.0.0-beta.43, frontend ^1.0.0-bet` (2026-10-10, 3m 35s)
 <!-- pipelines ends -->
 
 ### npm Downloads
