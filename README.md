@@ -8,33 +8,39 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-<br>`Pin the theme that lists every page at /pages/` (2026-10-11)
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: publish endpoint-microsub and post-type-page v1.0.0-b` (2026-10-11)
 
-[indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
-<br>`List every page at /pages/, linked from the Collections hub` (2026-10-11)
+[funkwhale-v2-deploy](https://github.com/rmdes/funkwhale-v2-deploy) — Bare-metal deployment toolkit and Ansible role for Funkwhale v2
+<br>`Add one-command Docker Compose deployment` (2026-10-11)
 
 [indiekit-deploy](https://github.com/rmdes/indiekit-deploy) — Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy sta
-<br>`chore: pin endpoint-syndicate ^1.0.0-beta.48` (2026-10-11)
+<br>`chore: pin endpoint-posts ^1.3.0 and frontend ^1.0.0-beta.59` (2026-10-11)
 
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
-<br>`chore: pin endpoint-syndicate 1.0.0-beta.48` (2026-10-11)
+<br>`chore: pin endpoint-posts 1.3.0 and frontend 1.0.0-beta.59` (2026-10-11)
 
-[indiekit-scripts](https://github.com/rmdes/indiekit-scripts) — Operational scripts for managing an Indiekit development workspace with forked u
-<br>`feat(publish-all): skip the trust step when a config already` (2026-10-11)
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`docs(review): the open cookie advisory is a kit-2 transitive` (2026-10-11)
 
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`fix(test): keep the helper-dependent suites out of `npm test` (2026-10-11)
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`chore: bump version to 1.0.0-beta.59` (2026-10-11)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`docs: auth endpoints are served by @indiekit/endpoint-auth a` (2026-10-11)
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): update @types/node to 24.19.2` (2026-10-11)
 
-[indiekit-endpoint-posts](https://github.com/rmdes/indiekit-endpoint-posts) — Fork of @indiekit/endpoint-posts with syndicate form fix
-<br>`chore: bump version to 1.3.0` (2026-10-11)
+[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
+<br>`Load all of native Indiekit: thirteen post types, Microsub, ` (2026-10-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[rmdes/funkwhale-v2-deploy](https://github.com/rmdes/funkwhale-v2-deploy) — Bare-metal deployment toolkit and Ansible role for Funkwhale v2
+
+[lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) — Agent Desktop gives any agent reliable computer use on the desktop. Built with R
+
+[senamakel/agent-desktop](https://github.com/senamakel/agent-desktop) — Agent Desktop gives any agent reliable computer use on the desktop. Built with R
+
 [blazux/qwen3.8-Flash-DGX](https://github.com/blazux/qwen3.8-Flash-DGX) — recipe for running Qwen3.8-Flash-Next on a single DGX Spark
 
 [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code's system prompts, create custom toolsets, input pattern hi
 
 [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
-
-[zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search MCP for Claude Code. Make entire codebase the context for any coding
-
-[storytold/pdfcraft](https://github.com/storytold/pdfcraft) — An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
-
-[storytold/filmcraft](https://github.com/storytold/filmcraft) — An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -70,13 +70,13 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/38145321929)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/38162513187)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: pin endpoint-syndicate 1.0.0-beta.48` (2026-10-11, 2m 59s)
+Last build: `chore: pin endpoint-posts 1.3.0 and frontend 1.0.0-beta.59` (2026-10-11, 3m 34s)
 
-[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/38145342339)
+[![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/38162515476)
 **Docker Compose** — Standalone server deployment
-Last build: `chore: pin endpoint-syndicate ^1.0.0-beta.48` (2026-10-11, 30s)
+Last build: `chore: pin endpoint-posts ^1.3.0 and frontend ^1.0.0-beta.59` (2026-10-11, 3m 57s)
 <!-- pipelines ends -->
 
 ### npm Downloads
