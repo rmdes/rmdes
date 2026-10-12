@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`docs: run Indiekit in a container` (2026-10-12)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(deps): update dependency satori to ^0.44.0 (#51)` (2026-10-12)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: publish endpoint-microsub and post-type-page v1.0.0-b` (2026-10-11)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
