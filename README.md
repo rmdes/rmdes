@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`fix(deps): update non-major dependencies to v2.4.3 (#31)` (2026-10-14)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`ci: move docker files to sub-folder` (2026-10-13)
 
@@ -20,17 +26,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
 <br>`Let INDIEKIT_LOCALE pin the admin interface's language` (2026-10-14)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(deps): update dependency satori to ^0.47.0 (#52)` (2026-10-13)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
