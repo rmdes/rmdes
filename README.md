@@ -8,33 +8,41 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`ci: move docker files to sub-folder` (2026-10-13)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update dependency satori to ^0.47.0 (#52)` (2026-10-13)
-
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
+<br>`INDIEKIT_LOCALE pins the admin interface's language` (2026-10-14)
+
+[indiekit-theme-eleventy](https://github.com/getindiekit/indiekit-theme-eleventy) — Eleventy theme for Indiekit: IndieWeb-ready, configurable from one JSON file, a 
+<br>`Let INDIEKIT_LOCALE pin the admin interface's language` (2026-10-14)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(deps): update dependency satori to ^0.47.0 (#52)` (2026-10-13)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`ci: don’t download localisations if secret localazy key miss` (2026-10-09)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies to v2.4.2 (#30)` (2026-10-12)
-
-[funkwhale-v2-deploy](https://github.com/rmdes/funkwhale-v2-deploy) — Bare-metal deployment toolkit and Ansible role for Funkwhale v2
-<br>`Add CLAUDE.md with checks, test approach and Funkwhale 2.0.x` (2026-10-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[ilograph/skills](https://github.com/ilograph/skills) — Agent skills for Ilograph diagramming
+
+[timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) — High-performance vector search for PostgreSQL
+
+[geneva-render/geneva](https://github.com/geneva-render/geneva) — Video edits as JSON, overlays as HTML+CSS, rendered without a browser.
+
+[Fortitude-Group/omnis-watchtower](https://github.com/Fortitude-Group/omnis-watchtower) — 
+
 [gtapps/hermitd](https://github.com/gtapps/hermitd) — Like Claude Tag, but local.
 
 [raphamorim/rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and bro
@@ -42,14 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rmdes/funkwhale-v2-deploy](https://github.com/rmdes/funkwhale-v2-deploy) — Bare-metal deployment toolkit and Ansible role for Funkwhale v2
 
 [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) — Agent Desktop gives any agent reliable computer use on the desktop. Built with R
-
-[senamakel/agent-desktop](https://github.com/senamakel/agent-desktop) — Agent Desktop gives any agent reliable computer use on the desktop. Built with R
-
-[blazux/qwen3.8-Flash-DGX](https://github.com/blazux/qwen3.8-Flash-DGX) — recipe for running Qwen3.8-Flash-Next on a single DGX Spark
-
-[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M
-
-[trymirai/uzu](https://github.com/trymirai/uzu) — A high-performance inference engine for AI models
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
