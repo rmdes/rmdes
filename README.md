@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) — ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+
+[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP 
+
 [ilograph/skills](https://github.com/ilograph/skills) — Agent skills for Ilograph diagramming
 
 [timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) — High-performance vector search for PostgreSQL
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [gtapps/hermitd](https://github.com/gtapps/hermitd) — Like Claude Tag, but local.
 
 [raphamorim/rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and bro
-
-[rmdes/funkwhale-v2-deploy](https://github.com/rmdes/funkwhale-v2-deploy) — Bare-metal deployment toolkit and Ansible role for Funkwhale v2
-
-[lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) — Agent Desktop gives any agent reliable computer use on the desktop. Built with R
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
