@@ -11,11 +11,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: use ts-expect-error for type checking in unit tests` (2026-10-17)
 
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(deps): update dependency satori to ^0.56.0 (#54)` (2026-10-17)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[La justice, l'attente et le pouvoir de nous voler notre temps](https://rmendes.net/articles/2026/10/17/la-justice-lattente-et-le/) - 2026-10-17
+
 [Grosse mise à jour d'indiekit](https://rmendes.net/bookmarks/2026/10/11/grosse-mise-a-jour-dindiekit/) - 2026-10-11
 
 [rmdes/framework16-local-llm: Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / gfx1102, 8GB) on Fedora — ROCm + Vulkan llama.cpp, benchmarked, one-command setup](https://rmendes.net/bookmarks/2026/10/10/rmdes-framework16-local-llm-fast/) - 2026-10-10
