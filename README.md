@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(frontend): use length filter instead of length method` (2026-10-17)
+<br>`style: use ts-expect-error for type checking in unit tests` (2026-10-17)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sumit-ai-ml/claude-md-starter](https://github.com/sumit-ai-ml/claude-md-starter) — A CLAUDE.md built on Karpathy's principles and gstack, adding a verification har
+
 [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) — ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 
 [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Fortitude-Group/omnis-watchtower](https://github.com/Fortitude-Group/omnis-watchtower) — 
 
 [gtapps/hermitd](https://github.com/gtapps/hermitd) — Like Claude Tag, but local.
-
-[raphamorim/rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and bro
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -59,10 +59,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Grosse mise à jour d'indiekit](https://rmendes.net/bookmarks/2026/10/11/grosse-mise-a-jour-dindiekit/) - 2026-10-11
 
 [rmdes/framework16-local-llm: Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / gfx1102, 8GB) on Fedora — ROCm + Vulkan llama.cpp, benchmarked, one-command setup](https://rmendes.net/bookmarks/2026/10/10/rmdes-framework16-local-llm-fast/) - 2026-10-10
-
-[DisInfo2026 : Europe cannot defend itself with its eyes shut](https://rmendes.net/articles/2026/10/07/disinfo2026-europe-cannot-defend-itself/) - 2026-10-07
-
-[EEAS runs scared of US 'disinformation' debate](https://rmendes.net/bookmarks/2026/10/07/eeas-runs-scared-of-us-disinformation-debate/) - 2026-10-07
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
