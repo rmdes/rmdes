@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) — AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
+
+[CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) — A personal agent with a browser, terminal, files, and work that keeps going buil
+
+[cobanov/PS5LM](https://github.com/cobanov/PS5LM) — llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, start
+
 [sumit-ai-ml/claude-md-starter](https://github.com/sumit-ai-ml/claude-md-starter) — A CLAUDE.md built on Karpathy's principles and gstack, adding a verification har
 
 [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) — ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ilograph/skills](https://github.com/ilograph/skills) — Agent skills for Ilograph diagramming
 
 [timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) — High-performance vector search for PostgreSQL
-
-[geneva-render/geneva](https://github.com/geneva-render/geneva) — Video edits as JSON, overlays as HTML+CSS, rendered without a browser.
-
-[Fortitude-Group/omnis-watchtower](https://github.com/Fortitude-Group/omnis-watchtower) — 
-
-[gtapps/hermitd](https://github.com/gtapps/hermitd) — Like Claude Tag, but local.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
