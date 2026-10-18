@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`style: use ts-expect-error for type checking in unit tests` (2026-10-18)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update dependency satori to ^0.57.0 (#55)` (2026-10-18)
+<br>`fix(deps): update dependency satori to ^0.59.0 (#56)` (2026-10-18)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`style: use ts-expect-error for type checking in unit tests` (2026-10-17)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-12)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) — Professional network monitoring & visualization tool. L0P4Map combines high-spee
+
 [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) — AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
 
 [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) — A personal agent with a browser, terminal, files, and work that keeps going buil
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP 
 
 [ilograph/skills](https://github.com/ilograph/skills) — Agent skills for Ilograph diagramming
-
-[timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) — High-performance vector search for PostgreSQL
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
