@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(deps): update non-major dependencies (#58)` (2026-10-19)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-19)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [sparkrun](https://github.com/rmdes/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
 <br>`fix: harden pinning and timeout cleanup for v0.4.1` (2026-10-19)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update non-major dependencies (#58)` (2026-10-19)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
