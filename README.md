@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-19)
+
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(deps): update non-major dependencies (#58)` (2026-10-19)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-19)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[volcengine/OpenViking](https://github.com/volcengine/OpenViking) — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
+
+[google-research/harness2](https://github.com/google-research/harness2) — 
+
+[walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) — 🛠️ Awesome tools & guides for harness engineering.
+
+[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+
+[oritera/Cairn](https://github.com/oritera/Cairn) — Cairn is a general-purpose AI state-space search engine, validated first on auto
+
+[Panchovix/nvidia-windows-vbios-vix-loader](https://github.com/Panchovix/nvidia-windows-vbios-vix-loader) — Load a modified VBIOS for NVIDIA GPUs on Windows through the driver's registry o
+
 [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) — :computer: Get seamless remote access to any Linux device. Centralized SSH for t
 
 [NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) — NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
-
-[HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) — Professional network monitoring & visualization tool. L0P4Map combines high-spee
-
-[sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) — AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
-
-[CopilotKit/openmuse](https://github.com/CopilotKit/openmuse) — A personal agent with a browser, terminal, files, and work that keeps going buil
-
-[cobanov/PS5LM](https://github.com/cobanov/PS5LM) — llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, start
-
-[sumit-ai-ml/claude-md-starter](https://github.com/sumit-ai-ml/claude-md-starter) — A CLAUDE.md built on Karpathy's principles and gstack, adding a verification har
-
-[agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) — ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
