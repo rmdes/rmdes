@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-10-19)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(deps): update non-major dependencies (#58)` (2026-10-19)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-micropub): throw undeleting a post that isn’t d` (2026-10-19)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[xerj-org/xerj](https://github.com/xerj-org/xerj) — Local-first search engine and MCP server for AI agents. One Rust binary indexes 
+
+[666ghj/MiroFish](https://github.com/666ghj/MiroFish) — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能
+
+[langflow-ai/openrag](https://github.com/langflow-ai/openrag) — OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
+
 [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 
 [google-research/harness2](https://github.com/google-research/harness2) — 
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 
 [oritera/Cairn](https://github.com/oritera/Cairn) — Cairn is a general-purpose AI state-space search engine, validated first on auto
-
-[Panchovix/nvidia-windows-vbios-vix-loader](https://github.com/Panchovix/nvidia-windows-vbios-vix-loader) — Load a modified VBIOS for NVIDIA GPUs on Windows through the driver's registry o
-
-[shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) — :computer: Get seamless remote access to any Linux device. Centralized SSH for t
-
-[NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) — NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
