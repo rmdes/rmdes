@@ -9,13 +9,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update dependency satori to ^0.63.0 (#60)` (2026-10-22)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update ATProto packages (#58)` (2026-10-22)
+<br>`chore(deps): update dependency satori to v0.63.1 (#61)` (2026-10-23)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[TandemLLM](https://github.com/rmdes/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
+<br>`0.14.2: version lines` (2026-10-23)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update ATProto packages (#58)` (2026-10-22)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(endpoint-micropub): throw undeleting a post that isn’t d` (2026-10-19)
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`fix(deps): update non-major dependencies to v2.4.4 (#32)` (2026-10-15)
-
-[indiekit-quickstart](https://github.com/getindiekit/indiekit-quickstart) — Indiekit and an Eleventy theme on any Docker host in five steps
-<br>`INDIEKIT_LOCALE pins the admin interface's language` (2026-10-14)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[anubhavmalhotra/r2d2-tv](https://github.com/anubhavmalhotra/r2d2-tv) — Local home screen, private remote browser, and push-to-talk voice assistant for 
+
+[0xBakeer/TandemLLM](https://github.com/0xBakeer/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
+
 [dzhng/jevgrep](https://github.com/dzhng/jevgrep) — Find code by asking what it does. A CLI for coding agents that uses Jev to disco
 
 [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Kuberwastaken/internetonfire](https://github.com/Kuberwastaken/internetonfire) — The internet is on fire. A central, community-maintained tracker of cybersecurit
 
 [xerj-org/xerj](https://github.com/xerj-org/xerj) — Local-first search engine and MCP server for AI agents. One Rust binary indexes 
-
-[666ghj/MiroFish](https://github.com/666ghj/MiroFish) — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能
-
-[langflow-ai/openrag](https://github.com/langflow-ai/openrag) — OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
