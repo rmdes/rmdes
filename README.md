@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[inngest/agent-kit](https://github.com/inngest/agent-kit) — AgentKit: Build multi-agent networks in TypeScript with deterministic routing an
+
+[NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) — This repository showcases various advanced techniques for Retrieval-Augmented Ge
+
 [anubhavmalhotra/r2d2-tv](https://github.com/anubhavmalhotra/r2d2-tv) — Local home screen, private remote browser, and push-to-talk voice assistant for 
 
 [0xBakeer/TandemLLM](https://github.com/0xBakeer/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
@@ -46,16 +50,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) — claude-red is a curated library of offensive security skills designed for the Cl
 
 [dex0shubham/pith](https://github.com/dex0shubham/pith) — Cut LLM output-token spend without losing information. Judged replays decide; it
-
-[Kuberwastaken/internetonfire](https://github.com/Kuberwastaken/internetonfire) — The internet is on fire. A central, community-maintained tracker of cybersecurit
-
-[xerj-org/xerj](https://github.com/xerj-org/xerj) — Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[Analysis of NVIDIA DGX Spark's GB10 SoC](https://rmendes.net/bookmarks/2026/10/23/analysis-of-nvidia-dgx-sparks/) - 2026-10-23
+
 [La justice, l'attente et le pouvoir de nous voler notre temps](https://rmendes.net/articles/2026/10/17/la-justice-lattente-et-le/) - 2026-10-17
 
 [Grosse mise à jour d'indiekit](https://rmendes.net/bookmarks/2026/10/11/grosse-mise-a-jour-dindiekit/) - 2026-10-11
