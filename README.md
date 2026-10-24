@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`fix(endpoint-micropub): throw undeleting a post that isn’t d` (2026-10-19)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
+
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
@@ -17,14 +23,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update ATProto packages (#58)` (2026-10-22)
 
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
-
 [TandemLLM](https://github.com/rmdes/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
 <br>`0.14.2: version lines` (2026-10-23)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(endpoint-micropub): throw undeleting a post that isn’t d` (2026-10-19)
 
 [sparkrun](https://github.com/rmdes/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
 <br>`fix: harden pinning and timeout cleanup for v0.4.1` (2026-10-19)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[juggler-ai/juggler](https://github.com/juggler-ai/juggler) — The Juggler Code Agent
+
+[SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) — An open-source document parsing model with SOTA accuracy and speed, using an RSI
+
+[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — Vibe code with pi in a lightweight, real IDE that customises itself around the w
+
 [decodingai-magazine/building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) — Learn harness engineering by building Claude Code from scratch. Free, open-sourc
 
 [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
 [inngest/agent-kit](https://github.com/inngest/agent-kit) — AgentKit: Build multi-agent networks in TypeScript with deterministic routing an
-
-[NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) — This repository showcases various advanced techniques for Retrieval-Augmented Ge
-
-[anubhavmalhotra/r2d2-tv](https://github.com/anubhavmalhotra/r2d2-tv) — Local home screen, private remote browser, and push-to-talk voice assistant for 
-
-[0xBakeer/TandemLLM](https://github.com/0xBakeer/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
