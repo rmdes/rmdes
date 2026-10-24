@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(endpoint-micropub): throw undeleting a post that isn’t d` (2026-10-19)
+<br>`fix(tests): satisfy strict types in session and auth tests` (2026-10-24)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update docker/login-action digest to 81c6f93 (#` (2026-10-24)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update non-major dependencies (#63)` (2026-10-24)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update ATProto packages (#58)` (2026-10-22)
 
 [TandemLLM](https://github.com/rmdes/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
 <br>`0.14.2: version lines` (2026-10-23)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[infrixo-systems/rag-evaluation-starter](https://github.com/infrixo-systems/rag-evaluation-starter) — Minimal Python script to evaluate your RAG pipeline against a golden set.
+
 [juggler-ai/juggler](https://github.com/juggler-ai/juggler) — The Juggler Code Agent
 
 [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) — An open-source document parsing model with SOTA accuracy and speed, using an RSI
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [deskflow/deskflow](https://github.com/deskflow/deskflow) — Share a single keyboard and mouse between multiple computers.
 
 [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
-
-[inngest/agent-kit](https://github.com/inngest/agent-kit) — AgentKit: Build multi-agent networks in TypeScript with deterministic routing an
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
