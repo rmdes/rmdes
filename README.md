@@ -61,8 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [La justice, l'attente et le pouvoir de nous voler notre temps](https://rmendes.net/articles/2026/10/17/la-justice-lattente-et-le/) - 2026-10-17
 
 [Grosse mise à jour d'indiekit](https://rmendes.net/bookmarks/2026/10/11/grosse-mise-a-jour-dindiekit/) - 2026-10-11
-
-[rmdes/framework16-local-llm: Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / gfx1102, 8GB) on Fedora — ROCm + Vulkan llama.cpp, benchmarked, one-command setup](https://rmendes.net/bookmarks/2026/10/10/rmdes-framework16-local-llm-fast/) - 2026-10-10
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
