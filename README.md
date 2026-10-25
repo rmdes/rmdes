@@ -56,6 +56,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Minority Report : la police belge confisque désormais des intentions ?](https://rmendes.net/articles/2026/10/25/minority-report-la-police-belge/) - 2026-10-25
+
 [Non, Éteindre les réseaux ne fera pas taire la rue](https://rmendes.net/articles/2026/10/25/non-eteindre-les-reseaux-ne/) - 2026-10-25
 
 [Analysis of NVIDIA DGX Spark's GB10 SoC](https://rmendes.net/bookmarks/2026/10/23/analysis-of-nvidia-dgx-sparks/) - 2026-10-23
