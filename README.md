@@ -8,11 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
+[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
+<br>`fix(health): runbook-harmless journal errors never open an i` (2026-10-25)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(tests): satisfy strict types in session and auth tests` (2026-10-24)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update docker/login-action digest to 81c6f93 (#` (2026-10-24)
@@ -20,22 +26,18 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
 [TandemLLM](https://github.com/rmdes/TandemLLM) — An environment where open models work as agents: a first-level harness with rout
 <br>`0.14.2: version lines` (2026-10-23)
 
 [sparkrun](https://github.com/rmdes/sparkrun) — sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark 
 <br>`fix: harden pinning and timeout cleanup for v0.4.1` (2026-10-19)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies to v2.4.4 (#32)` (2026-10-15)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
-[infrixo-systems/rag-evaluation-starter](https://github.com/infrixo-systems/rag-evaluation-starter) — Minimal Python script to evaluate your RAG pipeline against a golden set.
+[alshlabs/quill](https://github.com/alshlabs/quill) — 
+
+[infrixo-systems/rag-evaluation-starter](https://github.com/infrixo-systems/rag-evaluation-starter) — Evaluate RAG pipelines against golden sets with retrieval recall, faithfulness, 
 
 [juggler-ai/juggler](https://github.com/juggler-ai/juggler) — The Juggler Code Agent
 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [makecindy/cindy](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开
 
 [deskflow/deskflow](https://github.com/deskflow/deskflow) — Share a single keyboard and mouse between multiple computers.
-
-[drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
