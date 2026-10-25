@@ -56,11 +56,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
+[Non, Éteindre les réseaux ne fera pas taire la rue](https://rmendes.net/articles/2026/10/25/non-eteindre-les-reseaux-ne/) - 2026-10-25
+
 [Analysis of NVIDIA DGX Spark's GB10 SoC](https://rmendes.net/bookmarks/2026/10/23/analysis-of-nvidia-dgx-sparks/) - 2026-10-23
 
 [La justice, l'attente et le pouvoir de nous voler notre temps](https://rmendes.net/articles/2026/10/17/la-justice-lattente-et-le/) - 2026-10-17
-
-[Grosse mise à jour d'indiekit](https://rmendes.net/bookmarks/2026/10/11/grosse-mise-a-jour-dindiekit/) - 2026-10-11
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
