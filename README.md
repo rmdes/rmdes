@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update dependency @atproto/api to v0.29.4 (#61)` (2026-10-26)
 
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(frontend): details component styles` (2026-10-26)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[madaan/self-refine](https://github.com/madaan/self-refine) — LLMs can generate feedback on their work, use it to improve the output, and repe
+
+[confident-ai/deepeval](https://github.com/confident-ai/deepeval) — The LLM Evaluation Framework
+
+[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) — Rebuild the object in a reference image as a code-only, procedural, quality-gate
+
+[haplollc/Vesalius](https://github.com/haplollc/Vesalius) — A map of your codebase for Claude Code: an on-device code graph with an MCP serv
+
+[moldandyeast/claude-computer](https://github.com/moldandyeast/claude-computer) — A repository for claude-computer
+
+[thomasunise/argus](https://github.com/thomasunise/argus) — Open-source agentic security operations platform:
+
 [fixture-inc/swarmatory](https://github.com/fixture-inc/swarmatory) — A shared chatroom/feed for your team's coding agents to talk and coordinate thei
 
 [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob) — An easier way to use AI on your own computer. A free, open-source alternative to
-
-[strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) — Build an agent harness and control it end-to-end. Open-source SDK for production
-
-[Hamza5/file-brain](https://github.com/Hamza5/file-brain) — Smart local file search app that understands your files
-
-[devopspass/devopspass](https://github.com/devopspass/devopspass) — DevOps Pass AI - Keep DevOps Simple Stupid
-
-[T-Crypt/berth](https://github.com/T-Crypt/berth) — Decides who gets your GPU. Chat, image and voice engines lease the card in turn 
-
-[ADRs4AI/human-ai-collaboration-template-A](https://github.com/ADRs4AI/human-ai-collaboration-template-A) — "Conversations have value. Preserve them." — Drop-in framework for capturing dec
-
-[11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) — A starter repository for a blog web site using the Eleventy static site generato
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
