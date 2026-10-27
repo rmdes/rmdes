@@ -8,29 +8,29 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(frontend): details component styles` (2026-10-26)
+[indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
+<br>`chore: deploy the 2026-10-27 pentest fixes` (2026-10-27)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.29.4 (#61)` (2026-10-26)
+[indiekit-plugin-registry](https://github.com/rmdes/indiekit-plugin-registry) — Shared plugin catalog for indiekit-cloudron and indiekit-deploy
+<br>`chore: pin activitypub ^4.1.0-beta.8 (Fedify 2.4.5, inbox au` (2026-10-27)
 
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+[indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
+<br>`fix: escape banner text and client name before rendering the` (2026-10-27)
 
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`fix(deps): update non-major dependencies to v2.4.5 (#33)` (2026-10-27)
+[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
+<br>`fix: escape webmention data before it reaches HTML` (2026-10-27)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
+[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
+<br>`fix: verify the token before syndicating` (2026-10-27)
 
-[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
-<br>`docs(runbook): #11 packagekit start timeout right after a dn` (2026-10-26)
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`fix: enforce Microsub token scopes and guard every redirect ` (2026-10-27)
 
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(frontend): details component styles` (2026-10-26)
+[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
+<br>`fix: never serve private repos or events on the public API r` (2026-10-27)
 
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
+[indiekit-endpoint-comments](https://github.com/rmdes/indiekit-endpoint-comments) — Comment endpoint for Indiekit — IndieAuth/RelMeAuth-based comment system with ad
+<br>`fix: harden comment sign-in against SSRF, login CSRF, open r` (2026-10-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -70,9 +70,9 @@ More on [rmendes.net](https://rmendes.net/)
 
 ### Deployments
 <!-- pipelines starts -->
-[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/38162513187)
+[![Cloudron](https://github.com/rmdes/indiekit-cloudron/actions/workflows/build-image.yml/badge.svg)](https://github.com/rmdes/indiekit-cloudron/actions/runs/40583588796)
 **Cloudron** — Production deployment at rmendes.net
-Last build: `chore: pin endpoint-posts 1.3.0 and frontend 1.0.0-beta.59` (2026-10-11, 3m 34s)
+Last build: `chore: deploy the 2026-10-27 pentest fixes` (2026-10-27, 3m 46s)
 
 [![Docker Compose](https://github.com/rmdes/indiekit-deploy/actions/workflows/build-images.yml/badge.svg)](https://github.com/rmdes/indiekit-deploy/actions/runs/38162515476)
 **Docker Compose** — Standalone server deployment
