@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`fix: enforce Microsub token scopes and guard every redirect ` (2026-10-27)
 
@@ -28,43 +31,38 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-frontend](https://github.com/rmdes/indiekit-frontend) — Frontend components for Indiekit (fork with floating selection toolbar)
 <br>`fix: escape banner text and client name before rendering the` (2026-10-27)
-
-[indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
-<br>`fix: escape webmention data before it reaches HTML` (2026-10-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
-[djfumberger/agent-atoll](https://github.com/djfumberger/agent-atoll) — Your Claude Code and Codex agents as a living archipelago. Runs locally.
+[tomsti/guides](https://github.com/tomsti/guides) — Practical AI homelab setup guides for GB10, Mac Studio Ultra, RoCE/RDMA, MikroTi
 
-[MikeGT4/agent-tree](https://github.com/MikeGT4/agent-tree) — Terminal side pane for Claude Code that draws a session's agents as a tree of bo
+[MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash) — sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
 
-[feder-cr/jev](https://github.com/feder-cr/jev) — jevos: an open-source alternative to Jev and Microsoft-Decision-1. Yes/no decisi
+[MiaAI-Lab/glm-5.3-flash-4x-dgx-spark-switchless](https://github.com/MiaAI-Lab/glm-5.3-flash-4x-dgx-spark-switchless) — GLM-5.3-Flash (NVFP4) at TP4 across 4x DGX Spark via a switchless RoCE ring + DF
 
-[ikermoel/open-alternative-jev](https://github.com/ikermoel/open-alternative-jev) — Open-source alternative to TypeSafe's Jev: a System One style model layer that g
+[FujitsuPolycom/sparkring](https://github.com/FujitsuPolycom/sparkring) — Low-latency collective transport and distributed LLM serving stack for switchles
 
-[fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) — Plan, apply and roll back changes to a production ontology, with a blast radius 
+[MiaAI-Lab/sparkring](https://github.com/MiaAI-Lab/sparkring) — Low-latency collective transport and vLLM serving stack for switchless NVIDIA DG
 
-[madaan/self-refine](https://github.com/madaan/self-refine) — LLMs can generate feedback on their work, use it to improve the output, and repe
+[turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3) — An optimized quantization and inference library for running LLMs locally on mode
 
-[confident-ai/deepeval](https://github.com/confident-ai/deepeval) — The LLM Evaluation Framework
+[MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) — Qwen3.8 27B on SGLang for DGX Spark
 
-[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) — Rebuild the object in a reference image as a code-only, procedural, quality-gate
+[cryply/llm-compile-bench](https://github.com/cryply/llm-compile-bench) — 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
 
 ### Blog
 <!-- blog starts -->
+[the DGX Spark Handbook](https://rmendes.net/bookmarks/2026/10/28/the-dgx-spark-handbook/) - 2026-10-28
+
 [from Technical Debt to Cognitive Debt](https://rmendes.net/bookmarks/2026/10/27/from-technical-debt-to-cognitive/) - 2026-10-27
 
 [Minority Report : la police belge confisque désormais des intentions ?](https://rmendes.net/articles/2026/10/25/minority-report-la-police-belge/) - 2026-10-25
 
 [Non, Éteindre les réseaux ne fera pas taire la rue](https://rmendes.net/articles/2026/10/25/non-eteindre-les-reseaux-ne/) - 2026-10-25
-
-[Analysis of NVIDIA DGX Spark's GB10 SoC](https://rmendes.net/bookmarks/2026/10/23/analysis-of-nvidia-dgx-sparks/) - 2026-10-23
-
-[La justice, l'attente et le pouvoir de nous voler notre temps](https://rmendes.net/articles/2026/10/17/la-justice-lattente-et-le/) - 2026-10-17
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
