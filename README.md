@@ -8,6 +8,15 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
+<br>`fix: enforce Microsub token scopes and guard every redirect ` (2026-10-27)
+
+[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
+<br>`release: v4.1.0-beta.8 — trust nothing in the inbox the sign` (2026-10-27)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update dependency @atproto/api to v0.29.4 (#61)` (2026-10-26)
 
@@ -22,15 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-webmention-io](https://github.com/rmdes/indiekit-endpoint-webmention-io) — Indiekit webmention moderation plugin with MongoDB cache, blocklist, and privacy
 <br>`fix: escape webmention data before it reaches HTML` (2026-10-27)
-
-[indiekit-endpoint-syndicate](https://github.com/rmdes/indiekit-endpoint-syndicate) — 
-<br>`fix: verify the token before syndicating` (2026-10-27)
-
-[indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
-<br>`fix: enforce Microsub token scopes and guard every redirect ` (2026-10-27)
-
-[indiekit-endpoint-github](https://github.com/rmdes/indiekit-endpoint-github) — custom plugin to fetch data from Github for Indiekit
-<br>`fix: never serve private repos or events on the public API r` (2026-10-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
