@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 
@@ -26,15 +29,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
 <br>`release: v4.1.0-beta.8 — trust nothing in the inbox the sign` (2026-10-27)
 
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
-
 [indiekit-cloudron](https://github.com/rmdes/indiekit-cloudron) — Indiekit deployment for Cloudron with IndieWeb-native Eleventy theme
 <br>`chore: deploy the 2026-10-27 pentest fixes` (2026-10-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) — Build SwiftUI-style apps that run in the browser
+
 [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) — Own your AI. The native macOS harness for AI agents -- any model, persistent mem
 
 [irraz/vulnerator-ai](https://github.com/irraz/vulnerator-ai) — Autonomous OODA-loop pentesting agent. Hermes brain, Kali + Playwright tools ove
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 
 [vstratful/agent-bridge-mcp](https://github.com/vstratful/agent-bridge-mcp) — Local MCP messaging between Claude Code and Codex sessions on the same machine
-
-[adamkdean/claude-chalk](https://github.com/adamkdean/claude-chalk) — A Claude Code mod that lets Claude colour its own replies in the terminal
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
