@@ -8,6 +8,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @atproto/api to v0.29.6 (#65)` (2026-10-30)
+
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`fix(frontend): details component styles` (2026-10-26)
 
@@ -17,14 +23,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update non-major dependencies (#68)` (2026-10-30)
 
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
-
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`updated certificates (#277)` (2026-10-26)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.29.4 (#61)` (2026-10-26)
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`fix: enforce Microsub token scopes and guard every redirect ` (2026-10-27)
@@ -61,8 +61,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [the DGX Spark Handbook](https://rmendes.net/bookmarks/2026/10/28/the-dgx-spark-handbook/) - 2026-10-28
 
 [from Technical Debt to Cognitive Debt](https://rmendes.net/bookmarks/2026/10/27/from-technical-debt-to-cognitive/) - 2026-10-27
-
-[Minority Report : la police belge confisque désormais des intentions ?](https://rmendes.net/articles/2026/10/25/minority-report-la-police-belge/) - 2026-10-25
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
