@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @11ty/eleventy-img to v7.1.1 ` (2026-10-25)
+<br>`chore(deps): update non-major dependencies (#68)` (2026-10-30)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -63,8 +63,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [from Technical Debt to Cognitive Debt](https://rmendes.net/bookmarks/2026/10/27/from-technical-debt-to-cognitive/) - 2026-10-27
 
 [Minority Report : la police belge confisque désormais des intentions ?](https://rmendes.net/articles/2026/10/25/minority-report-la-police-belge/) - 2026-10-25
-
-[Non, Éteindre les réseaux ne fera pas taire la rue](https://rmendes.net/articles/2026/10/25/non-eteindre-les-reseaux-ne/) - 2026-10-25
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
