@@ -8,20 +8,20 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @11ty/is-land to v5.2.0 (#69)` (2026-10-31)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency axios to v1.21.0 (#66)` (2026-10-31)
-
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(frontend): details component styles` (2026-10-26)
+<br>`feat(endpoint-posts): add localisations for search filter` (2026-10-31)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency axios to v1.21.0 (#66)` (2026-10-31)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency @11ty/is-land to v5.2.0 (#69)` (2026-10-31)
 
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`updated certificates (#277)` (2026-10-26)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[n-e-r-u/cortege](https://github.com/n-e-r-u/cortege) — Carte des manifs en temps réel, faite par celles et ceux qui y sont : signalemen
+
+[umutsevdi/imza](https://github.com/umutsevdi/imza) — Batteries-included, model-agnostic coding agent with native performance and a sm
+
 [mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) — Local-first AI-powered document intelligence platform for investigative journali
 
 [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) — Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts c
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) — Local inference that behaves like a frontier API: Qwen3.8-Flash-Next on AMD Stri
 
 [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Open-source autonomous AI penetration testing. 50 specialist agents across web, 
-
-[inferstep/ATLAS](https://github.com/inferstep/ATLAS) — Adaptive Test-time Learning and Autonomous Specialization
-
-[mw00/project-maya](https://github.com/mw00/project-maya) — Project Maya - run GLM-5.3-Flash (321B MoE), DeepSeek-V4.1-Flash-1017 (748B MoE)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
