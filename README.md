@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[microdotblog/plugin-socialspec](https://github.com/microdotblog/plugin-socialspec) — SocialSpec
+
 [n-e-r-u/cortege](https://github.com/n-e-r-u/cortege) — Carte des manifs en temps réel, faite par celles et ceux qui y sont : signalemen
 
 [umutsevdi/imza](https://github.com/umutsevdi/imza) — Batteries-included, model-agnostic coding agent with native performance and a sm
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [kennss/SiliconScope](https://github.com/kennss/SiliconScope) — Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engi
 
 [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) — Local inference that behaves like a frontier API: Qwen3.8-Flash-Next on AMD Stri
-
-[ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Open-source autonomous AI penetration testing. 50 specialist agents across web, 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
