@@ -9,7 +9,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.29.6 (#65)` (2026-10-30)
+<br>`chore(deps): Update dependency axios to v1.21.0 (#66)` (2026-10-31)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update non-major dependencies (#68)` (2026-10-30)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -19,9 +22,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update non-major dependencies (#68)` (2026-10-30)
 
 [UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
 <br>`updated certificates (#277)` (2026-10-26)
@@ -35,21 +35,21 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
-[elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) — Build SwiftUI-style apps that run in the browser
+[mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) — Local-first AI-powered document intelligence platform for investigative journali
 
-[osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) — Own your AI. The native macOS harness for AI agents -- any model, persistent mem
+[kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) — Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts c
 
-[irraz/vulnerator-ai](https://github.com/irraz/vulnerator-ai) — Autonomous OODA-loop pentesting agent. Hermes brain, Kali + Playwright tools ove
+[kossakovsky/selfhost-ai](https://github.com/kossakovsky/selfhost-ai) — One-command installer for a self-hosted AI stack on your own server: n8n, Ollama
 
-[YOLOW92/pagesift](https://github.com/YOLOW92/pagesift) — High-performance, memory-efficient Rust web crawler & content extraction engine 
+[kennss/SiliconScope](https://github.com/kennss/SiliconScope) — Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engi
 
-[Threadlines/threadlines](https://github.com/Threadlines/threadlines) — Open-source ADE for Claude Code, Codex, OpenCode, Cursor and more. Put several c
+[peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) — Local inference that behaves like a frontier API: Qwen3.8-Flash-Next on AMD Stri
 
-[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) — My home operations repository using k8s/gitops
+[ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Open-source autonomous AI penetration testing. 50 specialist agents across web, 
 
-[kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
+[inferstep/ATLAS](https://github.com/inferstep/ATLAS) — Adaptive Test-time Learning and Autonomous Specialization
 
-[vstratful/agent-bridge-mcp](https://github.com/vstratful/agent-bridge-mcp) — Local MCP messaging between Claude Code and Codex sessions on the same machine
+[mw00/project-maya](https://github.com/mw00/project-maya) — Project Maya - run GLM-5.3-Flash (321B MoE), DeepSeek-V4.1-Flash-1017 (748B MoE)
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
