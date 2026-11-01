@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) — The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and 
+
 [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — Towards a More Autonomous Agent System
 
 [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) — UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-boo
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) — A hackable data integration & analysis tool to enable non technical users to edi
 
 [guregodevo/memdoor](https://github.com/guregodevo/memdoor) — A lightweight coding and automation agent in one CLI binary. Run locally or over
-
-[cjpais/Handy](https://github.com/cjpais/Handy) — A free, open source, and extensible speech-to-text application that works comple
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
