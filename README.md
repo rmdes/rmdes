@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) — A hackable data integration & analysis tool to enable non technical users to edi
+
+[guregodevo/memdoor](https://github.com/guregodevo/memdoor) — A lightweight coding and automation agent in one CLI binary. Run locally or over
+
 [cjpais/Handy](https://github.com/cjpais/Handy) — A free, open source, and extensible speech-to-text application that works comple
 
 [microdotblog/plugin-socialspec](https://github.com/microdotblog/plugin-socialspec) — SocialSpec
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) — Local-first AI-powered document intelligence platform for investigative journali
 
 [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) — Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts c
-
-[kossakovsky/selfhost-ai](https://github.com/kossakovsky/selfhost-ai) — One-command installer for a self-hosted AI stack on your own server: n8n, Ollama
-
-[kennss/SiliconScope](https://github.com/kennss/SiliconScope) — Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engi
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
