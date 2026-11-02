@@ -49,7 +49,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) — A hackable data integration & analysis tool to enable non technical users to edi
 
-[guregodevo/memdoor](https://github.com/guregodevo/memdoor) — A lightweight coding and automation agent in one CLI binary. Run locally or over
+[guregodevo/memdoor](https://github.com/guregodevo/memdoor) — A lightweight coding and automation agent in one CLI binary. A multi-agent harne
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
