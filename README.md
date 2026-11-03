@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.30.0 (#73)` (2026-11-01)
-
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-11-03)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency @11ty/is-land to v5.3.0 (#70)` (2026-11-01)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[nikghodki/dgxmodelmanager](https://github.com/nikghodki/dgxmodelmanager) — 
+
+[NVIDIA/spark-local-inference](https://github.com/NVIDIA/spark-local-inference) — 
+
 [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) — Fast, robust, accurate diffing 
 
 [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) — The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [0xBakeer/deepseek-v41-flash-spark](https://github.com/0xBakeer/deepseek-v41-flash-spark) — DeepSeek-V4.1-Flash on a single DGX Spark (GB10): resident hot experts + NVMe st
 
 [Niko1221/Strata](https://github.com/Niko1221/Strata) — Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Lin
-
-[4yk5/Ghostman](https://github.com/4yk5/Ghostman) — A fast, keyboard-driven TUI API client & webhook inspector. No cloud, no Electro
-
-[ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) — A hackable data integration & analysis tool to enable non technical users to edi
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
