@@ -8,14 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency pagefind to v1.6.0 (#71)` (2026-11-04)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`fix(deps): update open-graph-scraper to 6.13.0, inject it in` (2026-11-04)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`feat(endpoint-posts): add localisations for search filter` (2026-10-31)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[CloudOpsBench/CloudOpsBench](https://github.com/CloudOpsBench/CloudOpsBench) — Open-source benchmark of real-world cloud operations tasks for evaluating AI age
+
 [Pagepro/nexity](https://github.com/Pagepro/nexity) — Nexity is an open source system for starting and growing AI-native websites on N
 
 [iamlukethedev/Herald-OS](https://github.com/iamlukethedev/Herald-OS) — An agent-native operating system, with Hermes Agent as the interface. Independen
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [nikghodki/dgxmodelmanager](https://github.com/nikghodki/dgxmodelmanager) — 
 
 [NVIDIA/spark-local-inference](https://github.com/NVIDIA/spark-local-inference) — 
-
-[ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) — Fast, robust, accurate diffing 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
