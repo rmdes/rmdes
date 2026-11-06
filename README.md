@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency pagefind to v1.6.0 (#71)` (2026-11-04)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`fix(deps): update open-graph-scraper to 6.13.0, inject it in` (2026-11-04)
