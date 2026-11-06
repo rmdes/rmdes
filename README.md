@@ -57,10 +57,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Blog
 <!-- blog starts -->
 [Flávio Bolsonaro quer escolher o juiz, mas não quer enfrentar a Justiça?](https://rmendes.net/articles/2026/11/02/flavio-bolsonaro-quer-escolher-o/) - 2026-11-02
-
-[Flávio Bolsonaro : fuir ses responsabilités, pas la persécution](https://rmendes.net/articles/2026/10/28/flavio-bolsonaro-fuir-ses-responsabilites/) - 2026-10-28
-
-[the DGX Spark Handbook](https://rmendes.net/bookmarks/2026/10/28/the-dgx-spark-handbook/) - 2026-10-28
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
