@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency pagefind to v1.6.0 (#71)` (2026-11-04)
+
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`ci: fix monogodb initialization in build workflow` (2026-11-06)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`feat: /health memory + stale flag, .env.example, SECURITY.md` (2026-11-06)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency pagefind to v1.6.0 (#71)` (2026-11-04)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`feat(endpoint-posts): add localisations for search filter` (2026-10-31)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark) — AEON vLLM Ultimate — vLLM 0.27.1 built from source for DGX Spark / Blackwell (sm
+
+[ciprianveg/gb10-vllm](https://github.com/ciprianveg/gb10-vllm) — vLLM inference solutions for NVIDIA GB10 (DGX Spark, sm121) — KIMI-K3 B12X_MLA +
+
 [oleg-vdv/kezekshi-l1](https://github.com/oleg-vdv/kezekshi-l1) — Local L1 SOC triage on top of Wazuh: deterministic noise filter plus fine-tuned 
 
 [keepplain/keepplain-plugin](https://github.com/keepplain/keepplain-plugin) — 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) — My home Kubernetes cluster managed with flux GitOps tool.
 
 [Gentlesprite/Telegram_Restricted_Media_Downloader](https://github.com/Gentlesprite/Telegram_Restricted_Media_Downloader) — 💎💎💎支持断点续传的Telegram下载器💎💎💎支持向机器人发送链接下载、转发、监听下载、监听转发、上传、下载后上传。电报任意群组中不可下载的内容，提供媒体的链
-
-[pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) — Elegant, modern and asynchronous Telegram MTProto API framework in Python for us
-
-[huggingface/diffusers](https://github.com/huggingface/diffusers) — 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio gener
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
