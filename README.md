@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update docker/login-action digest to 8aa5831 (#` (2026-11-07)
+<br>`ci: build and smoke-test the Docker image in PR checks and b` (2026-11-07)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) — FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similari
+
 [tw93/Kami](https://github.com/tw93/Kami) — 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI age
 
 [federico-pepe/push-tethered-app](https://github.com/federico-pepe/push-tethered-app) — Desktop app to own an Ableton Push 2 / Push 3 in tethered controller mode — disp
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [keepplain/keepplain-plugin](https://github.com/keepplain/keepplain-plugin) — 
 
 [cahian/baton](https://github.com/cahian/baton) — Relay a long coding goal across subscription agents without spending paid credit
-
-[SubramoniamAB/SparkHub](https://github.com/SubramoniamAB/SparkHub) — SparkHub — An AI model discovery and ecosystem dashboard for exploring models, r
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
