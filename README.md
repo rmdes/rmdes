@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update non-major dependencies (#72)` (2026-11-07)
+
+[framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
+<br>`docs(runbook): #12 vendor signing-subkey rotation breaks dnf` (2026-11-08)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`ci: build and smoke-test the Docker image in PR checks and b` (2026-11-07)
+<br>`fix: retry failed image downloads once (v2.15.1) (#87)` (2026-11-08)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update non-major dependencies (#72)` (2026-11-07)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-11-06)
@@ -28,28 +31,25 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [indiekit-endpoint-microsub](https://github.com/rmdes/indiekit-endpoint-microsub) — Microsub endpoint for Indiekit
 <br>`fix: enforce Microsub token scopes and guard every redirect ` (2026-10-27)
-
-[indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`release: v4.1.0-beta.8 — trust nothing in the inbox the sign` (2026-10-27)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[HazyResearch/ncm](https://github.com/HazyResearch/ncm) — NCM: Next Concept Modeling 
+
+[synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) — 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B M
+
+[harelix/aiport](https://github.com/harelix/aiport) — A self-improving local LLM gateway for the erratic vibe coder
+
+[stardelt/stardelt-nova](https://github.com/stardelt/stardelt-nova) — Stardelt Nova — control-plane UI and API gateway (React + Rust/axum)
+
+[stardelt/stardelt-platform](https://github.com/stardelt/stardelt-platform) — Stardelt production deployment — Helm values, manifests, scripts
+
 [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) — FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similari
 
 [tw93/Kami](https://github.com/tw93/Kami) — 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI age
 
 [federico-pepe/push-tethered-app](https://github.com/federico-pepe/push-tethered-app) — Desktop app to own an Ableton Push 2 / Push 3 in tethered controller mode — disp
-
-[AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark) — AEON vLLM Ultimate — vLLM 0.27.1 built from source for DGX Spark / Blackwell (sm
-
-[ciprianveg/gb10-vllm](https://github.com/ciprianveg/gb10-vllm) — vLLM inference solutions for NVIDIA GB10 (DGX Spark, sm121) — KIMI-K3 B12X_MLA +
-
-[oleg-vdv/kezekshi-l1](https://github.com/oleg-vdv/kezekshi-l1) — Local L1 SOC triage on top of Wazuh: deterministic noise filter plus fine-tuned 
-
-[keepplain/keepplain-plugin](https://github.com/keepplain/keepplain-plugin) — 
-
-[cahian/baton](https://github.com/cahian/baton) — Relay a long coding goal across subscription agents without spending paid credit
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -101,8 +101,8 @@ Last build: `chore: pin endpoint-posts ^1.3.0 and frontend ^1.0.0-beta.59` (2026
 | [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 253 |
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 251 |
 | [indiekit-startup-gate](https://www.npmjs.com/package/@rmdes/indiekit-startup-gate) | 223 |
-| [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 112 |
 | [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 112 |
+| [indiekit-endpoint-cv](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-cv) | 112 |
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 110 |
 | [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 93 |
 | [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 86 |
