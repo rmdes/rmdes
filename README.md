@@ -39,7 +39,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) — 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B M
 
-[harelix/aiport](https://github.com/harelix/aiport) — A self-improving local LLM gateway for the erratic vibe coder
+[harelix/aiport](https://github.com/harelix/aiport) — A self-improving local LLM gateway for the polymorphic vibe coder
 
 [stardelt/stardelt-nova](https://github.com/stardelt/stardelt-nova) — Stardelt Nova — control-plane UI and API gateway (React + Rust/axum)
 
