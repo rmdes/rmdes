@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update non-major dependencies (#72)` (2026-11-07)
+<br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`docs(runbook): #12 vendor signing-subkey rotation breaks dnf` (2026-11-08)
