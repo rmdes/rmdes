@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(release): v2.16.0` (2026-11-09)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`docs(runbook): #12 vendor signing-subkey rotation breaks dnf` (2026-11-08)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`fix: retry failed image downloads once (v2.15.1) (#87)` (2026-11-08)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-11-06)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[NamtaoProductions/0rwx.com](https://github.com/NamtaoProductions/0rwx.com) — 
+
 [galaxy-io/filament](https://github.com/galaxy-io/filament) — Pluggable data replication with checkpointing, batching, and integrity events
 
 [HazyResearch/ncm](https://github.com/HazyResearch/ncm) — NCM: Next Concept Modeling 
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [stardelt/stardelt-platform](https://github.com/stardelt/stardelt-platform) — Stardelt production deployment — Helm values, manifests, scripts
 
 [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) — FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similari
-
-[tw93/Kami](https://github.com/tw93/Kami) — 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI age
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
