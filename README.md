@@ -8,11 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
-<br>`docs: changing bots while the fleet runs (bsky.rss 2.16.0)` (2026-11-10)
+[gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
+<br>`fix(installers): the macOS Gephi pattern no longer matches i` (2026-11-09)
 
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`docs: mention per-bot reload in the README; print fleet:relo` (2026-11-10)
+
+[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
+<br>`docs: changing bots while the fleet runs (bsky.rss 2.16.0)` (2026-11-10)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`docs(runbook): #12 vendor signing-subkey rotation breaks dnf` (2026-11-08)
-
-[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-11-06)
 <!-- active_repos ends -->
 
 ### Recently Starred
@@ -45,7 +45,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) — 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B M
 
-[harelix/aiport](https://github.com/harelix/aiport) — A adaptive  Remote and Local AI gateway for the polymorphic vibe coder
+[harelix/aiport](https://github.com/harelix/aiport) — Adaptive  AI gateway for the polymorphic vibe coder
 
 [stardelt/stardelt-nova](https://github.com/stardelt/stardelt-nova) — Stardelt Nova — control-plane UI and API gateway (React + Rust/axum)
 
