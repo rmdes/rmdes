@@ -8,8 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
+<br>`docs: changing bots while the fleet runs (bsky.rss 2.16.0)` (2026-11-10)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-11-10)
+<br>`docs: mention per-bot reload in the README; print fleet:relo` (2026-11-10)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[confab-web](https://github.com/rmdes/confab-web) — Open-source session management platform for Claude Code — analytics, AI recaps, 
+<br>`cxt2: price Claude Fable 5.2 and Mythos 5.2 (#446)` (2026-11-10)
 
 [indiekit](https://github.com/rmdes/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-11-06)
@@ -17,24 +26,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
 
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
 [framework16-local-llm](https://github.com/rmdes/framework16-local-llm) — Fast local LLM inference on a Framework 16 (Ryzen 9 7940HS + Radeon RX 7700S / g
 <br>`docs(runbook): #12 vendor signing-subkey rotation breaks dnf` (2026-11-08)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`chore: update dependencies` (2026-11-06)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
-
-[UnifAI](https://github.com/rmdes/UnifAI) — Production-grade multi-agent orchestration engine. Compose agentic workflows fro
-<br>`updated certificates (#277)` (2026-10-26)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[MattArtzAnthro/gephi-ai](https://github.com/MattArtzAnthro/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
+
 [NamtaoProductions/0rwx.com](https://github.com/NamtaoProductions/0rwx.com) — 
 
 [galaxy-io/filament](https://github.com/galaxy-io/filament) — Pluggable data replication with checkpointing, batching, and integrity events
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [stardelt/stardelt-nova](https://github.com/stardelt/stardelt-nova) — Stardelt Nova — control-plane UI and API gateway (React + Rust/axum)
 
 [stardelt/stardelt-platform](https://github.com/stardelt/stardelt-platform) — Stardelt production deployment — Helm values, manifests, scripts
-
-[AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) — FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similari
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
