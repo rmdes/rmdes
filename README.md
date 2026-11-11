@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[lewislf/claude-code-video-studio](https://github.com/lewislf/claude-code-video-studio) — Narrated explainer videos made 100% locally with Claude Code: OmniVoice, MusicGe
+
+[gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) — Gr8r Studio: a calm, structured project management workspace. Vite + plain ES mo
+
+[aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) — "Sigma File Manager" is a free, open-source, quickly evolving, modern file manag
+
 [ivanlee1999/freshrss-mcp](https://github.com/ivanlee1999/freshrss-mcp) — 
 
 [Fripix/Frirss](https://github.com/Fripix/Frirss) — A modern, self-hosted, customizable web frontend for FreshRSS.
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [MattArtzAnthro/gephi-ai](https://github.com/MattArtzAnthro/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
 
 [NamtaoProductions/0rwx.com](https://github.com/NamtaoProductions/0rwx.com) — 
-
-[galaxy-io/filament](https://github.com/galaxy-io/filament) — Pluggable data replication with checkpointing, batching, and integrity events
-
-[HazyResearch/ncm](https://github.com/HazyResearch/ncm) — NCM: Next Concept Modeling 
-
-[synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) — 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B M
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
