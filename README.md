@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency axios to v1.21.1 (#89)` (2026-11-11)
+
 [gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
 <br>`fix(installers): the macOS Gephi pattern no longer matches i` (2026-11-09)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`docs: mention per-bot reload in the README; print fleet:relo` (2026-11-10)
 
 [bsky-rss-fleet-template](https://github.com/rmdes/bsky-rss-fleet-template) — Deploy your own bsky.rss fleet - a ready-to-run template referencing the prebuil
 <br>`docs: changing bots while the fleet runs (bsky.rss 2.16.0)` (2026-11-10)
