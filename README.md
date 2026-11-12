@@ -9,10 +9,16 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.31.0 (#90)` (2026-11-12)
+<br>`feat(fleet): per-bot Bluesky self-labels (content warnings)` (2026-11-12)
+
+[rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
+<br>`[HeiseBridge] Update feed URLs and handle discontinued feeds` (2026-11-11)
 
 [freshrss-mcp](https://github.com/rmdes/freshrss-mcp) — 
-<br>`refactor: move the UserQueries extension to its own repo` (2026-11-11)
+<br>`fix: page past FreshRSS's per-response cap; clamp future dat` (2026-11-12)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [freshrss-user-queries](https://github.com/rmdes/freshrss-user-queries) — FreshRSS extension: list and run saved user queries over an authenticated API (/
 <br>`v0.2.0: create, update and delete user queries, with share l` (2026-11-12)
@@ -23,18 +29,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
 
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
-
 [mempalace](https://github.com/rmdes/mempalace) — The best-benchmarked open-source AI memory system. And it's free.
 <br>`Merge pull request #2985 from MemPalace/fix/v312-review-regr` (2026-11-11)
-
-[confab-web](https://github.com/rmdes/confab-web) — Open-source session management platform for Claude Code — analytics, AI recaps, 
-<br>`egn7: render the "Confabulous Code" wordmark in one typeface` (2026-11-11)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) — Device-native foundation models: 145B on a laptop, 35B on a phone. Latent MoE, S
+
 [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self
 
 [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Keep your coding agent up to date with the latest web best practices
@@ -47,9 +49,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [ivanlee1999/freshrss-mcp](https://github.com/ivanlee1999/freshrss-mcp) — 
 
-[Fripix/Frirss](https://github.com/Fripix/Frirss) — A modern, self-hosted, customizable web frontend for FreshRSS.
-
-[civilblur/youlag](https://github.com/civilblur/youlag) — Youlag: Extension for FreshRSS, browse YouTube and article feeds through a moder
+[Fripix/Frirss](https://github.com/Fripix/Frirss) — A modern, self-hosted, customizable web frontend for FreshRSS. Live demo: https:
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
