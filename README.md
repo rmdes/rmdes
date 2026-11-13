@@ -56,7 +56,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Blog
 <!-- blog starts -->
-[Ozempic-style drugs are now in trials for heart failure, addiction and even aging - MACCUS](https://rmendes.net/bookmarks/2026/11/07/ozempic-style-drugs-are-now/) - 2026-11-07
+[« Affaires sensibles » consacre un numéro à l’affaire OKC oubliée de la Justice Française](https://rmendes.net/bookmarks/2026/11/13/affaires-sensibles-consacre-un-numero/) - 2026-11-13
 <!-- blog ends -->
 More on [rmendes.net](https://rmendes.net/)
 
