@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`feat(fleet): per-bot Bluesky self-labels (content warnings)` (2026-11-12)
 
@@ -22,9 +25,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [freshrss-user-queries](https://github.com/rmdes/freshrss-user-queries) — FreshRSS extension: list and run saved user queries over an authenticated API (/
 <br>`v0.2.0: create, update and delete user queries, with share l` (2026-11-12)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
