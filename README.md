@@ -8,11 +8,11 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @atproto/api to v0.31.1 (#91)` (2026-11-13)
+
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`feat(fleet): per-bot Bluesky self-labels (content warnings)` (2026-11-12)
 
 [rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
 <br>`[HeiseBridge] Update feed URLs and handle discontinued feeds` (2026-11-11)
@@ -35,6 +35,12 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[luobinger/PerkRadar](https://github.com/luobinger/PerkRadar) — PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time o
+
+[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — Open-source AI coworkers that each get a computer of their own: a browser, files
+
+[encodeous/nylon](https://github.com/encodeous/nylon) — Self-healing WireGuard mesh. Reroutes around failures in seconds, no coordinatio
+
 [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) — Device-native foundation models: 145B on a laptop, 35B on a phone. Latent MoE, S
 
 [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self
@@ -44,12 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [lewislf/claude-code-video-studio](https://github.com/lewislf/claude-code-video-studio) — Narrated explainer videos made 100% locally with Claude Code: OmniVoice, MusicGe
 
 [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) — Gr8r Studio: a calm, structured project management workspace. Vite + plain ES mo
-
-[aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) — "Sigma File Manager" is a free, open-source, quickly evolving, modern file manag
-
-[ivanlee1999/freshrss-mcp](https://github.com/ivanlee1999/freshrss-mcp) — 
-
-[Fripix/Frirss](https://github.com/Fripix/Frirss) — A modern, self-hosted, customizable web frontend for FreshRSS. Live demo: https:
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
