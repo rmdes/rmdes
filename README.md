@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update dependency @atproto/api to v0.31.2 (#92)` (2026-11-14)
 
@@ -16,9 +19,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bluesky-deleter](https://github.com/rmdes/bluesky-deleter) — How to Bulk Delete Bluesky Posts With Rate Limit Management
 <br>`Merge pull request #2 from rmdes/worktree-modern-rewrite` (2026-11-13)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
 <br>`[HeiseBridge] Update feed URLs and handle discontinued feeds` (2026-11-11)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[sxuff/qwen38-flash-next-flare](https://github.com/sxuff/qwen38-flash-next-flare) — Qwen3.8 Flash-Next (NVFP4) on NVIDIA Flare for one DGX Spark / ASUS GX10: greedy
+
+[martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) — A WiFi security auditing software
+
 [Sev7eNup/NodePilot](https://github.com/Sev7eNup/NodePilot) — Agentless Windows workflow orchestration. Self-hosted, open source, alternative 
 
 [luobinger/PerkRadar](https://github.com/luobinger/PerkRadar) — PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time o
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) — Device-native foundation models: 145B on a laptop, 35B on a phone. Latent MoE, S
 
 [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self
-
-[GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Keep your coding agent up to date with the latest web best practices
-
-[lewislf/claude-code-video-studio](https://github.com/lewislf/claude-code-video-studio) — Narrated explainer videos made 100% locally with Claude Code: OmniVoice, MusicGe
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
