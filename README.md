@@ -8,14 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.32.0 (#93)` (2026-11-15)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`chore: update dependencies` (2026-11-14)
+<br>`fix(endpoint-micropub): don’t pass undefined string to locat` (2026-11-15)
+
+[gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
+<br>`build: drop the retired Sonatype repository; point pyright a` (2026-11-14)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update dependency @atproto/api to v0.32.0 (#93)` (2026-11-15)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -28,13 +31,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [freshrss-mcp](https://github.com/rmdes/freshrss-mcp) — 
 <br>`fix: page past FreshRSS's per-response cap; clamp future dat` (2026-11-12)
-
-[freshrss-user-queries](https://github.com/rmdes/freshrss-user-queries) — FreshRSS extension: list and run saved user queries over an authenticated API (/
-<br>`v0.2.0: create, update and delete user queries, with share l` (2026-11-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
 <!-- starred starts -->
+[WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) — Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live 
+
+[libracoder/kiri](https://github.com/libracoder/kiri) — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alt
+
 [basetenlabs/deepseek-ultrafast](https://github.com/basetenlabs/deepseek-ultrafast) — 
 
 [sxuff/qwen38-flash-next-flare](https://github.com/sxuff/qwen38-flash-next-flare) — Qwen3.8 Flash-Next (NVFP4) on NVIDIA Flare for one DGX Spark / ASUS GX10: greedy
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [luobinger/PerkRadar](https://github.com/luobinger/PerkRadar) — PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time o
 
 [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — Open-source AI coworkers that each get a computer of their own: a browser, files
-
-[encodeous/nylon](https://github.com/encodeous/nylon) — Self-healing WireGuard mesh. Reroutes around failures in seconds, no coordinatio
-
-[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) — Device-native foundation models: 145B on a laptop, 35B on a phone. Latent MoE, S
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -106,8 +106,8 @@ Last build: `chore: pin endpoint-posts ^1.3.0 and frontend ^1.0.0-beta.59` (2026
 | [indiekit-endpoint-share](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-share) | 52 |
 | [indiekit-endpoint-webmention-sender](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-webmention-sender) | 51 |
 | [indiekit-endpoint-youtube](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-youtube) | 51 |
-| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 49 |
 | [indiekit-endpoint-donation](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-donation) | 49 |
+| [indiekit-endpoint-site-config](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-site-config) | 49 |
 | [indiekit-endpoint-lastfm](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-lastfm) | 46 |
 | [indiekit-endpoint-readlater](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-readlater) | 42 |
 | [indiekit-endpoint-conversations](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-conversations) | 36 |
