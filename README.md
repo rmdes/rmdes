@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) — Get your valid antibot cookies yourself!
+
 [WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) — Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live 
 
 [libracoder/kiri](https://github.com/libracoder/kiri) — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alt
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [Sev7eNup/NodePilot](https://github.com/Sev7eNup/NodePilot) — Agentless Windows workflow orchestration. Self-hosted, open source, alternative 
 
 [luobinger/PerkRadar](https://github.com/luobinger/PerkRadar) — PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time o
-
-[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — Open-source AI coworkers that each get a computer of their own: a browser, files
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
