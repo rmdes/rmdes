@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
+<br>`chore: update dependencies` (2026-11-14)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`feat(fleet): Bluesky card service as last-resort link-card s` (2026-11-14)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [freshrss-user-queries](https://github.com/rmdes/freshrss-user-queries) — FreshRSS extension: list and run saved user queries over an authenticated API (/
 <br>`v0.2.0: create, update and delete user queries, with share l` (2026-11-12)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
 <!-- active_repos ends -->
 
 ### Recently Starred
