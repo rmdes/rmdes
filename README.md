@@ -8,23 +8,23 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
-[rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
-<br>`Merge upstream/master into master` (2026-11-16)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: use typed helpers in custom validation schemas` (2026-11-16)
 
-[gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
-<br>`build: drop the retired Sonatype repository; point pyright a` (2026-11-14)
+[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
+<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
+[rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
+<br>`Merge upstream/master into master` (2026-11-16)
+
+[gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
+<br>`build: drop the retired Sonatype repository; point pyright a` (2026-11-14)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update dependency @atproto/api to v0.32.0 (#93)` (2026-11-15)
-
-[rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
-<br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
 
 [bluesky-deleter](https://github.com/rmdes/bluesky-deleter) — How to Bulk Delete Bluesky Posts With Rate Limit Management
 <br>`Merge pull request #2 from rmdes/worktree-modern-rewrite` (2026-11-13)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[s3onghyun/agent-otel-kit](https://github.com/s3onghyun/agent-otel-kit) — One-command OpenTelemetry observability kit for AI coding agents (Claude Code, C
+
 [jazware/marco](https://github.com/jazware/marco) — A social graph database for atproto
 
 [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) — Get your valid antibot cookies yourself!
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [sxuff/qwen38-flash-next-flare](https://github.com/sxuff/qwen38-flash-next-flare) — Qwen3.8 Flash-Next (NVFP4) on NVIDIA Flare for one DGX Spark / ASUS GX10: greedy
 
 [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) — A WiFi security auditing software
-
-[Sev7eNup/NodePilot](https://github.com/Sev7eNup/NodePilot) — Agentless Windows workflow orchestration. Self-hosted, open source, alternative 
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
@@ -98,8 +98,8 @@ Last build: `chore: pin endpoint-posts ^1.3.0 and frontend ^1.0.0-beta.59` (2026
 | [indiekit-endpoint-rss](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-rss) | 87 |
 | [indiekit-preset-eleventy](https://www.npmjs.com/package/@rmdes/indiekit-preset-eleventy) | 82 |
 | [indiekit-endpoint-funkwhale](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-funkwhale) | 77 |
-| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 74 |
 | [indiekit-endpoint-micropub](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-micropub) | 74 |
+| [indiekit-syndicator-mastodon](https://www.npmjs.com/package/@rmdes/indiekit-syndicator-mastodon) | 74 |
 | [indiekit-endpoint-homepage](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-homepage) | 72 |
 | [indiekit-endpoint-podroll](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-podroll) | 64 |
 | [indiekit-endpoint-files](https://www.npmjs.com/package/@rmdes/indiekit-endpoint-files) | 55 |
