@@ -9,7 +9,7 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 ### Recently Active
 <!-- active_repos starts -->
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
-<br>`fix(endpoint-micropub): don’t pass undefined string to locat` (2026-11-15)
+<br>`style: use typed helpers in custom validation schemas` (2026-11-16)
 
 [gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
 <br>`build: drop the retired Sonatype repository; point pyright a` (2026-11-14)
