@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`chore(deps): update dependency @zachleat/filter-container to` (2026-11-08)
+
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: use typed helpers in custom validation schemas` (2026-11-16)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [bluesky-deleter](https://github.com/rmdes/bluesky-deleter) — How to Bulk Delete Bluesky Posts With Rate Limit Management
 <br>`Merge pull request #2 from rmdes/worktree-modern-rewrite` (2026-11-13)
-
-[freshrss-mcp](https://github.com/rmdes/freshrss-mcp) — 
-<br>`fix: page past FreshRSS's per-response cap; clamp future dat` (2026-11-12)
 <!-- active_repos ends -->
 
 ### Recently Starred
