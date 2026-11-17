@@ -8,23 +8,23 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
+<br>`Merge pull request #3 from rmdes/bridge/afp-factcheck` (2026-11-17)
+
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update renovatebot/github-action action to v46.` (2026-11-17)
+
 [dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
 <br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`chore(deps): update dependency postcss to v8.5.33 (#75)` (2026-11-17)
 
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.32.0 (#93)` (2026-11-15)
-
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: use typed helpers in custom validation schemas` (2026-11-16)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
-
-[rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
-<br>`Merge upstream/master into master` (2026-11-16)
 
 [gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
 <br>`build: drop the retired Sonatype repository; point pyright a` (2026-11-14)
@@ -35,6 +35,8 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[piradoiv/wake](https://github.com/piradoiv/wake) — See what your AI coding agent did and where the tokens went. Free, private macOS
+
 [s3onghyun/agent-otel-kit](https://github.com/s3onghyun/agent-otel-kit) — One-command OpenTelemetry observability kit for AI coding agents (Claude Code, C
 
 [jazware/marco](https://github.com/jazware/marco) — A social graph database for atproto
@@ -48,8 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [basetenlabs/deepseek-ultrafast](https://github.com/basetenlabs/deepseek-ultrafast) — 
 
 [sxuff/qwen38-flash-next-flare](https://github.com/sxuff/qwen38-flash-next-flare) — Qwen3.8 Flash-Next (NVFP4) on NVIDIA Flare for one DGX Spark / ASUS GX10: greedy
-
-[martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) — A WiFi security auditing software
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
