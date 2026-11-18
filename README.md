@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[jingyaogong/minimind](https://github.com/jingyaogong/minimind) — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+
+[ikow/java4shell-poc](https://github.com/ikow/java4shell-poc) — CVE-2026-114938 — OpenJDK AVX-512 Base64 heap overflow PoC, scanner & detection 
+
 [piradoiv/wake](https://github.com/piradoiv/wake) — See what your AI coding agent did and where the tokens went. Free, private macOS
 
 [s3onghyun/agent-otel-kit](https://github.com/s3onghyun/agent-otel-kit) — One-command OpenTelemetry observability kit for AI coding agents (Claude Code, C
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) — Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live 
 
 [libracoder/kiri](https://github.com/libracoder/kiri) — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alt
-
-[basetenlabs/deepseek-ultrafast](https://github.com/basetenlabs/deepseek-ultrafast) — 
-
-[sxuff/qwen38-flash-next-flare](https://github.com/sxuff/qwen38-flash-next-flare) — Qwen3.8 Flash-Next (NVFP4) on NVIDIA Flare for one DGX Spark / ASUS GX10: greedy
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
