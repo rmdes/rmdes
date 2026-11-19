@@ -8,17 +8,17 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(deps): update dependency lite-youtube-embed to ^0.4.0 (#` (2026-11-19)
+
+[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
+<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
+
 [bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
 <br>`chore(deps): Update dependency @atproto/api to v0.32.2 (#96)` (2026-11-19)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: no implicit any` (2026-11-19)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`chore(deps): update dependency postcss to v8.5.33 (#75)` (2026-11-17)
-
-[dolibarr](https://github.com/rmdes/dolibarr) — Dolibarr ERP CRM is a modern software package to manage your company or foundati
-<br>`QUAL: Removed mode AI_CHAT_TWO_STEP_WRITE that is now useles` (2026-10-11)
 
 [rss-bridge](https://github.com/rmdes/rss-bridge) — The RSS feed for websites missing it
 <br>`Merge pull request #3 from rmdes/bridge/afp-factcheck` (2026-11-17)
@@ -35,6 +35,10 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Starred
 <!-- starred starts -->
+[LorenDB/funkwhale-android](https://github.com/LorenDB/funkwhale-android) — 
+
+[nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged) — Unprivileged NGINX Dockerfiles
+
 [jingyaogong/minimind](https://github.com/jingyaogong/minimind) — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 [ikow/java4shell-poc](https://github.com/ikow/java4shell-poc) — CVE-2026-114938 — OpenJDK AVX-512 Base64 heap overflow PoC, scanner & detection 
@@ -46,10 +50,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 [jazware/marco](https://github.com/jazware/marco) — A social graph database for atproto
 
 [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) — Get your valid antibot cookies yourself!
-
-[WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) — Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live 
-
-[libracoder/kiri](https://github.com/libracoder/kiri) — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alt
 <!-- starred ends -->
 
 </td><td valign="top" width="50%">
