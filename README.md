@@ -8,6 +8,9 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[dgx-spark-skill](https://github.com/rmdes/dgx-spark-skill) — Community knowledge base on running and clustering NVIDIA DGX Spark (GB10) for f
+<br>`Add local-ai reference-stack bridge page and scheduled maint` (2026-11-19)
+
 [indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
 <br>`fix(deps): update dependency lite-youtube-embed to ^0.4.0 (#` (2026-11-19)
 
@@ -28,9 +31,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [gephi-ai](https://github.com/rmdes/gephi-ai) — Extends Gephi with AI capabilities. Includes a Gephi plugin for graph analytics,
 <br>`build: drop the retired Sonatype repository; point pyright a` (2026-11-14)
-
-[bluesky-deleter](https://github.com/rmdes/bluesky-deleter) — How to Bulk Delete Bluesky Posts With Rate Limit Management
-<br>`Merge pull request #2 from rmdes/worktree-modern-rewrite` (2026-11-13)
 <!-- active_repos ends -->
 
 ### Recently Starred
