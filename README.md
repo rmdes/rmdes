@@ -8,8 +8,14 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 ### Recently Active
 <!-- active_repos starts -->
+[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
+<br>`chore(deps): Update ATProto packages (#97)` (2026-11-21)
+
+[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
+<br>`fix(deps): update dependency lite-youtube-embed to ^0.4.0 (#` (2026-11-19)
+
 [indiekit-endpoint-activitypub](https://github.com/rmdes/indiekit-endpoint-activitypub) — ActivityPub federation endpoint for Indiekit
-<br>`release: v4.1.0-beta.8 — trust nothing in the inbox the sign` (2026-10-27)
+<br>`fix(deps): update non-major dependencies to v2.4.6 (#35)` (2026-11-21)
 
 [rsc](https://github.com/rmdes/rsc) — RSC — Really Simple Conversations — is a feeds-native social timeline: people wh
 <br>`Merge branch 'feat/logicalstore-narrowing' — LogicalStore na` (2026-10-12)
@@ -19,12 +25,6 @@ Middleware engineer and DevOps based in Brussels. Building [Indiekit](https://ge
 
 [dgx-spark-skill](https://github.com/rmdes/dgx-spark-skill) — Community knowledge base on running and clustering NVIDIA DGX Spark (GB10) for f
 <br>`Add local-ai reference-stack bridge page and scheduled maint` (2026-11-19)
-
-[indiekit-eleventy-theme](https://github.com/rmdes/indiekit-eleventy-theme) — Eleventy theme for Indiekit-powered IndieWeb blogs
-<br>`fix(deps): update dependency lite-youtube-embed to ^0.4.0 (#` (2026-11-19)
-
-[bsky.rss](https://github.com/rmdes/bsky.rss) — A configurable RSS poster for Bluesky - fleet or standalone mode - actively bein
-<br>`chore(deps): Update dependency @atproto/api to v0.32.2 (#96)` (2026-11-19)
 
 [indiekit](https://github.com/getindiekit/indiekit) — The little Node.js server with all the parts needed to publish content to your p
 <br>`style: no implicit any` (2026-11-19)
